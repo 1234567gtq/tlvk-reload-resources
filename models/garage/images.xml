@@ -1,0 +1,11 @@
+<images>
+<image name="tree.jpg" new-name="tree.jpg" alpha="tree_alpha.jpg"/>
+<image name="tower.jpg" new-name="tower.jpg" alpha="tower_alpha.jpg"/>
+<image name="object07.jpg" new-name="object07.jpg"/>
+<image name="object06.jpg" new-name="object06.jpg"/>
+<image name="object05.jpg" new-name="object05.jpg"/>
+<image name="object04.jpg" new-name="object04.jpg"/>
+<image name="object03.png" new-name="object03.jpg" alpha="object03_alpha.jpg"/>
+<image name="object02.png" new-name="object02.jpg" alpha="object02_alpha.jpg"/>
+<image name="object01.jpg" new-name="object01.jpg"/>
+</images>

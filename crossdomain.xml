@@ -1,0 +1,4 @@
+<cross-domain-policy>
+<allow-access-from domain="*" to-ports="*"/>
+<site-control permitted-cross-domain-policies="master-only"/>
+</cross-domain-policy>

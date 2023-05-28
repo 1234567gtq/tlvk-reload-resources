@@ -1,0 +1,82 @@
+[
+	
+	
+	{	"id":"Freeze Default Muzzle",	"frame":[256, 150, 30, 11]	},
+	{	"id":"Freeze Default Fireball",	"frame":[128, 128, 30, 13]	},
+	
+	{	"id":"Isida Default Friend Muzzle",	"frame":[128, 128, 30, 13]	},
+	{	"id":"Isida Default Enemy Muzzle",	"frame":[128, 128, 30, 13]	},
+	
+	
+	{
+		"id":"Railgun Pow",
+		"frame":[64, 79, 6, 20]
+	},
+	{
+		"id":"Railgun Rings",
+		"frame":[128, 128, 11, 30]
+	},
+	{
+		"id":"Explosion Shock Wave",
+		"frame":[250, 250, 40, 16]
+	},
+	{
+		"id":"Explosion Flame",
+		"frame":[128, 128, 40, 36]
+	},
+	{
+		"id":"Explosion Smoke",
+		"frame":[200, 200, 40, 20]
+	},
+	
+	{
+		"id":"Ricochet Smoke Shot",
+		"frame":[128, 128, 30, 10]
+	},
+	{
+		"id":"Ricochet Smoke Explosion",
+		"frame":[204, 204, 30, 20]
+	},
+	
+	{
+		"id":"Smoky Default Explosion",
+		"frame":[128, 128, 30, 25]
+	},
+	{
+		"id":"Smoky Critical Hit",
+		"frame":[200, 200, 20, 8]
+	},
+	
+	
+	
+	
+	{	"id":"Hammer Void Across",	"frame":[128, 128, 30, 25]	},
+	{	"id":"Hammer Blood Across",	"frame":[128, 128, 30, 25]	},
+	{	"id":"Hammer Void Along",	"frame":[128, 128, 30, 25]	},
+	{	"id":"Hammer Blood Along",	"frame":[128, 128, 30, 25]	},
+	{	"id":"Hammer Smoke",	"frame":[128, 128, 30, 25]	},
+	
+	
+	
+	
+	
+	{	"id":"Twins Default Shot",	"frame":[128, 128, 30, 10]	},
+	{	"id":"Twins Default Explosion",	"frame":[256, 256, 30, 16]	},
+	
+	{	"id":"Twins Coral Reef Shot",	"frame":[128, 128, 30, 10]	},
+	{	"id":"Twins Coral Reef Explosion",	"frame":[256, 256, 30, 16]	},
+	
+	
+	
+	
+	
+	{	"id":"Striker Default Explosion",	"frame":[256, 256, 30, 32]	},
+	{	"id":"Striker Blue Explosion",	"frame":[256, 256, 30, 32]	},
+	
+	
+	
+	
+	{	"id":"Magnum Smoke",	"frame":[128, 128, 20, 16]	},
+	{	"id":"Magnum Default Explosion",	"frame":[256, 256, 30, 32]	},
+	{	"id":"Magnum Eclipse Explosion",	"frame":[256, 256, 30, 32]	}
+]

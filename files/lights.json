@@ -1,0 +1,351 @@
+[
+	{
+		"name":"twins_default_shot",
+		"light":
+		[
+			{	"attenuationBegin":300,	"attenuationEnd":500, "color":65280, "intensity": 0.3, "time": 0 },
+			{	"attenuationBegin":1,	"attenuationEnd":2, "color":65280, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"twins_default_shell",
+		"light":
+		[
+			{ "attenuationBegin": 100, "attenuationEnd": 300, "color": 65280, "intensity": 0.5, "time": 0 }
+        ]
+	},
+	{
+		"name":"twins_default_hit",
+		"light":
+		[
+			   { "attenuationBegin": 200, "attenuationEnd": 400, "color": 65280, "intensity": 0.3, "time": 0 },
+              { "attenuationBegin": 1, "attenuationEnd": 2, "color": 65280, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"twins_sky_shot",
+		"light":
+		[
+			{	"attenuationBegin":300,	"attenuationEnd":500, "color":64764, "intensity": 0.3, "time": 0 },
+			{	"attenuationBegin":1,	"attenuationEnd":2, "color":64764, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"twins_sky_shell",
+		"light":
+		[
+			{ "attenuationBegin": 100, "attenuationEnd": 300, "color":64764, "intensity": 0.5, "time": 0 }
+        ]
+	},
+	{
+		"name":"twins_sky_hit",
+		"light":
+		[
+			   { "attenuationBegin": 200, "attenuationEnd": 400, "color":64764, "intensity": 0.3, "time": 0 },
+              { "attenuationBegin": 1, "attenuationEnd": 2, "color":64764, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"twins_gold_shot",
+		"light":
+		[
+			{	"attenuationBegin":300,	"attenuationEnd":500, "color":15651077, "intensity": 0.3, "time": 0 },
+			{	"attenuationBegin":1,	"attenuationEnd":2, "color":15651077, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"twins_gold_shell",
+		"light":
+		[
+			{ "attenuationBegin": 100, "attenuationEnd": 300, "color":15651077, "intensity": 0.5, "time": 0 }
+        ]
+	},
+	{
+		"name":"twins_gold_hit",
+		"light":
+		[
+			   { "attenuationBegin": 200, "attenuationEnd": 400, "color":15651077, "intensity": 0.3, "time": 0 },
+              { "attenuationBegin": 1, "attenuationEnd": 2, "color":15651077, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"twins_darkmoon_shot",
+		"light":
+		[
+			{	"attenuationBegin":300,	"attenuationEnd":500, "color":1077203, "intensity": 0.3, "time": 0 },
+			{	"attenuationBegin":1,	"attenuationEnd":2, "color":1077203, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"twins_darkmoon_shell",
+		"light":
+		[
+			{ "attenuationBegin": 100, "attenuationEnd": 300, "color":1077203, "intensity": 0.5, "time": 0 }
+        ]
+	},
+	{
+		"name":"twins_darkmoon_hit",
+		"light":
+		[
+			   { "attenuationBegin": 200, "attenuationEnd": 400, "color":1077203, "intensity": 0.3, "time": 0 },
+              { "attenuationBegin": 1, "attenuationEnd": 2, "color":1077203, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"twins_violet_shot",
+		"light":
+		[
+			{	"attenuationBegin":300,	"attenuationEnd":500, "color":15734015, "intensity": 0.3, "time": 0 },
+			{	"attenuationBegin":1,	"attenuationEnd":2, "color":15734015, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"twins_violet_shell",
+		"light":
+		[
+			{ "attenuationBegin": 100, "attenuationEnd": 300, "color":15734015, "intensity": 0.5, "time": 0 }
+        ]
+	},
+	{
+		"name":"twins_violet_hit",
+		"light":
+		[
+			   { "attenuationBegin": 200, "attenuationEnd": 400, "color":15734015, "intensity": 0.3, "time": 0 },
+              { "attenuationBegin": 1, "attenuationEnd": 2, "color":15734015, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"twins_coral_shot",
+		"light":
+		[
+			{	"attenuationBegin":300,	"attenuationEnd":500, "color":16724515, "intensity": 0.3, "time": 0 },
+			{	"attenuationBegin":1,	"attenuationEnd":2, "color":16724515, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"twins_coral_shell",
+		"light":
+		[
+			{ "attenuationBegin": 100, "attenuationEnd": 300, "color":16724515, "intensity": 0.5, "time": 0 }
+        ]
+	},
+	{
+		"name":"twins_coral_hit",
+		"light":
+		[
+			   { "attenuationBegin": 200, "attenuationEnd": 400, "color":16724515, "intensity": 0.3, "time": 0 },
+              { "attenuationBegin": 1, "attenuationEnd": 2, "color":16724515, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"twins_electric_shot",
+		"light":
+		[
+			{	"attenuationBegin":300,	"attenuationEnd":500, "color":35049, "intensity": 0.3, "time": 0 },
+			{	"attenuationBegin":1,	"attenuationEnd":2, "color":35049, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"twins_electric_shell",
+		"light":
+		[
+			{ "attenuationBegin": 100, "attenuationEnd": 300, "color":35049, "intensity": 0.5, "time": 0 }
+        ]
+	},
+	{
+		"name":"twins_electric_hit",
+		"light":
+		[
+			   { "attenuationBegin": 200, "attenuationEnd": 400, "color":35049, "intensity": 0.3, "time": 0 },
+              { "attenuationBegin": 1, "attenuationEnd": 2, "color":35049, "intensity": 0, "time": 300 }
+        ]
+	},
+	
+	
+	{
+		"name":"isida_default_enemy_start",
+		"light":
+		[
+            { "attenuationBegin": 1, "attenuationEnd": 2, "color":16664675, "intensity": 0, "time": 0 },
+            { "attenuationBegin": 250, "attenuationEnd": 700, "color":16664675, "intensity": 0.1, "time": 200 }
+        ]
+	},
+	{
+		"name":"isida_default_enemy_loop",
+		"light":
+		[
+			{ "attenuationBegin": 250, "attenuationEnd": 700, "color":16664675, "intensity": 0.3, "time": 0 },
+            { "attenuationBegin": 100, "attenuationEnd": 600, "color":16664675, "intensity": 0.2, "time": 200 },
+            { "attenuationBegin": 250, "attenuationEnd": 700, "color":16664675, "intensity": 0.3, "time": 400 }
+        ]
+	},
+	{
+		"name":"isida_default_enemy_beam",
+		"light":
+		[
+           { "attenuationBegin": 250, "attenuationEnd": 700, "color":16664675, "intensity": 0.2, "time": 0 },
+           { "attenuationBegin": 100, "attenuationEnd": 600, "color":16664675, "intensity": 0.15, "time": 200 },
+           { "attenuationBegin": 250, "attenuationEnd": 700, "color":16664675, "intensity": 0.2, "time": 400 }
+        ]
+	},
+	{
+		"name":"isida_default_start",
+		"light":
+		[
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":6421436, "intensity": 0, "time": 0 },
+           { "attenuationBegin": 250, "attenuationEnd": 700, "color":6421436, "intensity": 0.2, "time": 200 }
+        ]
+	},
+	{
+		"name":"isida_default_loop",
+		"light":
+		[
+              { "attenuationBegin": 250, "attenuationEnd": 700, "color":6421436, "intensity": 0.3, "time": 0 },
+              { "attenuationBegin": 100, "attenuationEnd": 600, "color":6421436, "intensity": 0.2, "time": 200 },
+              { "attenuationBegin": 250, "attenuationEnd": 700, "color":6421436, "intensity": 0.3, "time": 400 }
+        ]
+	},
+	{
+		"name":"isida_sun_enemy_start",
+		"light":
+		[
+            { "attenuationBegin": 1, "attenuationEnd": 2, "color":16776704, "intensity": 0, "time": 0 },
+            { "attenuationBegin": 250, "attenuationEnd": 700, "color":16776704, "intensity": 0.1, "time": 200 }
+        ]
+	},
+	{
+		"name":"isida_sun_enemy_loop",
+		"light":
+		[
+			{ "attenuationBegin": 250, "attenuationEnd": 700, "color":16776704, "intensity": 0.3, "time": 0 },
+            { "attenuationBegin": 100, "attenuationEnd": 600, "color":16776704, "intensity": 0.2, "time": 200 },
+            { "attenuationBegin": 250, "attenuationEnd": 700, "color":16776704, "intensity": 0.3, "time": 400 }
+        ]
+	},
+	{
+		"name":"isida_sun_enemy_beam",
+		"light":
+		[
+           { "attenuationBegin": 250, "attenuationEnd": 700, "color":16776704, "intensity": 0.2, "time": 0 },
+           { "attenuationBegin": 100, "attenuationEnd": 600, "color":16776704, "intensity": 0.15, "time": 200 },
+           { "attenuationBegin": 250, "attenuationEnd": 700, "color":16776704, "intensity": 0.2, "time": 400 }
+        ]
+	},
+	{
+		"name":"isida_fire_enemy_start",
+		"light":
+		[
+            { "attenuationBegin": 1, "attenuationEnd": 2, "color":16700476, "intensity": 0, "time": 0 },
+            { "attenuationBegin": 250, "attenuationEnd": 700, "color":16700476, "intensity": 0.1, "time": 200 }
+        ]
+	},
+	{
+		"name":"isida_fire_enemy_loop",
+		"light":
+		[
+			{ "attenuationBegin": 250, "attenuationEnd": 700, "color":16700476, "intensity": 0.3, "time": 0 },
+            { "attenuationBegin": 100, "attenuationEnd": 600, "color":16700476, "intensity": 0.2, "time": 200 },
+            { "attenuationBegin": 250, "attenuationEnd": 700, "color":16700476, "intensity": 0.3, "time": 400 }
+        ]
+	},
+	{
+		"name":"isida_fire_enemy_beam",
+		"light":
+		[
+           { "attenuationBegin": 250, "attenuationEnd": 700, "color":16700476, "intensity": 0.2, "time": 0 },
+           { "attenuationBegin": 100, "attenuationEnd": 600, "color":16700476, "intensity": 0.15, "time": 200 },
+           { "attenuationBegin": 250, "attenuationEnd": 700, "color":16700476, "intensity": 0.2, "time": 400 }
+        ]
+	},
+	{
+		"name":"isida_heal_enemy_start",
+		"light":
+		[
+            { "attenuationBegin": 1, "attenuationEnd": 2, "color":6421436, "intensity": 0, "time": 0 },
+            { "attenuationBegin": 250, "attenuationEnd": 700, "color":6421436, "intensity": 0.1, "time": 200 }
+        ]
+	},
+	{
+		"name":"isida_heal_enemy_loop",
+		"light":
+		[
+			{ "attenuationBegin": 250, "attenuationEnd": 700, "color":6421436, "intensity": 0.3, "time": 0 },
+            { "attenuationBegin": 100, "attenuationEnd": 600, "color":6421436, "intensity": 0.2, "time": 200 },
+            { "attenuationBegin": 250, "attenuationEnd": 700, "color":6421436, "intensity": 0.3, "time": 400 }
+        ]
+	},
+	{
+		"name":"isida_heal_enemy_beam",
+		"light":
+		[
+           { "attenuationBegin": 250, "attenuationEnd": 700, "color":6421436, "intensity": 0.2, "time": 0 },
+           { "attenuationBegin": 100, "attenuationEnd": 600, "color":6421436, "intensity": 0.15, "time": 200 },
+           { "attenuationBegin": 250, "attenuationEnd": 700, "color":6421436, "intensity": 0.2, "time": 400 }
+        ]
+	},
+	{
+		"name":"hammer_default_shot",
+		"light":
+		[
+           { "attenuationBegin": 50, "attenuationEnd": 700, "color":15501081, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":15501081, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"hammer_aqua_shot",
+		"light":
+		[
+           { "attenuationBegin": 50, "attenuationEnd": 700, "color":4063212, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":4063212, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"hammer_magma_shot",
+		"light":
+		[
+           { "attenuationBegin": 50, "attenuationEnd": 700, "color":15622660, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":15622660, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"hammer_void_shot",
+		"light":
+		[
+           { "attenuationBegin": 50, "attenuationEnd": 700, "color":15413759, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":15413759, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"hammer_toxic_shot",
+		"light":
+		[
+           { "attenuationBegin": 50, "attenuationEnd": 700, "color":65280, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":65280, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"hammer_eclipse_shot",
+		"light":
+		[
+           { "attenuationBegin": 50, "attenuationEnd": 700, "color":16448250, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":16448250, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"hammer_blue_shot",
+		"light":
+		[
+           { "attenuationBegin": 50, "attenuationEnd": 700, "color":231, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":231, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"name":"hammer_blood_shot",
+		"light":
+		[
+           { "attenuationBegin": 50, "attenuationEnd": 700, "color":16646144, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":16646144, "intensity": 0, "time": 300 }
+        ]
+	}
+	
+]
