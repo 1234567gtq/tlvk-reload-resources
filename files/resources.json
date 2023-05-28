@@ -77,6 +77,7 @@
 	{	"id":"dictator_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"dictator_lc",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"dictator_pr_fake",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"dictator_tx_dreadnought",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"ares_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"ares_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"titan_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
@@ -111,6 +112,7 @@
 	{	"id":"firebird_dc",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"firebird_dc_old",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"firebird_to2.0_m1",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"firebird_tx_dreadnought",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	
 	{	"id":"freeze_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"freeze_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
@@ -173,6 +175,7 @@
 	{	"id":"thunder_gt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"thunder_to2.0_m3",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"thunder_tx_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"thunder_tx_dreadnought",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	
 	{	"id":"scorpion_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"scorpion_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
