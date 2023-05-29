@@ -39,6 +39,7 @@
 	{	"id":"wasp_tx_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"wasp_tx_dreadnought",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"wasp_tx_bumblebee-83",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"wasp_tx_frost",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"hornet_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"hornet_hd2",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"hornet_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
@@ -128,6 +129,7 @@
 	{	"id":"freeze_se",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"freeze_ic",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"freeze_pr_fake",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"freeze_tx_frost",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	
 	{	"id":"isida_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"isida_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
