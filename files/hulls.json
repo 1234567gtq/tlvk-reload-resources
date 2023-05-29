@@ -252,6 +252,12 @@
 				"iconResourceId":"standard_skin_preview"
 			},
 			{
+				"name":"Стандарт (без боковой защиты)",
+				"resourceId":"hunter_hd2",
+				"description":"Стандартные заводские настройки без дополнительной защиты.",
+				"iconResourceId":"standard_skin_preview"
+			},
+			{
 				"name":"XT",
 				"resourceId":"hunter_xt",
 				"description":"Боковые пластины Хантера XT напоминают перья хищной птицы, готовой в любой момент отправиться на охоту, и при этом придают танку роскошный внешний вид.",

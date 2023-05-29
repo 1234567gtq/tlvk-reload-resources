@@ -64,6 +64,7 @@
 	{	"id":"viking_to2.0_m1",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"viking_tx_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"hunter_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"hunter_hd2",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"hunter_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"hunter_xt_fake",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"hunter_lc",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
