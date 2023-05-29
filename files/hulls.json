@@ -175,6 +175,13 @@
 				"isInvertTracksDirection":"true"
 			},
 			{
+				"name":"Стандарт (без боковой защиты)",
+				"resourceId":"viking_hd2",
+				"description":"Стандартные заводские настройки без дополнительной защиты.",
+				"iconResourceId":"standard_skin_preview",
+				"isInvertTracksDirection":"true"
+			},
+			{
 				"name":"XT",
 				"resourceId":"viking_xt",
 				"description":"Эксклюзивный Викинг XT примечателен своим необычным внешним видом. Характерный рисунок брони выполнен в суровом скандинавском стиле.",

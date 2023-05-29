@@ -53,6 +53,7 @@
 	{	"id":"hopper_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"hopper_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"viking_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"viking_hd2",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"viking_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"viking_lc",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"viking_pr",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
