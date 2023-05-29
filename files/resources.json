@@ -88,6 +88,7 @@
 	{	"id":"titan_pr",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"titan_tx_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"mammoth_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"mammoth_hd2",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"mammoth_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"mammoth_lc",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"mammoth_ut",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},

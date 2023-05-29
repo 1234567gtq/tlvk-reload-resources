@@ -457,6 +457,12 @@
 				"iconResourceId":"standard_skin_preview"
 			},
 			{
+				"name":"Стандарт (без боковой защиты)",
+				"resourceId":"mammoth_hd2",
+				"description":"Стандартные заводские настройки без дополнительной защиты.",
+				"iconResourceId":"standard_skin_preview"
+			},
+			{
 				"name":"XT",
 				"resourceId":"mammoth_xt",
 				"description":"Элитный Мамонт XT примечателен своим уникальным внешним видом. Корпус закован в золотые пластины, символизирующие стабильность и огромный запас здоровья этого сверхтяжёлого танка.",
