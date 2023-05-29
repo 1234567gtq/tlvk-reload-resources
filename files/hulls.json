@@ -13,6 +13,12 @@
 				"iconResourceId":"standard_skin_preview"
 			},
 			{
+				"name":"Стандарт (без боковой защиты)",
+				"resourceId":"wasp_hd2",
+				"description":"Стандартные заводские настройки без дополнительной защиты.",
+				"iconResourceId":"standard_skin_preview"
+			},
+			{
 				"name":"XT",
 				"resourceId":"wasp_xt",
 				"description":"Элитный Васп XT отличается уникальным боковым рисунком, напоминающим сложенные крылья древнего дракона.",

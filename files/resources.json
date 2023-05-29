@@ -31,6 +31,7 @@
 	
 	
 	{	"id":"wasp_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"wasp_hd2",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"wasp_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"wasp_dc",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"wasp_lc",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
