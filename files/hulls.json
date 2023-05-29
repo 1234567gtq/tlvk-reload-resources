@@ -7,7 +7,7 @@
 		"skins":
 		[
 			{
-				"name":"Standard",
+				"name":"Стандарт",
 				"resourceId":"wasp_hd",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
 				"iconResourceId":"standard_skin_preview"
@@ -64,15 +64,15 @@
 		"skins":
 		[
 			{
-				"name":"Standard",
+				"name":"Стандарт",
 				"resourceId":"hornet_hd",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
 				"iconResourceId":"standard_skin_preview"
 			},
 			{
-				"name":"HD (без боковин)",
+				"name":"Стандарт (без боковой защиты)",
 				"resourceId":"hornet_hd2",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
+				"description":"Стандартные заводские настройки без дополнительной защиты.",
 				"iconResourceId":"standard_skin_preview"
 			},
 			{
@@ -141,7 +141,7 @@
 		"skins":
 		[
 			{
-				"name":"Standard",
+				"name":"Стандарт",
 				"resourceId":"hopper_hd",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
 				"iconResourceId":"standard_skin_preview"
@@ -162,7 +162,7 @@
 		"skins":
 		[
 			{
-				"name":"Standard",
+				"name":"Стандарт",
 				"resourceId":"viking_hd",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
 				"iconResourceId":"standard_skin_preview",
@@ -233,7 +233,7 @@
 		"skins":
 		[
 			{
-				"name":"Standard",
+				"name":"Стандарт",
 				"resourceId":"hunter_hd",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
 				"iconResourceId":"standard_skin_preview"
@@ -286,7 +286,7 @@
 		"skins":
 		[
 			{
-				"name":"Standard",
+				"name":"Стандарт",
 				"resourceId":"crusader_hd",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
 				"iconResourceId":"standard_skin_preview"
@@ -314,7 +314,7 @@
 		"skins":
 		[
 			{
-				"name":"Standard",
+				"name":"Стандарт",
 				"resourceId":"paladin_hd",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
 				"iconResourceId":"standard_skin_preview"
@@ -341,9 +341,16 @@
 		"skins":
 		[
 			{
-				"name":"Standard",
+				"name":"Стандарт",
 				"resourceId":"dictator_hd",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
+				"iconResourceId":"standard_skin_preview",
+				"isInvertTracksDirection":"true"
+			},
+			{
+				"name":"Стандарт (без боковой защиты)",
+				"resourceId":"dictator_hd2",
+				"description":"Стандартные заводские настройки без дополнительной защиты.",
 				"iconResourceId":"standard_skin_preview",
 				"isInvertTracksDirection":"true"
 			},
@@ -383,7 +390,7 @@
 		"skins":
 		[
 			{
-				"name":"Standard",
+				"name":"Стандарт",
 				"resourceId":"ares_hd",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
 				"iconResourceId":"standard_skin_preview"
@@ -404,7 +411,7 @@
 		"skins":
 		[
 			{
-				"name":"Standard",
+				"name":"Стандарт",
 				"resourceId":"titan_hd",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
 				"iconResourceId":"standard_skin_preview",
@@ -444,7 +451,7 @@
 		"skins":
 		[
 			{
-				"name":"Standard",
+				"name":"Стандарт",
 				"resourceId":"mammoth_hd",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
 				"iconResourceId":"standard_skin_preview"
@@ -501,7 +508,7 @@
 		"skins":
 		[
 			{
-				"name":"Standard",
+				"name":"Стандарт",
 				"resourceId":"juggernaut_m3",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
 				"iconResourceId":"standard_skin_preview"
@@ -522,7 +529,7 @@
 		"skins":
 		[
 			{
-				"name":"Standard",
+				"name":"Стандарт",
 				"resourceId":"sonic_hd",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
 				"iconResourceId":"standard_skin_preview"
