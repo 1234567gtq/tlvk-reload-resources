@@ -1000,6 +1000,10 @@
 	{	"id":"library_stuffs_winter",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"library_trees_winter",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"library_village_builds_winter",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
-	{	"id":"library_waffle_fence_winter",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	}
+	{	"id":"library_waffle_fence_winter",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
+	
+	{	"id":"library_ny",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"library_halloween",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"library_special",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	}
 	
 ]
