@@ -25,5 +25,14 @@
 		"theme":"Лето День",	
 		"category":"summer",
 		"angles":[0, 0]
+	},
+	{	
+		"name":"Новый Год 2018",	
+		"resourceId":"map_happy_new_year_2018",
+		"previewResourceId":"map_happy_new_year_2018_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Зима Ночь",	
+		"category":"winter",
+		"angles":[0, 0]
 	}
 ]
