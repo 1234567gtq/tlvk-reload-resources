@@ -891,11 +891,15 @@
 	
 	{	"id":"map_luxembourg_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
+	{	"id":"map_luxembourg_mm_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
+	
 	
 	
 	{	"id":"map_sandbox_I_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	{	"id":"map_luxembourg_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
+	
+	{	"id":"map_luxembourg_mm_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	
 	{	"id":"library_noob",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
@@ -907,14 +911,19 @@
 	{	"id":"library_concrete_walls",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"library_desert_houses",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"library_grass_tiles",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"library_hangars",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"library_industrial_elements",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"library_nubu_1",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"library_nubu_2",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"library_nubu_3",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"library_nubu_4",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"library_nubu_5",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"library_nubu_8",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"library_nubu_9",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"library_promotion",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"library_roadblock",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"library_stuffs",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"library_trees",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"library_village_builds",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"library_waffle_fence",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	}
 	

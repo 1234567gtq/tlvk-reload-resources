@@ -16,5 +16,14 @@
 		"theme":"Лето День",	
 		"category":"summer",
 		"angles":[0, 0]
+	},
+	{	
+		"name":"Люксембург ММ",	
+		"resourceId":"map_luxembourg_mm_summer",
+		"previewResourceId":"map_luxembourg_mm_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
 	}
 ]
