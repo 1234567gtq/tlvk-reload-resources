@@ -891,6 +891,7 @@
 	
 	{	"id":"map_archipelago_mm_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
+	{	"id":"map_arena_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
 	{	"id":"map_sandbox_I_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
@@ -906,6 +907,7 @@
 	{	"id":"map_aleksandrovsk_mm_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	{	"id":"map_archipelago_mm_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"map_arena_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	
 	{	"id":"map_sandbox_I_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
