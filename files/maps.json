@@ -54,6 +54,33 @@
 		"angles":[0, 0]
 	},
 	{	
+		"name":"Барда ММ",	
+		"resourceId":"map_barda_mm_summer",
+		"previewResourceId":"map_barda_mm_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
+	},
+	{	
+		"name":"Берлин",	
+		"resourceId":"map_berlin_summer",
+		"previewResourceId":"map_berlin_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
+	},
+	{	
+		"name":"Бобруйск",	
+		"resourceId":"map_bobruisk_summer",
+		"previewResourceId":"map_bobruisk_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
+	},
+	{	
 		"name":"Песочница I",	
 		"resourceId":"map_sandbox_i_summer",
 		"previewResourceId":"map_sandbox_i_summer_preview",		
