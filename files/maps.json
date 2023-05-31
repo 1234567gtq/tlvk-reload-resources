@@ -36,6 +36,24 @@
 		"angles":[0, 0]
 	},
 	{	
+		"name":"Атра",	
+		"resourceId":"map_atra_summer",
+		"previewResourceId":"map_atra_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
+	},
+	{	
+		"name":"Барда",	
+		"resourceId":"map_barda_summer",
+		"previewResourceId":"map_barda_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
+	},
+	{	
 		"name":"Песочница I",	
 		"resourceId":"map_sandbox_i_summer",
 		"previewResourceId":"map_sandbox_i_summer_preview",		
