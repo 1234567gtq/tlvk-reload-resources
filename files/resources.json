@@ -1276,6 +1276,7 @@
 	{	"id":"map_aleksandrovsk_mm_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	{	"id":"map_archipelago_mm_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"map_arena_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	{	"id":"map_arena_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
