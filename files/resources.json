@@ -906,6 +906,7 @@
 	{	"id":"map_boombox_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
 	{	"id":"map_brest_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"map_brest_mm_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
 	{	"id":"map_sandbox_I_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
@@ -937,6 +938,7 @@
 	{	"id":"map_boombox_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	{	"id":"map_brest_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"map_brest_mm_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	
 	{	"id":"map_sandbox_I_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
