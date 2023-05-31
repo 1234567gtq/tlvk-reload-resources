@@ -297,6 +297,15 @@
 		"angles":[0, 0]
 	},
 	{	
+		"name":"Эсланда",	
+		"resourceId":"map_esplanade_summer",
+		"previewResourceId":"map_esplanade_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
+	},
+	{	
 		"name":"Песочница I",	
 		"resourceId":"map_sandbox_i_summer",
 		"previewResourceId":"map_sandbox_i_summer_preview",		
