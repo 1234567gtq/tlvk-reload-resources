@@ -933,6 +933,7 @@
 	{	"id":"map_deck-9_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
 	{	"id":"map_desert_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"map_desert_mm_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
 	
 	{	"id":"map_sandbox_I_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
@@ -989,6 +990,7 @@
 	{	"id":"map_deck-9_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	{	"id":"map_desert_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"map_desert_mm_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	
 	{	"id":"map_sandbox_I_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
