@@ -197,6 +197,7 @@
 	{	"id":"railgun_lc",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"railgun_pr",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"railgun_ut",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"railgun_gt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"railgun_rl",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"railgun_tx_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"railgun_tx_gold",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
