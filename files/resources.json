@@ -124,6 +124,7 @@
 	
 	{	"id":"freeze_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"freeze_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"freeze_xt_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"freeze_lc",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"freeze_lc_old",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"freeze_se",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
