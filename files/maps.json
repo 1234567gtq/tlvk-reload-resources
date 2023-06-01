@@ -360,6 +360,24 @@
 		"angles":[0, 0]
 	},
 	{	
+		"name":"Будущее ММ",	
+		"resourceId":"map_future_mm_summer",
+		"previewResourceId":"map_future_mm_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
+	},
+	{	
+		"name":"Гардер",	
+		"resourceId":"map_garder_summer",
+		"previewResourceId":"map_garder_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
+	},
+	{	
 		"name":"Песочница I",	
 		"resourceId":"map_sandbox_i_summer",
 		"previewResourceId":"map_sandbox_i_summer_preview",		
