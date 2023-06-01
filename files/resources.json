@@ -60,6 +60,7 @@
 	{	"id":"viking_pr",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"viking_ut",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"viking_gt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"viking_gt_concept",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"viking_dc",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"viking_xt_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"viking_to2.0_m1",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
