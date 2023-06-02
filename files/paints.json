@@ -730,6 +730,12 @@
 	"resourceId":"master_of_parkour_2023",
 	"description":"Это уникальная краска, которой награждаются победители конкурса «Мастера паркура 2023»."
 },
+{
+	"name":"14 лет!",
+	"previewResourceId":"14_years!_preview",
+	"resourceId":"14_years!",
+	"description":"«Танкам» 14 лет!"
+},
 
 
 
