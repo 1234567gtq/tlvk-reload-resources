@@ -970,6 +970,8 @@
 	
 	{	"id":"map_gubakha_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
+	{	"id":"map_highland_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
+	
 	
 	{	"id":"map_sandbox_I_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
@@ -1054,6 +1056,8 @@
 	{	"id":"map_gravity_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	{	"id":"map_gubakha_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
+	
+	{	"id":"map_highland_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	
 	{	"id":"map_sandbox_I_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
