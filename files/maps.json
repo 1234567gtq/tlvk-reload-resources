@@ -297,7 +297,7 @@
 		"angles":[0, 0]
 	},
 	{	
-		"name":"Эсланда",	
+		"name":"Эспланада",	
 		"resourceId":"map_esplanade_summer",
 		"previewResourceId":"map_esplanade_summer_preview",		
 		"skyBox":"Холмы",	
@@ -372,6 +372,15 @@
 		"name":"Гардер",	
 		"resourceId":"map_garder_summer",
 		"previewResourceId":"map_garder_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
+	},
+	{	
+		"name":"Гравити",	
+		"resourceId":"map_gravity_summer",
+		"previewResourceId":"map_gravity_summer_preview",		
 		"skyBox":"Холмы",	
 		"theme":"Лето День",	
 		"category":"summer",
