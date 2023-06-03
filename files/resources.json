@@ -115,7 +115,6 @@
 	
 	
 	
-	
 	{	"id":"firebird_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"firebird_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"firebird_lc",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
@@ -1266,6 +1265,10 @@
 	
 	{	"id":"library_ny",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"library_halloween",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
-	{	"id":"library_special",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	}
+	{	"id":"library_special",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
+	
+	
+	
+	{	"id":"banner_14_years",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	}
 	
 ]
