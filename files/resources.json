@@ -998,6 +998,8 @@
 	
 	{	"id":"map_magadan_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
+	{	"id":"map_magistral_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
+	
 	
 	{	"id":"map_sandbox_I_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
@@ -1110,6 +1112,8 @@
 	{	"id":"map_madness_old_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	{	"id":"map_magadan_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
+	
+	{	"id":"map_magistral_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	
 	{	"id":"map_sandbox_I_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
