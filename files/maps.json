@@ -648,6 +648,15 @@
 		"angles":[0, 0]
 	},
 	{	
+		"name":"Парма",	
+		"resourceId":"map_parma_summer",
+		"previewResourceId":"map_parma_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
+	},
+	{	
 		"name":"Песочница I",	
 		"resourceId":"map_sandbox_i_summer",
 		"previewResourceId":"map_sandbox_i_summer_preview",		
