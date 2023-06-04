@@ -819,6 +819,15 @@
 		"angles":[0, 0]
 	},
 	{	
+		"name":"Мостик",	
+		"resourceId":"map_short_bridge_summer",
+		"previewResourceId":"map_short_bridge_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
+	},
+	{	
 		"name":"Люксембург",	
 		"resourceId":"map_luxembourg_summer",
 		"previewResourceId":"map_luxembourg_summer_preview",		
