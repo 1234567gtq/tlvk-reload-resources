@@ -837,6 +837,15 @@
 		"angles":[0, 0]
 	},
 	{	
+		"name":"Тишина",	
+		"resourceId":"map_silence_summer",
+		"previewResourceId":"map_silence_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
+	},
+	{	
 		"name":"Люксембург",	
 		"resourceId":"map_luxembourg_summer",
 		"previewResourceId":"map_luxembourg_summer_preview",		

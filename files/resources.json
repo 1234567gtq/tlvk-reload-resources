@@ -1050,6 +1050,8 @@
 	
 	{	"id":"map_siege_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
+	{	"id":"map_silence_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
+	
 	{	"id":"map_luxembourg_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"map_luxembourg_mm_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
@@ -1207,6 +1209,8 @@
 	{	"id":"map_scope_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	{	"id":"map_siege_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
+	
+	{	"id":"map_silence_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	{	"id":"map_serpuhov_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"map_serpuhov_mm_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
