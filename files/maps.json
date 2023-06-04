@@ -801,6 +801,15 @@
 		"angles":[0, 0]
 	},
 	{	
+		"name":"Серпухов",	
+		"resourceId":"map_serpuhov_summer",
+		"previewResourceId":"map_serpuhov_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
+	},
+	{	
 		"name":"Люксембург",	
 		"resourceId":"map_luxembourg_summer",
 		"previewResourceId":"map_luxembourg_summer_preview",		
