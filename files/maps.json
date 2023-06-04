@@ -792,6 +792,15 @@
 		"angles":[0, 0]
 	},
 	{	
+		"name":"Простор",	
+		"resourceId":"map_scope_summer",
+		"previewResourceId":"map_scope_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
+	},
+	{	
 		"name":"Люксембург",	
 		"resourceId":"map_luxembourg_summer",
 		"previewResourceId":"map_luxembourg_summer_preview",		
