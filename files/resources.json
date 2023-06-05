@@ -1070,6 +1070,8 @@
 	{	"id":"map_tribute_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"map_tribute_mm_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
+	{	"id":"map_valley_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
+	
 	{	"id":"map_luxembourg_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"map_luxembourg_mm_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
@@ -1252,6 +1254,8 @@
 	
 	{	"id":"map_tribute_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"map_tribute_mm_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
+	
+	{	"id":"map_valley_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	{	"id":"map_luxembourg_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"map_luxembourg_mm_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},

@@ -945,6 +945,15 @@
 		"angles":[0, 0]
 	},
 	{	
+		"name":"Долина",	
+		"resourceId":"map_valley_summer",
+		"previewResourceId":"map_valley_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
+	},
+	{	
 		"name":"Люксембург",	
 		"resourceId":"map_luxembourg_summer",
 		"previewResourceId":"map_luxembourg_summer_preview",		
