@@ -1332,6 +1332,7 @@
 	
 	
 	
-	{	"id":"banner_14_years",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	}
+	{	"id":"banner_14_years",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"banner_reloaded",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	}
 	
 ]

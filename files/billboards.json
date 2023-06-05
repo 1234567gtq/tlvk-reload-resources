@@ -2,5 +2,9 @@
 	{	
 		"name":"14 лет",	
 		"resourceId":"banner_14_years"
+	},
+	{	
+		"name":"Reloaded",	
+		"resourceId":"banner_reloaded"
 	}
 ]
