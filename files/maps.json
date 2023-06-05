@@ -936,6 +936,15 @@
 		"angles":[0, 0]
 	},
 	{	
+		"name":"Трибьют ММ",	
+		"resourceId":"map_tribute_mm_summer",
+		"previewResourceId":"map_tribute_mm_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
+	},
+	{	
 		"name":"Люксембург",	
 		"resourceId":"map_luxembourg_summer",
 		"previewResourceId":"map_luxembourg_summer_preview",		
