@@ -1060,6 +1060,8 @@
 	{	"id":"map_solikamsk_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"map_solikamsk_mm_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
+	{	"id":"map_stadium_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
+	
 	{	"id":"map_luxembourg_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"map_luxembourg_mm_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
@@ -1233,6 +1235,8 @@
 	
 	{	"id":"map_solikamsk_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"map_solikamsk_mm_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
+	
+	{	"id":"map_stadium_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	{	"id":"map_luxembourg_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"map_luxembourg_mm_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},

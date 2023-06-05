@@ -891,6 +891,15 @@
 		"angles":[0, 0]
 	},
 	{	
+		"name":"Стадион",	
+		"resourceId":"map_stadium_summer",
+		"previewResourceId":"map_stadium_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
+	},
+	{	
 		"name":"Люксембург",	
 		"resourceId":"map_luxembourg_summer",
 		"previewResourceId":"map_luxembourg_summer_preview",		
