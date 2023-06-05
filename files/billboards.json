@@ -10,5 +10,9 @@
 	{	
 		"name":"TLVK Reload",	
 		"resourceId":"banner_tlvk_reload"
+	},
+	{	
+		"name":"Стандартный",	
+		"resourceId":"banner_standard"
 	}
 ]
