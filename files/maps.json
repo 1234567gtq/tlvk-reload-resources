@@ -954,6 +954,15 @@
 		"angles":[0, 0]
 	},
 	{	
+		"name":"Волна",	
+		"resourceId":"map_wave_summer",
+		"previewResourceId":"map_wave_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
+	},
+	{	
 		"name":"Люксембург",	
 		"resourceId":"map_luxembourg_summer",
 		"previewResourceId":"map_luxembourg_summer_preview",		
