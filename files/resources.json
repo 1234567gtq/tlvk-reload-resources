@@ -1077,6 +1077,8 @@
 	{	"id":"map_wolfenstein_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"map_wolfenstein_mm_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
+	{	"id":"map_year_2042_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
+	
 	{	"id":"map_luxembourg_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"map_luxembourg_mm_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
@@ -1266,6 +1268,8 @@
 	
 	{	"id":"map_wolfenstein_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"map_wolfenstein_mm_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
+	
+	{	"id":"map_year_2042_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	{	"id":"map_luxembourg_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"map_luxembourg_mm_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
