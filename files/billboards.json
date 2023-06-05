@@ -6,5 +6,9 @@
 	{	
 		"name":"Reloaded",	
 		"resourceId":"banner_reloaded"
+	},
+	{	
+		"name":"TLVK Reload",	
+		"resourceId":"banner_tlvk_reload"
 	}
 ]
