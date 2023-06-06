@@ -51,6 +51,7 @@
 	{	"id":"hornet_tx_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"hornet_tx_beta",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"hornet_tx_m0",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"hornet_tx_m2",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"hopper_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"hopper_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"viking_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
