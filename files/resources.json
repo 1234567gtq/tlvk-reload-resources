@@ -164,6 +164,7 @@
 	{	"id":"ricochet_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"ricochet_lc",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"ricochet_rt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"ricochet_tx_m2",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	
 	{	"id":"smoky_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"smoky_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
