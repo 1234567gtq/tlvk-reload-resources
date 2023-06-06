@@ -203,6 +203,7 @@
 	{	"id":"railgun_rl",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"railgun_tx_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"railgun_tx_gold",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"railgun_tx_m2",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	
 	{	"id":"magnum_m3",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"magnum_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
