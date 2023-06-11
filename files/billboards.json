@@ -14,5 +14,9 @@
 	{	
 		"name":"Стандартный",	
 		"resourceId":"banner_standard"
+	},
+	{	
+		"name":"День танкиста 2016",	
+		"resourceId":"banner_tankers_day_2016"
 	}
 ]

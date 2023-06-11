@@ -1399,6 +1399,7 @@
 	{	"id":"banner_14_years",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"banner_reloaded",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"banner_tlvk_reload",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
-	{	"id":"banner_standard",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	}
+	{	"id":"banner_standard",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"banner_tankers_day_2016",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	}
 	
 ]
