@@ -1394,6 +1394,13 @@
 	{	"id":"library_halloween",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"library_special",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
 	
+	{	"id":"library_com_build_old",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"library_defense_old",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"library_fence_old",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"library_passage_old",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"library_terrain_old",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
+	
+	
 	
 	
 	{	"id":"banner_14_years",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
