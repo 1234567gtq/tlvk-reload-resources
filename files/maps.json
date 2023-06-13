@@ -1044,6 +1044,15 @@
 		"angles":[0, 0]
 	},
 	{	
+		"name":"Галерея",	
+		"resourceId":"map_gallery_summer",
+		"previewResourceId":"map_gallery_summer_preview",		
+		"skyBox":"Холмы",	
+		"theme":"Лето День",	
+		"category":"summer",
+		"angles":[0, 0]
+	},
+	{	
 		"name":"Люксембург",	
 		"resourceId":"map_luxembourg_summer",
 		"previewResourceId":"map_luxembourg_summer_preview",		
