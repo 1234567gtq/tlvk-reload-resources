@@ -1092,6 +1092,8 @@
 	
 	{	"id":"map_happy_new_year_2018_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	
+	{	"id":"map_gallery_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
+	
 	{	"id":"map_aleksandrovsk_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"map_aleksandrovsk_mm_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
@@ -1288,6 +1290,8 @@
 	{	"id":"map_luxembourg_mm_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	{	"id":"map_happy_new_year_2018",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
+	
+	{	"id":"map_gallery_summer",	"type":"maps",	"isLocal":"false",	"isLazy":"true"	},
 	
 	
 	{	"id":"library_noob",	"type":"proplibs",	"isLocal":"false",	"isLazy":"true"	},
