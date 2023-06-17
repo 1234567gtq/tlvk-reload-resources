@@ -857,6 +857,8 @@
 	
 	{	"id":"mono_apple",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
 	{	"id":"mono_apple_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
+	{	"id":"mono_aquamarine",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
+	{	"id":"mono_aquamarine_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	
 	
 	
