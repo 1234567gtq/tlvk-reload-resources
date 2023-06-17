@@ -863,6 +863,8 @@
 	{	"id":"mono_azure_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	{	"id":"mono_blue",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
 	{	"id":"mono_blue_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
+	{	"id":"mono_coral",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
+	{	"id":"mono_coral_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	
 	
 	
