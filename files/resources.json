@@ -861,6 +861,8 @@
 	{	"id":"mono_aquamarine_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	{	"id":"mono_azure",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
 	{	"id":"mono_azure_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
+	{	"id":"mono_blue",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
+	{	"id":"mono_blue_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	
 	
 	
