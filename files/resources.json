@@ -869,6 +869,8 @@
 	{	"id":"mono_fuchsia_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	{	"id":"mono_gold",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
 	{	"id":"mono_gold_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
+	{	"id":"mono_orange",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
+	{	"id":"mono_orange_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	
 	
 	
