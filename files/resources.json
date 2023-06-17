@@ -873,6 +873,8 @@
 	{	"id":"mono_orange_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	{	"id":"mono_red",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
 	{	"id":"mono_red_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
+	{	"id":"mono_violet",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
+	{	"id":"mono_violet_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	
 	
 	
