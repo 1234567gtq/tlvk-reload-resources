@@ -1070,6 +1070,8 @@
 	
 	{	"id":"garage_front_side",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
 	
+	{	"id":"garage_front_side",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	
 	
 	{	"id":"map_aleksandrovsk_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"map_aleksandrovsk_mm_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
