@@ -50,5 +50,9 @@
 	{	
 		"name":"Ультра уикенд 2020-2021",	
 		"resourceId":"banner_ultra_weekend_2020-2021"
+	},
+	{	
+		"name":"День смеха",	
+		"resourceId":"banner_1_april"
 	}
 ]
