@@ -917,7 +917,7 @@
 	{	"id":"skybox_hills_front",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"skybox_hills_right",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
 	
-	{	"id":"garage_front_side",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"garage_front_side",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
 	
 	
 	{	"id":"map_aleksandrovsk_summer_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
