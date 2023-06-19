@@ -46,5 +46,9 @@
 	{	
 		"name":"Летняя распродажа",	
 		"resourceId":"banner_summer_sale"
+	},
+	{	
+		"name":"Ультра уикенд 2020-2021",	
+		"resourceId":"banner_ultra_weekend_2020-2021"
 	}
 ]
