@@ -1442,6 +1442,7 @@
 	{	"id":"banner_star_week",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"banner_8_march_2021",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"banner_discount_weekend",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
-	{	"id":"banner_cosmonautics_day",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	}
+	{	"id":"banner_cosmonautics_day",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"banner_summer_sale",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	}
 	
 ]

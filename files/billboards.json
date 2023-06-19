@@ -42,5 +42,9 @@
 	{	
 		"name":"День космонавтики",	
 		"resourceId":"banner_cosmonautics_day"
+	},
+	{	
+		"name":"Летняя распродажа",	
+		"resourceId":"banner_summer_sale"
 	}
 ]
