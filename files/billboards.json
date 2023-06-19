@@ -54,5 +54,9 @@
 	{	
 		"name":"День смеха",	
 		"resourceId":"banner_1_april"
+	},
+	{	
+		"name":"XI Межклановый Чемпионат (2018)",	
+		"resourceId":"banner_11_clan_championship_2018"
 	}
 ]
