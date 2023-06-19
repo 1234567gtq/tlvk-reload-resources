@@ -34,5 +34,9 @@
 	{	
 		"name":"8 Марта 2021",	
 		"resourceId":"banner_8_march_2021"
+	},
+	{	
+		"name":"Дисконт уикенд",	
+		"resourceId":"banner_discount_weekend"
 	}
 ]
