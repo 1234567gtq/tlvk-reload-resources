@@ -22,5 +22,9 @@
 	{	
 		"name":"Новый год 2023",	
 		"resourceId":"banner_new_year_2023"
+	},
+	{	
+		"name":"Хеллоуин 2018",	
+		"resourceId":"banner_halloween_2018"
 	}
 ]

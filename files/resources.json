@@ -1437,6 +1437,7 @@
 	{	"id":"banner_tlvk_reload",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"banner_standard",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"banner_tankers_day_2016",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
-	{	"id":"banner_new_year_2023",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	}
+	{	"id":"banner_new_year_2023",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"banner_halloween_2018",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	}
 	
 ]
