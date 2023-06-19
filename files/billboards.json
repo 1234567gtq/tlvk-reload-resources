@@ -38,5 +38,9 @@
 	{	
 		"name":"Дисконт уикенд",	
 		"resourceId":"banner_discount_weekend"
+	},
+	{	
+		"name":"День космонавтики",	
+		"resourceId":"banner_cosmonautics_day"
 	}
 ]
