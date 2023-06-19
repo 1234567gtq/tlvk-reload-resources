@@ -26,5 +26,9 @@
 	{	
 		"name":"Хеллоуин 2018",	
 		"resourceId":"banner_halloween_2018"
+	},
+	{	
+		"name":"Звёздная неделя",	
+		"resourceId":"banner_star_week"
 	}
 ]
