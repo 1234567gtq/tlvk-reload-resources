@@ -3,1053 +3,1033 @@
 		"name":"Александровск",	
 		"resourceId":"map_aleksandrovsk_summer",
 		"previewResourceId":"map_aleksandrovsk_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
 	},
 	{	
 		"name":"Александровск ММ",	
 		"resourceId":"map_aleksandrovsk_mm_summer",
 		"previewResourceId":"map_aleksandrovsk_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
 	},
 	{	
 		"name":"Архипелаг ММ",	
 		"resourceId":"map_archipelago_mm_summer",
 		"previewResourceId":"map_archipelago_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
 	},
 	{	
 		"name":"Арена",	
 		"resourceId":"map_arena_summer",
 		"previewResourceId":"map_arena_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
 	},
 	{	
 		"name":"Атра",	
 		"resourceId":"map_atra_summer",
 		"previewResourceId":"map_atra_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
 	},
 	{	
 		"name":"Барда",	
 		"resourceId":"map_barda_summer",
 		"previewResourceId":"map_barda_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
 	},
 	{	
 		"name":"Барда ММ",	
 		"resourceId":"map_barda_mm_summer",
 		"previewResourceId":"map_barda_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
 	},
 	{	
 		"name":"Берлин",	
 		"resourceId":"map_berlin_summer",
 		"previewResourceId":"map_berlin_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
 	},
 	{	
 		"name":"Бобруйск",	
 		"resourceId":"map_bobruisk_summer",
 		"previewResourceId":"map_bobruisk_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
 	},
 	{	
 		"name":"Бобруйск ММ",	
 		"resourceId":"map_bobruisk_mm_summer",
 		"previewResourceId":"map_bobruisk_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Бумбокс",	
 		"resourceId":"map_boombox_summer",
 		"previewResourceId":"map_boombox_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Брест",	
 		"resourceId":"map_brest_summer",
 		"previewResourceId":"map_brest_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Брест MM",	
 		"resourceId":"map_brest_mm_summer",
 		"previewResourceId":"map_brest_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Мосты",	
 		"resourceId":"map_bridges_summer",
 		"previewResourceId":"map_bridges_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Мосты ММ",	
 		"resourceId":"map_bridges_mm_summer",
 		"previewResourceId":"map_bridges_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Лагерь",	
 		"resourceId":"map_camp_summer",
 		"previewResourceId":"map_camp_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Каньон",	
 		"resourceId":"map_canyon_summer",
 		"previewResourceId":"map_canyon_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Чернобыль",	
 		"resourceId":"map_chernobyl_summer",
 		"previewResourceId":"map_chernobyl_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Чернобыль ММ",	
 		"resourceId":"map_chernobyl_mm_summer",
 		"previewResourceId":"map_chernobyl_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Кёльн",	
 		"resourceId":"map_cologne_summer",
 		"previewResourceId":"map_cologne_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Кёльн ММ",	
 		"resourceId":"map_cologne_mm_summer",
 		"previewResourceId":"map_cologne_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Овраг",	
 		"resourceId":"map_combe_summer",
 		"previewResourceId":"map_combe_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Кураж",	
 		"resourceId":"map_courage_summer",
 		"previewResourceId":"map_courage_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Перекрёсток",	
 		"resourceId":"map_cross_summer",
 		"previewResourceId":"map_cross_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Перекрёсток ММ",	
 		"resourceId":"map_cross_mm_summer",
 		"previewResourceId":"map_cross_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Трек",	
 		"resourceId":"map_deathtrack_summer",
 		"previewResourceId":"map_deathtrack_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Палуба 9",	
 		"resourceId":"map_deck-9_summer",
 		"previewResourceId":"map_deck-9_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Пустыня",	
 		"resourceId":"map_desert_summer",
 		"previewResourceId":"map_desert_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Пустыня ММ",	
 		"resourceId":"map_desert_mm_summer",
 		"previewResourceId":"map_desert_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Дуалити",	
 		"resourceId":"map_duality_summer",
 		"previewResourceId":"map_duality_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Дуэль",	
 		"resourceId":"map_duel_summer",
 		"previewResourceId":"map_duel_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Дюссельдорф",	
 		"resourceId":"map_dusseldorf_summer",
 		"previewResourceId":"map_dusseldorf_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Эдинбург",	
 		"resourceId":"map_edinburgh_summer",
 		"previewResourceId":"map_edinburgh_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Эспланада",	
 		"resourceId":"map_esplanade_summer",
 		"previewResourceId":"map_esplanade_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Фабрика",	
 		"resourceId":"map_factory_summer",
 		"previewResourceId":"map_factory_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Ферма",	
 		"resourceId":"map_farm_summer",
 		"previewResourceId":"map_farm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Форест",	
 		"resourceId":"map_forest_summer",
 		"previewResourceId":"map_forest_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Форест ММ",	
 		"resourceId":"map_forest_mm_summer",
 		"previewResourceId":"map_forest_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Форт Нокс",	
 		"resourceId":"map_fort_knox_summer",
 		"previewResourceId":"map_fort_knox_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Будущее",	
 		"resourceId":"map_future_summer",
 		"previewResourceId":"map_future_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Будущее ММ",	
 		"resourceId":"map_future_mm_summer",
 		"previewResourceId":"map_future_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Гардер",	
 		"resourceId":"map_garder_summer",
 		"previewResourceId":"map_garder_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Гравити",	
 		"resourceId":"map_gravity_summer",
 		"previewResourceId":"map_gravity_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Губаха",	
 		"resourceId":"map_gubakha_summer",
 		"previewResourceId":"map_gubakha_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Плато",	
 		"resourceId":"map_highland_summer",
 		"previewResourceId":"map_highland_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Плато ММ",	
 		"resourceId":"map_highland_mm_summer",
 		"previewResourceId":"map_highland_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Шоссе",	
 		"resourceId":"map_highways_summer",
 		"previewResourceId":"map_highways_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Шоссе ММ",	
 		"resourceId":"map_highways_mm_summer",
 		"previewResourceId":"map_highways_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Холм",	
 		"resourceId":"map_hill_summer",
 		"previewResourceId":"map_hill_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Промзона",	
 		"resourceId":"map_industrial_zone_summer",
 		"previewResourceId":"map_industrial_zone_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Промзона ММ",	
 		"resourceId":"map_industrial_zone_mm_summer",
 		"previewResourceId":"map_industrial_zone_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Иран",	
 		"resourceId":"map_iran_summer",
 		"previewResourceId":"map_iran_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Иран ММ",	
 		"resourceId":"map_iran_mm_summer",
 		"previewResourceId":"map_iran_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Остров",	
 		"resourceId":"map_island_summer",
 		"previewResourceId":"map_island_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Колхоз",	
 		"resourceId":"map_kolhoz_summer",
 		"previewResourceId":"map_kolhoz_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Кунгур",	
 		"resourceId":"map_kungur_summer",
 		"previewResourceId":"map_kungur_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Кунгур ММ",	
 		"resourceId":"map_kungur_mm_summer",
 		"previewResourceId":"map_kungur_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Тэмпл",	
 		"resourceId":"map_lost_temple_summer",
 		"previewResourceId":"map_lost_temple_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Безумие",	
 		"resourceId":"map_madness_summer",
 		"previewResourceId":"map_madness_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Старое Безумие",	
 		"resourceId":"map_madness_old_summer",
 		"previewResourceId":"map_madness_old_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Магадан",	
 		"resourceId":"map_magadan_summer",
 		"previewResourceId":"map_magadan_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Магистраль",	
 		"resourceId":"map_magistral_summer",
 		"previewResourceId":"map_magistral_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Магистраль ММ",	
 		"resourceId":"map_magistral_mm_summer",
 		"previewResourceId":"map_magistral_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Бойня",	
 		"resourceId":"map_massacre_summer",
 		"previewResourceId":"map_massacre_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Бойня ММ",	
 		"resourceId":"map_massacre_mm_summer",
 		"previewResourceId":"map_massacre_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Молотов",	
 		"resourceId":"map_molotov_summer",
 		"previewResourceId":"map_molotov_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Молотов ММ",	
 		"resourceId":"map_molotov_mm_summer",
 		"previewResourceId":"map_molotov_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Монте-Карло",	
 		"resourceId":"map_monte_carlo_summer",
 		"previewResourceId":"map_monte_carlo_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Шум",	
 		"resourceId":"map_noise_summer",
 		"previewResourceId":"map_noise_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Новэл",	
 		"resourceId":"map_novel_summer",
 		"previewResourceId":"map_novel_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Противостояние",	
 		"resourceId":"map_opposition_summer",
 		"previewResourceId":"map_opposition_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Оса ММ",	
 		"resourceId":"map_osa_mm_summer",
 		"previewResourceId":"map_osa_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Парма",	
 		"resourceId":"map_parma_summer",
 		"previewResourceId":"map_parma_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Парма ММ",	
 		"resourceId":"map_parma_mm_summer",
 		"previewResourceId":"map_parma_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Перевал",	
 		"resourceId":"map_pass_summer",
 		"previewResourceId":"map_pass_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Пинг-Понг",	
 		"resourceId":"map_ping-pong_summer",
 		"previewResourceId":"map_ping-pong_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Полигон",	
 		"resourceId":"map_polygon_summer",
 		"previewResourceId":"map_polygon_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Полигон ММ",	
 		"resourceId":"map_polygon_mm_summer",
 		"previewResourceId":"map_polygon_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Ред Алерт",	
 		"resourceId":"map_red_alert_summer",
 		"previewResourceId":"map_red_alert_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Ред Алерт ММ",	
 		"resourceId":"map_red_alert_mm_summer",
 		"previewResourceId":"map_red_alert_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Ущелье",	
 		"resourceId":"map_rift_summer",
 		"previewResourceId":"map_rift_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Рио",	
 		"resourceId":"map_rio_summer",
 		"previewResourceId":"map_rio_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Рио день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Рио ММ",	
 		"resourceId":"map_rio_mm_summer",
 		"previewResourceId":"map_rio_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Рио день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Сандал",	
 		"resourceId":"map_sandal_summer",
 		"previewResourceId":"map_sandal_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Сандал ММ",	
 		"resourceId":"map_sandal_mm_summer",
 		"previewResourceId":"map_sandal_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Песочница",	
 		"resourceId":"map_sandbox_summer",
 		"previewResourceId":"map_sandbox_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Песочница ММ",	
 		"resourceId":"map_sandbox_mm_summer",
 		"previewResourceId":"map_sandbox_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Песочница I",	
 		"resourceId":"map_sandbox_i_summer",
 		"previewResourceId":"map_sandbox_i_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Простор",	
 		"resourceId":"map_scope_summer",
 		"previewResourceId":"map_scope_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Серпухов",	
 		"resourceId":"map_serpuhov_summer",
 		"previewResourceId":"map_serpuhov_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Серпухов ММ",	
 		"resourceId":"map_serpuhov_mm_summer",
 		"previewResourceId":"map_serpuhov_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Мостик",	
 		"resourceId":"map_short_bridge_summer",
 		"previewResourceId":"map_short_bridge_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Осада",	
 		"resourceId":"map_siege_summer",
 		"previewResourceId":"map_siege_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Тишина",	
 		"resourceId":"map_silence_summer",
 		"previewResourceId":"map_silence_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Тишина ММ",	
 		"resourceId":"map_silence_mm_summer",
 		"previewResourceId":"map_silence_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Жаворонки",	
 		"resourceId":"map_skylark_summer",
 		"previewResourceId":"map_skylark_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Небоскрёбы",	
 		"resourceId":"map_skyscrapers_summer",
 		"previewResourceId":"map_skyscrapers_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Соликамск",	
 		"resourceId":"map_solikamsk_summer",
 		"previewResourceId":"map_solikamsk_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Соликамск ММ",	
 		"resourceId":"map_solikamsk_mm_summer",
 		"previewResourceId":"map_solikamsk_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Стадион",	
 		"resourceId":"map_stadium_summer",
 		"previewResourceId":"map_stadium_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Город день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Стадион ММ",	
 		"resourceId":"map_stadium_mm_summer",
 		"previewResourceId":"map_stadium_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Город день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Станция",	
 		"resourceId":"map_station_summer",
 		"previewResourceId":"map_station_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Подземка",	
 		"resourceId":"map_subway_summer",
 		"previewResourceId":"map_subway_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Трибьют",	
 		"resourceId":"map_tribute_summer",
 		"previewResourceId":"map_tribute_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Трибьют ММ",	
 		"resourceId":"map_tribute_mm_summer",
 		"previewResourceId":"map_tribute_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Долина",	
 		"resourceId":"map_valley_summer",
 		"previewResourceId":"map_valley_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Волна",	
 		"resourceId":"map_wave_summer",
 		"previewResourceId":"map_wave_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Вольфенштейн",	
 		"resourceId":"map_wolfenstein_summer",
 		"previewResourceId":"map_wolfenstein_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Вольфенштейн ММ",	
 		"resourceId":"map_wolfenstein_mm_summer",
 		"previewResourceId":"map_wolfenstein_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Год 2042",	
 		"resourceId":"map_year_2042_summer",
 		"previewResourceId":"map_year_2042_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Год 2042 ММ",	
 		"resourceId":"map_year_2042_mm_summer",
 		"previewResourceId":"map_year_2042_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Йоркшир MM",	
 		"resourceId":"map_yorkshire_mm_summer",
 		"previewResourceId":"map_yorkshire_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Зона",	
 		"resourceId":"map_zone_summer",
 		"previewResourceId":"map_zone_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Галерея",	
 		"resourceId":"map_gallery_summer",
 		"previewResourceId":"map_gallery_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
 	},
 	{	
 		"name":"Люксембург",	
 		"resourceId":"map_luxembourg_summer",
 		"previewResourceId":"map_luxembourg_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
 	},
 	{	
 		"name":"Люксембург ММ",	
 		"resourceId":"map_luxembourg_mm_summer",
 		"previewResourceId":"map_luxembourg_mm_summer_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Лето День",	
-		"category":"summer",
-		"angles":[0, 0]
-	},
-	{	
-		"name":"Новый Год 2018",	
-		"resourceId":"map_happy_new_year_2018",
-		"previewResourceId":"map_happy_new_year_2018_preview",		
-		"skyBox":"Холмы",	
-		"theme":"Зима Ночь",	
-		"category":"winter",
-		"angles":[0, 0]
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
 	}
 ]
