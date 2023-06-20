@@ -1,4 +1,5 @@
 [
-    {    "name":"Холмы",    "sidesResourcesIds":["skybox_hills_right", "skybox_hills_back", "skybox_hills_left", "skybox_hills_front", "skybox_hills_top", "skybox_hills_bottom"]    }
+    {    "name":"Холмы день",    "sidesResourcesIds":["skybox_hills_day_right", "skybox_hills_day_back", "skybox_hills_day_left", "skybox_hills_day_front", "skybox_hills_day_top", "skybox_hills_day_bottom"]    },
+	{    "name":"Горы день",    "sidesResourcesIds":["skybox_mountains_day_right", "skybox_mountains_day_back", "skybox_mountains_day_left", "skybox_mountains_day_front", "skybox_mountains_day_top", "skybox_mountains_day_bottom"]    }
 
 ]

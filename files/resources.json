@@ -910,12 +910,19 @@
 	
 	
 	
-	{	"id":"skybox_hills_top",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
-	{	"id":"skybox_hills_bottom",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
-	{	"id":"skybox_hills_left",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
-	{	"id":"skybox_hills_back",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
-	{	"id":"skybox_hills_front",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
-	{	"id":"skybox_hills_right",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_hills_day_top",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_hills_day_bottom",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_hills_day_left",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_hills_day_back",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_hills_day_front",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_hills_day_right",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	
+	{	"id":"skybox_mountains_day_back",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_mountains_day_bottom",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_mountains_day_front",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_mountains_day_left",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_mountains_day_right",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_mountains_day_top",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
 	
 	{	"id":"garage_front_side",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
 	
