@@ -1,42 +1,31 @@
 [
 	{
-		"id":"Лето День",
-		"gravity":"1000",
-		"ambientResourceId":"battle",
-		"angleX":"-0.8500000238418579",
-		"angleZ":"2.5",
-		"fogColor":"10543615",
+		"name":"Летний день",
+		"ambientSoundResourceId":"battle",
+		"angleX":"-1",
+		"angleZ":"-0.9",
 		"lightColor":"13090219",
 		"shadowColor":"5530735",
-		"ssaoColor":"2045258",
-		"skyboxRevolutionSpeed":"0",
-		"dustResourceId":"hull_dust_summer"
+		"fogColor":"10543615",
+		"gravity":"1000",
+		"skyBoxRevolutionSpeed":"0",
+		"SSAOColor":"2045258",
+		"dustResourceId":"hull_dust_summer",
+		"dustAlpha":"0.75"
 	},
 	{
-		"id":"Зима День",
+		"name":"Летний вечер",
+		"ambientSoundResourceId":"battle",
+		"angleX":"-0.4",
+		"angleZ":"3.4",
+		"lightColor":"12561303",
+		"shadowColor":"5258280",
+		"fogColor":"11657370",
 		"gravity":"1000",
-		"ambientResourceId":"battle",
-		"angleX":"-0.8500000238418579",
-		"angleZ":"2.5",
-		"fogColor":"15333375",
-		"lightColor":"8419955",
-		"shadowColor":"6184542",
-		"ssaoColor":"2374217",
-		"skyboxRevolutionSpeed":"0",
-		"dustResourceId":"hull_dust_winter"
-	},
-	{
-		"id":"Хэллоуин",
-		"gravity":"1000",
-		"ambientResourceId":"halloween",
-		"angleX":"-0.6000000238418579",
-		"angleZ":"-0.800000011920929",
-		"fogColor":"68116",
-		"lightColor":"3163220",
-		"shadowColor":"1382169",
-		"ssaoColor":"2045258",
-		"skyboxRevolutionSpeed":"0",
-		"dustResourceId":"hull_dust_summer"
+		"skyBoxRevolutionSpeed":"0",
+		"SSAOColor":"3943710",
+		"dustResourceId":"hull_dust_summer",
+		"dustAlpha":"0.75"
 	}
 
 ]
