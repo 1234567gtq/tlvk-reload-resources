@@ -938,6 +938,13 @@
 	{	"id":"skybox_desert_day_right",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"skybox_desert_day_top",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
 	
+	{	"id":"skybox_rio_day_back",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_rio_day_bottom",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_rio_day_front",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_rio_day_left",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_rio_day_right",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_rio_day_top",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	
 	{	"id":"garage_front_side",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
 	
 	
