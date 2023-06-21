@@ -27,6 +27,7 @@
 	{	"id":"hammer_clip_reload",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"hammer_shot",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"hammer_shot_reload",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"notification",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
 	
 	
 	
