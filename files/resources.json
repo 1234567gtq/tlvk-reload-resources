@@ -966,6 +966,13 @@
 	{	"id":"skybox_space_day_right",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"skybox_space_day_top",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
 	
+	{	"id":"skybox_halloween_back",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_halloween_bottom",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_halloween_front",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_halloween_left",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_halloween_right",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_halloween_top",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	
 	{	"id":"garage_front_side",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
 	
 	
