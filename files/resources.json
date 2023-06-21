@@ -980,6 +980,13 @@
 	{	"id":"skybox_new_year_right",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"skybox_new_year_top",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
 	
+	{	"id":"skybox_rio_night_back",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_rio_night_bottom",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_rio_night_front",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_rio_night_left",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_rio_night_right",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_rio_night_top",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	
 	{	"id":"garage_front_side",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
 	
 	
