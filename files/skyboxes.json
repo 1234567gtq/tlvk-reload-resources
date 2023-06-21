@@ -10,6 +10,7 @@
 	{    "name":"Хеллоуин",    "sidesResourcesIds":["skybox_halloween_right", "skybox_halloween_back", "skybox_halloween_left", "skybox_halloween_front", "skybox_halloween_top", "skybox_halloween_bottom"]    },
 	{    "name":"Новый год",    "sidesResourcesIds":["skybox_new_year_right", "skybox_new_year_back", "skybox_new_year_left", "skybox_new_year_front", "skybox_new_year_top", "skybox_new_year_bottom"]    },
 	{    "name":"Рио ночь",    "sidesResourcesIds":["skybox_rio_night_right", "skybox_rio_night_back", "skybox_rio_night_left", "skybox_rio_night_front", "skybox_rio_night_top", "skybox_rio_night_bottom"]    },
-	{    "name":"Холмы ночь",    "sidesResourcesIds":["skybox_hills_night_right", "skybox_hills_night_back", "skybox_hills_night_left", "skybox_hills_night_front", "skybox_hills_night_top", "skybox_hills_night_bottom"]    }
+	{    "name":"Холмы ночь",    "sidesResourcesIds":["skybox_hills_night_right", "skybox_hills_night_back", "skybox_hills_night_left", "skybox_hills_night_front", "skybox_hills_night_top", "skybox_hills_night_bottom"]    },
+	{    "name":"Горы день",    "sidesResourcesIds":["skybox_mountains_night_right", "skybox_mountains_night_back", "skybox_mountains_night_left", "skybox_mountains_night_front", "skybox_mountains_night_top", "skybox_mountains_night_bottom"]    }
 
 ]

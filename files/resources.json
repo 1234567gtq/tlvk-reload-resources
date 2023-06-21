@@ -994,6 +994,13 @@
 	{	"id":"skybox_hills_night_front",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"skybox_hills_night_right",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
 	
+	{	"id":"skybox_mountains_night_back",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_mountains_night_bottom",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_mountains_night_front",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_mountains_night_left",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_mountains_night_right",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"skybox_mountains_night_top",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	
 	{	"id":"garage_front_side",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
 	
 	
