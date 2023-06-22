@@ -849,6 +849,8 @@
 	{	"id":"peru_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	{	"id":"premium",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
 	{	"id":"premium_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
+	{	"id":"algeria",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
+	{	"id":"algeria_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	
 	
 	
