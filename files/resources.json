@@ -839,6 +839,8 @@
 	{	"id":"retina_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	{	"id":"secret_of_the_aliens",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
 	{	"id":"secret_of_the_aliens_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
+	{	"id":"argentina",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
+	{	"id":"argentina_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	
 	
 	
