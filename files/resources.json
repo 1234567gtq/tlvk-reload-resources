@@ -29,6 +29,7 @@
 	{	"id":"hammer_shot_reload",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"notification",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"thunder_hit",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"thunder_shot",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
 	
 	
 	
