@@ -841,6 +841,8 @@
 	{	"id":"secret_of_the_aliens_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	{	"id":"argentina",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
 	{	"id":"argentina_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
+	{	"id":"iceland",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
+	{	"id":"iceland_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	
 	
 	
