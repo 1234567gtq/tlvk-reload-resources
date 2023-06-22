@@ -420,6 +420,7 @@
 	{	"id":"thunder_default_shot_skin_flame",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"thunder_default_shot_skin_fire",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"thunder_default_shot_skin_smoke",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"thunder_default_shot_skin_explosion",	"type":"animated_textures",	"isLocal":"false",	"isLazy":"false"	},
 	
 	
 	
