@@ -857,6 +857,8 @@
 	{	"id":"ecuador_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	{	"id":"sweden",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
 	{	"id":"sweden_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
+	{	"id":"japan",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
+	{	"id":"japan_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	
 	
 	
