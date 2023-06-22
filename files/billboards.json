@@ -62,5 +62,9 @@
 	{	
 		"name":"XI Межклановый Чемпионат (2018)",	
 		"resourceId":"banner_11_clan_championship_2018"
+	},
+	{	
+		"name":"Здесь был Вася",	
+		"resourceId":"banner_vasya"
 	}
 ]
