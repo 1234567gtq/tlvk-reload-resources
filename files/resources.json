@@ -417,6 +417,7 @@
 	
 	{	"id":"thunder_default_shot_skin_tracer",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"thunder_default_shot_skin_mark",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"thunder_default_shot_skin_flame",	"type":"textures",	"isLocal":"false",	"isLazy":"false"	},
 	
 	
 	
