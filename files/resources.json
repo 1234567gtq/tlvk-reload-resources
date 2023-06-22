@@ -845,6 +845,8 @@
 	{	"id":"iceland_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	{	"id":"lord",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
 	{	"id":"lord_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
+	{	"id":"peru",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
+	{	"id":"peru_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	
 	
 	
