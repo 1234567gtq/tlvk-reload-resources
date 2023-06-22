@@ -4,6 +4,10 @@
 		"resourceId":"banner_standard"
 	},
 	{	
+		"name":"Стандартный (новый логотип)",	
+		"resourceId":"banner_standard_new"
+	},
+	{	
 		"name":"14 лет",	
 		"resourceId":"banner_14_years"
 	},
