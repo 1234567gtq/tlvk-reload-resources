@@ -1,5 +1,9 @@
 [
 	{	
+		"name":"Ультра уикенд",	
+		"resourceId":"banner_ultra_weekend"
+	},
+	{	
 		"name":"Стандартный",	
 		"resourceId":"banner_standard"
 	},

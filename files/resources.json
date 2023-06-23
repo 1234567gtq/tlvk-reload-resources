@@ -1572,6 +1572,7 @@
 	{	"id":"banner_11_clan_championship_2018",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"banner_1_april_2023",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"banner_vasya",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
-	{	"id":"banner_new_year_2019",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	}
+	{	"id":"banner_new_year_2019",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"banner_ultra_weekend",	"type":"textures",	"isLocal":"false",	"isLazy":"true"	}
 	
 ]
