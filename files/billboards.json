@@ -1,9 +1,5 @@
 [
 	{	
-		"name":"Ультра уикенд",	
-		"resourceId":"banner_ultra_weekend"
-	},
-	{	
 		"name":"Стандартный",	
 		"resourceId":"banner_standard"
 	},
@@ -58,6 +54,10 @@
 	{	
 		"name":"Летняя распродажа",	
 		"resourceId":"banner_summer_sale"
+	},
+	{	
+		"name":"Ультра уикенд",	
+		"resourceId":"banner_ultra_weekend"
 	},
 	{	
 		"name":"Ультра уикенд 2020-2021",	
