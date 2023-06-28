@@ -6,6 +6,7 @@
 	{    "name":"Рио день",    "sidesResourcesIds":["skybox_rio_day_right", "skybox_rio_day_back", "skybox_rio_day_left", "skybox_rio_day_front", "skybox_rio_day_top", "skybox_rio_day_bottom"]    },
 	{    "name":"Город день",    "sidesResourcesIds":["skybox_urban_day_right", "skybox_urban_day_back", "skybox_urban_day_left", "skybox_urban_day_front", "skybox_urban_day_top", "skybox_urban_day_bottom"]    },
 	{    "name":"Кёльн день",    "sidesResourcesIds":["skybox_cologne_day_right", "skybox_cologne_day_back", "skybox_cologne_day_left", "skybox_cologne_day_front", "skybox_cologne_day_top", "skybox_cologne_day_bottom"]    },
+	{    "name":"Ремастер день",    "sidesResourcesIds":["skybox_remaster_day_right", "skybox_remaster_day_back", "skybox_remaster_day_left", "skybox_remaster_day_front", "skybox_remaster_day_top", "skybox_remaster_day_bottom"]    },
 	{    "name":"Космос",    "sidesResourcesIds":["skybox_space_day_right", "skybox_space_day_back", "skybox_space_day_left", "skybox_space_day_front", "skybox_space_day_top", "skybox_space_day_bottom"]    },
 	{    "name":"Хеллоуин",    "sidesResourcesIds":["skybox_halloween_right", "skybox_halloween_back", "skybox_halloween_left", "skybox_halloween_front", "skybox_halloween_top", "skybox_halloween_bottom"]    },
 	{    "name":"Новый год",    "sidesResourcesIds":["skybox_new_year_right", "skybox_new_year_back", "skybox_new_year_left", "skybox_new_year_front", "skybox_new_year_top", "skybox_new_year_bottom"]    },
