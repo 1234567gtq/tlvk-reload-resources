@@ -87,5 +87,5 @@
 	"GAME_ACTION_TOGGLE_CAMERA_CONTROLLER":"Spectator/follow camera mode",
 	"GAME_ACTION_CAMERA_UP":"Move camera up",
 	"GAME_ACTION_CAMERA_DOWN":"Move camera down",
-	"LANG":"Language:"
+	"LANG":"Language (need a restart):"
 }

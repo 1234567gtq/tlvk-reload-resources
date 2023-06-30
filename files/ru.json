@@ -87,5 +87,5 @@
 	"GAME_ACTION_TOGGLE_CAMERA_CONTROLLER":"Переключить режим камеры",
 	"GAME_ACTION_CAMERA_UP":"Поднять камеру",
 	"GAME_ACTION_CAMERA_DOWN":"Опустить камеру",
-	"LANG":"Язык:"
+	"LANG":"Язык (нужен перезапуск):"
 }
