@@ -52,6 +52,10 @@
 		"resourceId":"banner_discount_weekend"
 	},
 	{	
+		"name":"День космонавтики 2023",	
+		"resourceId":"banner_cosmonautics_day_2023"
+	},
+	{	
 		"name":"День космонавтики",	
 		"resourceId":"banner_cosmonautics_day"
 	},
