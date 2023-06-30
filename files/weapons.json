@@ -271,6 +271,19 @@
 				"sparkleResourceId":"hammer_blood_shot_skin_sparkle",
 				"shotLight":"hammer_blood_shot"
 			}
-			
+		],
+		"thunder":
+		[
+			{
+				"name":"Стандарт",
+				"barrelFlameResourceId":"thunder_default_shot_skin_flame",
+				"barrelFireResourceId":"thunder_default_shot_skin_fire",
+				"barrelSmokeResourceId":"thunder_default_shot_skin_smoke",
+				"explosionResourceId":"thunder_default_shot_skin_explosion",
+				"shellTracerResourceId":"thunder_default_shot_skin_tracer",
+				"shotLight":"thunder_default_shot",
+				"hitLight":"thunder_default_hit",
+				"shellLight":"thunder_default_shell"
+			}
 		]
 }
