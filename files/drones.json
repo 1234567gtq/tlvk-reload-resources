@@ -126,6 +126,12 @@
 		"description":"."
 	},
 	{
+		"name":"Тыква",
+		"previewResourceId":"pumpkin_preview",
+		"resourceId":"pumpkin",
+		"description":"."
+	},
+	{
 		"name":"Дрон турель (Tanki X)",
 		"previewResourceId":"drone_tx_preview",
 		"resourceId":"drone_tx",
