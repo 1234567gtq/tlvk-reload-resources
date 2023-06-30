@@ -870,6 +870,8 @@
 	{	"id":"sweden_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	{	"id":"japan",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
 	{	"id":"japan_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
+	{	"id":"recruit",	"type":"textures",	"isLocal":"false",	"isLazy":"false"   },
+	{	"id":"recruit_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"   },
 	
 	
 	
