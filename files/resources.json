@@ -192,7 +192,7 @@
 	{	"id":"thunder_ut",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"thunder_gt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"thunder_to2.0_m3",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
-	{	"id":"thunder_tx_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"thunder_tx_xt2",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"thunder_tx_dreadnought",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	
 	{	"id":"scorpion_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
