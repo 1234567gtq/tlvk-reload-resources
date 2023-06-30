@@ -12,6 +12,10 @@
 		"resourceId":"banner_standard_new"
 	},
 	{	
+		"name":"13 лет",	
+		"resourceId":"banner_13_years"
+	},
+	{	
 		"name":"14 лет",	
 		"resourceId":"banner_14_years"
 	},
