@@ -10,7 +10,6 @@
 	{	"id":"supply_pickup",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"rankup",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"hopper_wave",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
-	{	"id":"smoky_shot",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"smoky_hit",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"firebird",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"railgun",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
