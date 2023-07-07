@@ -31,6 +31,13 @@
 	{	"id":"thunder_hit",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"thunder_shot",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"thunder_shell_flight",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"smoky_shot",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"smoky_exp",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"smoky_ric1",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"smoky_ric2",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"smoky_ric3",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"smoky_ric4",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"smoky_ric5",	"type":"sounds",	"isLocal":"false",	"isLazy":"false"	},
 	
 	
 	
