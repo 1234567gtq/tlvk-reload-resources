@@ -432,6 +432,7 @@
 	
 	{	"id":"smoky_smoke",	"type":"animated_textures",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"smoky_mark",	"type":"animated_textures",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"smoky_explosion",	"type":"animated_textures",	"isLocal":"false",	"isLazy":"false"	},
 	
 	
 	
