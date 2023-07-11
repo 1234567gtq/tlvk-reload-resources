@@ -1,9 +1,5 @@
 [
 	{	
-		"name":"День НЛО 2023",	
-		"resourceId":"banner_ufo_day_2023"
-	},
-	{	
 		"name":"Стандартный",	
 		"resourceId":"banner_standard"
 	},
@@ -62,6 +58,10 @@
 	{	
 		"name":"День космонавтики",	
 		"resourceId":"banner_cosmonautics_day"
+	},
+	{	
+		"name":"День НЛО 2023",	
+		"resourceId":"banner_ufo_day_2023"
 	},
 	{	
 		"name":"Летняя распродажа",	
