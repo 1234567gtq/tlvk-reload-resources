@@ -1017,6 +1017,15 @@
 		
 	},
 	{	
+		"name":"Чернушка",	
+		"resourceId":"map_chernushka_mm_summer",
+		"previewResourceId":"map_chernushka_mm_summer_preview",		
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+		
+	},
+	{	
 		"name":"Люксембург",	
 		"resourceId":"map_luxembourg_summer",
 		"previewResourceId":"map_luxembourg_summer_preview",		
