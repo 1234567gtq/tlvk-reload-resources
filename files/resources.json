@@ -220,6 +220,7 @@
 	{	"id":"magnum_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	
 	{	"id":"gauss_m3",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
+	{	"id":"gauss_hd",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"gauss_xt",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"gauss_pr",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
 	{	"id":"gauss_ut",	"type":"models",	"isLocal":"false",	"isLazy":"false"	},
@@ -567,6 +568,7 @@
 	{	"id":"railgun_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"magnum_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"gauss_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
+	{	"id":"gauss_hd_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"shaft_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"terminator_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
 	{	"id":"bonk_preview",	"type":"images",	"isLocal":"false",	"isLazy":"true"	},
