@@ -1,0 +1,67 @@
+[
+	{
+		"id":"summer_day",
+		"nameRU":"Летний день",
+		"nameEN":"Summer day",
+		"ambientResourceId":"sound_ambient_summer_day",
+		"angleX":"-1",
+		"angleZ":"-0.9",
+		"lightColor":"13090219",
+		"shadowColor":"5530735",
+		"fogColor":"10543615",
+		"gravity":"1000",
+		"skyBoxRevolutionSpeed":"0",
+		"SSAOColor":"2045258",
+		"dustResourceId":"hull_dust_summer",
+		"dustAlpha":"0.75"
+	},
+	{
+		"id":"summer_evening",
+		"nameRU":"Летний вечер",
+		"nameEN":"Summer evening",
+		"ambientResourceId":"sound_ambient_summer_evening",
+		"angleX":"-0.4",
+		"angleZ":"3.4",
+		"lightColor":"12561303",
+		"shadowColor":"5258280",
+		"fogColor":"10543615",
+		"gravity":"1000",
+		"skyBoxRevolutionSpeed":"0",
+		"SSAOColor":"3943710",
+		"dustResourceId":"hull_dust_summer",
+		"dustAlpha":"0.75"
+	},
+	{
+		"id":"summer_night",
+		"nameRU":"Летняя ночь",
+		"nameEN":"Summer night",
+		"ambientResourceId":"sound_ambient_summer_night",
+		"angleX":"-1",
+		"angleZ":"-0.4",
+		"lightColor":"3163220",
+		"shadowColor":"1382169",
+		"fogColor":"68116",
+		"gravity":"1000",
+		"skyBoxRevolutionSpeed":"0",
+		"SSAOColor":"2045258",
+		"dustResourceId":"hull_dust_summer",
+		"dustAlpha":"0.75"
+	},
+	{
+		"id":"space",
+		"nameRU":"Космический",
+		"nameEN":"Space",
+		"ambientResourceId":"sound_ambient_space",
+		"angleX":"-1",
+		"angleZ":"-0.5",
+		"lightColor":"13090219",
+		"shadowColor":"5530735",
+		"fogColor":"14545407",
+		"gravity":"400",
+		"skyBoxRevolutionSpeed":"0.015",
+		"SSAOColor":"2045258",
+		"dustResourceId":"hull_dust_summer",
+		"dustAlpha":"0.75"
+	}
+
+]

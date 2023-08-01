@@ -1,0 +1,122 @@
+[
+	{	
+		"id":"summer_sport_games_2023",
+		"nameRU":"Summer Sport Games 2023",
+		"nameEN":"Summer Sport Games 2023"
+	},
+	{	
+		"id":"ufo_day_2023",
+		"nameRU":"День НЛО 2023",
+		"nameEN":"UFO day 2023"
+	},
+	{	
+		"id":"standard",
+		"nameRU":"Стандартный",
+		"nameEN":"Standard"
+	},
+	{	
+		"id":"standard_new_logo",
+		"nameRU":"Стандартный (новое лого)",
+		"nameEN":"Standard (new logo)"
+	},
+	{	
+		"id":"13_years",
+		"nameRU":"13 лет",
+		"nameEN":"13 years"
+	},
+	{	
+		"id":"14_years",
+		"nameRU":"14 лет",
+		"nameEN":"14 years"
+	},
+	{	
+		"id":"reloaded",
+		"nameRU":"Reloaded",
+		"nameEN":"Reloaded"
+	},
+	{	
+		"id":"tlvk_reload",
+		"nameRU":"TLVK: Reload",
+		"nameEN":"TLVK: Reload"
+	},
+	{	
+		"id":"tanker's_day_2016",
+		"nameRU":"День танкиста 2016",
+		"nameEN":"Tankers day 2016"
+	},
+	{	
+		"id":"new_year_2019",
+		"nameRU":"Новый Год 2019",
+		"nameEN":"New Year 2019"
+	},
+	{	
+		"id":"new_year_2023",
+		"nameRU":"Новый Год 2023",
+		"nameEN":"New Year 2023"
+	},
+	{	
+		"id":"halloween_2018",
+		"nameRU":"Хеллоуин 2018",
+		"nameEN":"Halloween 2018"
+	},
+	{	
+		"id":"star_week",
+		"nameRU":"Звёздная неделя",
+		"nameEN":"Star week"
+	},
+	{	
+		"id":"8_march_2021",
+		"nameRU":"8 Марта 2021",
+		"nameEN":"8 March 2021"
+	},
+	{	
+		"id":"discount_weekend",
+		"nameRU":"Дисконт уикенд",
+		"nameEN":"Discount_weekend"
+	},
+	{	
+		"id":"cosmonautics_day_2023",
+		"nameRU":"День космонавтики 2023",
+		"nameEN":"Cosmonautics day 2023"
+	},
+	{	
+		"id":"cosmonautics_day",
+		"nameRU":"День космонавтики",
+		"nameEN":"Cosmonautics day"
+	},
+	{	
+		"id":"summer_sale",
+		"nameRU":"Летняя распродажа",
+		"nameEN":"Summer sale"
+	},
+	{	
+		"id":"ultra_weekend",
+		"nameRU":"Ультра уикенд",
+		"nameEN":"Ultra weekend"
+	},
+	{	
+		"id":"ultra_weekend_2020-2021",
+		"nameRU":"Ультра уикенд 2020-2021",
+		"nameEN":"Ultra weekend 2020-2021"
+	},
+	{	
+		"id":"1_april",
+		"nameRU":"День смеха",
+		"nameEN":"1 April"
+	},
+	{	
+		"id":"1_april_2023",
+		"nameRU":"День смеха 2023",
+		"nameEN":"1 April 2023"
+	},
+	{	
+		"id":"xi_clan_championship_2018",
+		"nameRU":"XI Межклановый Чемпионат 2018",
+		"nameEN":"XI Inter-clan Championship 2018"
+	},
+	{	
+		"id":"vasya_was_here",
+		"nameRU":"Здесь был Вася",
+		"nameEN":"Vasya was here"
+	}
+]

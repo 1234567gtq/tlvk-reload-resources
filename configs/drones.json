@@ -1,0 +1,163 @@
+[
+	{
+		"id":"brutus",
+		"nameRU":"Брут",
+		"nameEN":"Brutus",
+		"descriptionRU":"Даёт доступ к припасам в бою. При улучшении дрона усиливает эффект применяемых припасов.",
+		"descriptionEN":"Makes it possible to use supplies in battle. Upgrading this drone boosts the effect of the activated supplies."
+	},
+	{
+		"id":"hyperion",
+		"nameRU":"Гиперион",
+		"nameEN":"Hyperion",
+		"descriptionRU":"Значительно ускоряет перезарядку всех припасов. Расходует больше припасов «Ремкомплект», «Повышенная защита», «Повышенный урон», «Ускорение» и «Мина». При улучшении дрона усиливает эффект применяемых припасов.",
+		"descriptionEN":"Reloads all types of supplies at a much faster rate. This drone consumes additional units of the «Repair kit», «Boosted armor», «Boosted damage», «Speed boost», and «Mine» supplies. Upgrading this drone boosts the effect of the activated supplies."
+	},
+	{
+		"id":"crisis",
+		"nameRU":"Кризис",
+		"nameEN":"Crisis",
+		"descriptionRU":"Значительно усиливает припасы «Повышенная защита», «Повышенный урон» и «Ускорение». В усиленном режиме может находиться только один из этих припасов, остальные отключаются. Расходует больше припасов «Ремкомплект», «Повышенная защита», «Повышенный урон», «Ускорение» и «Мина». При улучшении дрона усиливает эффект применяемых припасов.",
+		"descriptionEN":"Significantly boosts the effects of «Boosted armor», «Boosted damage», and «Speed boost» supplies. Only one type of supply gets boosted at a time, the rest are disabled. This drone consumes additional units of the «Repair kit», «Boosted armor», «Boosted damge», «Speed boost», and «Mine» supplies. Upgrading this drone boosts the effect of the activated supplies."
+	},
+	{
+		"id":"hyperion_xt",
+		"nameRU":"Гиперион XT",
+		"nameEN":"Hyperion XT",
+		"descriptionRU":"Значительно ускоряет перезарядку всех припасов. Расходует больше припасов «Ремкомплект», «Повышенная защита», «Повышенный урон», «Ускорение» и «Мина». При улучшении дрона усиливает эффект применяемых припасов.",
+		"descriptionEN":"Reloads all types of supplies at a much faster rate. This drone consumes additional units of the «Repair kit», «Boosted armor», «Boosted damage», «Speed boost», and «Mine» supplies. Upgrading this drone boosts the effect of the activated supplies."
+	},
+	{
+		"id":"crisis_xt",
+		"nameRU":"Кризис XT",
+		"nameEN":"Crisis XT",
+		"descriptionRU":"Значительно усиливает припасы «Повышенная защита», «Повышенный урон» и «Ускорение». В усиленном режиме может находиться только один из этих припасов, остальные отключаются. Расходует больше припасов «Ремкомплект», «Повышенная защита», «Повышенный урон», «Ускорение» и «Мина». При улучшении дрона усиливает эффект применяемых припасов.",
+		"descriptionEN":"Significantly boosts the effects of «Boosted armor», «Boosted damage», and «Speed boost» supplies. Only one type of supply gets boosted at a time, the rest are disabled. This drone consumes additional units of the «Repair kit», «Boosted armor», «Boosted damge», «Speed boost», and «Mine» supplies. Upgrading this drone boosts the effect of the activated supplies."
+	},
+	{
+		"id":"driver",
+		"nameRU":"Драйвер",
+		"nameEN":"Driver",
+		"descriptionRU":"Ускоряет зарядку овердрайва при уничтожении вражеских танков.",
+		"descriptionEN":"Speeds up Overdrive recharge time when destroying tanks."
+	},
+	{
+		"id":"sprinter",
+		"nameRU":"Спринтер",
+		"nameEN":"Sprinter",
+		"descriptionRU":"При подборе флага, мяча или захвате точки даёт эффект нескольких припасов.",
+		"descriptionEN":"After picking up the flag, the ball or capturing a control point, repairs the tank and gives the effect of Boosted Damage, Boosted Armor and Speed Boost for a short time."
+	},
+	{
+		"id":"assault",
+		"nameRU":"Штурмовик",
+		"nameEN":"Assault",
+		"descriptionRU":"При уничтожении вражеского танка ускоряет перезарядку нескольких припасов.",
+		"descriptionEN":"Destroying an enemy tank reduces cooldown time of all active and recharging supplies."
+	},
+	{
+		"id":"blaster",
+		"nameRU":"Подрывник",
+		"nameEN":"Blaster",
+		"descriptionRU":"Подрывает танк при его гибели или самоуничтожении, нанося урон вражеским танкам вокруг.",
+		"descriptionEN":"Blows up the tank after its destruction or self-destruct, damaging all nearby enemies. Makes self-destruction take 1 second instead of 3."
+	},
+	{
+		"id":"booster",
+		"nameRU":"Бустер",
+		"nameEN":"Booster",
+		"descriptionRU":"Усиливает припас «Повышенный урон». Значительно улучшает наносимый противнику урон. Расходует больше припасов «Повышенная урон». При улучшении дрона усиливает эффект применяемых припасов.",
+		"descriptionEN":"Boosts the «Boosted damage» supply's effect. It significantly increases the damage your tank deals. This drone consumes additional units of the «Boosted damage» supply. Upgrading this drone boosts the effect of the activated supplies."
+	},
+	{
+		"id":"trickster",
+		"nameRU":"Ловкач",
+		"nameEN":"Trickster",
+		"descriptionRU":"Усиливает припас «Ускорение». Значительно повышает максимальную скорость танка. Расходует больше припасов «Ускорение». При улучшении дрона усиливает эффект применяемых припасов.",
+		"descriptionEN":"Boosts the «Speed boost» supply's effect. It significantly increases the maximum speed of your tank. This drone consumes additional units of the «Speed boost» supply. Upgrading this drone boosts the effect of the activated supplies."
+	},
+	{
+		"id":"trooper",
+		"nameRU":"Десантник",
+		"nameEN":"Trooper",
+		"descriptionRU":"На короткое время даёт эффект нескольких припасов при появлении танка.",
+		"descriptionEN":"After spawning, applies to your tank the effects of Boosted Damage, Boosted Armor, and Speed Boost for a short time."
+	},
+	{
+		"id":"miner",
+		"nameRU":"Минёр",
+		"nameEN":"Miner",
+		"descriptionRU":"Позволяет определённому числу мин пережить гибель танка.",
+		"descriptionEN":"Reduces Mine cooldown and allows for a certain number of mines to survive after the owner’s tank was destroyed."
+	},
+	{
+		"id":"lifeguard",
+		"nameRU":"Спасатель",
+		"nameEN":"Lifeguard",
+		"descriptionRU":"При получении смертельного урона предотвращает гибель танка и ремонтирует его.",
+		"descriptionEN":"After receiving fatal damage, protects the tank from destruction and instantly repairs it."
+	},
+	{
+		"id":"saboteur",
+		"nameRU":"Диверсант",
+		"nameEN":"Saboteur",
+		"descriptionRU":"Усиливает припас «Мина». При минировании устанавливает несколько мин сразу на небольшой площади. Расходует больше припасов «Мина». При улучшении дрона усиливает эффект применяемых припасов.",
+		"descriptionEN":"Boosts the «Mine» supply's effect. When activating this type of supplies, multiple mines are placed in a small area. This drone consumes additional units of the «Mine» supply. Upgrading this drone boosts the effect of the activated supplies."
+	},
+	{
+		"id":"defender",
+		"nameRU":"Защитник",
+		"nameEN":"Defender",
+		"descriptionRU":"Усиливает припас «Повышенная защита». Значительно улучшает эффект защиты. Расходует больше припасов «Повышенная защита». При улучшении дрона усиливает эффект применяемых припасов.",
+		"descriptionEN":"Boosts the «Boosted armor» supply's effect. It significantly increases the protection of your tank. This drone consumes additonal units of the «Boosted armor» supply. Upgrading this drone boosts the effect of the activated supplies."
+	},
+	{
+		"id":"engineer",
+		"nameRU":"Инженер",
+		"nameEN":"Engineer",
+		"descriptionRU":"Увеличивает время действия ящиков с бонусами и делится ими с союзниками.",
+		"descriptionEN":"Significantly increases the duration of supply drops and shares the effect of the picked up supply box with all allies."
+	},
+	{
+		"id":"supplier",
+		"nameRU":"Снабженец",
+		"nameEN":"Supplier",
+		"descriptionRU":"Увеличивает время действия некоторых припасов и делится ими с союзниками неподалёку.",
+		"descriptionEN":"Prolongs the active time of the supplies Boosted Damage, Boosted Armor, and Speed Boost, and also shares the effect of activated supplies with nearby allies."
+	},
+	{
+		"id":"mechanic",
+		"nameRU":"Меxаник",
+		"nameEN":"Mechanic",
+		"descriptionRU":"Усиливает припас «Ремкомплект». Улучшает ремонт собственного танка и позволяет ремонтировать союзные танки неподалёку. Расходует больше припасов «Ремкомплект». При улучшении дрона усиливает эффект применяемых припасов.",
+		"descriptionEN":"Boosts the «Repair Kit»'s supply effect. It improves the repairing ability of your tank and lets you repair teammates nearby. This drone consumes additional units of the «Repair Kit» supply. Upgrading this drone boosts the effect of the activated supplies."
+	},
+	{
+		"id":"camper",
+		"nameRU":"Кемпер",
+		"nameEN":"Camper",
+		"descriptionRU":"Значительно ускоряет перезарядку припасов при полном здоровье танка.",
+		"descriptionEN":"Speeds up the recharge time of supplies when the tank is at full health."
+	},
+	{
+		"id":"ufo",
+		"nameRU":"НЛО",
+		"nameEN":"UFO",
+		"descriptionRU":"TODO",
+		"descriptionEN":"TODO"
+	},
+	{
+		"id":"pumpkin",
+		"nameRU":"Тыква",
+		"nameEN":"Pumpkin",
+		"descriptionRU":"TODO",
+		"descriptionEN":"TODO"
+	},
+	{
+		"id":"tx",
+		"nameRU":"Дрон-турель (Tanki X)",
+		"nameEN":"Turret Drone (Tanki X)",
+		"descriptionRU":"Выпускает Дрона, который закрепляется за танком и наносит урон любому врагу в своём радиусе поражения.",
+		"descriptionEN":"Deploys a turret drone, that is locked to the tank and deals damage to any enemy tank in its attack range."
+	}
+]

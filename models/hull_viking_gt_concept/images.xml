@@ -1,0 +1,6 @@
+<images>
+	<image name="lightmap" new-name="hull.jpg"/>
+	<image name="details" new-name="hull.png"/>
+	<image name="wheels_lightmap" new-name="wheels.jpg"/>
+	<image name="wheels_details" new-name="wheels.png"/>
+</images>
