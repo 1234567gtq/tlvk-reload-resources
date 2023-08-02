@@ -160,6 +160,11 @@
 		"nameEN":"XI Inter-clan Championship 2018"
 	},
 	{	
+		"id":"alternativaplatform",
+		"nameRU":"AlternativaPlatform",
+		"nameEN":"AlternativaPlatform"
+	},
+	{	
 		"id":"vasya_was_here",
 		"nameRU":"Здесь был Вася",
 		"nameEN":"Vasya was here"
