@@ -5,11 +5,6 @@
 		"nameEN":"Summer Sport Games 2023"
 	},
 	{	
-		"id":"ufo_day_2023",
-		"nameRU":"День НЛО 2023",
-		"nameEN":"UFO day 2023"
-	},
-	{	
 		"id":"standard",
 		"nameRU":"Стандартный",
 		"nameEN":"Standard"
@@ -85,6 +80,11 @@
 		"nameEN":"Cosmonautics day"
 	},
 	{	
+		"id":"ufo_day_2023",
+		"nameRU":"День НЛО 2023",
+		"nameEN":"UFO day 2023"
+	},
+	{	
 		"id":"summer_sale",
 		"nameRU":"Летняя распродажа",
 		"nameEN":"Summer sale"
@@ -98,6 +98,11 @@
 		"id":"ultra_weekend_2020-2021",
 		"nameRU":"Ультра уикенд 2020-2021",
 		"nameEN":"Ultra weekend 2020-2021"
+	},
+	{	
+		"id":"day_of_the_dead_2021",
+		"nameRU":"День духов 2021",
+		"nameEN":"Day of the Dead 2021"
 	},
 	{	
 		"id":"1_april",
