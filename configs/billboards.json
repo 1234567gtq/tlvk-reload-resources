@@ -59,20 +59,25 @@
 		"nameRU":"Карнавал 2021",
 		"nameEN":"Сarnival 2021"
 	},
+		{	
+		"id":"new_year_2023",
+		"nameRU":"Новый Год 2023",
+		"nameEN":"New Year 2023"
+	},
 	{	
 		"id":"new_year_2019",
 		"nameRU":"Новый Год 2019",
 		"nameEN":"New Year 2019"
 	},
 	{	
-		"id":"new_year_2023",
-		"nameRU":"Новый Год 2023",
-		"nameEN":"New Year 2023"
-	},
-	{	
 		"id":"halloween_2021",
 		"nameRU":"Хеллоуин 2021",
 		"nameEN":"Halloween 2021"
+	},
+	{	
+		"id":"halloween_2019",
+		"nameRU":"Хеллоуин 2019",
+		"nameEN":"Halloween 2019"
 	},
 	{	
 		"id":"halloween_2018",
