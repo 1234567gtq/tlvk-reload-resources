@@ -1371,5 +1371,6 @@
 { "id":"billboard_tanker's_day_2021", "version":"1", "type":"textures",  "isLazy":"true" },
 { "id":"billboard_carnival_2021", "version":"1", "type":"textures",  "isLazy":"true" },
 { "id":"billboard_summer_sport_games_2021", "version":"1", "type":"textures",  "isLazy":"true" },
-{ "id":"billboard_ufo_day_2021", "version":"1", "type":"textures",  "isLazy":"true" }
+{ "id":"billboard_ufo_day_2021", "version":"1", "type":"textures",  "isLazy":"true" },
+{ "id":"billboard_12_years", "version":"1", "type":"textures",  "isLazy":"true" }
 ]

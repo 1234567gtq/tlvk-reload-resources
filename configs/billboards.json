@@ -15,14 +15,19 @@
 		"nameEN":"Standard (new logo)"
 	},
 	{	
+		"id":"14_years",
+		"nameRU":"14 лет",
+		"nameEN":"14 years"
+	},
+	{	
 		"id":"13_years",
 		"nameRU":"13 лет",
 		"nameEN":"13 years"
 	},
 	{	
-		"id":"14_years",
-		"nameRU":"14 лет",
-		"nameEN":"14 years"
+		"id":"12_years",
+		"nameRU":"12 лет",
+		"nameEN":"12 years"
 	},
 	{	
 		"id":"reloaded",
