@@ -85,6 +85,11 @@
 		"nameEN":"Halloween 2018"
 	},
 	{	
+		"id":"valentine's_day_2020",
+		"nameRU":"День святого Валентина 2020",
+		"nameEN":"Valentine's Day 2020"
+	},
+	{	
 		"id":"star_week",
 		"nameRU":"Звёздная неделя",
 		"nameEN":"Star week"
