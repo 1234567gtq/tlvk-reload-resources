@@ -45,6 +45,11 @@
 		"nameEN":"Tankers day 2016"
 	},
 	{	
+		"id":"carnival_2021",
+		"nameRU":"Карнавал 2021",
+		"nameEN":"Сarnival 2021"
+	},
+	{	
 		"id":"new_year_2019",
 		"nameRU":"Новый Год 2019",
 		"nameEN":"New Year 2019"
