@@ -179,7 +179,7 @@
 { "id":"turret_railgun_hd", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_railgun_xt_m3", "version":"2", "type":"models",  "isLazy":"false" },
 { "id":"turret_railgun_lc", "version":"1", "type":"models",  "isLazy":"false" },
-{ "id":"turret_railgun_pr", "version":"1", "type":"models",  "isLazy":"false" },
+{ "id":"turret_railgun_pr", "version":"2", "type":"models",  "isLazy":"false" },
 { "id":"turret_railgun_ut", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_railgun_gt", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_railgun_rl", "version":"2", "type":"models",  "isLazy":"false" },
