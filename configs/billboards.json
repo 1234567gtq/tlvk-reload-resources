@@ -170,6 +170,11 @@
 		"nameEN":"Alternativa"
 	},
 	{	
+		"id":"alternativa3d",
+		"nameRU":"Alternativa3d",
+		"nameEN":"Alternativa3d"
+	},
+	{	
 		"id":"vasya_was_here",
 		"nameRU":"Здесь был Вася",
 		"nameEN":"Vasya was here"
