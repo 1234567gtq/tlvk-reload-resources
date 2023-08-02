@@ -1375,5 +1375,6 @@
 { "id":"billboard_12_years", "version":"1", "type":"textures",  "isLazy":"true" },
 { "id":"billboard_halloween_2019", "version":"1", "type":"textures",  "isLazy":"true" },
 { "id":"billboard_valentine's_day_2020", "version":"1", "type":"textures",  "isLazy":"true" },
-{ "id":"billboard_alternativaplatform", "version":"1", "type":"textures",  "isLazy":"true" }
+{ "id":"billboard_alternativaplatform", "version":"1", "type":"textures",  "isLazy":"true" },
+{ "id":"billboard_alternativa", "version":"1", "type":"textures",  "isLazy":"true" }
 ]
