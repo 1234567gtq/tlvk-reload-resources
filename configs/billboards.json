@@ -50,6 +50,11 @@
 		"nameEN":"New Year 2023"
 	},
 	{	
+		"id":"halloween_2021",
+		"nameRU":"Хеллоуин 2021",
+		"nameEN":"Halloween 2021"
+	},
+	{	
 		"id":"halloween_2018",
 		"nameRU":"Хеллоуин 2018",
 		"nameEN":"Halloween 2018"
