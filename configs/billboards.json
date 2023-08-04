@@ -1,8 +1,8 @@
 [
 	{	
-		"id":"summer_sport_games_2023",
-		"nameRU":"Summer Sport Games 2023",
-		"nameEN":"Summer Sport Games 2023"
+		"id":"ultra_weekend_2023_2",
+		"nameRU":"Ультра уикенд 2023 №2",
+		"nameEN":"Ultra weekend 2023 №2"
 	},
 	{	
 		"id":"standard",
@@ -48,6 +48,11 @@
 		"id":"tanker's_day_2016",
 		"nameRU":"День танкиста 2016",
 		"nameEN":"Tankers day 2016"
+	},
+	{	
+		"id":"summer_sport_games_2023",
+		"nameRU":"Summer Sport Games 2023",
+		"nameEN":"Summer Sport Games 2023"
 	},
 	{	
 		"id":"summer_sport_games_2021",
@@ -130,9 +135,9 @@
 		"nameEN":"Summer sale"
 	},
 	{	
-		"id":"ultra_weekend",
-		"nameRU":"Ультра уикенд",
-		"nameEN":"Ultra weekend"
+		"id":"ultra_weekend_2023",
+		"nameRU":"Ультра уикенд 2023",
+		"nameEN":"Ultra weekend 2023"
 	},
 	{	
 		"id":"ultra_weekend_2020-2021",
