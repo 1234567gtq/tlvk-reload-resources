@@ -40,14 +40,19 @@
 		"nameEN":"TLVK: Reload"
 	},
 	{	
+		"id":"tanker's_day_2022",
+		"nameRU":"День танкиста 2022",
+		"nameEN":"Tanker's day 2022"
+	},
+	{	
 		"id":"tanker's_day_2021",
 		"nameRU":"День танкиста 2021",
-		"nameEN":"Tankers day 2021"
+		"nameEN":"Tanker's day 2021"
 	},
 	{	
 		"id":"tanker's_day_2016",
 		"nameRU":"День танкиста 2016",
-		"nameEN":"Tankers day 2016"
+		"nameEN":"Tanker's day 2016"
 	},
 	{	
 		"id":"summer_sport_games_2023",
