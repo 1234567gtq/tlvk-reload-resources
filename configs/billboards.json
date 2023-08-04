@@ -135,6 +135,11 @@
 		"nameEN":"UFO day 2021"
 	},
 	{	
+		"id":"summer_festival_2022",
+		"nameRU":"Летний фестиваль 2022",
+		"nameEN":"Summer Festival 2022"
+	},
+	{	
 		"id":"summer_sale",
 		"nameRU":"Летняя распродажа",
 		"nameEN":"Summer sale"
