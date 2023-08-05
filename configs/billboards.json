@@ -69,10 +69,15 @@
 		"nameRU":"Карнавал 2021",
 		"nameEN":"Сarnival 2021"
 	},
-		{	
+	{	
 		"id":"new_year_2023",
 		"nameRU":"Новый Год 2023",
 		"nameEN":"New Year 2023"
+	},
+	{	
+		"id":"new_year_2022",
+		"nameRU":"Новый Год 2022",
+		"nameEN":"New Year 2022"
 	},
 	{	
 		"id":"new_year_2019",

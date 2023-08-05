@@ -1380,5 +1380,6 @@
 { "id":"billboard_alternativa3d", "version":"1", "type":"textures",  "isLazy":"true" },
 { "id":"billboard_ultra_weekend_2023_2", "version":"1", "type":"textures",  "isLazy":"true" },
 { "id":"billboard_tanker's_day_2022", "version":"1", "type":"textures",  "isLazy":"true" },
-{ "id":"billboard_summer_festival_2022", "version":"1", "type":"textures",  "isLazy":"true" }
+{ "id":"billboard_summer_festival_2022", "version":"1", "type":"textures",  "isLazy":"true" },
+{ "id":"billboard_new_year_2022", "version":"1", "type":"textures",  "isLazy":"true" }
 ]
