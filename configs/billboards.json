@@ -104,7 +104,7 @@
 		"nameRU":"Хеллоуин 2018",
 		"nameEN":"Halloween 2018"
 	},
-		{	
+	{	
 		"id":"valentine's_day_2022",
 		"nameRU":"День святого Валентина 2022",
 		"nameEN":"Valentine's Day 2022"
@@ -113,6 +113,11 @@
 		"id":"valentine's_day_2020",
 		"nameRU":"День святого Валентина 2020",
 		"nameEN":"Valentine's Day 2020"
+	},
+	{	
+		"id":"iron_days_2022",
+		"nameRU":"День защитника Отечества 2022",
+		"nameEN":"Iron days 2022"
 	},
 	{	
 		"id":"star_week",
