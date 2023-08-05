@@ -85,6 +85,11 @@
 		"nameEN":"New Year 2019"
 	},
 	{	
+		"id":"chinise_new_year_2022",
+		"nameRU":"Китайский Новый Год 2022",
+		"nameEN":"Chinise New Year 2022"
+	},
+	{	
 		"id":"halloween_2021",
 		"nameRU":"Хеллоуин 2021",
 		"nameEN":"Halloween 2021"
