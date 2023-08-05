@@ -1382,5 +1382,6 @@
 { "id":"billboard_tanker's_day_2022", "version":"1", "type":"textures",  "isLazy":"true" },
 { "id":"billboard_summer_festival_2022", "version":"1", "type":"textures",  "isLazy":"true" },
 { "id":"billboard_new_year_2022", "version":"1", "type":"textures",  "isLazy":"true" },
-{ "id":"billboard_chinise_new_year_2022", "version":"1", "type":"textures",  "isLazy":"true" }
+{ "id":"billboard_chinise_new_year_2022", "version":"1", "type":"textures",  "isLazy":"true" },
+{ "id":"valentine's_day_2022", "version":"1", "type":"textures",  "isLazy":"true" }
 ]

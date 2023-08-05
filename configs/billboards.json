@@ -104,6 +104,11 @@
 		"nameRU":"Хеллоуин 2018",
 		"nameEN":"Halloween 2018"
 	},
+		{	
+		"id":"valentine's_day_2022",
+		"nameRU":"День святого Валентина 2022",
+		"nameEN":"Valentine's Day 2022"
+	},
 	{	
 		"id":"valentine's_day_2020",
 		"nameRU":"День святого Валентина 2020",
