@@ -1384,5 +1384,6 @@
 { "id":"billboard_new_year_2022", "version":"1", "type":"textures",  "isLazy":"true" },
 { "id":"billboard_chinise_new_year_2022", "version":"1", "type":"textures",  "isLazy":"true" },
 { "id":"billboard_valentine's_day_2022", "version":"1", "type":"textures",  "isLazy":"true" },
-{ "id":"billboard_iron_days_2022", "version":"1", "type":"textures",  "isLazy":"true" }
+{ "id":"billboard_iron_days_2022", "version":"1", "type":"textures",  "isLazy":"true" },
+{ "id":"billboard_may_holidays_2022", "version":"1", "type":"textures",  "isLazy":"true" }
 ]

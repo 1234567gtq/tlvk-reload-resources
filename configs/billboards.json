@@ -120,6 +120,11 @@
 		"nameEN":"Iron days 2022"
 	},
 	{	
+		"id":"may_holidays_2022",
+		"nameRU":"Майские праздники 2022",
+		"nameEN":"May holidays 2022"
+	},
+	{	
 		"id":"star_week",
 		"nameRU":"Звёздная неделя",
 		"nameEN":"Star week"
