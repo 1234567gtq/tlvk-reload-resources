@@ -235,6 +235,11 @@
 		"nameEN":"The FWA"
 	},
 	{	
+		"id":"volvo_club",
+		"nameRU":"Клуб Volvo",
+		"nameEN":"Volvo club"
+	},
+	{	
 		"id":"alternativaplatform",
 		"nameRU":"AlternativaPlatform",
 		"nameEN":"AlternativaPlatform"
