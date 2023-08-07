@@ -220,6 +220,11 @@
 		"nameEN":"Runet award"
 	},
 	{	
+		"id":"mashable_awards",
+		"nameRU":"Mashable awards",
+		"nameEN":"Mashable awards"
+	},
+	{	
 		"id":"alternativaplatform",
 		"nameRU":"AlternativaPlatform",
 		"nameEN":"AlternativaPlatform"
