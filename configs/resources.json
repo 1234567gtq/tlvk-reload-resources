@@ -1388,5 +1388,6 @@
 { "id":"billboard_may_holidays_2022", "version":"1", "type":"textures",  "isLazy":"true" },
 { "id":"billboard_summer_sport_games_2022", "version":"1", "type":"textures",  "isLazy":"true" },
 { "id":"billboard_ufo_day_2022", "version":"1", "type":"textures",  "isLazy":"true" },
-{ "id":"billboard_circus_day_2022", "version":"1", "type":"textures",  "isLazy":"true" }
+{ "id":"billboard_circus_day_2022", "version":"1", "type":"textures",  "isLazy":"true" },
+{ "id":"billboard_runet_award", "version":"1", "type":"textures",  "isLazy":"true" }
 ]
