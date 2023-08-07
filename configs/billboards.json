@@ -230,6 +230,11 @@
 		"nameEN":"Mashable awards final"
 	},
 	{	
+		"id":"fwa",
+		"nameRU":"The FWA",
+		"nameEN":"The FWA"
+	},
+	{	
 		"id":"alternativaplatform",
 		"nameRU":"AlternativaPlatform",
 		"nameEN":"AlternativaPlatform"
