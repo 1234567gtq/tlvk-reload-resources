@@ -1,10 +1,5 @@
 [
 	{	
-		"id":"ultra_weekend_2023_2",
-		"nameRU":"Ультра уикенд 2023 №2",
-		"nameEN":"Ultra weekend 2023 №2"
-	},
-	{	
 		"id":"standard",
 		"nameRU":"Стандартный",
 		"nameEN":"Standard"
@@ -178,6 +173,11 @@
 		"id":"summer_festival_2022",
 		"nameRU":"Летний фестиваль 2022",
 		"nameEN":"Summer Festival 2022"
+	},
+	{	
+		"id":"ultra_weekend_2023_2",
+		"nameRU":"Ультра уикенд 2023 №2",
+		"nameEN":"Ultra weekend 2023 №2"
 	},
 	{	
 		"id":"summer_sale",
