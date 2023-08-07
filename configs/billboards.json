@@ -225,6 +225,11 @@
 		"nameEN":"Mashable awards"
 	},
 	{	
+		"id":"mashable_awards_final",
+		"nameRU":"Mashable awards final",
+		"nameEN":"Mashable awards final"
+	},
+	{	
 		"id":"alternativaplatform",
 		"nameRU":"AlternativaPlatform",
 		"nameEN":"AlternativaPlatform"
