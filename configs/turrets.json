@@ -283,6 +283,12 @@
 				"iconResourceId":"skin_standard_icon"
 			},
 			{
+				"name":"M3",
+				"resourceId":"turret_hammer_m3",
+				"description":"Стандартные заводские настройки без специальных эффектов.",
+				"iconResourceId":"skin_standard_icon"
+			},
+			{
 				"name":"XT",
 				"resourceId":"turret_hammer_xt",
 				"description":"Грозный Молот XT своим видом напоминает голову носорога. С этим скином в поединке вам не будет равных — нацельте рог на вашего врага и сокрушите его мощным ударом. P.S. При создании этого скина ни один носорог не пострадал.",
