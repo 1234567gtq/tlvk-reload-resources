@@ -73,6 +73,7 @@
 { "id":"hull_viking_xt_hd", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_viking_2.0_m1", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_viking_tx_xt", "version":"1", "type":"models",  "isLazy":"false" },
+{ "id":"hull_viking_m3", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_hunter_hd", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_hunter_hd_without_side_armor", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_hunter_xt", "version":"1", "type":"models",  "isLazy":"false" },
