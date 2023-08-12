@@ -96,6 +96,12 @@
 				"iconResourceId":"skin_standard_icon"
 			},
 			{
+				"name":"M3",
+				"resourceId":"turret_freeze_m3",
+				"description":"Стандартные заводские настройки без специальных эффектов.",
+				"iconResourceId":"skin_standard_icon"
+			},
+			{
 				"name":"XT",
 				"resourceId":"turret_freeze_xt",
 				"description":"Уникальный Фриз XT стилизован под голову мамонта. Крепкие серебряные бивни послужат отличным оружием для нападения или защиты от врагов.",
