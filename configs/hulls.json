@@ -494,6 +494,13 @@
 				"isInvertTracksDirection":"true"
 			},
 			{
+				"name":"M3",
+				"resourceId":"hull_titan_m3",
+				"description":"Стандартные заводские настройки без специальных эффектов.",
+				"iconResourceId":"skin_standard_icon",
+				"isInvertTracksDirection":"true"
+			},
+			{
 				"name":"XT",
 				"resourceId":"hull_titan_xt",
 				"description":"Мифический XT-скин для Титана олицетворяет выносливость и несокрушимость этого корпуса. Скин придаёт своему обладателю по-настоящему титаническую силу. Враги, трепещите!",
