@@ -88,6 +88,12 @@
 				"iconResourceId":"skin_standard_icon"
 			},
 			{
+				"name":"M3",
+				"resourceId":"hull_hornet_m3",
+				"description":"Стандартные заводские настройки без специальных эффектов.",
+				"iconResourceId":"skin_standard_icon"
+			},
+			{
 				"name":"Стандарт (без боковой защиты)",
 				"resourceId":"hull_hornet_hd_without_side_armor",
 				"description":"Стандартные заводские настройки без дополнительной защиты.",
