@@ -295,6 +295,12 @@
 				"iconResourceId":"skin_standard_icon"
 			},
 			{
+				"name":"M3",
+				"resourceId":"hull_hunter_m3",
+				"description":"Стандартные заводские настройки без специальных эффектов.",
+				"iconResourceId":"skin_standard_icon"
+			},
+			{
 				"name":"XT",
 				"resourceId":"hull_hunter_xt",
 				"description":"Боковые пластины Хантера XT напоминают перья хищной птицы, готовой в любой момент отправиться на охоту, и при этом придают танку роскошный внешний вид.",
