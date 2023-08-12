@@ -411,6 +411,13 @@
 				"isInvertTracksDirection":"true"
 			},
 			{
+				"name":"M3",
+				"resourceId":"hull_dictator_m3",
+				"description":"Стандартные заводские настройки без специальных эффектов.",
+				"iconResourceId":"skin_standard_icon",
+				"isInvertTracksDirection":"true"
+			},
+			{
 				"name":"XT",
 				"resourceId":"hull_dictator_xt",
 				"description":"Экипируйте элитный Диктатор XT, и вы легко сможете повести за собой команду, прикрыть союзников, и ничто не ускользнёт от вашего зоркого взгляда. Сияние золотых крыльев по бокам корпуса заметно за километр.",
