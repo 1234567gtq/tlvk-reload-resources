@@ -833,6 +833,12 @@
 				"iconResourceId":"skin_standard_icon"
 			},
 			{
+				"name":"M3",
+				"resourceId":"turret_railgun_m3",
+				"description":"Стандартные заводские настройки без специальных эффектов.",
+				"iconResourceId":"skin_standard_icon"
+			},
+			{
 				"name":"XT",
 				"resourceId":"turret_railgun_xt_m3",
 				"description":"Уникальная Рельса XT примечательна боковым рисунком, стилизованным под голову орла с характерными хищными очертаниями клюва.",
