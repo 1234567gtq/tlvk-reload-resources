@@ -546,6 +546,12 @@
 				"iconResourceId":"skin_standard_icon"
 			},
 			{
+				"name":"M3",
+				"resourceId":"hull_mammoth_m3",
+				"description":"Стандартные заводские настройки без специальных эффектов.",
+				"iconResourceId":"skin_standard_icon"
+			},
+			{
 				"name":"XT",
 				"resourceId":"hull_mammoth_xt",
 				"description":"Элитный Мамонт XT примечателен своим уникальным внешним видом. Корпус закован в золотые пластины, символизирующие стабильность и огромный запас здоровья этого сверхтяжёлого танка.",
