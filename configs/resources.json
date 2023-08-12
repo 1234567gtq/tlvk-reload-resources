@@ -829,6 +829,9 @@
 { "id":"paint_mono_yellow", "version":"1", "type":"textures",  "isLazy":"false"   },
 { "id":"paint_mono_yellow_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 
+{ "id":"paint_gooseberry", "version":"1", "type":"textures",  "isLazy":"false"   },
+{ "id":"paint_gooseberry_preview", "version":"1", "type":"images",  "isLazy":"true"   },
+
 { "id":"paint_spectrum", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
 { "id":"paint_spinner", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
 { "id":"paint_groovy_neon", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
