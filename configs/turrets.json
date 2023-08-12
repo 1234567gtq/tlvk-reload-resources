@@ -199,6 +199,12 @@
 				"iconResourceId":"skin_standard_icon"
 			},
 			{
+				"name":"M3",
+				"resourceId":"turret_isida_m3",
+				"description":"Стандартные заводские настройки без специальных эффектов.",
+				"iconResourceId":"skin_standard_icon"
+			},
+			{
 				"name":"XT",
 				"resourceId":"turret_isida_xt",
 				"description":"Элегантная Изида XT стилизована под голову ворона. Считается, что этот облик достаётся только лучшим боевым медикам, способным молниеносно прийти на помощь раненому бойцу.",

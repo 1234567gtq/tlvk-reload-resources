@@ -138,6 +138,7 @@
 { "id":"turret_isida_lc", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_isida_gt", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_isida_tx_bumblebee-83", "version":"1", "type":"models",  "isLazy":"false" },
+{ "id":"turret_isida_m3", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_tesla_hd", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_tesla_xt", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_tesla_lc", "version":"1", "type":"models",  "isLazy":"false" },
