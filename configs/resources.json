@@ -948,7 +948,7 @@
 { "id":"skybox_remaster_day_front", "version":"1", "type":"textures",  "isLazy":"false" },
 { "id":"skybox_remaster_day_left", "version":"1", "type":"textures",  "isLazy":"false" },
 { "id":"skybox_remaster_day_right", "version":"1", "type":"textures",  "isLazy":"false" },
-{ "id":"skybox_remaster_day_top", "version":"1", "type":"textures",  "isLazy":"false" },
+{ "id":"skybox_remaster_day_top", "version":"2", "type":"textures",  "isLazy":"false" },
 { "id":"skybox_remaster_evening_back", "version":"1", "type":"textures",  "isLazy":"false" },
 { "id":"skybox_remaster_evening_bottom", "version":"1", "type":"textures",  "isLazy":"false" },
 { "id":"skybox_remaster_evening_front", "version":"1", "type":"textures",  "isLazy":"false" },
