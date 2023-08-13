@@ -1017,7 +1017,7 @@
 		
 	},
 	{	
-		"name":"Чернушка",	
+		"name":"Чернушка ММ",	
 		"resourceId":"map_chernushka_mm_summer",
 		"previewResourceId":"map_chernushka_mm_summer_preview",		
 		"skyBox":"Холмы день",	
@@ -1037,6 +1037,14 @@
 		"name":"Люксембург ММ",	
 		"resourceId":"map_luxembourg_mm_summer",
 		"previewResourceId":"map_luxembourg_mm_summer_preview",		
+		"skyBox":"Холмы день",	
+		"theme":"Летний день",	
+		"category":"summer"
+	},
+	{	
+		"name":"Обучение",	
+		"resourceId":"map_tutorial_summer",
+		"previewResourceId":"map_tutorial_summer_preview",		
 		"skyBox":"Холмы день",	
 		"theme":"Летний день",	
 		"category":"summer"
