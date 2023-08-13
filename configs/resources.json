@@ -1364,6 +1364,7 @@
 { "id":"proplib_fence_old", "version":"1", "type":"proplibs",  "isLazy":"true" },
 { "id":"proplib_passage_old", "version":"1", "type":"proplibs",  "isLazy":"true" },
 { "id":"proplib_terrain_old", "version":"1", "type":"proplibs",  "isLazy":"true" },
+{ "id":"proplib_tutorial_hangar", "version":"1", "type":"proplibs",  "isLazy":"true" },
 
 { "id":"billboard_13_years", "version":"1", "type":"textures",  "isLazy":"true" },
 { "id":"billboard_14_years", "version":"1", "type":"textures",  "isLazy":"true" },
