@@ -182,6 +182,7 @@
 { "id":"turret_ricochet_rt", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_ricochet_tx_m2", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_ricochet_m3", "version":"1", "type":"models",  "isLazy":"false" },
+{ "id":"turret_ricochet_m2", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_smoky_hd", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_smoky_xt", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_smoky_lc", "version":"1", "type":"models",  "isLazy":"false" },
