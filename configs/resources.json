@@ -166,6 +166,7 @@
 { "id":"turret_hammer_lc", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_hammer_dc", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_hammer_tx_m0", "version":"1", "type":"models",  "isLazy":"false" },
+{ "id":"turret_hammer_m2", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_twins_hd", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_twins_xt", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_twins_lc", "version":"1", "type":"models",  "isLazy":"false" },
