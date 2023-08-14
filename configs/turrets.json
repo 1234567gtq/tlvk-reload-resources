@@ -617,6 +617,12 @@
 				"iconResourceId":"skin_standard_icon"
 			},
 			{
+				"name":"M2",
+				"resourceId":"turret_smoky_m2",
+				"description":"Стандартные заводские настройки без специальных эффектов.",
+				"iconResourceId":"skin_standard_icon"
+			},
+			{
 				"name":"M3",
 				"resourceId":"turret_smoky_m3",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
