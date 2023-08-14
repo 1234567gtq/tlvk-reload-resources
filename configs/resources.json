@@ -46,6 +46,7 @@
 { "id":"hull_wasp_tx_bumblebee-83", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_wasp_tx_frost", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_wasp_m3", "version":"1", "type":"models",  "isLazy":"false" },
+{ "id":"hull_wasp_m2", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_hornet_hd", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_hornet_hd_without_side_armor", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_hornet_xt_m3", "version":"1", "type":"models",  "isLazy":"false" },
