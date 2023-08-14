@@ -149,6 +149,7 @@
 { "id":"turret_freeze_tx_frost", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_freeze_tx_m0", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_freeze_m3", "version":"1", "type":"models",  "isLazy":"false" },
+{ "id":"turret_freeze_m2", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_isida_hd", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_isida_xt", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_isida_lc", "version":"1", "type":"models",  "isLazy":"false" },
