@@ -121,6 +121,7 @@
 { "id":"hull_mammoth_2.0_m3", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_mammoth_tx_m2", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_mammoth_m3", "version":"1", "type":"models",  "isLazy":"false" },
+{ "id":"hull_mammoth_m2", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_juggernaut_m3", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_juggernaut_xt_fake", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_sonic_hd", "version":"1", "type":"models",  "isLazy":"false" },
