@@ -624,6 +624,12 @@
 				"iconResourceId":"skin_standard_icon"
 			},
 			{
+				"name":"M1",
+				"resourceId":"hull_mammoth_m1",
+				"description":"Стандартные заводские настройки без специальных эффектов.",
+				"iconResourceId":"skin_standard_icon"
+			},
+			{
 				"name":"M2",
 				"resourceId":"hull_mammoth_m2",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
