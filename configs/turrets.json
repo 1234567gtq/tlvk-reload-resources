@@ -223,6 +223,12 @@
 				"iconResourceId":"skin_standard_icon"
 			},
 			{
+				"name":"M1",
+				"resourceId":"turret_isida_m1",
+				"description":"Стандартные заводские настройки без специальных эффектов.",
+				"iconResourceId":"skin_standard_icon"
+			},
+			{
 				"name":"M2",
 				"resourceId":"turret_isida_m2",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
