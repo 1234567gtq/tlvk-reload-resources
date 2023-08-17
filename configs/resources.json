@@ -211,6 +211,7 @@
 { "id":"turret_striker_xt", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_striker_ut", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_striker_m2", "version":"1", "type":"models",  "isLazy":"false" },
+{ "id":"turret_striker_m1", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_vulcan_m3", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_vulcan_xt", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_vulcan_pr", "version":"1", "type":"models",  "isLazy":"false" },
