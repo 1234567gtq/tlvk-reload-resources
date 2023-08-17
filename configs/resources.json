@@ -190,6 +190,7 @@
 { "id":"turret_twins_rt", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_twins_m3", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_twins_m2", "version":"1", "type":"models",  "isLazy":"false" },
+{ "id":"turret_twins_m1", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_ricochet_hd", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_ricochet_xt", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_ricochet_lc", "version":"1", "type":"models",  "isLazy":"false" },
