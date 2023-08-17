@@ -558,6 +558,13 @@
 				"isInvertTracksDirection":"true"
 			},
 			{
+				"name":"M1",
+				"resourceId":"hull_titan_m1",
+				"description":"Стандартные заводские настройки без специальных эффектов.",
+				"iconResourceId":"skin_standard_icon",
+				"isInvertTracksDirection":"true"
+			},
+			{
 				"name":"M2",
 				"resourceId":"hull_titan_m2",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
