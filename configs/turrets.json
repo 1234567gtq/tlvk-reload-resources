@@ -1089,6 +1089,13 @@
 				"type":"magnum"
 			},
 			{
+				"name":"M1",
+				"resourceId":"turret_magnum_m1",
+				"description":"Стандартные заводские настройки без специальных эффектов.",
+				"iconResourceId":"skin_standard_icon",
+				"type":"magnum"
+			},
+			{
 				"name":"M2",
 				"resourceId":"turret_magnum_m2",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
