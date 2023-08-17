@@ -230,6 +230,13 @@
 				"isInvertTracksDirection":"true"
 			},
 			{
+				"name":"M1",
+				"resourceId":"hull_viking_m1",
+				"description":"Стандартные заводские настройки без специальных эффектов.",
+				"iconResourceId":"skin_standard_icon",
+				"isInvertTracksDirection":"true"
+			},
+			{
 				"name":"M2",
 				"resourceId":"hull_viking_m2",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
@@ -323,6 +330,12 @@
 				"name":"Стандарт (без боковой защиты)",
 				"resourceId":"hull_hunter_hd_without_side_armor",
 				"description":"Стандартные заводские настройки без дополнительной защиты.",
+				"iconResourceId":"skin_standard_icon"
+			},
+			{
+				"name":"M1",
+				"resourceId":"hull_hunter_m1",
+				"description":"Стандартные заводские настройки без специальных эффектов.",
 				"iconResourceId":"skin_standard_icon"
 			},
 			{
