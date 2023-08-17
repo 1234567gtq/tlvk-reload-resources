@@ -229,6 +229,7 @@
 { "id":"turret_thunder_tx_dreadnought", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_thunder_m3", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_thunder_m2", "version":"1", "type":"models",  "isLazy":"false" },
+{ "id":"turret_thunder_m1", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_scorpion_hd", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_scorpion_xt", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_railgun_hd", "version":"1", "type":"models",  "isLazy":"false" },
