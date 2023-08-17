@@ -244,6 +244,7 @@
 { "id":"turret_railgun_tx_m2", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_railgun_m3", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_railgun_m2", "version":"3", "type":"models",  "isLazy":"false" },
+{ "id":"turret_railgun_m1", "version":"3", "type":"models",  "isLazy":"false" },
 { "id":"turret_magnum_m3", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_magnum_xt", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_magnum_m2", "version":"1", "type":"models",  "isLazy":"false" },
