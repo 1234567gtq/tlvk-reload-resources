@@ -261,6 +261,7 @@
 { "id":"turret_shaft_lc", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_shaft_tx_m2", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_shaft_m2", "version":"1", "type":"models",  "isLazy":"false" },
+{ "id":"turret_shaft_m1", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_terminator_m3", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_terminator_xt_fake", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_bonk_hd", "version":"1", "type":"models",  "isLazy":"false" },
