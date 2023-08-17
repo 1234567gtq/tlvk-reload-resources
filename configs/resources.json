@@ -255,6 +255,7 @@
 { "id":"turret_gauss_pr", "version":"1", "type":"models" },
 { "id":"turret_gauss_ut", "version":"1", "type":"models" },
 { "id":"turret_gauss_m2", "version":"1", "type":"models" },
+{ "id":"turret_gauss_m1", "version":"1", "type":"models" },
 { "id":"turret_shaft_m3", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_shaft_xt", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_shaft_lc", "version":"1", "type":"models",  "isLazy":"false" },
