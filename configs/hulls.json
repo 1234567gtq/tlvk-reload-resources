@@ -112,6 +112,12 @@
 				"iconResourceId":"skin_standard_icon"
 			},
 			{
+				"name":"M0",
+				"resourceId":"hull_hornet_m0",
+				"description":"Стандартные заводские настройки без специальных эффектов.",
+				"iconResourceId":"skin_standard_icon"
+			},
+			{
 				"name":"M1",
 				"resourceId":"hull_hornet_m1",
 				"description":"Стандартные заводские настройки без специальных эффектов.",
