@@ -118,6 +118,7 @@
 { "id":"hull_ares_xt", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_ares_m0_prototype", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_ares_m1_prototype", "version":"1", "type":"models",  "isLazy":"false" },
+{ "id":"hull_ares_m2_prototype", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_titan_hd", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_titan_hd_without_side_armor", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_titan_xt", "version":"1", "type":"models",  "isLazy":"false" },
