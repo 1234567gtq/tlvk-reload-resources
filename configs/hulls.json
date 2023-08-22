@@ -154,6 +154,12 @@
 				"iconResourceId":"skin_xt_icon"
 			},
 			{
+				"name":"XT M2",
+				"resourceId":"hull_hornet_xt_m2",
+				"description":"Элитный Хорнет XT отличается уникальным внешним видом. Эффектные бронепластины, стилизованные под крылья, подчёркивают его стремительность и элегантность.",
+				"iconResourceId":"skin_xt_icon"
+			},
+			{
 				"name":"Legacy",
 				"resourceId":"hull_hornet_lc",
 				"description":"Легендарный «Хорёк» для любителей олдскула. Это корпус «Хорнет» в старой графике!",
