@@ -1061,6 +1061,12 @@
 				"iconResourceId":"skin_xt_icon"
 			},
 			{
+				"name":"XT M1",
+				"resourceId":"turret_railgun_xt_m1",
+				"description":"Уникальная Рельса XT примечательна боковым рисунком, стилизованным под голову орла с характерными хищными очертаниями клюва.",
+				"iconResourceId":"skin_xt_icon"
+			},
+			{
 				"name":"Legacy",
 				"resourceId":"turret_railgun_lc",
 				"description":"Любимая пушка многих танкистов в новой оболочке, точнее в старой. Legacy-скин для Рельсы напомнит вам, как выглядела эта легендарная пушка в далёком прошлом.",
