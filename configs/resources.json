@@ -35,6 +35,7 @@
 { "id":"sound_terminator_servo", "version":"1", "type":"sounds",  "isLazy":"false" },
 { "id":"sound_terminator_close", "version":"1", "type":"sounds",  "isLazy":"false" },
 { "id":"sound_terminator_open", "version":"1", "type":"sounds",  "isLazy":"false" },
+{ "id":"sound_flamethrower_shot", "version":"1", "type":"sounds",  "isLazy":"false" },
 
 { "id":"arrow_spawn_point", "version":"1", "type":"models" },
 
