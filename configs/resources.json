@@ -492,6 +492,10 @@
 { "id":"shot_skin_flamethrower_pink_particle", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_flamethrower_black_muzzle", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_flamethrower_black_particle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_flamethrower_crimson_muzzle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_flamethrower_crimson_particle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_flamethrower_magma_muzzle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_flamethrower_magma_particle", "version":"1", "type":"multiframe_textures" },
 
 { "id":"hull_dust_summer", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
 { "id":"hull_dust_winter", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
