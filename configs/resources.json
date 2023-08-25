@@ -1515,5 +1515,6 @@
 { "id":"billboard_mashable_awards", "version":"1", "type":"textures",  "isLazy":"true" },
 { "id":"billboard_mashable_awards_final", "version":"1", "type":"textures",  "isLazy":"true" },
 { "id":"billboard_fwa", "version":"1", "type":"textures",  "isLazy":"true" },
-{ "id":"billboard_volvo_club", "version":"1", "type":"textures",  "isLazy":"true" }
+{ "id":"billboard_volvo_club", "version":"1", "type":"textures",  "isLazy":"true" },
+{ "id":"billboard_ultra_weekend_2023_3", "version":"1", "type":"textures",  "isLazy":"true" }
 ]

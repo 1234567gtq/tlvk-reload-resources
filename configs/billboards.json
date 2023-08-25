@@ -175,14 +175,19 @@
 		"nameEN":"Summer Festival 2022-2023"
 	},
 	{	
-		"id":"ultra_weekend_2023_2",
-		"nameRU":"Ультра уикенд 2023 №2",
-		"nameEN":"Ultra weekend 2023 №2"
-	},
-	{	
 		"id":"summer_sale",
 		"nameRU":"Летняя распродажа",
 		"nameEN":"Summer sale"
+	},
+	{	
+		"id":"ultra_weekend_2023_3",
+		"nameRU":"Ультра уикенд 2023 №3",
+		"nameEN":"Ultra weekend 2023 №3"
+	},
+	{	
+		"id":"ultra_weekend_2023_2",
+		"nameRU":"Ультра уикенд 2023 №2",
+		"nameEN":"Ultra weekend 2023 №2"
 	},
 	{	
 		"id":"ultra_weekend_2023",
