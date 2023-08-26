@@ -929,6 +929,9 @@
 { "id":"paint_neo-cubes", "version":"1", "type":"textures",  "isLazy":"false"   },
 { "id":"paint_neo-cubes_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 
+{ "id":"paint_goldolov", "version":"1", "type":"textures",  "isLazy":"false"   },
+{ "id":"paint_goldolov_preview", "version":"1", "type":"images",  "isLazy":"true"   },
+
 { "id":"paint_spectrum", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
 { "id":"paint_spinner", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
 { "id":"paint_groovy_neon", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
