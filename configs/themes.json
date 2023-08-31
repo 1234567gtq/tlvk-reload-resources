@@ -47,6 +47,22 @@
 		"dustResourceId":"hull_dust_summer",
 		"dustAlpha":"0.75"
 	},
+		{
+		"id":"summer_night_html_5",
+		"nameRU":"Летняя ночь (HTML 5)",
+		"nameEN":"Summer night (HTML 5)",
+		"ambientResourceId":"sound_ambient_summer_night",
+		"angleX":"-0.6",
+		"angleZ":"-0.8",
+		"lightColor":"5929110",
+		"shadowColor":"663090",
+		"fogColor":"10543615",
+		"gravity":"1000",
+		"skyBoxRevolutionSpeed":"0",
+		"SSAOColor":"1321528",
+		"dustResourceId":"hull_dust_summer",
+		"dustAlpha":"0.75"
+	},
 	{
 		"id":"space",
 		"nameRU":"Космический",

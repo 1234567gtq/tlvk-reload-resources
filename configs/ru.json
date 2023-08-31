@@ -6,6 +6,17 @@
 	"TIP_4":"Обновление 2.5 - ребрендинг и начало ряда обновлений по \"перезагрузке\" этого проекта.",
 	"TIP_5":"Хочешь поменять параметры управления или графики? Нажми H чтобы открыть настройки.",
 	"TIP_6":"Ты не управляешь танком - ты и есть танк!",
+	"TIP_7":"TLVK был полностью переписан с нуля в обновлении 2.6.",
+	
+	"ALERT_ANSWER_YES":"Да",
+	"ALERT_ANSWER_NO":"Нет",
+	"ALERT_ANSWER_YES_FOR_FOREIGNERS":"Yes",
+	"ALERT_ANSWER_NO_FOR_FOREIGNERS":"No",
+	"ALERT_QUIT":"Выйти из игры?",
+	"ALERT_CHANGE_LANGUAGE":"A restart is required to change the language. Continue?",
+	"ALERT_CLEAR_STORAGE":"Для очистки необходим перезапуск. Продолжить?",
+	"ALERT_EXIT_FROM_BATTLE":"Покинуть битву?",
+	
 	"MAP_LIST":"СПИСОК КАРТ",
 	"SELECTED_MAP":"ВЫБРАННАЯ КАРТА",
 	"SUMMER":"Лето",
@@ -33,6 +44,7 @@
 	"EQUIPPED":"Установлено",
 	"UPGRADE":"Улучшить",
 	"HEADER_UPGRADES":"УЛУЧШЕНИЯ",
+	"SKIN":"Скин",
 	
 	"MASS":"Масса",
 	"DAMPING":"Демпфирование",
@@ -52,6 +64,7 @@
 	"DEBUG_PANEL":"Панель отладки",
 	"SOUND_VOLUME":"Громкость:",
 	"BACKGROUND_SOUND":"Фоновый звук",
+	"CLEAR_STORAGE":"Отчистить сохранение",
 	"HEADER_SETTINGS":"НАСТРОЙКИ",
 	"TAB_GAME":"Игра",
 	"TAB_GRAPHICS":"Графика",
@@ -69,6 +82,8 @@
 	"ANTIALIASING":"Сглаживание",
 	"DYNAMIC_LIGHTING":"Динамическое освещение",
 	"GRAPHICS_AUTO_QUALITY":"Автоматическая настройка качества графики",
+	"3D_BUSHES":"3D-кусты",
+	
 	"MOUSE_CONTROL":"Управление мышью",
 	"MOUSE_SENSITIVITY":"Чувствительность мыши",
 	"MOUSE_INVERSION":"Инверсия мыши по вертикали",
@@ -104,6 +119,5 @@
 	"GAME_ACTION_OPEN_SETTINGS":"Открыть настройки",
 	"GAME_ACTION_TOGGLE_CAMERA_CONTROLLER":"Переключить режим камеры",
 	"GAME_ACTION_CAMERA_UP":"Поднять камеру",
-	"GAME_ACTION_CAMERA_DOWN":"Опустить камеру",
-	"LANG":"Язык (нужен перезапуск):"
+	"GAME_ACTION_CAMERA_DOWN":"Опустить камеру"
 }

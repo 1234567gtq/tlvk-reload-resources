@@ -1,1545 +1,2037 @@
 [
 	{
-		"name":"Огнемёт",
-		"description":"В тесных городских кварталах, когда картина боя напоминает скорее муравейник, нет лучшего оружия, чем Огнемёт. Идеальное оружие в условиях ограниченного пространства. Одинаково красиво сжигает как тяжёлые неповоротливые, так и юркие лёгкие танки. Аккуратно распределяя баллон на несколько целей, можно спалить хоть целый танковый взвод. Даже небольшого запаса зажигательной смеси может оказаться достаточно, чтобы поджечь зазевавшегося противника. После этого можете искать новую цель, противник догорит без вашего вмешательства. Если, конечно, танк не потушат его союзники.",
-		"previewResourceId":"turret_flamethrower_preview",
+		"id":"flamethrower",
+		"nameRU":"Огнемёт",
+		"nameEN":"Firebird",
+		"descriptionRU":"Пушка ближнего боя. Поджигает противников, нанося дополнительный урон.\n\nВ тесных городских кварталах, когда картина боя напоминает скорее муравейник, нет лучшего оружия, чем пушка «Огнемёт». Идеальная штука в условиях ограниченного пространства. Одинаково красиво сжигает как тяжёлые неповоротливые, так и юркие лёгкие танки.\n\nТеоретически, противника может потушить струя фреона пушки «Фриз». На практике, стоит зазеваться на секунду и танк уже сгорел как спичка.",
+		"descriptionEN":"Close range turret. Sets enemies on fire, dealing additional damage.\n\nOn the narrow city streets, when the battle looks more like an ant farm, there is no better weapon than the «Firebird» turret. The ideal turret for limited areas with no space to maneuver. Equally wonderful at putting slow heavy tanks on fire and crisping up fast light hulls.\n\nTheoretically, a freon stream of the «Freeze» turret can extinguish the fire. In practice, you just yawn for a second and your tank has already burnt like a match.",
 		"skins":
 		[
 			{
-				"name":"Стандарт",
-				"resourceId":"turret_flamethrower_hd",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true",
+				"emissionColor":"517374",
+				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"m0",
 				"name":"M0",
-				"resourceId":"turret_flamethrower_m0",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m1",
 				"name":"M1",
-				"resourceId":"turret_flamethrower_m1",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m2",
 				"name":"M2",
-				"resourceId":"turret_flamethrower_m2",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m3",
 				"name":"M3",
-				"resourceId":"turret_flamethrower_m3",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"xt",
 				"name":"XT",
-				"resourceId":"turret_flamethrower_xt",
-				"description":"Уникальный Огнемёт XT украшен оригинальным рисунком, стилизованным под голову огнедышащего дракона с горящими глазами.",
-				"iconResourceId":"skin_xt_icon"
+				"descriptionRU":"Уникальный Огнемёт XT украшен оригинальным рисунком, стилизованным под голову огнедышащего дракона с горящими глазами.",
+				"descriptionEN":"The Unique Firebird XT is embellished with a unique ornament, styled after the head of a fire-breathing dragon with burning eyes.",
+				"icon":"xt"
 			},
 			{
+				"id":"lc",
 				"name":"Legacy",
-				"resourceId":"turret_flamethrower_lc",
-				"description":"Скин, который особенно ценят ветераны Огнемёта. По экологическим причинам в нынешних скинах Огнемёта используется зажигательная смесь только высокой степени очистки, в то время как старые скины можно было заполнить практически всем, что горит. Так что этот Огнемёт не только выглядит антикварно, но и пахнет ностальгией, когда вы стреляете.",
-				"iconResourceId":"skin_lc_icon"
+				"descriptionRU":"Скин, который особенно ценят ветераны Огнемёта. По экологическим причинам в нынешних скинах Огнемёта используется зажигательная смесь только высокой степени очистки, в то время как старые скины можно было заполнить практически всем, что горит. Так что этот Огнемёт не только выглядит антикварно, но и пахнет ностальгией, когда вы стреляете.",
+				"descriptionEN":"Firebird veterans especially prize this skin. For environmental reasons, only high-purity incendiary mix is used in the modern Firebird skins, while old skins could be filled with almost any liquid that burns. So not only does this Firebird look antique, but it also smells of nostalgia when you shoot.",
+				"icon":"lc",
+				"emissionColor":"5884149",
+				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"dc",
 				"name":"Demonic",
-				"resourceId":"turret_flamethrower_dc",
-				"description":"Если ты любитель жутких вечеринок и ярких образов, то новая коллекция скинов в стиле Demonic — как раз то, что ты ищешь! Если начать рассматривать уникальное покрытие этих скинов, можно сильно удивиться используемым материалам. Глаз древней совы, рука злобного хейтера, и всё это под плащом летучей мыши. Конечно, это декорации, но обладатель таких скинов, несомненно, поразит всех на поле боя.",
-				"iconResourceId":"skin_dc_icon"
+				"descriptionRU":"Если ты любитель жутких вечеринок и ярких образов, то новая коллекция скинов в стиле Demonic — как раз то, что ты ищешь! Если начать рассматривать уникальное покрытие этих скинов, можно сильно удивиться используемым материалам. Глаз древней совы, рука злобного хейтера, и всё это под плащом летучей мыши. Конечно, это декорации, но обладатель таких скинов, несомненно, поразит всех на поле боя.",
+				"descriptionEN":"If you are a fan of spooky parties and vivid images, the new Demonic skin collection is exactly what you've been looking for! Take a closer look at the unique coating of these skins, you might be surprised by the materials used. Ancient owl's eye and evil hand hidden under a bat wing. While these may just be decorations, the owner of these skins will undoubtedly amaze everyone on the battlefield.",
+				"icon":"dc",
+				"emissionColor":"15884800",
+				"emissionColorSecond":"16685824",
+				"emissionColorThreshold":"0.4"
 			},
 			{
-				"name":"Demonic (старый)",
-				"resourceId":"turret_flamethrower_dc_old",
-				"description":"Давно искали повод выпустить внутреннего демона наружу? А вот и он. Какой демон с вами сегодня — хитрый чёрт, злая ведьма или таинственный вампир?",
-				"iconResourceId":"skin_dc_icon"
+				"id":"dc_old",
+				"nameRU":"Demonic (старый)",
+				"nameEN":"Demonic (old)",
+				"descriptionRU":"Давно искали повод выпустить внутреннего демона наружу? А вот и он. Какой демон с вами сегодня — хитрый чёрт, злая ведьма или таинственный вампир?",
+				"descriptionEN":"Have you been looking for a way to unleash your inner demon for a long time? Here it is. Which demon will it be today — a cunning imp, an evil witch or a mysterious vampire?",
+				"icon":"dc"
 			},
 			{
-				"name":"M1 (TO 2.0)",
-				"resourceId":"turret_flamethrower_2.0_m1",
-				"description":".",
-				"iconResourceId":"skin_2.0_icon"
+				"id":"2.0_m1",
+				"name":"M1 (Tanki Online 2.0)",
+				"description":"TODO",
+				"icon":"2.0"
 			},
 			{
-				"name":"Dreadnought (Tanki X)",
-				"resourceId":"turret_flamethrower_tx_dreadnought",
-				"description":"Огнемёт — ключ к городским боям. Зарекомендовал себя, когда «Антей» подчинял острова и мегаполисы тихоокеанского региона. Огонь знает своё дело: поджёг танк, двигайся дальше — горючая смесь сожрёт технику врага без помощи со стороны. У тяжёлых танков нет шансов. Кажется, что долгая перезарядка? Можешь поливать врага смесью из неполных баков.",
-				"iconResourceId":"skin_tx_icon"
+				"id":"tx_dreadnought",
+				"nameRU":"Дредноут (Tanki X)",
+				"nameEN":"Dreadnought (Tanki X)",
+				"descriptionRU":"Огнемёт — ключ к городским боям. Зарекомендовал себя, когда «Антей» подчинял острова и мегаполисы тихоокеанского региона. Огонь знает своё дело: поджёг танк, двигайся дальше — горючая смесь сожрёт технику врага без помощи со стороны. У тяжёлых танков нет шансов. Кажется, что долгая перезарядка? Можешь поливать врага смесью из неполных баков.",
+				"descriptionEN":"The Firebird is the key to urban warfare. It proved its effectiveness when Antaeus subdued the islands and metropolitan areas of the Pacific. This turret knows its stuff: set fire to your enemy's tank, and then move on. The burning napalm will devour enemy equipment without need for any outside support. Heavy tanks will have no chance. Does it seem like the weapon is taking too long to recharge? You can still shoot burning napalm at the enemy even from half-filled fuel tanks.",
+				"icon":"tx",
+				"emissionColor":"4521983",
+				"emissionColorThreshold":"0.4"
 			}
 		],
 		"shotSkins":
 		[
 			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
 			},
 			{
-				"name":"Багровый",
-				"description":"Выстрелы багрового цвета несут в себе гнев, который падёт на ваших врагов, словно раскат грома.",
-				"iconResourceId":"shot_skin_flamethrower_crimson_icon"
+				"id":"crimson",
+				"nameRU":"Багровый",
+				"nameEN":"Crimson",
+				"descriptionRU":"Выстрелы багрового цвета несут в себе гнев, который падёт на ваших врагов, словно раскат грома.",
+				"descriptionEN":"This one is crimson, like the color of your wrath in battle."
 			},
 			{
-				"name":"Магма",
-				"description":"Есть краска огненного цвета? Теперь вам нужен пылающий эффект выстрела. А вот и он.",
-				"iconResourceId":"shot_skin_flamethrower_magma_icon"
+				"id":"magma",
+				"nameRU":"Магма",
+				"nameEN":"Magma",
+				"descriptionRU":"Есть краска огненного цвета? Теперь вам нужен пылающий эффект выстрела. А вот и он.",
+				"descriptionEN":"Got a hot paint job? Now you need an equally hot shot color to go with it. Here it is."
 			},
 			{
-				"name":"Чёрный",
-				"description":"Эти выстрелы превращают вражеские танки в точно такие же чёрные угольки.",
-				"iconResourceId":"shot_skin_flamethrower_black_icon"
+				"id":"black",
+				"nameRU":"Чёрный",
+				"nameEN":"Black",
+				"descriptionRU":"Эти выстрелы превращают вражеские танки в точно такие же чёрные угольки.",
+				"descriptionEN":"This one is black, just like the color of your enemy's tank after you've blown it up."
 			},
 			{
-				"name":"Розовый",
-				"description":"Розовый — цвет сочного стейка. Так поджарьте же врагов своими выстрелами!",
-				"iconResourceId":"shot_skin_flamethrower_pink_icon"
+				"id":"pink",
+				"nameRU":"Розовый",
+				"nameEN":"Pink",
+				"descriptionRU":"Розовый — цвет сочного стейка. Так поджарьте же врагов своими выстрелами!",
+				"descriptionEN":"Pink... to leave your enemies roasted just like a medium-cooked steak."
 			}
 		]
 	},
 	{
-		"name":"Фриз",
-		"description":"Концепция этого грозного орудия родилась в глухой русской деревне. Из неисправного холодильника «Север» и пылесоса «Буран» местный кулибин собрал «хладомёт» для игры в снежки. Изобретение заметил рыбачивший в тех краях инженер. После доработки в закрытом научно-исследовательском институте установка превратилась в мощное танковое орудие. Заливая противника химическим составом на основе фреона, пушка наносит урон и замораживает объект, замедляя все его движения. Возможность наглухо заморозить противника и уйти с линии ответного огня позволяет легко противостоять более грозным танкам. Главное — не расходовать баллон впустую, играя в снежки с союзниками. Это, конечно, весело, но у боевого танка всегда есть более важные дела.",
-		"previewResourceId":"turret_freeze_preview",
+		"id":"freeze",
+		"nameRU":"Фриз",
+		"nameEN":"Freeze",
+		"descriptionRU":"Пушка ближнего боя. Замораживает противников, замедляя корпус и башню.\n\nЗаливая противника химическим составом на основе фреона, пушка «Фриз» наносит урон и замораживает объект, замедляя все его движения. Возможность наглухо заморозить противника и уйти с линии ответного огня позволяет легко противостоять более грозным танкам.\n\nГлавное — не расходовать баллон впустую, играя в снежки с союзниками. Это, конечно, весело, но у боевого танка всегда есть более важные дела.",
+		"descriptionEN":"Close range turret. Freezes enemies, slowing down hulls and turrets.\n\nCovering the opponent with a chemical compound based on freon, the «Freeze» turret damages and freezes the target, slowing all of its movement. The ability to fully freeze the enemy and escape its firing range allows fighting more powerful tanks.\n\nThe most important thing to remember - don’t waste your fuel supply on snowball games with your allies. It’s totally fun, of course, but battle tanks have more important things to do.",
 		"skins":
 		[
 			{
-				"name":"Стандарт",
-				"resourceId":"turret_freeze_hd",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true",
+				"emissionColor":"577535",
+				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"m0",
 				"name":"M0",
-				"resourceId":"turret_freeze_m0",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m1",
 				"name":"M1",
-				"resourceId":"turret_freeze_m1",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m2",
 				"name":"M2",
-				"resourceId":"turret_freeze_m2",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m3",
 				"name":"M3",
-				"resourceId":"turret_freeze_m3",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"xt",
 				"name":"XT",
-				"resourceId":"turret_freeze_xt",
-				"description":"Уникальный Фриз XT стилизован под голову мамонта. Крепкие серебряные бивни послужат отличным оружием для нападения или защиты от врагов.",
-				"iconResourceId":"skin_xt_icon"
+				"descriptionRU":"Уникальный Фриз XT стилизован под голову мамонта. Крепкие серебряные бивни послужат отличным оружием для нападения или защиты от врагов.",
+				"descriptionEN":"Unique Freeze XT is designed to look like the head of a mammoth. Sturdy silver tusks will help you as a weapon against the enemies but also create a great protection.",
+				"icon":"xt"
 			},
 			{
+				"id":"xt_hd",
 				"name":"XT HD",
-				"resourceId":"turret_freeze_xt_hd",
-				"description":"Более детально и масштабно прорисованная модель пушки придаёт ей мощный и эффектный вид. Учтены все, даже самые мелкие детали! Зоркий взгляд орла, в который встроен супер технологичный лазерный прицел, позволяет рассмотреть противника даже на самых длинных картах. Мощные бивни мамонта из плиоцена, найденного археологами на секретных раскопках, установлены по бокам пушки, что придаёт ей колоссальное преимущество при столкновении в ближнем бою! Образ получился очень грозным и опасным, соперникам будет точно не по себе, когда они встретят вас на карте.",
-				"iconResourceId":"skin_xt_icon"
+				"descriptionRU":"Более детально и масштабно прорисованная модель пушки придаёт ей мощный и эффектный вид. Учтены все, даже самые мелкие детали! Зоркий взгляд орла, в который встроен супер технологичный лазерный прицел, позволяет рассмотреть противника даже на самых длинных картах. Мощные бивни мамонта из плиоцена, найденного археологами на секретных раскопках, установлены по бокам пушки, что придаёт ей колоссальное преимущество при столкновении в ближнем бою! Образ получился очень грозным и опасным, соперникам будет точно не по себе, когда они встретят вас на карте.",
+				"descriptionEN":"A more detailed and elaborately-drawn model of this turret, giving it a powerful and spectacular look. All the smallest details were taken into account! The watchful eagle eye, which has a built-in laser sight, lets you examine the opponent even when playing on the largest maps. Strong tusks of mammoths of the Pliocene, found during excavations, are installed on the sides of the turret, giving it enormous advantage in close combat! The skin turned out to be very fearsome and dangerous. Your opponent will definitely feel nervous when they meet you in a battle.",
+				"icon":"xt",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"lc",
 				"name":"Legacy",
-				"resourceId":"turret_freeze_lc",
-				"description":"Этот скин, разработанный давным-давно, обходится самыми простыми технологиями. Гладкая броня из толстых стальных пластин надёжно скреплена и обеспечивает наилучшую защиту для встроенных охлаждающих устройств. Хоть они и потребляют много энергии, это не останавливает любителей старой боевой техники.",
-				"iconResourceId":"skin_lc_icon"
+				"descriptionRU":"Этот скин, разработанный давным-давно, обходится самыми простыми технологиями. Гладкая броня из толстых стальных пластин надёжно скреплена и обеспечивает наилучшую защиту для встроенных охлаждающих устройств. Хоть они и потребляют много энергии, это не останавливает любителей старой боевой техники.",
+				"descriptionEN":"Designed eons ago, this skin makes the most of primitive technology. Riveted steel plates provide excellent protection for the onboard cooling apparatus. The extra weight increases fuel consumption dramatically, but that won't stop collectors of old combat antiques.",
+				"icon":"lc"
 			},
 			{
-				"name":"Legacy (до исправления)",
-				"resourceId":"turret_freeze_lc_old",
-				"description":"Этот скин, разработанный давным-давно, обходится самыми простыми технологиями. Гладкая броня из толстых стальных пластин надёжно скреплена и обеспечивает наилучшую защиту для встроенных охлаждающих устройств. Хоть они и потребляют много энергии, это не останавливает любителей старой боевой техники.",
-				"iconResourceId":"skin_lc_icon"
+				"id":"lc_old",
+				"nameRU":"Legacy (до исправления)",
+				"nameEN":"Legacy (before correction)",
+				"descriptionRU":"Этот скин, разработанный давным-давно, обходится самыми простыми технологиями. Гладкая броня из толстых стальных пластин надёжно скреплена и обеспечивает наилучшую защиту для встроенных охлаждающих устройств. Хоть они и потребляют много энергии, это не останавливает любителей старой боевой техники.",
+				"descriptionEN":"Designed eons ago, this skin makes the most of primitive technology. Riveted steel plates provide excellent protection for the onboard cooling apparatus. The extra weight increases fuel consumption dramatically, but that won't stop collectors of old combat antiques.",
+				"icon":"lc"
 			},
 			{
+				"id":"se",
 				"name":"SE",
-				"resourceId":"turret_freeze_se",
-				"description":"Этот скин — новейшая разработка. Специалисты беспрестанно собирают и разбирают его, чтобы довести до совершенства. Чехол прячет пушку от любопытных глаз и защищает внутренние системы на полевых испытаниях, которые она сейчас проходит. Не пытайтесь снять чехол, иначе прототип может выйти из строя!",
-				"iconResourceId":"skin_se_icon"
+				"descriptionRU":"Этот скин — новейшая разработка. Специалисты беспрестанно собирают и разбирают его, чтобы довести до совершенства. Чехол прячет пушку от любопытных глаз и защищает внутренние системы на полевых испытаниях, которые она сейчас проходит. Не пытайтесь снять чехол, иначе прототип может выйти из строя!",
+				"descriptionEN":"This skin is the latest development in turret technology. Specialists constantly assemble and disassemble it to bring it to perfection. The case hides the turret from prying eyes and protects its internal systems from the field trials it is currently undergoing. Do not try to remove the case, otherwise the prototype may fail!",
+				"icon":"se",
+				"emissionColor":"577535",
+				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"ic",
 				"name":"IC",
-				"resourceId":"turret_freeze_ic",
-				"description":"Фриз IC является первооткрывателем новой линейки скинов! Покрытый толстым слоем антарктического льда он внушает леденящий страх и ужас. Выгравированный лучшими мастерами своего дела образ ледяного дракона, который смотрит прямо в душу, и лишь один его взгляд превращает сердца врагов в ледяную глыбу, лишая их возможности мыслить и чувствовать, делая их танки безжизненными роботами. Пусть соперники увидят всю морозную мощь этого ледяного зверя!",
-				"iconResourceId":"skin_ic_icon"
+				"descriptionRU":"Фриз IC является первооткрывателем новой линейки скинов! Покрытый толстым слоем антарктического льда он внушает леденящий страх и ужас. Выгравированный лучшими мастерами своего дела образ ледяного дракона, который смотрит прямо в душу, и лишь один его взгляд превращает сердца врагов в ледяную глыбу, лишая их возможности мыслить и чувствовать, делая их танки безжизненными роботами. Пусть соперники увидят всю морозную мощь этого ледяного зверя!",
+				"descriptionEN":"«Freeze IC» is the pioneer of a new line of skins! A thick top-layer of ice taken from a remote Antarctic glacier inspires enemies with a chilling fear and terror. Engraved by master craftsmen, the imposing figure of an ice wyvern penetrates into the very soul of opponents. A single glance renders their hearts blocks of ice - left without mind or reason to become an aimless, lifeless hulk. Let the enemy witness the full might of this icy beast!",
+				"icon":"ic"
 			},
 			{
-				"name":"Prime",
-				"resourceId":"turret_freeze_pr_fake",
-				"description":".",
-				"iconResourceId":"skin_pr_icon"
+				"id":"pr_fake",
+				"nameRU":"Prime (неофициальный)",
+				"nameEN":"Prime (unofficial)",
+				"description":"TODO",
+				"icon":"pr",
+				"emissionColor":"16747520",
+				"emissionColorSecond":"517374",
+				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"tx_m0",
 				"name":"M0 (Tanki X)",
-				"resourceId":"turret_freeze_tx_m0",
-				"description":"Первые бои за жаркий Иран с применением танков «Х» шли на высоких скоростях маневренной техники. Тогда и появился «Фриз» — оружие контроля на поле битвы. «Не дай врагу двигаться и уйти из-под удара» — базовый принцип этого фреонового оружия, способного замедлить и заморозить технику противника.",
-				"iconResourceId":"skin_tx_icon"
+				"descriptionRU":"Первые бои за жаркий Иран с применением танков «Х» шли на высоких скоростях маневренной техники. Тогда и появился «Фриз» — оружие контроля на поле битвы. «Не дай врагу двигаться и уйти из-под удара» — базовый принцип этого фреонового оружия, способного замедлить и заморозить технику противника.",
+				"descriptionEN":"High-speed «X» Tanks were used effectively during the first battles for Iran. Then the Freeze, a commanding weapon that was able to establish control on the battlefield, appeared. «Do not let the enemy move and escape from your range of fire» is the basic principle of this freon weapon, which is able to slow down and freeze your opponent's equipment.",
+				"icon":"tx",
+				"emissionColor":"4521983",
+				"emissionColorThreshold":"0.6"
 			},
 			{
-				"name":"Фрост (Tanki X)",
-				"resourceId":"turret_freeze_tx_frost",
-				"description":"Первые бои за жаркий Иран с применением танков «Х» шли на высоких скоростях маневренной техники. Тогда и появился «Фриз» — оружие контроля на поле битвы. «Не дай врагу двигаться и уйти из-под удара» — базовый принцип этого фреонового оружия, способного замедлить и заморозить технику противника.",
-				"iconResourceId":"skin_tx_icon"
+				"id":"tx_frost",
+				"nameRU":"Фрост (Tanki X)",
+				"nameEN":"Frost (Tanki X)",
+				"descriptionRU":"Первые бои за жаркий Иран с применением танков «Х» шли на высоких скоростях маневренной техники. Тогда и появился «Фриз» — оружие контроля на поле битвы. «Не дай врагу двигаться и уйти из-под удара» — базовый принцип этого фреонового оружия, способного замедлить и заморозить технику противника.",
+				"descriptionEN":"High-speed «X» Tanks were used effectively during the first battles for Iran. Then the Freeze, a commanding weapon that was able to establish control on the battlefield, appeared. «Do not let the enemy move and escape from your range of fire» is the basic principle of this freon weapon, which is able to slow down and freeze your opponent's equipment.",
+				"icon":"tx",
+				"emissionColor":"65535",
+				"emissionColorThreshold":"0.4"
 			}
 		],
 		"shotSkins":
 		[
 			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
 			},
 			{
-				"name":"Тёмная луна",
-				"description":"Тёмная луна часто считается зловещей приметой. Ваше присутствие на поле битвы послужит врагам предзнаменованием их скорого поражения.",
-				"iconResourceId":"shot_skin_freeze_darkmoon_icon"
+				"id":"darkmoon",
+				"nameRU":"Тёмная луна",
+				"nameEN":"Dark moon",
+				"descriptionRU":"Тёмная луна часто считается зловещей приметой. Ваше присутствие на поле битвы послужит врагам предзнаменованием их скорого поражения.",
+				"descriptionEN":"A dark moon is often a bad omen. Your enemies should feel the same about your presence."
 			},
 			{
-				"name":"Ядовитый",
-				"description":"Ядовитые вещества очень опасны, но вам это только на руку. Превратите поле битвы в токсичный полигон, отравляя врагов своими выстрелами.",
-				"iconResourceId":"shot_skin_freeze_toxic_icon"
+				"id":"toxic",
+				"nameRU":"Ядовитый",
+				"nameEN":"Toxic",
+				"descriptionRU":"Ядовитые вещества очень опасны, но вам это только на руку. Превратите поле битвы в токсичный полигон, отравляя врагов своими выстрелами.",
+				"descriptionEN":"A toxic attitude will get you banned. But it's perfectly fine for your tank to spread toxicity. So have fun with it."
 			},
 			{
-				"name":"Мороз",
-				"description":"Заставьте противников дрожать ещё до того, как они ощутят леденящий холод ваших выстрелов.",
-				"iconResourceId":"shot_skin_freeze_cold_icon"
+				"id":"cold",
+				"nameRU":"Мороз",
+				"nameEN":"Cold",
+				"descriptionRU":"Заставьте противников дрожать ещё до того, как они ощутят леденящий холод ваших выстрелов.",
+				"descriptionEN":"Get your enemies shivering before they even feel your freeze spray."
 			},
 			{
-				"name":"Снег",
-				"description":"«Бой в снежки» — звучит как детская забава... Игры в сторону: обрушьтесь на врагов, словно снежная лавина.",
-				"iconResourceId":"shot_skin_freeze_snow_icon"
+				"id":"snow",
+				"nameRU":"Снег",
+				"nameEN":"Snow",
+				"descriptionRU":"«Бой в снежки» — звучит как детская забава... Игры в сторону: обрушьтесь на врагов, словно снежная лавина.",
+				"descriptionEN":"A snowball fight sounds like fun... but yours will be more like an avalanche."
 			}
 		]
 	},
 	{
-		"name":"Изида",
-		"description":"Развитие квантовой физики и нанотехнологий подарило удивительные возможности простой промышленной сварочной установке. Сердце этой чудо- машины — генератор нанороботов, способных воспроизвести или разрушить структуру любого материала небиологического происхождения. Импульсный излучатель, которым оборудована пушка, позволяет транспортировать наномассу в магнитном канале на расстояние в пару десятков метров. Нанороботы легко распознают цель и либо быстро разбирают броню на молекулы, либо постепенно ремонтируют её. Таким образом, это оружие наносит урон врагам и восстанавливает союзников, что особенно важно при командной игре. К сожалению, отремонтировать собственный танк никак не получится.",
-		"previewResourceId":"turret_isida_preview",
-		"weaponId":"isida",
+		"id":"isida",
+		"nameRU":"Изида",
+		"nameEN":"Isida",
+		"descriptionRU":"Излучатель ближнего боя. Может ремонтировать союзные танки.\n\nПушка «Изида» использует магнитный луч для передачи нанороботов на расстояние в пару десятков метров. Нанороботы легко распознают цель и либо быстро разбирают броню на молекулы, либо постепенно ремонтируют её. Таким образом, это оружие наносит урон врагам и восстанавливает союзников, что особенно важно при командной игре.\n\nРазвитие квантовой физики и нанотехнологий подарило удивительные возможности простой промышленной сварочной установке. Если бы только её можно было использовать для ремонта собственного танка.",
+		"descriptionEN":"Close range emitter. Can repair allied tanks.\n\nThe «Isida» turret uses a magnetic beam to transport nanobots over a distance of several dozen meters. Nanobots can easily recognize the target and either quickly dismantle the armor into molecules or gradually repair it. This way, the weapon deals damage to enemies and repairs allies, which is especially important in team battles.\n\nThe research in quantum physics and nanotechnology has gifted an impressive set of abilities to a simple welding machine straight from the factory. If only it could be used to repair your own tank.",
 		"skins":
 		[
 			{
-				"name":"Стандарт",
-				"resourceId":"turret_isida_hd",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true",
+				"emissionColor":"16745779",
+				"emissionColorSecond":"15772230",
+				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"m0",
 				"name":"M0",
-				"resourceId":"turret_isida_m0",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m1",
 				"name":"M1",
-				"resourceId":"turret_isida_m1",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m2",
 				"name":"M2",
-				"resourceId":"turret_isida_m2",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m3",
 				"name":"M3",
-				"resourceId":"turret_isida_m3",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"xt",
 				"name":"XT",
-				"resourceId":"turret_isida_xt",
-				"description":"Элегантная Изида XT стилизована под голову ворона. Считается, что этот облик достаётся только лучшим боевым медикам, способным молниеносно прийти на помощь раненому бойцу.",
-				"iconResourceId":"skin_xt_icon"
+				"descriptionRU":"Элегантная Изида XT стилизована под голову ворона. Считается, что этот облик достаётся только лучшим боевым медикам, способным молниеносно прийти на помощь раненому бойцу.",
+				"descriptionEN":"This elegant Isida XT is styled to look like the head of a raven. It is worn with pride exclusively by the most dedicated field medics — those who are always in the line of fire to help those in need.",
+				"icon":"xt"
 			},
 			{
+				"id":"lc",
 				"name":"Legacy",
-				"resourceId":"turret_isida_lc",
-				"description":"Скин пополняет простую и красивую ретро-коллекцию. Идеально подойдёт для ценителей старинного вооружения, а также для тех, кто ностальгирует по войнам прошлого. Изида LC — ваша пилюля от тоски по прежним временам.",
-				"iconResourceId":"skin_lc_icon"
+				"descriptionRU":"Скин пополняет простую и красивую ретро-коллекцию. Идеально подойдёт для ценителей старинного вооружения, а также для тех, кто ностальгирует по войнам прошлого. Изида LC — ваша пилюля от тоски по прежним временам.",
+				"descriptionEN":"Isida Legacy Skin replenishes the simple and beautiful retro collection. It is ideal for connoisseurs of vintage equipment and for those who are nostalgic for the wars of the past. Isida LC is your cure for nostalgia for the old days.",
+				"icon":"lc",
+				"emissionColor":"12844928",
+				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"gt",
 				"name":"GT",
-				"resourceId":"turret_isida_gt",
-				"description":"Этот GT скин выглядит по-настоящему зрелищно благодаря своим энергетическим каналам из вольфрама, обёрнутым в стекловолокно ECR. Они транспортируют наномассу из хранилища энергии к магнитному излучателю, наделяя пушку зловещей пульсацией. При выстреле электроды на острие оружия выдвигаются и, кажется, буквально хотят схватить противника, будто челюсти муравья. В свою очередь, металлический сплав, встроенный в броню, не только устойчив к коррозии, но и может использовать наноботов из хранилища памяти для ремонта царапин и вмятин.",
-				"iconResourceId":"skin_gt_icon"
+				"descriptionRU":"Этот GT скин выглядит по-настоящему зрелищно благодаря своим энергетическим каналам из вольфрама, обёрнутым в стекловолокно ECR. Они транспортируют наномассу из хранилища энергии к магнитному излучателю, наделяя пушку зловещей пульсацией. При выстреле электроды на острие оружия выдвигаются и, кажется, буквально хотят схватить противника, будто челюсти муравья. В свою очередь, металлический сплав, встроенный в броню, не только устойчив к коррозии, но и может использовать наноботов из хранилища памяти для ремонта царапин и вмятин.",
+				"descriptionEN":"Energy channels made of tungsten wrapped in ECR glass fibers make this GT skin a real eye-catcher. They transport the nanomass from the energy storage to the magnetic emitter, causing the weapon to pulsate ominously. Electrodes at the tip of the weapon extend when firing, seemingly wanting to literally to grab the opponent as does the mandibles of an ant. In addition, the metal alloy built into the armor is not only corrosion resistant, but can tap nanobots from the reservoir to repair scratches and dents.\n\nIsida GT is truly not suitable for sneak attacks, being one that stands out from a mile away. Rather, a dynamic wheeled hull just demands an extraordinary turret.",
+				"icon":"gt",
+				"emissionColor":"16745779",
+				"emissionColorSecond":"15772230",
+				"emissionColorThreshold":"0.4"
 			},
 			{
-				"name":"Шмель 83 (Tanki X)",
-				"resourceId":"turret_isida_tx_bumblebee-83",
-				"description":"Мобильные ремонтные установки «Изида» применялись на месторождениях кристаллов для ремонта изношенного в экстремальных условиях оборудования. В основе лежит свойство кристаллов восстанавливать свою структуру после получения повреждений. Первые же бои за комплексы обработки кристаллов показали, что «Изида» не только успешно восстанавливает технику, но и пожирает броню танков при правильных настройках оборудования.",
-				"iconResourceId":"skin_tx_icon"
+				"id":"tx_bumblebee-83",
+				"nameRU":"Шмель-83 (Tanki X)",
+				"nameEN":"Bumblebee-83 (Tanki X)",
+				"descriptionRU":"Мобильные ремонтные установки «Изида» применялись на месторождениях кристаллов для ремонта изношенного в экстремальных условиях оборудования. В основе лежит свойство кристаллов восстанавливать свою структуру после получения повреждений. Первые же бои за комплексы обработки кристаллов показали, что «Изида» не только успешно восстанавливает технику, но и пожирает броню танков при правильных настройках оборудования.",
+				"descriptionEN":"Isida mobile repair units have been used to repair worn-out equipment working in the crystal deposits under extreme conditions. These units take advantage of the restorative properties of crystals, which can be used to make repairs to equipment after they receive damage. The first battle for the crystal processing facilities showed that Isida units are not only able to successfully recover mining equipment, but they can also be used to strip armor from tanks when correctly configured.",
+				"icon":"tx",
+				"emissionColor":"4186194",
+				"emissionColorThreshold":"0.6"
 			}
 		],
 		"shotSkins":
 		[
 			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
 			},
 			{
-				"name":"Солнечный",
-				"description":"Солнце дарит свет и тепло. Но самых легкомысленных оно может и испепелить.",
-				"iconResourceId":"shot_skin_isida_sun_icon"
+				"id":"sun",
+				"nameRU":"Солнечный",
+				"nameEN":"Sun",
+				"descriptionRU":"Солнце дарит свет и тепло. Но самых легкомысленных оно может и испепелить.",
+				"descriptionEN":"The sun is warm... it gives life. It will also burn you to a crisp if you take it too lightly."
 			},
 			{
-				"name":"Пламя",
-				"description":"Когда языки пламени от этих выстрелов коснутся ваших противников, они поймут, что жестоко ошиблись, недооценив вас.",
-				"iconResourceId":"shot_skin_isida_fire_icon"
+				"id":"fire",
+				"nameRU":"Пламя",
+				"nameEN":"Fire",
+				"descriptionRU":"Когда языки пламени от этих выстрелов коснутся ваших противников, они поймут, что жестоко ошиблись, недооценив вас.",
+				"descriptionEN":"If your enemies underestimate you, make them realize their mistake with a lick of your fire."
 			},
 			{
-				"name":"Лечение",
-				"description":"Цвет лечения союзников.",
-				"iconResourceId":"shot_skin_isida_heal_icon"
+				"id":"heal",
+				"nameRU":"Лечение",
+				"nameEN":"Heal",
+				"descriptionRU":"Цвет лечения союзников.",
+				"descriptionEN":"The color of healing allies."
 			}
 		]
 	},
 	{
-		"name":"Тесла",
-		"description":"Получить удар током во время эксплуатации танка — задача несложная. Для этого достаточно немного нарушить технику безопасности при активации расходников. А вот повредить танк током уже сложнее. Танки неплохо изолированы и по определению заземлены. Повредить танк током удавалось, воткнув высоковольтный провод прямо в броню. Прототип пушки-тазера был непрактичным по сравнению с другими пушками ближнего боя. Попытки увеличения дальности стрельбы продолжались, впрочем, безуспешно. Всё изменилось, когда были найдены утерянные чертежи особого типа транзисторных катушек, принадлежавшие величайшему из изобретателей — Николе Тесле. Новый трансформатор позволял не только поразить танк высоковольтным разрядом на расстоянии, но и использовать другие танки как промежуточные катушки для увеличения дальности поражения. Случайное короткое замыкание на испытательном стенде породило редчайший феномен ― шаровую молнию. Пренебрегая всеми правилами безопасности, в шаровую молнию был направлен повторный разряд тока. Молния ударила в шар и по цепочке достала до ближайшего ангара, где стояла целая дюжина новеньких танков. Этот случай продемонстрировал неоспоримый тактический потенциал пушки. Нерешённой проблемой осталась необходимость сдавать экзамен по технике безопасности использования высоковольтных транзисторов. Танкисты вынуждены долго возить с собой конспекты и часто используют их в качестве подкладки на сиденье в танке.",
-		"previewResourceId":"turret_tesla_preview",
+		"id":"tesla",
+		"nameRU":"Тесла",
+		"nameEN":"Tesla",
+		"descriptionRU":"Излучатель ближнего боя. Атакует несколько противников цепной молнией.\n\nПушка «Тесла» может использовать любой танк в качестве проводника своей цепной молнии. В том числе и союзные танки, за которыми можно прятаться и всё равно доставать противника электричеством. Чем меньше целей одновременно поражено цепной молнией, тем выше урон каждой отдельной цели.\n\nСлучайное короткое замыкание на испытательном стенде породило редчайший феномен ― шаровую молнию. Пренебрегая всеми правилами безопасности, в шаровую молнию был направлен повторный разряд тока. Молния ударила в шар и по цепочке достала до ближайшего ангара, где сгорела целая дюжина новеньких танков.",
+		"descriptionEN":"Close range emitter. Attacks multiple enemies with chain lightning.\n\nThe «Tesla» turret can use any tank as a conductor for its chain lightning, including allied tanks that you can hide behind, and still reach the enemy with electricity. The fewer the targets hit by chain lightning simultaneously, the greater the damage to each individual target is.\n\nAn unforeseen short circuit on the test bench showed the rarest phenomenon ― a ball of lightning. Ignoring all the safety regulations, engineers shot a chain of lightning straight in the direction of the ball lightning. Lightning struck the ball and continued, reaching the nearest hangar, hitting a whole battalion of brand new tanks inside.",
 		"skins":
 		[
 			{
-				"name":"Стандарт",
-				"resourceId":"turret_tesla_hd",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true"
 			},
 			{
+				"id":"xt",
 				"name":"XT",
-				"resourceId":"turret_tesla_xt",
-				"description":"В чертежах изобретателя Николы Теслы было найдено несколько совершенно пустых пожелтевших страниц. По неосторожности одного из учёных, изучавшего их, на пустые страницы был пролит цитрусовый раствор. Как оказалось, это было не зря! Началась химическая реакция, и на страницах проявились записи, раскрывающие возможные модификации транзисторных катушек.",
-				"iconResourceId":"skin_xt_icon"
+				"descriptionRU":"В чертежах изобретателя Николы Теслы было найдено несколько совершенно пустых пожелтевших страниц. По неосторожности одного из учёных, изучавшего их, на пустые страницы был пролит цитрусовый раствор. Как оказалось, это было не зря! Началась химическая реакция, и на страницах проявились записи, раскрывающие возможные модификации транзисторных катушек.",
+				"descriptionEN":"A few blank yellowed pages were found in the collection of blueprints from the famous inventor Nikola Tesla. As a result of the negligence of one of the scientists examining the found blueprints, a citrus solution was spilled on the pages. As it turned out, it was not in vain. A chemical reaction happened and some notes appeared on the pages, revealing some possible ways of modifying transistor coils. The blueprints were used to create this XT skin for the Tesla turret, which is completely covered with gold. During the experiments, these high voltage charges endured continuous exposure to balls of lightning, forging a totally transformed turret. Not only does Tesla XT feature a more luxurious gold-plated look, it also boasts an improved transfer of electric current.",
+				"icon":"xt"
 			},
 			{
+				"id":"lc",
 				"name":"Legacy",
-				"resourceId":"turret_tesla_lc",
-				"description":"Этот скин Теслы отдает дань уважения началу эпохи электрических войн — классический электрошокер существует уже более 50 лет! Пусть старомодная оболочка этого оружия не пугает вас, внутри оно оснащено передовыми технологиями. Маст-хэв для всех, кто хочет противостоять духу времени и предпочитает четкие очертания.",
-				"iconResourceId":"skin_lc_icon"
+				"descriptionRU":"Этот скин Теслы отдает дань уважения началу эпохи электрических войн — классический электрошокер существует уже более 50 лет! Пусть старомодная оболочка этого оружия не пугает вас, внутри оно оснащено передовыми технологиями. Маст-хэв для всех, кто хочет противостоять духу времени и предпочитает четкие очертания.",
+				"descriptionEN":"This Tesla skin pays tribute to the beginning of the Electric Wars era - the classic stun gun that has been around for over 50 years! Don't let the old-fashioned look of this turret scare you, it's loaded with cutting-edge technology inside. This is a must-have for everyone who wants to resist the spirit of the times and prefer clear shapes.",
+				"icon":"lc"
 			}
 		],
 		"shotSkins":
 		[
 			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
 			}
 		]
 	},
 	{
-		"name":"Молот",
-		"description":"Инженеры-разработчики нестандартно подошли к реализации этой противотанковой пушки. Вместо обычного бронебойного снаряда применяется шрапнельный снаряд с вольфрамовыми стрелами, а система перезарядки заменена на роботизированную барабанную систему заряжания. В результате получился самый надёжный инструмент для забивания танков противника в землю. Как гвозди молотком. Танкисту остаётся только поближе подобраться к противнику, ведь снаряды имеют невысокую кучность при стрельбе на большие дистанции. Высокая плотность вольфрамовых стрел позволяет им рикошетить от твёрдых поверхностей. Из-за низкой массы стрела может отрикошетить не более одного раза. Как правило, этого достаточно, чтобы достать противника за углом или сбить ему прицел, засадив рикошетом сбоку. Или засадить рикошетом в себя, тут уже как повезёт.",
-		"previewResourceId":"turret_hammer_preview",
-		"weaponId":"hammer",
+		"id":"hammer",
+		"nameRU":"Молот",
+		"nameEN":"Hammer",
+		"descriptionRU":"Пушка малой дальности. Использует дробь, которая рикошетит и может поразить несколько противников.\n\nПушка «Молот» использует шрапнельный снаряд с вольфрамовыми стрелами, которые рикошетят от стен и могут поразить несколько противников. Стрелы имеют невысокую кучность при стрельбе на большие дистанции, нужно подобраться к противнику поближе. Также пушка имеет барабан заряжания с кассетой на три быстрых выстрела. Перезарядка возможна только после полного отстрела кассеты.\n\nИз-за низкой массы каждая вольфрамовая стрела может отрикошетить не более одного раза. Как правило, этого достаточно, чтобы достать противника за углом или сбить ему прицел, засадив рикошетом сбоку. Или засадить рикошетом в себя, тут уже как повезёт.",
+		"descriptionEN":"Close range turret. Uses shrapnel, which ricochets and damages several enemies at once.\n\nThe «Hammer» turret uses a shrapnel projectile with tungsten arrows that ricochet off surfaces and can hit several enemies at once. The arrows have low accuracy when firing at long distances, so you need to get closer to the opponent. The turret also has a loading drum magazine for three fast shots. Reloading is available only after the magazine is completely fired.\n\nDue to its low mass, each tungsten arrow can ricochet only once. Usually, it’s enough to get the enemy hiding behind a corner or to kick off its aim by firing at the enemy from the side. Though, you can also ricochet the shot back into yourself, depending on how lucky you are.",
 		"skins":
 		[
 			{
-				"name":"Стандарт",
-				"resourceId":"turret_hammer_hd",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true",
+				"emissionColor":"16009217",
+				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"m0",
 				"name":"M0",
-				"resourceId":"turret_hammer_m0",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m1",
 				"name":"M1",
-				"resourceId":"turret_hammer_m1",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m2",
 				"name":"M2",
-				"resourceId":"turret_hammer_m2",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m3",
 				"name":"M3",
-				"resourceId":"turret_hammer_m3",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"xt",
 				"name":"XT",
-				"resourceId":"turret_hammer_xt",
-				"description":"Грозный Молот XT своим видом напоминает голову носорога. С этим скином в поединке вам не будет равных — нацельте рог на вашего врага и сокрушите его мощным ударом. P.S. При создании этого скина ни один носорог не пострадал.",
-				"iconResourceId":"skin_xt_icon"
+				"descriptionRU":"Грозный Молот XT своим видом напоминает голову носорога. С этим скином в поединке вам не будет равных — нацельте рог на вашего врага и сокрушите его мощным ударом.\n\nP.S. При создании этого скина ни один носорог не пострадал.",
+				"descriptionEN":"Fearsome Hammer XT's look is inspired by the rhino's head. With this skin, nobody can withstand your impact in a fight. Target the enemy and crush it with your powerful strike.\n\nP.S. No rhinoceros was harmed in the making of this skin.",
+				"icon":"xt"
 			},
 			{
+				"id":"lc",
 				"name":"Legacy",
-				"resourceId":"turret_hammer_lc",
-				"description":"Молот, выкованный из сверхпрочного сплава — что может быть опаснее? Только скилловый игрок, в руках которого этот молот окажется!",
-				"iconResourceId":"skin_lc_icon"
+				"descriptionRU":"Молот, выкованный из сверхпрочного сплава — что может быть опаснее? Только скилловый игрок, в руках которого этот молот окажется!",
+				"descriptionEN":"Hammer forged from a super high strength alloy — what could be more dangerous? Only the skillful player who owns it!",
+				"icon":"lc",
+				"emissionColor":"16741907",
+				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"dc",
 				"name":"Demonic",
-				"resourceId":"turret_hammer_dc",
-				"description":"Новичкам придётся несладко. Ничего не подозревая, невинно едешь по миру и вдруг сталкиваешься с этой мёртвой гримасой Молота. Своим суровым убийственным взглядом он исследует жертву, застывшую в страхе смерти, будто олень в свете фар. От такой атаки нежити невозможно спастись, и этот пристальный взгляд навсегда врежется в вашу память.",
-				"iconResourceId":"skin_dc_icon"
+				"descriptionRU":"Новичкам придётся несладко. Ничего не подозревая, невинно едешь по миру и вдруг сталкиваешься с этой мёртвой гримасой Молота. Своим суровым убийственным взглядом он исследует жертву, застывшую в страхе смерти, будто олень в свете фар. От такой атаки нежити невозможно спастись, и этот пристальный взгляд навсегда врежется в вашу память.",
+				"descriptionEN":"Beginners will have a hard time. Suspecting nothing, you innocently ride through the world - and suddenly you meet the dead grimace of this Hammer. With its stern and murderous gaze, it examines the body of a victim frozen in fear of death, like a deer in headlights. You cannot escape from such an attack by the undead and you will be haunted by the memory of this gaze for all eternity.",
+				"icon":"dc",
+				"emissionColor":"15884800",
+				"emissionColorSecond":"16685824",
+				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"tx_m0",
 				"name":"M0 (Tanki X)",
-				"resourceId":"turret_hammer_tx_m0",
-				"description":"Когда «Молот» появился на поле боя под Кунгуром, казалось, что он был в танковых сражениях всегда. В ближнем бою «Молот» — гарантия снести одну башню. На средней дистанции «Молот» — обещание снести несколько. Дробовик танкового типа. И этим всё сказано.",
-				"iconResourceId":"skin_tx_icon"
+				"descriptionRU":"Когда «Молот» появился на поле боя под Кунгуром, казалось, что он был в танковых сражениях всегда. В ближнем бою «Молот» — гарантия снести одну башню. На средней дистанции «Молот» — обещание снести несколько. Дробовик танкового типа. И этим всё сказано.",
+				"descriptionEN":"When the Hammer first appeared during the Battle of Kungur, the opposing sides wondered how they could have conducted tank war without it. When you're in the thick of battle, the Hammer is your ticket to demolishing at least one enemy. When used at medium range, the Hammer can take out a few. Think of it like a tank-mounted shotgun. Enough said.",
+				"icon":"tx"
 			}
 		],
 		"shotSkins":
 		[
 			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
 			},
 			{
-				"name":"Аква",
-				"description":"«Aqua» означает «вода» на латыни. Эта прозрачная текучая жидкость — не только источник жизни: струя воды под давлением приобретает разрушительную мощь. Ваши выстрелы будут такими же опасными.",
-				"iconResourceId":"shot_skin_hammer_aqua_icon"
+				"id":"aqua",
+				"nameRU":"Аква",
+				"nameEN":"Aqua",
+				"descriptionRU":"«Aqua» означает «вода» на латыни. Эта прозрачная текучая жидкость — не только источник жизни: струя воды под давлением приобретает разрушительную мощь. Ваши выстрелы будут такими же опасными.",
+				"descriptionEN":"Aqua... Latin for «water» — fluid, adaptable, but incredibly destructive when applied with focus, just like your shot."
 			},
 			{
-				"name":"Магма",
-				"description":"Есть краска огненного цвета? Теперь вам нужен пылающий эффект выстрела. А вот и он.",
-				"iconResourceId":"shot_skin_hammer_magma_icon"
+				"id":"magma",
+				"nameRU":"Магма",
+				"nameEN":"Magma",
+				"descriptionRU":"Есть краска огненного цвета? Теперь вам нужен пылающий эффект выстрела. А вот и он.",
+				"descriptionEN":"Got a hot paint job? Now you need an equally hot shot color to go with it. Here it is."
 			},
 			{
-				"name":"Пустота",
-				"description":"Пустота — самое подходящее слово для описания того, что останется от противника после того, как вы разнесёте его танк на мелкие кусочки.",
-				"iconResourceId":"shot_skin_hammer_void_icon"
+				"id":"void",
+				"nameRU":"Пустота",
+				"nameEN":"Void",
+				"descriptionRU":"Пустота — самое подходящее слово для описания того, что останется от противника после того, как вы разнесёте его танк на мелкие кусочки.",
+				"descriptionEN":"This one is called \"Void\", because that's exactly what will be left after you've blown your opponent to bits."
 			},
 			{
-				"name":"Ядовитый",
-				"description":"Ядовитые вещества очень опасны, но вам это только на руку. Превратите поле битвы в токсичный полигон, отравляя врагов своими выстрелами.",
-				"iconResourceId":"shot_skin_hammer_toxic_icon"
+				"id":"toxic",
+				"nameRU":"Ядовитый",
+				"nameEN":"Toxic",
+				"descriptionRU":"Ядовитые вещества очень опасны, но вам это только на руку. Превратите поле битвы в токсичный полигон, отравляя врагов своими выстрелами.",
+				"descriptionEN":"A toxic attitude will get you banned. But it's perfectly fine for your tank to spread toxicity. So have fun with it."
 			},
 			{
-				"name":"Затмение",
-				"description":"Точно так же, как луна сливается с солнцем в одно целое при затмении, ваши снаряды пробивают вражескую броню.",
-				"iconResourceId":"shot_skin_hammer_eclipse_icon"
+				"id":"eclipse",
+				"nameRU":"Затмение",
+				"nameEN":"Eclipse",
+				"descriptionRU":"Точно так же, как луна сливается с солнцем в одно целое при затмении, ваши снаряды пробивают вражескую броню.",
+				"descriptionEN":"The moon merges with the sun as one in the sky, just like your bullet with your enemy's armor."
 			},
 			{
-				"name":"Синий",
-				"description":"Синий — это цвет синяков, которые останутся на самолюбии врагов после ваших попаданий.",
-				"iconResourceId":"shot_skin_hammer_blue_icon"
+				"id":"blue",
+				"nameRU":"Синий",
+				"nameEN":"Blue",
+				"descriptionRU":"Синий — это цвет синяков, которые останутся на самолюбии врагов после ваших попаданий.",
+				"descriptionEN":"This one is blue, like the bruises you will leave on your enemy's ego."
 			},
 			{
-				"name":"Кровавый",
-				"description":"Вы не можете пустить кровь танкам, но этот эффект выстрела — отличная альтернатива.",
-				"iconResourceId":"shot_skin_hammer_blood_icon"
+				"id":"blood",
+				"nameRU":"Кровавый",
+				"nameEN":"Blood",
+				"descriptionRU":"Вы не можете пустить кровь танкам, но этот эффект выстрела — отличная альтернатива.",
+				"descriptionEN":"Tanks don't bleed, but here's a good alternative."
 			}
 		]
 	},
 	{
-		"name":"Твинс",
-		"description":"Скорострельный двуствольный плазмомёт вмиг превратит врага в кучу расплавленного железа. Это оружие идеально подходит для динамичного боя на средней и малой дистанциях, но из-за нестабильности плазменных шаров следует избегать стрельбы в упор. Не соблюдая элементарную технику безопасности, можно случайно спалить собственный танк. Система охлаждения плазменных ускорителей и перезарядки конденсаторов спроектирована настолько надёжно, что некоторые танкисты подпирают гашетку любым подручным барахлом, например кирпичом, и никогда не прекращают огонь. Из-за этого злые языки часто называют назойливый звук выстрелов дополнительным поражающим фактором, раздражающим не только противников, но и союзников.",
-		"previewResourceId":"turret_twins_preview",
-		"weaponId":"twins",
+		"id":"twins",
+		"nameRU":"Твинс",
+		"nameEN":"Twins",
+		"descriptionRU":"Двуствольная пушка малой дальности. Имеет очень высокую скорострельность, но медленные снаряды.\n\nСкорострельный двуствольный плазмомёт идеально подходит для динамичного боя на средней и малой дистанциях. Взрыв от плазмы вмиг превратит врагов в кучу расплавленного железа. Необходимо соблюдать технику безопасности и избегать ближнего боя, иначе можно случайно спалить собственный танк.\n\nСистема охлаждения плазменных ускорителей и перезарядки конденсаторов спроектирована настолько надёжно, что некоторые танкисты подпирают гашетку любым подручным барахлом, например кирпичом, и никогда не прекращают огонь. Из-за этого злые языки часто называют назойливый звук выстрелов дополнительным поражающим фактором, раздражающим не только противников, но и союзников.",
+		"descriptionEN":"Double-barreled small range turret. Has a very rapid firing speed, but slow-flying rounds.\n\nThe rapid-fire double-barreled plasmagun is ideal for dynamic fights at medium and short ranges. A plasma explosion will turn the enemy into a pile of molten iron in no time. It is necessary to observe safety measures and avoid close fights or you can easily melt down your own tank.\n\nThe cooling system of plasma chargers and capacitor recharge are designed to be so fail-proof, that some tankers manage to put different questionable objects (e.g. a brick) on the firing trigger to fire it non-stop. Thanks to that, evil rumors describe the sound of this turret shooting as an additional damaging factor, which annoys not only the enemies but allies as well.",
 		"skins":
 		[
 			{
-				"name":"Стандарт",
-				"resourceId":"turret_twins_hd",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true",
+				"emissionColor":"65525",
+				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"m0",
 				"name":"M0",
-				"resourceId":"turret_twins_m0",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m1",
 				"name":"M1",
-				"resourceId":"turret_twins_m1",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m2",
 				"name":"M2",
-				"resourceId":"turret_twins_m2",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m3",
 				"name":"M3",
-				"resourceId":"turret_twins_m3",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"xt",
 				"name":"XT",
-				"resourceId":"turret_twins_xt",
-				"description":"Твинс XT покрыт шкурой динозавра, чудесным образом сохранившейся невредимой в пещерах Южной Африки. Также при изготовлении скина использовалась лава из индонезийских вулканов, благодаря которой плазма приобретает по-настоящему огненную силу!",
-				"iconResourceId":"skin_xt_icon"
+				"descriptionRU":"Твинс XT покрыт шкурой динозавра, чудесным образом сохранившейся невредимой в пещерах Южной Африки. Также при изготовлении скина использовалась лава из индонезийских вулканов, благодаря которой плазма приобретает по-настоящему огненную силу!",
+				"descriptionEN":"Twins XT is covered in the dinosaur hide preserved in the excellent condition among the caves of South Africa. Also infused with lava from the Indonesian volcanos, this skin turns plasma shots into a truly melting firepower!",
+				"icon":"xt"
 			},
 			{
+				"id":"lc",
 				"name":"Legacy",
-				"resourceId":"turret_twins_lc",
-				"description":"Суровая внешность этого скина словно пронзает ледяным взглядом из двух тел, так что аж топливо стынет в трубах. Старая закалка, она такая!",
-				"iconResourceId":"skin_lc_icon"
+				"descriptionRU":"Суровая внешность этого скина словно пронзает ледяным взглядом из двух тел, так что аж топливо стынет в трубах. Старая закалка, она такая!",
+				"descriptionEN":"The harsh appearance of this skin seems to pierce the hearts of enemies with a cold look that comes from the two barrels so that even the fuel freezes in the pipes. That's old school cool!",
+				"icon":"lc"
 			},
 			{
+				"id":"sp",
 				"name":"SteamPunk",
-				"resourceId":"turret_twins_sp",
-				"description":"Скины в стиле стимпанка сделают ваш танк поистине уникальным. Ученые со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберете на себе тысячи восхищенных взглядов. Бронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид. Сочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
-				"iconResourceId":"skin_sp_icon"
+				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным. Ученые со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберете на себе тысячи восхищенных взглядов. Бронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид. Сочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
+				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artifacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only a few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. Bronze plates made of the rarest alloy will make your tank look powerful and fearsome. The combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
+				"icon":"sp"
 			},
 			{
-				"name":"RetroFuture",
-				"resourceId":"turret_twins_rt",
-				"description":"Это смелое сочетание ретро-стиля и футуристических технологий, которое создаёт уникальный дизайн. Этот скин с лёгкостью игнорирует границы времени и привносит в игру элементы дизайна прошлого, сочетая их с современными технологиями. Прямо между двумя дулами орудия расположена высокоточная прицельная система наведения. Как только вражеский танк появляется на пересечении горизонтальной и вертикальной красных линий, единственное, о чём нужно позаботиться владельцу скина — это вовремя зажать кнопку выстрела. А противнику остаётся лишь думать о том, как избежать повторения этой ситуации после респауна. Ослепительный хромированный корпус, оформленный в стиле 80-х, а также неоновая подсветка создают неповторимую атмосферу на поле боя. Этот скин точно удивит и впечатлит всех, кто окажется рядом. Если вы любитель нестандартных решений, получение этого скина должно встать на первое место в вашем списке дел.",
-				"iconResourceId":"skin_rt_icon"
+				"id":"rt",
+				"name":"RT",
+				"descriptionRU":"Это смелое сочетание ретро-стиля и футуристических технологий, которое создаёт уникальный дизайн. Этот скин с лёгкостью игнорирует границы времени и привносит в игру элементы дизайна прошлого, сочетая их с современными технологиями. Прямо между двумя дулами орудия расположена высокоточная прицельная система наведения. Как только вражеский танк появляется на пересечении горизонтальной и вертикальной красных линий, единственное, о чём нужно позаботиться владельцу скина — это вовремя зажать кнопку выстрела. А противнику остаётся лишь думать о том, как избежать повторения этой ситуации после респауна. Ослепительный хромированный корпус, оформленный в стиле 80-х, а также неоновая подсветка создают неповторимую атмосферу на поле боя. Этот скин точно удивит и впечатлит всех, кто окажется рядом. Если вы любитель нестандартных решений, получение этого скина должно встать на первое место в вашем списке дел.",
+				"descriptionEN":"A bold combination of futuristic technology and retro style creates this one-of-a-kind design. This skin easily ignores the boundaries of time, incorporating design elements of a past era with modern technologies.\n\nThere is a high-precision guidance system just right between the two barrels of the turret. As soon as an enemy tank appears at the intersection of the horizontal and vertical red lines, the owner of the skin needs only hold down the fire button, and his turret will do the rest. As for the enemy, he'll really need to figure out a way to avoid repeating this situation after respawning.\n\nThe dazzling 80s-inspired chrome body and neon lighting create a unique atmosphere on the battlefield. Anyone around this skin will definitely be pleasantly surprised and impressed. If you're a fan of non-standard solutions, getting this skin should be the first point on your to-do list.",
+				"icon":"rt"
 			},
 			{
+				"id":"tx_xt",
 				"name":"XT (Tanki X)",
-				"resourceId":"turret_twins_tx_xt",
-				"description":"«Твинс» стала одной из первых пушек будущего корпорации «Антей». Появилась она благодаря упавшим с неба кристаллам. Двуствольный плазмомёт — оружие маневренного боя, идеальное для подавления противника огнем. Не даёт врагу возможности сориентироваться и прицелиться под шквальным обстрелом, незаменима в маневренном сражении.",
-				"iconResourceId":"skin_tx_icon"
+				"descriptionRU":"«Твинс» стала одной из первых пушек будущего корпорации «Антей». Появилась она благодаря упавшим с неба кристаллам. Двуствольный плазмомёт — оружие маневренного боя, идеальное для подавления противника огнем. Не даёт врагу возможности сориентироваться и прицелиться под шквальным обстрелом, незаменима в маневренном сражении.",
+				"descriptionEN":"The Twins turret was one of the first guns of the future produced by Antaeus. It was created using the crystals that fell to earth in meteor showers. The double-barrel plasma cannon is a tactical battlefield weapon that is perfect for suppressing enemy fire. Do not let the enemy find their bearings and aim during a heavy bombardment. This is an indispensable weapon for Blitzkrieg warfare.",
+				"icon":"tx"
 			},
 			{
-				"name":"Стимпанк (Tanki X)",
-				"resourceId":"turret_twins_tx_sp",
-				"description":"«Твинс» стала одной из первых пушек будущего корпорации «Антей». Появилась она благодаря упавшим с неба кристаллам. Двуствольный плазмомёт — оружие маневренного боя, идеальное для подавления противника огнем. Не даёт врагу возможности сориентироваться и прицелиться под шквальным обстрелом, незаменима в маневренном сражении.",
-				"iconResourceId":"skin_tx_icon"
+				"id":"tx_sp",
+				"nameRU":"Стимпанк (Tanki X)",
+				"nameEN":"Steampunk (Tanki X)",
+				"descriptionRU":"«Твинс» стала одной из первых пушек будущего корпорации «Антей». Появилась она благодаря упавшим с неба кристаллам. Двуствольный плазмомёт — оружие маневренного боя, идеальное для подавления противника огнем. Не даёт врагу возможности сориентироваться и прицелиться под шквальным обстрелом, незаменима в маневренном сражении.",
+				"descriptionEN":"The Twins turret was one of the first guns of the future produced by Antaeus. It was created using the crystals that fell to earth in meteor showers. The double-barrel plasma cannon is a tactical battlefield weapon that is perfect for suppressing enemy fire. Do not let the enemy find their bearings and aim during a heavy bombardment. This is an indispensable weapon for Blitzkrieg warfare.",
+				"icon":"tx"
 			}
 		],
 		"shotSkins":
 		[
 			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
 			},
 			{
-				"name":"Небесный",
-				"description":"Даже небо, обрушившееся на голову, не так опасно, как ваши смертоносные выстрелы, от которых нет спасения.",
-				"iconResourceId":"shot_skin_twins_sky_icon"
+				"id":"sky",
+				"nameRU":"Небесный",
+				"nameEN":"Sky",
+				"descriptionRU":"Даже небо, обрушившееся на голову, не так опасно, как ваши смертоносные выстрелы, от которых нет спасения.",
+				"descriptionEN":"The sky might not be falling, but your shots should still make your enemies run for cover."
 			},
 			{
-				"name":"Золотой",
-				"description":"Убийственный ливень из сверкающих как золотые слитки снарядов — именно то, чего заслужили ваши противники.",
-				"iconResourceId":"shot_skin_twins_gold_icon"
+				"id":"gold",
+				"nameRU":"Золотой",
+				"nameEN":"Gold",
+				"descriptionRU":"Убийственный ливень из сверкающих как золотые слитки снарядов — именно то, чего заслужили ваши противники.",
+				"descriptionEN":"Make it rain gold... shots, not boxes. Give them what they deserve."
 			},
 			{
-				"name":"Тёмная луна",
-				"description":"Тёмная луна часто считается зловещей приметой. Ваше присутствие на поле битвы послужит врагам предзнаменованием их скорого поражения.",
-				"iconResourceId":"shot_skin_twins_darkmoon_icon"
+				"id":"darkmoon",
+				"nameRU":"Тёмная луна",
+				"nameEN":"Dark moon",
+				"descriptionRU":"Тёмная луна часто считается зловещей приметой. Ваше присутствие на поле битвы послужит врагам предзнаменованием их скорого поражения.",
+				"descriptionEN":"A dark moon is often a bad omen. Your enemies should feel the same about your presence."
 			},
 			{
-				"name":"Лиловый",
-				"description":"Этот угрожающий цвет ваших выстрелов без слов расскажет противникам, что вы не собираетесь с ними шутить.",
-				"iconResourceId":"shot_skin_twins_violet_icon"
+				"id":"violet",
+				"nameRU":"Лиловый",
+				"nameEN":"Violet",
+				"descriptionRU":"Этот угрожающий цвет ваших выстрелов без слов расскажет противникам, что вы не собираетесь с ними шутить.",
+				"descriptionEN":"The ominous color of your shots should be a clear message to your enemies that you're not messing around."
 			},
 			{
-				"name":"Коралловый риф",
-				"description":"За красотой коралла скрывается острая как нож кромка. Ваши выстрелы будут такими же.",
-				"iconResourceId":"shot_skin_twins_coral_icon"
+				"id":"coral",
+				"nameRU":"Коралловый риф",
+				"nameEN":"Coral reef",
+				"descriptionRU":"За красотой коралла скрывается острая как нож кромка. Ваши выстрелы будут такими же.",
+				"descriptionEN":"The coral reef might look pretty, but it cuts like a knife. Your shots should be the same."
 			},
 			{
-				"name":"Разряд",
-				"description":"Дайте вашим противникам знать, что они останутся в шоке от встречи с вами на поле боя.",
-				"iconResourceId":"shot_skin_twins_electric_icon"
+				"id":"electric",
+				"nameRU":"Разряд",
+				"nameEN":"Electric",
+				"descriptionRU":"Дайте вашим противникам знать, что они останутся в шоке от встречи с вами на поле боя.",
+				"descriptionEN":"Let your enemies know that they're in for a shock when they meet you on the battlefield."
 			}
 		]
 	},
 	{
-		"name":"Рикошет",
-		"description":"Плазмомёт «Рикошет» — это новая секретная разработка сибирских учёных. Чтобы поставить пушку на вооружение, команда из 22 специалистов три года работала в подземном бункере без права выхода на поверхность. В итоге получилось уникальное оружие. Оно выпускает плазменные заряды, окутанные «умным» минус-полем. При попадании в танк заряд взрывается, но от других поверхностей отскакивает и продолжает полёт. Таким образом, из Рикошета можно поразить цель, даже не видя её. К сожалению, решить проблемы с безопасностью применения не удалось. Заряд плазмы может элементарно прилететь обратно после рикошета. «Умное» минус-поле всё же недостаточно умное, чтобы отличить собственный танк от вражеского.",
-		"previewResourceId":"turret_ricochet_preview",
+		"id":"ricochet",
+		"nameRU":"Рикошет",
+		"nameEN":"Ricochet",
+		"descriptionRU":"Пушка малой дальности. Плазменные снаряды рикошетят и могут поразить противника за пределами прямой видимости.\n\nПлазмомёт «Рикошет» выпускает плазменные заряды, окутанные «умным» минус-полем. При попадании в танк заряд взрывается, но от других поверхностей отскакивает и продолжает полёт. Таким образом, из «Рикошета» можно поразить цель за укрытиями, даже не видя её.\n\nЧтобы поставить пушку на вооружение, команда из 22 специалистов три года работала в подземном бункере без права выхода на поверхность. К сожалению, решить проблемы с безопасностью применения не удалось. Заряд плазмы может элементарно прилететь обратно после рикошета. «Умное» минус-поле всё же недостаточно умное, чтобы отличить собственный танк от вражеского.",
+		"descriptionEN":"Small range turret. Plasma projectiles ricochet and can damage enemies even out of your field of vision.\n\nThe «Ricochet» plasmagun fires plasma projectiles coated with a “smart” minus-field. The projectile will explode when it hits a tank, but if it hits a solid obstacle, it will bounce off and continue its flight. This way, you can hit targets even if you can’t see them.\n\nTo mass-produce this turret, a team of 22 specialists worked for 3 years straight in an underground bunker without permission to see the sky. Unfortunately, it was impossible to solve one safety issue completely: plasma rounds can easily bounce back after ricocheting. The “smart” minus-field is clever, but not clever enough to distinguish enemy tanks from the user.",
 		"skins":
 		[
 			{
-				"name":"Стандарт",
-				"resourceId":"turret_ricochet_hd",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true",
+				"emissionColor":"16743168",
+				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"m0",
 				"name":"M0",
-				"resourceId":"turret_ricochet_m0",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m1",
 				"name":"M1",
-				"resourceId":"turret_ricochet_m1",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m2",
 				"name":"M2",
-				"resourceId":"turret_ricochet_m2",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m3",
 				"name":"M3",
-				"resourceId":"turret_ricochet_m3",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"xt",
 				"name":"XT",
-				"resourceId":"turret_ricochet_xt",
-				"description":"Рикошет XT стилизован под крокодилью пасть. Крепкие острые зубы заставят ваших врагов сто раз подумать, прежде чем нападать.",
-				"iconResourceId":"skin_xt_icon"
+				"descriptionRU":"Рикошет XT стилизован под крокодилью пасть. Крепкие острые зубы заставят ваших врагов сто раз подумать, прежде чем нападать.",
+				"descriptionEN":"Ricochet XT is made to look like a crocodile maw, with sharp and long teeth that will make your enemies double guess their decision to approach you in future battles.",
+				"icon":"xt"
 			},
 			{
+				"id":"lc",
 				"name":"Legacy",
-				"resourceId":"turret_ricochet_lc",
-				"description":"Мы вернулись в осень 2010 года, отыскали Рикошет и позаимствовали его внешний вид. Теперь Рик в старой графике бродит среди нас.",
-				"iconResourceId":"skin_lc_icon"
+				"descriptionRU":"Мы вернулись в осень 2010 года, отыскали Рикошет и позаимствовали его внешний вид. Теперь Рик в старой графике бродит среди нас.",
+				"descriptionEN":"Ricochet gets a throwback to its very first skin from 2010. Take a trip down memory lane with Ricochet legacy.",
+				"icon":"lc"
 			},
 			{
-				"name":"RetroFuture",
-				"resourceId":"turret_ricochet_rt",
-				"description":"Существует легенда, что эти скины привёз на планету один из танкистов, чей космический корабль потерпел крушение. Ему удалось спастись, добр...",
-				"iconResourceId":"skin_rt_icon"
+				"id":"rt",
+				"name":"RT",
+				"descriptionRU":"Существует легенда, что эти скины привёз на планету один из танкистов, чей космический корабль потерпел крушение. Ему удалось спастись, добравшись по обломкам корабля до спасательной капсулы. Во время полёта он хватал все артефакты, попадавшиеся на его пути, среди которых оказались эти скины. Они получили название «RetroFuture». Глаз не оторвать, правда?",
+				"descriptionEN":"There is a legend that was brought to the planet by a tanker whose spaceship crashed. He managed to survive by climbing over the spaceship's remains to the escape pod. During his space journey, he was collecting all the artifacts on his way, and these skins were one of them. They were named «RetroFuture». They're very good, aren't they?",
+				"icon":"rt"
 			},
 			{
+				"id":"tx_m2",
 				"name":"M2 (Tanki X)",
-				"resourceId":"turret_ricochet_tx_m2",
-				"description":"Ответом на «Твинс» стало новое изобретение красной корпорации — «Рикошет». Запертые в магнитное поле плазменные сгустки отскакивают от препятствий, а орудийные датчики безошибочно определяют контакт с корпусом вражеского танка. Когда в замкнутых городских пространствах не спрятаться от снаряда даже за изгибом улицы или тоннеля, у маневренных танков противника резко снижаются шансы на выживание.",
-				"iconResourceId":"skin_tx_icon"
+				"descriptionRU":"Ответом на «Твинс» стало новое изобретение красной корпорации — «Рикошет». Запертые в магнитное поле плазменные сгустки отскакивают от препятствий, а орудийные датчики безошибочно определяют контакт с корпусом вражеского танка. Когда в замкнутых городских пространствах не спрятаться от снаряда даже за изгибом улицы или тоннеля, у маневренных танков противника резко снижаются шансы на выживание.",
+				"descriptionEN":"The latest development of the red corporation, Ricochet, became the answer to the Twins. Trapped inside a magnetic field, the balls of plasma are able to bounce off obstacles. The weapon's sensors accurately determine when they come in contact with the plating of an enemy tank, and only then do they release their payload. When your enemy can no longer hide from projectile fire in confined urban spaces behind bends in the road or in tunnels, the chance that they will escape is much reduced.",
+				"icon":"tx"
 			}
 		],
 		"shotSkins":
 		[
 			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
 			},
 			{
-				"name":"Золотой",
-				"description":"Убийственный ливень из сверкающих как золотые слитки снарядов — именно то, чего заслужили ваши противники.",
-				"iconResourceId":"shot_skin_ricochet_gold_icon"
+				"id":"gold",
+				"nameRU":"Золотой",
+				"nameEN":"Gold",
+				"descriptionRU":"Убийственный ливень из сверкающих как золотые слитки снарядов — именно то, чего заслужили ваши противники.",
+				"descriptionEN":"Make it rain gold... shots, not boxes. Give them what they deserve."
 			},
 			{
-				"name":"Дымчатый",
-				"description":"Говорят, дыма без огня не бывает. Покажите вашим врагам, что в этом дыму сгорают их мечты о победе в бою.",
-				"iconResourceId":"shot_skin_ricochet_smoke_icon"
+				"id":"smoke",
+				"nameRU":"Дымчатый",
+				"nameEN":"Smoke",
+				"descriptionRU":"Говорят, дыма без огня не бывает. Покажите вашим врагам, что в этом дыму сгорают их мечты о победе в бою.",
+				"descriptionEN":"They say that where there's smoke there's fire. Show your enemies that your smoke also brings pain."
 			},
 			{
-				"name":"Багровый",
-				"description":"Выстрелы багрового цвета несут в себе гнев, который падёт на ваших врагов, словно раскат грома.",
-				"iconResourceId":"shot_skin_ricochet_crimson_icon"
+				"id":"crimson",
+				"nameRU":"Багровый",
+				"nameEN":"Crimson",
+				"descriptionRU":"Выстрелы багрового цвета несут в себе гнев, который падёт на ваших врагов, словно раскат грома.",
+				"descriptionEN":"This one is crimson, like the color of your wrath in battle."
 			},
 			{
-				"name":"Магма",
-				"description":"Есть краска огненного цвета? Теперь вам нужен пылающий эффект выстрела. А вот и он.",
-				"iconResourceId":"shot_skin_ricochet_magma_icon"
+				"id":"magma",
+				"nameRU":"Магма",
+				"nameEN":"Magma",
+				"descriptionRU":"Есть краска огненного цвета? Теперь вам нужен пылающий эффект выстрела. А вот и он.",
+				"descriptionEN":"Got a hot paint job? Now you need an equally hot shot color to go with it. Here it is."
 			},
 			{
-				"name":"Ядовитый",
-				"description":"Ядовитые вещества очень опасны, но вам это только на руку. Превратите поле битвы в токсичный полигон, отравляя врагов своими выстрелами.",
-				"iconResourceId":"shot_skin_ricochet_toxic_icon"
+				"id":"toxic",
+				"nameRU":"Ядовитый",
+				"nameEN":"Toxic",
+				"descriptionRU":"Ядовитые вещества очень опасны, но вам это только на руку. Превратите поле битвы в токсичный полигон, отравляя врагов своими выстрелами.",
+				"descriptionEN":"A toxic attitude will get you banned. But it's perfectly fine for your tank to spread toxicity. So have fun with it."
 			},
 			{
-				"name":"Лиловый",
-				"description":"Дайте вашим противникам знать, что они останутся в шоке от встречи с вами на поле боя.",
-				"iconResourceId":"shot_skin_ricochet_violet_icon"
+				"id":"violet",
+				"nameRU":"Лиловый",
+				"nameEN":"Violet",
+				"descriptionRU":"Этот угрожающий цвет ваших выстрелов без слов расскажет противникам, что вы не собираетесь с ними шутить.",
+				"descriptionEN":"The ominous color of your shots should be a clear message to your enemies that you're not messing around."
 			},
 			{
-				"name":"Аква",
-				"description":"«Aqua» означает «вода» на латыни. Эта прозрачная текучая жидкость — не только источник жизни: струя воды под давлением приобретает разрушительную мощь. Ваши выстрелы будут такими же опасными.",
-				"iconResourceId":"shot_skin_ricochet_aqua_icon"
+				"id":"aqua",
+				"nameRU":"Аква",
+				"nameEN":"Aqua",
+				"descriptionRU":"«Aqua» означает «вода» на латыни. Эта прозрачная текучая жидкость — не только источник жизни: струя воды под давлением приобретает разрушительную мощь. Ваши выстрелы будут такими же опасными.",
+				"descriptionEN":"Aqua... Latin for «water» — fluid, adaptable, but incredibly destructive when applied with focus, just like your shot."
 			},
 			{
-				"name":"Разряд",
-				"description":"Дайте вашим противникам знать, что они останутся в шоке от встречи с вами на поле боя.",
-				"iconResourceId":"shot_skin_ricochet_electric_icon"
-			},
-			{
-				"name":"Бластер",
-				"description":"Красные лучи межгалактического бластера будут наносить сокрушительные удары, не оставляя ничего живого на своём пути.",
-				"iconResourceId":"shot_skin_ricochet_crimson_icon"
+				"id":"electric",
+				"nameRU":"Разряд",
+				"nameEN":"Electric",
+				"descriptionRU":"Дайте вашим противникам знать, что они останутся в шоке от встречи с вами на поле боя.",
+				"descriptionEN":"Let your enemies know that they're in for a shock when they meet you on the battlefield."
 			}
 		]
 	},
 	{
-		"name":"Смоки",
-		"description":"Легендарная танковая пушка, получила распространение из-за дешевизны и простоты обслуживания. Установите её на быстрый корпус и, шныряя между ошарашенными врагами, берите тяжёлые неповоротливые танки на измор. Стоит помнить, что урон этой пушки падает на расстоянии. Для таких случаев в боекомплект добавлены мощные кумулятивные снаряды, эффективные на любой дистанции. Ещё ни разу не нашёлся техник, который загрузил снаряды в автомат заряжания как полагается. Из-за этого танкист никогда не знает, каким снарядом он выстрелит в следующий раз, но и противник не знает, когда ему издалека прилетит большой сюрприз.",
-		"previewResourceId":"turret_smoky_preview",
-		"weaponId":"smoky",
+		"id":"smoky",
+		"nameRU":"Смоки",
+		"nameEN":"Smoky",
+		"descriptionRU":"Пушка средней дальности. Универсальное орудие с быстрой перезарядкой.\n\nСтандартная танковая пушка без особых изысков и усложнений. Снабжена скоростным автоматом заряжания. Требует умелого удержания противника в прицеле и отсутствие промахов для максимальной эффективности.\n\nЛегендарная танковая пушка получила распространение из-за дешевизны и простоты обслуживания. Установите её на быстрый корпус и, шныряя между ошарашенными врагами, берите тяжёлые неповоротливые танки на измор.",
+		"descriptionEN":"Medium range turret. A universal weapon with fast reload.\n\nStandard turret without much frills or complexity. It is equipped with a high-speed charging machine. This turret requires the skill to hold the enemy in sight and no misses for maximum efficiency.\n\n«Smoky» is a legendary turret, made widely popular by how affordable and simple to maintain it is. Install it on a fast hull, and while sliding between shocked enemies, destroy each unwieldy heavy tank one by one.",
 		"skins":
 		[
 			{
-				"name":"Стандарт",
-				"resourceId":"turret_smoky_hd",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true",
+				"emissionColor":"65279",
+				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"m0",
 				"name":"M0",
-				"resourceId":"turret_smoky_m0",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m1",
 				"name":"M1",
-				"resourceId":"turret_smoky_m1",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m2",
 				"name":"M2",
-				"resourceId":"turret_smoky_m2",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m3",
 				"name":"M3",
-				"resourceId":"turret_smoky_m3",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"xt",
 				"name":"XT",
-				"resourceId":"turret_smoky_xt",
-				"description":"Создатель XT-скина для Смоки провёл несколько лет в тропических лесах Южной Америки, изучая жизнь анаконд. Вернувшись домой, он решил воспроизвести образ этой огромной змеи в танковой пушке — так появился этот скин.",
-				"iconResourceId":"skin_xt_icon"
+				"descriptionRU":"Создатель XT-скина для Смоки провёл несколько лет в тропических лесах Южной Америки, изучая жизнь анаконд. Вернувшись домой, он решил воспроизвести образ этой огромной змеи в танковой пушке — так появился этот скин.",
+				"descriptionEN":"Creator of XT-skin for Smoky spent several years among the tropical forests of South America, learning anacondas. After returning home, he wanted to recreate the image of the giant snake in a tank turret — and that's how it's made.",
+				"icon":"xt"
 			},
 			{
+				"id":"lc",
 				"name":"Legacy",
-				"resourceId":"turret_smoky_lc",
-				"description":"Здравствуй, товарищ! Олдскул снова становится горячим трендом! Простой, без лишней вычурности, этот Legacy скин для Смоки вернёт теплоту и а...",
-				"iconResourceId":"skin_lc_icon"
+				"descriptionRU":"Здравствуй, товарищ! Олдскул снова становится горячим трендом! Простой, без лишней вычурности, этот Legacy скин для Смоки вернёт теплоту и атмосферность прежних лет.",
+				"descriptionEN":"Hello, comrade! Old school is back in fashion. Simple and with no excessive pretentiousness, this Legacy skin for Smoky brings back the warmth and cosiness of the old times.",
+				"icon":"lc"
 			},
 			{
+				"id":"gt",
 				"name":"GT",
-				"resourceId":"turret_smoky_gt",
-				"description":"Возьмите одну из самых популярных пушек в игре, добавьте передовые инженерные технологии и позвольте талантливым дизайнерам поколдовать над обликом. Это и есть рецепт неповторимого скина «Смоки GT». Для разработки этого скина использовался широкий спектр технологий моделирования и инновационных моделирующих комплексов. В результате появился уникальный скин, впечатляющий роскошными материалами отделки. Его корпус собирали вручную из-за сложной технологии производства. Это существенно подняло цену модели и повысило престижность скина.",
-				"iconResourceId":"skin_gt_icon"
+				"descriptionRU":"Возьмите одну из самых популярных пушек в игре, добавьте передовые инженерные технологии и позвольте талантливым дизайнерам поколдовать над обликом. Это и есть рецепт неповторимого скина «Смоки GT».\n\nДля разработки этого скина использовался широкий спектр технологий моделирования и инновационных моделирующих комплексов. В результате появился уникальный скин, впечатляющий роскошными материалами отделки. Его корпус собирали вручную из-за сложной технологии производства. Это существенно подняло цену модели и повысило престижность скина.",
+				"descriptionEN":"Take one of the most popular turrets in the game, add some cutting-edge engineering technologies, and let the talented designers do their job.\n\nThat's the recipe for this unique Smoky GT skin.\n\nA wide range of modeling technologies and techniques were used to develop this skin. The result is a distinctive skin that catches the eye with its luxurious finishing. Its body was assembled by hand due to its difficult production technology. This significantly raised the price of this model, increasing the prestige associated with it.",
+				"icon":"gt",
+				"emissionColor":"65279",
+				"emissionColorThreshold":"0.6"
 			},
 			{
-				"name":"M2 (TO 2.0)",
-				"resourceId":"turret_smoky_2.0_m2",
-				"description":".",
-				"iconResourceId":"skin_2.0_icon"
+				"id":"2.0_m2",
+				"name":"M2 (Tanki Online 2.0)",
+				"description":"TODO",
+				"icon":"2.0"
 			},
 			{
+				"id":"tx_xt",
 				"name":"XT (Tanki X)",
-				"resourceId":"turret_smoky_tx_xt",
-				"description":"Надёжность и простота. Автомат Калашникова от мира танкового оружия, «Смоки» хорошо показывает себя в любых типах сражений. Это орудие — не шедевр и не заявка на превосходство, но гарантия боеспособности танка в любых условиях.",
-				"iconResourceId":"skin_tx_icon"
+				"descriptionRU":"Надёжность и простота. Автомат Калашникова от мира танкового оружия, «Смоки» хорошо показывает себя в любых типах сражений. Это орудие — не шедевр и не заявка на превосходство, но гарантия боеспособности танка в любых условиях.",
+				"descriptionEN":"It is a reliable and simple weapon. It is the AK-47 in the tank turrets world. Smoky has proven itself to be a useful weapon in all types of battles. This turret is not the most perfect weapon, but it will make your tank competitive under any conditions.",
+				"icon":"tx"
 			}
 		],
 		"shotSkins":
 		[
 			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
 			}
 		]
 	},
 	{
-		"name":"Вулкан",
-		"description":"Танковые пушки — это, конечно, круто, но иногда хочется крошить противника в винегрет, не задумываясь о таких сложных материях, как, скажем, перезарядка. Перед вами решение всех ваших проблем. Блок из шести стволов, умопомрачительная скорострельность, роботизированная система стабилизации и бронебойные патроны. Бесконечные бронебойные патроны. Их так много, что перегреть при стрельбе вы можете не только стволы, но и весь танк. Можно не останавливаться и палить дальше. Танк, конечно, сгорит, но так веселее. А можно попросить помощи у союзников, ведь пушку может потушить Фриз, не отрывая вас от веселья. Высокая скорострельность не лучшим образом сказывается на управляемости пушки. Гироскопические стабилизаторы замедляют скорость поворота башни при стрельбе, чтобы избежать заклинивания стволов. В любом случае, все эти мелочи никак не помешают вам получать удовольствие от распиливания танков противника бронебойными очередями.",
-		"previewResourceId":"turret_vulcan_preview",
+		"id":"vulcan",
+		"nameRU":"Вулкан",
+		"nameEN":"Vulcan",
+		"descriptionRU":"Скорострельная пушка средней дальности. Шесть стволов обеспечивают огромную скорострельность.\n\nАвтоматическая многоствольная скорострельная пушка, способная распиливать противников бронебойными очередями. Требует некоторое время для разгона вращения блока стволов. Неповоротлива при стрельбе. При продолжительной непрерывной стрельбе перегревается и поджигает собственный танк.\n\nТанковые пушки — это, конечно, круто, но иногда хочется крошить противника в винегрет, не задумываясь о таких сложных материях, как, скажем, перезарядка. Перед вами решение всех ваших проблем. Блок из шести стволов, умопомрачительная скорострельность и бронебойные патроны. Бесконечные бронебойные патроны.",
+		"descriptionEN":"Medium range rapid-fire turret. A stack of six barrels allows an incredibly fast rate of fire.\n\nThis automatic multibarrel rapid-fire turret is capable of peppering enemies with armor-piercing bursts. It takes some time to accelerate the rotation of the barrel block. It is clumsy while shooting. While firing continuously, the tank can overheat and light itself on fire.\n\nTurrets are cool — but sometimes, you want to shred the enemy into tiny pieces without thinking about such tactical nuances as reloading. This turret right here is the solution to all of your problems: A stack of six barrels, unbelievable firing speed, and an automated stabilizing system with armor-piercing rounds. Unlimited armor-piercing rounds.",
 		"skins":
 		[
 			{
-				"name":"Стандарт",
-				"resourceId":"turret_vulcan_m3",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"m3",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true",
+				"emissionColor":"441097",
+				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"m0",
 				"name":"M0",
-				"resourceId":"turret_vulcan_m0",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m1",
 				"name":"M1",
-				"resourceId":"turret_vulcan_m1",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m2",
 				"name":"M2",
-				"resourceId":"turret_vulcan_m2",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"xt",
 				"name":"XT",
-				"resourceId":"turret_vulcan_xt",
-				"description":"Уникальная модель Вулкана, отличающаяся от стандартной версии пушки необычным внешним видом. Башня покрыта золотой змеиной кожей и инкрустирована рубинами, напоминающими глаза змеи.",
-				"iconResourceId":"skin_xt_icon"
+				"descriptionRU":"Уникальная модель Вулкана, отличающаяся от стандартной версии пушки необычным внешним видом. Башня покрыта золотой змеиной кожей и инкрустирована рубинами, напоминающими глаза змеи.",
+				"descriptionEN":"A unique version of Vulcan, different from its standard counterpart thanks to its truly special looks. The turret is covered with golden armor plating resembling snakeskin. These aggressive looks are finished with two extremely rare rubies that look like the eyes of an ancient beast.",
+				"icon":"xt"
 			},
 			{
+				"id":"pr",
 				"name":"Prime",
-				"resourceId":"turret_vulcan_pr",
-				"description":"Вулкан в жарких сражениях всегда находится на стороне победителей. С этим скином вы будете не только доминировать в бою, но и потрясающе выг...",
-				"iconResourceId":"skin_pr_icon"
+				"descriptionRU":"Вулкан в жарких сражениях всегда находится на стороне победителей. С этим скином вы будете не только доминировать в бою, но и потрясающе выглядеть.",
+				"descriptionEN":"The Vulcan turret is always on the winning side of a heated discussion. Now, your Vulcan can keep winning arguments, and look cool doing it.",
+				"icon":"pr"
 			},
 			{
+				"id":"ut",
 				"name":"Ultra",
-				"resourceId":"turret_vulcan_ut",
-				"description":"Король скорострельности — теперь с новым скином Ультра. Он поможет вам уничтожать вражеские танки не только эффективно, но и грациозно.",
-				"iconResourceId":"skin_ut_icon"
+				"descriptionRU":"Король скорострельности — теперь с новым скином Ультра. Он поможет вам уничтожать вражеские танки не только эффективно, но и грациозно.",
+				"descriptionEN":"The king of rapid-firing gets a cool Ultra skin. Rip your enemies to shreds and look good doing it.",
+				"icon":"ut"
 			}
 		],
 		"shotSkins":
 		[
 			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
 			},
 			{
-				"name":"Таинственный красный",
-				"description":"Почему «Таинственный»? Потому что это один из тех трудноуловимых, неземных, ошеломляющих оттенков красного, которые поражают воображение. И потому что это звучит круто.",
-				"iconResourceId":"shot_skin_vulcan_red_icon"
+				"id":"red",
+				"nameRU":"Таинственный красный",
+				"nameEN":"Mysterious red",
+				"descriptionRU":"Почему «Таинственный»? Потому что это один из тех трудноуловимых, неземных, ошеломляющих оттенков красного, которые поражают воображение. И потому что это звучит круто.",
+				"descriptionEN":"Why \"mysterious\"? Because it's one of those undefinable, ethereal, confounding shades of red that boggles the mind. And because it sounds cool."
 			}
 		]
 	},
 	{
-		"name":"Страйкер",
-		"description":"С незапамятных времён самой большой угрозой танку была противотанковая ракета. Маленькая зверюга могла бережно донести заряд взрывчатки до цели на очень большом расстоянии. Противотанковый комплекс «Страйкер» продолжает многолетнюю традицию по экспресс-доставке концентрированного ада до брони противника. Система захвата цели с элементами искусственного интеллекта проводит спектральный анализ объектов в прицеле, обеспечивая максимально точное самонаведение. Для динамичного боя предусмотрена возможность запускать ракеты прямой наводкой. Танкисты не питают большой любви к этому бронированному ящику с микросхемами, подозревая в нём отпиленную голову автономного робота-мусорщика, искусственный интеллект которого может в любой момент замкнуть, и он попытается уничтожить всех танкистов.",
-		"previewResourceId":"turret_striker_preview",
-		"weaponId":"striker",
+		"id":"striker",
+		"nameRU":"Страйкер",
+		"nameEN":"Striker",
+		"descriptionRU":"Ракетная установка средней дальности. При удержании кнопки стрельбы может запустить несколько самонаводящихся ракет.\n\nПротивотанковой ракетной установке «Страйкер» требуется значительное время для захвата цели. С другой стороны, увернуться от запущенных самонаводящихся ракет у цели нет никаких шансов. Для динамичного боя предусмотрена возможность запускать ракеты прямой наводкой. Немного расточительно, но в ближнем бою это даёт решающее преимущество в скорострельности.\n\nС незапамятных времён самой большой угрозой танку была противотанковая ракета. Маленькая зверюга могла бережно донести заряд взрывчатки до цели на очень большом расстоянии. Противотанковый комплекс «Страйкер» продолжает многолетнюю традицию по экспресс-доставке концентрированного ада до брони противника.",
+		"descriptionEN":"Medium range missile launcher. Holding down the firing button will lock onto a target and launch a barrage of guided missiles.\n\nAnti-tank missile launcher «Striker» requires significant time to lock onto a target. On the other hand, there is no chance of the target dodging the launched guided missiles. For dynamic battles, an option to directly shoot the rockets is also included. It’s a bit wasteful, but in close combat, it can give you a decisive advantage in firing rate.\n\nSince the dawn of warfare, the biggest threat to a tank was the anti-tank missile. That beastie could carefully deliver an explosive package to its target from a very long distance. Anti-tank turret «Striker» continues a century-old tradition of express explosion delivery to the tank and its armor.",
 		"skins":
 		[
 			{
-				"name":"Стандарт",
-				"resourceId":"turret_striker_m3",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"m3",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true"
 			},
 			{
+				"id":"m0",
 				"name":"M0",
-				"resourceId":"turret_striker_m0",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m1",
 				"name":"M1",
-				"resourceId":"turret_striker_m1",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m2",
 				"name":"M2",
-				"resourceId":"turret_striker_m2",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
-				"name":"Демо",
-				"resourceId":"turret_striker_demo",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
-			},
-			{
+				"id":"xt",
 				"name":"XT",
-				"resourceId":"turret_striker_xt",
-				"description":"Создатели этого скина были вдохновлены подводным миром, полным опасностей, и его загадочными обитателями. Пронзительный взгляд морского демона словно держит врагов на прицеле, а хищная мурена готова вцепиться своими острыми зубами в любую мишень.",
-				"iconResourceId":"skin_xt_icon"
+				"descriptionRU":"Создатели этого скина были вдохновлены подводным миром, полным опасностей, и его загадочными обитателями. Пронзительный взгляд морского демона словно держит врагов на прицеле, а хищная мурена готова вцепиться своими острыми зубами в любую мишень.",
+				"descriptionEN":"The designers of this skin were inspired by the marine underworld, full of dangers and mysterious inhabitants. The intimidating stare of a goliath as it muscles its way through thick schools of fish, and the rapacious moray eel as it prepares to sink its sharp teeth into its prey.",
+				"icon":"xt"
 			},
 			{
+				"id":"ut",
 				"name":"Ultra",
-				"resourceId":"turret_striker_ut",
-				"description":"Вам нравится свист и шипение набирающих скорость ракет Страйкера? С этим скином Ультра стрелять залпом станет вдвойне приятнее.",
-				"iconResourceId":"skin_ut_icon"
+				"descriptionRU":"Вам нравится свист и шипение набирающих скорость ракет Страйкера? С этим скином Ультра стрелять залпом станет вдвойне приятнее.",
+				"descriptionEN":"The \"whoooosh\" of a Striker's salvo is one of the coolest sounds in the game. Complete the picture by equipping this cool Ultra Skin.",
+				"icon":"ut"
+			},
+			{
+				"id":"demo",
+				"nameRU":"Тестовая версия",
+				"nameEN":"Test version",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true"
 			}
 		],
 		"shotSkins":
 		[
 			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
 			},
 			{
-				"name":"Ядовитый",
-				"description":"Ядовитые вещества очень опасны, но вам это только на руку. Превратите поле битвы в токсичный полигон, отравляя врагов своими выстрелами.",
-				"iconResourceId":"shot_skin_striker_toxic_icon"
+				"id":"toxic",
+				"nameRU":"Ядовитый",
+				"nameEN":"Toxic",
+				"descriptionRU":"Ядовитые вещества очень опасны, но вам это только на руку. Превратите поле битвы в токсичный полигон, отравляя врагов своими выстрелами.",
+				"descriptionEN":"A toxic attitude will get you banned. But it's perfectly fine for your tank to spread toxicity. So have fun with it."
 			},
 			{
-				"name":"Багровый",
-				"description":"Выстрелы багрового цвета несут в себе гнев, который падёт на ваших врагов, словно раскат грома.",
-				"iconResourceId":"shot_skin_striker_crimson_icon"
+				"id":"crimson",
+				"nameRU":"Багровый",
+				"nameEN":"Crimson",
+				"descriptionRU":"Выстрелы багрового цвета несут в себе гнев, который падёт на ваших врагов, словно раскат грома.",
+				"descriptionEN":"This one is crimson, like the color of your wrath in battle."
 			},
 			{
-				"name":"Синий",
-				"description":"Синий — это цвет синяков, которые останутся на самолюбии врагов после ваших попаданий.",
-				"iconResourceId":"shot_skin_striker_blue_icon"
+				"id":"blue",
+				"nameRU":"Синий",
+				"nameEN":"Blue",
+				"descriptionRU":"Синий — это цвет синяков, которые останутся на самолюбии врагов после ваших попаданий.",
+				"descriptionEN":"This one is blue, like the bruises you will leave on your enemy's ego."
 			},
 			{
-				"name":"Лиловый",
-				"description":"Этот угрожающий цвет ваших выстрелов без слов расскажет противникам, что вы не собираетесь с ними шутить.",
-				"iconResourceId":"shot_skin_striker_violet_icon"
+				"id":"violet",
+				"nameRU":"Лиловый",
+				"nameEN":"Violet",
+				"descriptionRU":"Этот угрожающий цвет ваших выстрелов без слов расскажет противникам, что вы не собираетесь с ними шутить.",
+				"descriptionEN":"The ominous color of your shots should be a clear message to your enemies that you're not messing around."
 			}
 		]
 	},
 	{
-		"name":"Гром",
-		"description":"Эта среднекалиберная пушка была разработана с учётом богатого опыта применения легендарной Смоки. Лучший выбор для любителей динамичного боя. Боекомплект полностью состоит из универсальных бронебойно-фугасных снарядов нового поколения. Такие снаряды позволяют атаковать группу соперников, а относительно быстрая перезарядка пушки поможет получить неоспоримое преимущество перед тяжёлыми танками противника. Но нужно быть осторожным — в ближнем бою очень легко повредить собственный танк. В сочетании с быстрым корпусом Гром становится грозным оружием в руках умелого танкиста. Неумелых танкистов с Громом не бывает. Как правило, они быстро взрывают собственные танки и сразу перестают считаться танкистами.",
-		"previewResourceId":"turret_thunder_preview",
-		"weaponId":"thunder",
+		"id":"thunder",
+		"nameRU":"Гром",
+		"nameEN":"Thunder",
+		"descriptionRU":"Пушка средней дальности. Разрывные снаряды могут поразить несколько танков одновременно.\n\nБоекомплект пушки «Гром» полностью состоит из универсальных бронебойно-фугасных снарядов нового поколения. Такие снаряды позволяют атаковать группу соперников, а относительно быстрая перезарядка пушки поможет получить неоспоримое преимущество перед тяжёлыми танками противника. Но нужно быть осторожным — в ближнем бою очень легко повредить собственный танк.\n\nЭта среднекалиберная пушка была разработана с учётом богатого опыта применения легендарной «Смоки». В сочетании с быстрым корпусом «Гром» становится грозным оружием в руках умелого танкиста. Неумелых танкистов с «Громом» не бывает. Как правило, они быстро взрывают собственные танки и сразу перестают считаться танкистами.",
+		"descriptionEN":"Medium range turret. Highly explosive projectiles can hit several tanks at the same time.\n\nThe payload of the «Thunder» turret consists entirely of new-generation armor-piercing shells. Such rounds can hit a group of enemies, and the relatively fast reload of this turret will grant you an advantage over heavy enemy tanks. But be careful — in close quarters, it is very easy to damage your own tank.\n\nThis mid-caliber turret was designed with a rich history of using the legendary Smoky turret in mind. When combined with a fast hull, Thunder can turn into a deadly weapon in the hands of a seasoned tanker. Not-so-seasoned tankers do not exist. As a rule, they tend to blow themselves up very quickly and immediately cease to be considered tankers.",
 		"skins":
 		[
 			{
-				"name":"Стандарт",
-				"resourceId":"turret_thunder_hd",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true",
+				"emissionColor":"64255",
+				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"m0",
 				"name":"M0",
-				"resourceId":"turret_thunder_m0",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m1",
 				"name":"M1",
-				"resourceId":"turret_thunder_m1",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m2",
 				"name":"M2",
-				"resourceId":"turret_thunder_m2",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m3",
 				"name":"M3",
-				"resourceId":"turret_thunder_m3",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"xt",
 				"name":"XT",
-				"resourceId":"turret_thunder_xt",
-				"description":"Эксклюзивный Гром XT заставит вас почувствовать себя в шкуре грозного хищного зверя.",
-				"iconResourceId":"skin_xt_icon"
+				"descriptionRU":"Эксклюзивный Гром XT заставит вас почувствовать себя в шкуре грозного хищного зверя.",
+				"descriptionEN":"The exclusive Thunder XT will give you the feeling of slipping into the skin of a seasoned northern predator.",
+				"icon":"xt"
 			},
 			{
+				"id":"lc",
 				"name":"Legacy",
-				"resourceId":"turret_thunder_lc",
-				"description":"Legacy-скин для Грома поможет вам окунуться в атмосферу «старых Танков». А если вы старожил игры — сможете вспомнить ваши ощущения от первых боёв.",
-				"iconResourceId":"skin_lc_icon"
+				"descriptionRU":"Legacy-скин для Грома поможет вам окунуться в атмосферу «старых Танков». А если вы старожил игры — сможете вспомнить ваши ощущения от первых боёв.",
+				"descriptionEN":"Legacy-skin for Thunder will help you return to the old atmosphere of Tanki, and if you're a veteran player -- remember your best times going into the first battle.",
+				"icon":"lc"
 			},
 			{
+				"id":"pr",
 				"name":"Prime",
-				"resourceId":"turret_thunder_pr",
-				"description":"Гром — первая пушка, получившая скин из новой серии Prime. Этот скин подчёркивает брутальность пушки и серьёзность намерений её владельца. Зачем красоваться, когда можно сильно ударить!",
-				"iconResourceId":"skin_pr_icon"
+				"descriptionRU":"Гром — первая пушка, получившая скин из новой серии Prime. Этот скин подчёркивает брутальность пушки и серьёзность намерений её владельца. Зачем красоваться, когда можно сильно ударить!",
+				"descriptionEN":"Thunder is the first turret to receive a skin from the new Prime series. This skin reflects Thunder's no-nonsense and impactful style. Because a turret doesn't need to show off when it can punch hard.",
+				"icon":"pr"
 			},
 			{
+				"id":"ut",
 				"name":"Ultra",
-				"resourceId":"turret_thunder_ut",
-				"description":"В умелых руках Гром грациозен и смертоносен. А с новым скином Ультра он выглядит ещё круче!",
-				"iconResourceId":"skin_ut_icon"
+				"descriptionRU":"В умелых руках Гром грациозен и смертоносен. А с новым скином Ультра он выглядит ещё круче!",
+				"descriptionEN":"In the right hands, Thunder is as graceful as it is deadly. And with this Ultra skin, it also looks downright cool.",
+				"icon":"ut"
 			},
 			{
+				"id":"gt",
 				"name":"GT",
-				"resourceId":"turret_thunder_gt",
-				"description":"Специальная линейка GT скинов для пушек - это не только отличное дополнение для любого колёсного корпуса, но и проявление особой смелости. Не каждый танкист готов пожертвовать скрытностью и осторожностью на поле боя, ради того, чтобы продемонстрировать всю уникальность и особенность своего танка.",
-				"iconResourceId":"skin_gt_icon"
+				"descriptionRU":"Специальная линейка GT скинов для пушек - это не только отличное дополнение для любого колёсного корпуса, но и проявление особой смелости. Не каждый танкист готов пожертвовать скрытностью и осторожностью на поле боя, ради того, чтобы продемонстрировать всю уникальность и особенность своего танка.",
+				"descriptionEN":"This special series of GT skins for turrets is not just a good addition to any wheeled hull but also a manifestation of extraordinary courage. Not every tanker is ready to sacrifice stealth and caution on the battlefield to flaunt the uniqueness and the peculiarity of his tank in their entirety.\n\nThe latest developments in field tank construction and a special alloy of white metals \"unshackled the hands\" of designers of this product, allowing them for the first time in history to create not only powerful but also beautiful weapons that would otherwise just be gathering dust in a tanker's garage.",
+				"icon":"gt",
+				"emissionColor":"64255",
+				"emissionColorThreshold":"0.6"
 			},
 			{
-				"name":"M3 (TO 2.0)",
-				"resourceId":"turret_thunder_2.0_m3",
-				"description":".",
-				"iconResourceId":"skin_2.0_icon"
+				"id":"2.0_m3",
+				"name":"M3 (Tanki Online 2.0)",
+				"description":"TODO",
+				"icon":"2.0"
 			},
 			{
+				"id":"tx_m2",
 				"name":"M2 (Tanki X)",
-				"resourceId":"turret_thunder_tx_m2",
-				"description":"«Гром» изобрели для ликвидации танковых армий последних государств Азии, когда «Антей» уже был готов объявить о полном контроле над миром. Танки «Х» проходили крещение боем, когда их еще было гораздо меньше, нежели техники прошлого поколения. В этих условиях залогом выживания новых машин войны стал «Гром» с возможностью поражать разрывными снарядами сразу группу противников. А быстрая перезарядка гарантировала быструю и сокрушительную победу.",
-				"iconResourceId":"skin_tx_icon"
+				"descriptionRU":"«Гром» изобрели для ликвидации танковых армий последних государств Азии, когда «Антей» уже был готов объявить о полном контроле над миром. Танки «Х» проходили крещение боем, когда их еще было гораздо меньше, нежели техники прошлого поколения. В этих условиях залогом выживания новых машин войны стал «Гром» с возможностью поражать разрывными снарядами сразу группу противников. А быстрая перезарядка гарантировала быструю и сокрушительную победу.",
+				"descriptionEN":"The Thunder turret was invented to eliminate the tank armies of the most modern Asian states, when Antaeus was ready to announce that it had completely taken over the world. «X» Tanks underwent a baptism of fire at a time when there were still far fewer of them than the previous generation of tanks. Under these conditions, the Thunder turret provided some assurance that the new tanks would be able to survive. The Thunder turret can be used to strike a group of enemies at once using explosive shells. The quick recharge rate ensures that you will achieve a quick and decisive victory.",
+				"icon":"tx"
 			},
 			{
+				"id":"tx_xt",
 				"name":"XT (Tanki X)",
-				"resourceId":"turret_thunder_tx_xt",
-				"description":"«Гром» изобрели для ликвидации танковых армий последних государств Азии, когда «Антей» уже был готов объявить о полном контроле над миром. Танки «Х» проходили крещение боем, когда их еще было гораздо меньше, нежели техники прошлого поколения. В этих условиях залогом выживания новых машин войны стал «Гром» с возможностью поражать разрывными снарядами сразу группу противников. А быстрая перезарядка гарантировала быструю и сокрушительную победу.",
-				"iconResourceId":"skin_tx_icon"
+				"descriptionRU":"«Гром» изобрели для ликвидации танковых армий последних государств Азии, когда «Антей» уже был готов объявить о полном контроле над миром. Танки «Х» проходили крещение боем, когда их еще было гораздо меньше, нежели техники прошлого поколения. В этих условиях залогом выживания новых машин войны стал «Гром» с возможностью поражать разрывными снарядами сразу группу противников. А быстрая перезарядка гарантировала быструю и сокрушительную победу.",
+				"descriptionEN":"The Thunder turret was invented to eliminate the tank armies of the most modern Asian states, when Antaeus was ready to announce that it had completely taken over the world. «X» Tanks underwent a baptism of fire at a time when there were still far fewer of them than the previous generation of tanks. Under these conditions, the Thunder turret provided some assurance that the new tanks would be able to survive. The Thunder turret can be used to strike a group of enemies at once using explosive shells. The quick recharge rate ensures that you will achieve a quick and decisive victory.",
+				"icon":"tx"
 			},
 			{
-				"name":"Dreadnought (Tanki X)",
-				"resourceId":"turret_thunder_tx_dreadnought",
-				"description":"«Гром» изобрели для ликвидации танковых армий последних государств Азии, когда «Антей» уже был готов объявить о полном контроле над миром. Танки «Х» проходили крещение боем, когда их еще было гораздо меньше, нежели техники прошлого поколения. В этих условиях залогом выживания новых машин войны стал «Гром» с возможностью поражать разрывными снарядами сразу группу противников. А быстрая перезарядка гарантировала быструю и сокрушительную победу.",
-				"iconResourceId":"skin_tx_icon"
+				"id":"tx_dreadnought",
+				"nameRU":"Дредноут (Tanki X)",
+				"nameEN":"Dreadnought (Tanki X)",
+				"descriptionRU":"«Гром» изобрели для ликвидации танковых армий последних государств Азии, когда «Антей» уже был готов объявить о полном контроле над миром. Танки «Х» проходили крещение боем, когда их еще было гораздо меньше, нежели техники прошлого поколения. В этих условиях залогом выживания новых машин войны стал «Гром» с возможностью поражать разрывными снарядами сразу группу противников. А быстрая перезарядка гарантировала быструю и сокрушительную победу.",
+				"descriptionEN":"The Thunder turret was invented to eliminate the tank armies of the most modern Asian states, when Antaeus was ready to announce that it had completely taken over the world. «X» Tanks underwent a baptism of fire at a time when there were still far fewer of them than the previous generation of tanks. Under these conditions, the Thunder turret provided some assurance that the new tanks would be able to survive. The Thunder turret can be used to strike a group of enemies at once using explosive shells. The quick recharge rate ensures that you will achieve a quick and decisive victory.",
+				"icon":"tx"
 			}
 		],
 		"shotSkins":
 		[
 			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
-			}
-		]
-	},
-		{
-		"name":"Скорпион",
-		"description":"Это сейчас пушка Скорпион высокопарно называется противотанковым артиллерийским комплексом. У прототипа даже ствол был ненастоящий — вместо него прикрутили ржавую трубу для маскировки. Упор был сделан на артиллерийскую атаку ракетами, которая показала в целом высокую эффективность. В первую очередь эффективность против умов неподготовленных танкистов. Медленно приближающееся из-за горизонта облако ракет многих вводило в ступор. Но как только к противнику приходило понимание, что нужно сокращать дистанцию, ракетная артиллерия с её долгой перезарядкой становилась беспомощной. Пришлось срочно чистить и выпрямлять маскировочную трубу, чтобы отпугивать врагов хотя бы грозным хлопком. Доработка подействовала — на время. Противник быстро умнел, надо было дорабатывать трубу дальше. И тут понеслось. Хлопушка превратилась в пушку, пушка превратилась в дрын. Калибр рос до тех пор, пока противник не перестал прикидываться умным и начал прикидываться мёртвым. Тактика использования тоже значительно изменилась. Танкисты-испытатели выгоняли противников из-за укрытий ракетами, а затем расстреливали гиперскоростными снарядами из дальнобойной основной пушки. Цитируя самих танкистов: брали противника «в клещи» и наносили удар «хвостом скорпиона».",
-		"previewResourceId":"turret_scorpion_preview",
-		"skins":
-		[
-			{
-				"name":"Стандарт",
-				"resourceId":"turret_scorpion_hd",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
-			},
-			{
-				"name":"XT",
-				"resourceId":"turret_scorpion_xt",
-				"description":"Скорпион XT — первый скин, оптимизированный с помощью аэродинамической трубы. Его обтекаемая облицовка из полированного золота способствует охлаждению ракетной установки и снижает вибрацию системы наведения. Крылья Гермеса, выгравированные на скине, передают с каждым снарядом следующее послание от владельца: \"Я быстр, как ветер, и мучителен, как укус скорпиона\".",
-				"iconResourceId":"skin_xt_icon"
-			}
-		],
-		"shotSkins":
-		[
-			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
 			}
 		]
 	},
 	{
-		"name":"Рельса",
-		"description":"Если среднекалиберные пушки уже не утоляют вашу жажду самовыражения, то эта игрушка специально для вас. Крупнокалиберная пушка, обладающая огромной дульной скоростью и снарядами с сердечниками из обеднённого урана. Сверхмощный и сверхточный кинетический снаряд способен пробить танк насквозь, поразив несколько целей, стоящих на одной прямой. Следует помнить, что Рельсотрон довольно долго перезаряжается и требует короткой подготовки перед каждым выстрелом. Заряженный ствол горит ярче рождественской ёлки, чем обязательно воспользуется опытный противник. Искусство эффективного применения этой пушки сродни фехтованию: настолько же красиво, сложно и неуместно в ближнем бою с более специализированными пушками.",
-		"previewResourceId":"turret_railgun_preview",
-		"weaponId":"railgun",
+		"id":"scorpion",
+		"nameRU":"Скорпион",
+		"nameEN":"Scorpion",
+		"descriptionRU":"Пушка дальнего боя. При удержании кнопки стрельбы наводит рой артиллерийских ракет.\n\nПушка «Скорпион» имеет два режима стрельбы с независимой перезарядкой. В стандартном режиме цель атакуется скоростными снарядами из дальнобойной основной пушки. При удержании кнопки стрельбы «Скорпион» наводит ракетный залп, даже если цель пытается скрыться за препятствием. Ракеты атакуют цель сверху, вынуждая покидать укрытие.\n\nЭто сейчас пушка «Скорпион» высокопарно называется противотанковым артиллерийским комплексом. У прототипа даже ствол был ненастоящий — вместо него прикрутили ржавую трубу для маскировки. После испытаний хлопушка превратилась в пушку, затем пушка превратилась в огромный дрын. Калибр рос до тех пор, пока противник не перестал прикидываться умным и начал прикидываться мёртвым.",
+		"descriptionEN":"Long range turret. Holding down the firing button aims a swarm of artillery rockets.\n\nThe «Scorpion» turret has two firing modes, each with independent reloading system. In standard mode, the target is attacked by hypervelocity projectiles from the main long-range barrel. Holding down the firing button aims rocket salvo even if the target tries to hide behind an obstacle. Rockets attack the target from above, forcing it to leave shelter.\n\nNow, the Scorpion turret is called an anti-tank artillery system. It wasn’t always like that, the prototype didn’t even have a real barrel — instead, engineers screwed on a rusty tube for camouflage. After the tests, the firecracker was replaced with a real barrel and later the barrel was replaced with a more frightening one! The caliber size kept increasing until the enemy stopped pretending to be smart and started pretending to be dead.",
 		"skins":
 		[
 			{
-				"name":"Стандарт",
-				"resourceId":"turret_railgun_hd",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true",
+				"emissionColor":"16720403",
+				"emissionColorThreshold":"0.4"
 			},
 			{
-				"name":"M0",
-				"resourceId":"turret_railgun_m0",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
-			},
-			{
-				"name":"M1",
-				"resourceId":"turret_railgun_m1",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
-			},
-			{
-				"name":"M2",
-				"resourceId":"turret_railgun_m2",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
-			},
-			{
-				"name":"M3",
-				"resourceId":"turret_railgun_m3",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
-			},
-			{
+				"id":"xt",
 				"name":"XT",
-				"resourceId":"turret_railgun_xt_m3",
-				"description":"Уникальная Рельса XT примечательна боковым рисунком, стилизованным под голову орла с характерными хищными очертаниями клюва.",
-				"iconResourceId":"skin_xt_icon"
+				"descriptionRU":"Скорпион XT — первый скин, оптимизированный с помощью аэродинамической трубы. Его обтекаемая облицовка из полированного золота способствует охлаждению ракетной установки и снижает вибрацию системы наведения. Крылья Гермеса, выгравированные на скине, передают с каждым снарядом следующее послание от владельца: «Я быстр, как ветер, и мучителен, как укус скорпиона».",
+				"descriptionEN":"Scorpion XT is the first skin optimized with the help of a wind tunnel. Its streamlined cladding made of polished gold helps cool the rocket launcher and reduces vibrations in the aiming system. Wings of Hermes engraved on the skin deliver the following message from its owner with each shot: «I am as swift as the wind and as excruciating as a scorpion sting».",
+				"icon":"xt"
+			}
+		],
+		"shotSkins":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
+			}
+		]
+	},
+	{
+		"id":"railgun",
+		"nameRU":"Рельса",
+		"nameEN":"Railgun",
+		"descriptionRU":"Пушка большой дальности. Может пробивать танки насквозь, поражая несколько целей на одной линии.\n\nКрупнокалиберная пушка, обладающая огромной дульной скоростью. Сверхмощный и сверхточный кинетический снаряд способен пробить танк насквозь, поразив несколько целей, стоящих на одной прямой. Следует помнить, что рельсотрон довольно долго перезаряжается и требует заметного разогрева перед каждым выстрелом.\n\nЕсли среднекалиберные пушки уже не утоляют вашу жажду самовыражения, то эта игрушка специально для вас. Требует хороших навыков не только меткой стрельбы, но и позиционирования танка. Заряженный ствол горит ярче рождественской ёлки, выдавая ваши намерения опытному противнику.",
+		"descriptionEN":"Long range turret. Can pierce through tanks by hitting multiple targets in one line.\n\nA big caliber turret with a lightning fast barrel speed. Incredibly powerful and overwhelmingly precise kinetic projectile can make a hole in any tank, hitting several targets standing in the same line. Don’t forget that «Railgun» also takes a long time to reload and needs a short preparation before firing every shot.\n\nIf medium caliber turrets can no longer satisfy your thirst for creativity, then this toy is just perfect for you. It requires good skills not only in marksmanship, but also in tank positioning. Ready-to-fire barrel will burn brighter than a holiday tree, which can be detected and used as an advantage by experienced enemies.",
+		"skins":
+		[
+			{
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true",
+				"emissionColor":"3260383",
+				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"m0",
+				"name":"M0",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1",
+				"name":"M1",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2",
+				"name":"M2",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3",
+				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"xt_m0",
 				"name":"XT M0",
-				"resourceId":"turret_railgun_xt_m0",
-				"description":"Уникальная Рельса XT примечательна боковым рисунком, стилизованным под голову орла с характерными хищными очертаниями клюва.",
-				"iconResourceId":"skin_xt_icon"
+				"descriptionRU":"Уникальная Рельса XT примечательна боковым рисунком, стилизованным под голову орла с характерными хищными очертаниями клюва.",
+				"descriptionEN":"The unique Railgun XT is notable because of its side pattern styled after an eagle's head, with a very distinctive predatory beak.",
+				"icon":"xt"
 			},
 			{
+				"id":"xt_m1",
 				"name":"XT M1",
-				"resourceId":"turret_railgun_xt_m1",
-				"description":"Уникальная Рельса XT примечательна боковым рисунком, стилизованным под голову орла с характерными хищными очертаниями клюва.",
-				"iconResourceId":"skin_xt_icon"
+				"descriptionRU":"Уникальная Рельса XT примечательна боковым рисунком, стилизованным под голову орла с характерными хищными очертаниями клюва.",
+				"descriptionEN":"The unique Railgun XT is notable because of its side pattern styled after an eagle's head, with a very distinctive predatory beak.",
+				"icon":"xt"
 			},
 			{
+				"id":"xt_m2",
 				"name":"XT M2",
-				"resourceId":"turret_railgun_xt_m2",
-				"description":"Уникальная Рельса XT примечательна боковым рисунком, стилизованным под голову орла с характерными хищными очертаниями клюва.",
-				"iconResourceId":"skin_xt_icon"
+				"descriptionRU":"Уникальная Рельса XT примечательна боковым рисунком, стилизованным под голову орла с характерными хищными очертаниями клюва.",
+				"descriptionEN":"The unique Railgun XT is notable because of its side pattern styled after an eagle's head, with a very distinctive predatory beak.",
+				"icon":"xt"
 			},
 			{
+				"id":"xt_m3",
+				"name":"XT M3",
+				"descriptionRU":"Уникальная Рельса XT примечательна боковым рисунком, стилизованным под голову орла с характерными хищными очертаниями клюва.",
+				"descriptionEN":"The unique Railgun XT is notable because of its side pattern styled after an eagle's head, with a very distinctive predatory beak.",
+				"icon":"xt"
+			},
+			{
+				"id":"lc",
 				"name":"Legacy",
-				"resourceId":"turret_railgun_lc",
-				"description":"Любимая пушка многих танкистов в новой оболочке, точнее в старой. Legacy-скин для Рельсы напомнит вам, как выглядела эта легендарная пушка в далёком прошлом.",
-				"iconResourceId":"skin_lc_icon"
+				"descriptionRU":"Любимая пушка многих танкистов в новой оболочке, точнее в старой. Legacy-скин для Рельсы напомнит вам, как выглядела эта легендарная пушка в далёком прошлом.",
+				"descriptionEN":"One of the most beloved turrets in the game gets a cool retro look with its very own Legacy skin. A throwback to what this deadly turret looked like before the rebalance.",
+				"icon":"lc"
 			},
 			{
+				"id":"pr",
 				"name":"Prime",
-				"resourceId":"turret_railgun_pr",
-				"description":"Этот скин был изготовлен из частей космического корабля, совершившего первую экспедицию на Плутон. По данным NASA, загадочный «синий глаз» способен точно отслеживать цели на расстоянии нескольких миллиардов километров. У ваших противников нет шансов.",
-				"iconResourceId":"skin_pr_icon"
+				"descriptionRU":"Этот скин был изготовлен из частей космического корабля, совершившего первую экспедицию на Плутон. По данным NASA, загадочный «синий глаз» способен точно отслеживать цели на расстоянии нескольких миллиардов километров. У ваших противников нет шансов.",
+				"descriptionEN":"This skin was crafted from parts of the space ship that made the first expedition to Pluto. According to NASA, the mysterious «blue eye» is able to keep a precise aim on targets even at a distance of several billion kilometers. Your enemies won't stand a chance against you. P.S. No signs of life were discovered on Pluto.",
+				"icon":"pr"
 			},
 			{
+				"id":"ut",
 				"name":"Ultra",
-				"resourceId":"turret_railgun_ut",
-				"description":"Рельса является одним из основных видов вооружения для чемпионов киберспорта. Теперь эта популярная пушка имеет скин Ультра, чтобы поддерживать свою уникальную репутацию.",
-				"iconResourceId":"skin_ut_icon"
+				"descriptionRU":"Рельса является одним из основных видов вооружения для чемпионов киберспорта. Теперь эта популярная пушка имеет скин Ультра, чтобы поддерживать свою уникальную репутацию.",
+				"descriptionEN":"Railgun is one of the main weapons of choice for eSports champions. Now, this popular turret has a cool Ultra skin to match its amazing reputation.",
+				"icon":"ut"
 			},
 			{
+				"id":"gt",
 				"name":"GT",
-				"resourceId":"turret_railgun_gt",
-				"description":"Настоящее произведение искусства современных технологий. Пластины из особого металлического сплава, встроенные в броню, своим внешним видом напоминают глаза змеи, готовой в любой момент наброситься на свою жертву c любого расстояния. Как только увидите белое дуло, знайте — респауна не миновать. Союзники, встречая обладателей данного скина, проявляют своё уважение в их адрес, а вот соперникам точно стоит остерегаться их на поле боя, особенно на больших дистанциях.",
-				"iconResourceId":"skin_gt_icon"
+				"descriptionRU":"Настоящее произведение искусства современных технологий. Пластины из особого металлического сплава, встроенные в броню, своим внешним видом напоминают глаза змеи, готовой в любой момент наброситься на свою жертву c любого расстояния. Как только увидите белое дуло, знайте — респауна не миновать. Союзники, встречая обладателей данного скина, проявляют своё уважение в их адрес, а вот соперникам точно стоит остерегаться их на поле боя, особенно на больших дистанциях.",
+				"descriptionEN":"An absolute masterpiece of modern technology. Plates made from a special metal alloy are built into the armor, giving the appearance of the eyes of a snake that is ready to pounce on its victim at any moment and from any distance. As soon as you see the white muzzle, know that a respawn cannot be avoided. Teammates meeting the owners of this skin should show their respect, while opponents should definitely beware of them on the battlefield, especially at long distances.",
+				"icon":"gt",
+				"emissionColor":"5701631",
+				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"rl",
 				"name":"Realgar",
-				"resourceId":"turret_railgun_rl",
-				"description":"По данным Всемирной Организации по Контролю Оружия данной модификации танка не существует. Принадлежавший некогда легендарному наёмнику этот танк побывал в самых коварных и безвыходных передрягах, как никто другой служивший своему владельцу ёмким словом в перепалке. Теперь чертежи этого танка выставлены в награду за турнир и только самые достойные получат право им обладать!",
-				"iconResourceId":"skin_rl_icon"
+				"descriptionRU":"По данным Всемирной Организации по Контролю Оружия данной модификации танка не существует. Принадлежавший некогда легендарному наёмнику этот танк побывал в самых коварных и безвыходных передрягах, как никто другой служивший своему владельцу ёмким словом в перепалке. Теперь чертежи этого танка выставлены в награду за турнир и только самые достойные получат право им обладать!",
+				"descriptionEN":"According to the World Organization for Weapons Control, this modification of the tank does not exist. Once owned by a legendary mercenary, this tank has been in the most insidious and hopeless troubles, like no other that served its owner with a capacious word in a skirmish. Now the blueprints of this tank are presented as a reward for the tournament, and only the most worthy will get the right to own it!",
+				"icon":"rl",
+				"emissionColor":"16777215",
+				"emissionColorThreshold":"0.1"
 			},
 			{
+				"id":"tx_xt",
 				"name":"XT (Tanki X)",
-				"resourceId":"turret_railgun_tx_xt",
-				"description":"Кинетическое оружие и танк «Х» — идеальная комбинация для ведения сражений в условиях, когда любое другое оружие может дать сбой. Огромные открытые пространства стали прекрасным полигоном для формирования характеристик «Рельсы», способной прошить сразу несколько вражеских танков, когда они еще даже не вышли на дистанцию эффективной стрельбы.",
-				"iconResourceId":"skin_tx_icon"
+				"descriptionRU":"Кинетическое оружие и танк «Х» — идеальная комбинация для ведения сражений в условиях, когда любое другое оружие может дать сбой. Огромные открытые пространства стали прекрасным полигоном для формирования характеристик «Рельсы», способной прошить сразу несколько вражеских танков, когда они еще даже не вышли на дистанцию эффективной стрельбы.",
+				"descriptionEN":"A kinetic weapon and the «X» Tank are the ideal combination for waging battle in circumstances where any other weapon could fail. Huge open spaces proved to be excellent testing grounds for honing the performance properties of the Railgun. It is able to cut through several enemy tanks at once before they are even in range to offer counter fire.",
+				"icon":"tx",
+				"emissionColor":"6085887",
+				"emissionColorThreshold":"0.4"
 			},
 			{
-				"name":"Золото (Tanki X)",
-				"resourceId":"turret_railgun_tx_gold",
-				"description":"Кинетическое оружие и танк «Х» — идеальная комбинация для ведения сражений в условиях, когда любое другое оружие может дать сбой. Огромные открытые пространства стали прекрасным полигоном для формирования характеристик «Рельсы», способной прошить сразу несколько вражеских танков, когда они еще даже не вышли на дистанцию эффективной стрельбы.",
-				"iconResourceId":"skin_tx_icon"
+				"id":"tx_gold",
+				"nameRU":"Золото (Tanki X)",
+				"nameEN":"Gold (Tanki X)",
+				"descriptionRU":"Кинетическое оружие и танк «Х» — идеальная комбинация для ведения сражений в условиях, когда любое другое оружие может дать сбой. Огромные открытые пространства стали прекрасным полигоном для формирования характеристик «Рельсы», способной прошить сразу несколько вражеских танков, когда они еще даже не вышли на дистанцию эффективной стрельбы.",
+				"descriptionEN":"A kinetic weapon and the «X» Tank are the ideal combination for waging battle in circumstances where any other weapon could fail. Huge open spaces proved to be excellent testing grounds for honing the performance properties of the Railgun. It is able to cut through several enemy tanks at once before they are even in range to offer counter fire.",
+				"icon":"tx",
+				"emissionColor":"4186194",
+				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"tx_m2",
 				"name":"M2 (Tanki X)",
-				"resourceId":"turret_railgun_tx_m2",
-				"description":"Кинетическое оружие и танк «Х» — идеальная комбинация для ведения сражений в условиях, когда любое другое оружие может дать сбой. Огромные открытые пространства стали прекрасным полигоном для формирования характеристик «Рельсы», способной прошить сразу несколько вражеских танков, когда они еще даже не вышли на дистанцию эффективной стрельбы.",
-				"iconResourceId":"skin_tx_icon"
+				"descriptionRU":"Кинетическое оружие и танк «Х» — идеальная комбинация для ведения сражений в условиях, когда любое другое оружие может дать сбой. Огромные открытые пространства стали прекрасным полигоном для формирования характеристик «Рельсы», способной прошить сразу несколько вражеских танков, когда они еще даже не вышли на дистанцию эффективной стрельбы.",
+				"descriptionEN":"A kinetic weapon and the «X» Tank are the ideal combination for waging battle in circumstances where any other weapon could fail. Huge open spaces proved to be excellent testing grounds for honing the performance properties of the Railgun. It is able to cut through several enemy tanks at once before they are even in range to offer counter fire.",
+				"icon":"tx",
+				"emissionColor":"4186194",
+				"emissionColorThreshold":"0.6"
 			}
 		],
 		"shotSkins":
 		[
 			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
 			},
 			{
-				"name":"Золотой",
-				"description":"Убийственный ливень из сверкающих как золотые слитки снарядов — именно то, чего заслужили ваши противники.",
-				"iconResourceId":"shot_skin_railgun_gold_icon"
+				"id":"gold",
+				"nameRU":"Золотой",
+				"nameEN":"Gold",
+				"descriptionRU":"Убийственный ливень из сверкающих как золотые слитки снарядов — именно то, чего заслужили ваши противники.",
+				"descriptionEN":"Make it rain gold... shots, not boxes. Give them what they deserve."
 			},
 			{
-				"name":"Синий",
-				"description":"Синий — это цвет синяков, которые останутся на самолюбии врагов после ваших попаданий.",
-				"iconResourceId":"shot_skin_railgun_blue_icon"
+				"id":"blue",
+				"nameRU":"Синий",
+				"nameEN":"Blue",
+				"descriptionRU":"Синий — это цвет синяков, которые останутся на самолюбии врагов после ваших попаданий.",
+				"descriptionEN":"This one is blue, like the bruises you will leave on your enemy's ego."
 			},
 			{
-				"name":"Зелёный",
-				"description":"Зелёный — это цвет мягкости и спокойствия. Ваш выстрел не является ни тем, ни другим. Замечаете иронию?",
-				"iconResourceId":"shot_skin_railgun_green_icon"
+				"id":"green",
+				"nameRU":"Зелёный",
+				"nameEN":"Green",
+				"descriptionRU":"Зелёный — это цвет мягкости и спокойствия. Ваш выстрел не является ни тем, ни другим. Замечаете иронию?",
+				"descriptionEN":"Green is a nice, peaceful color. Your shot is neither nice, nor peaceful. Notice the irony?"
 			},
 			{
-				"name":"Кровавый",
-				"description":"Вы не можете пустить кровь танкам, но этот эффект выстрела — отличная альтернатива.",
-				"iconResourceId":"shot_skin_railgun_blood_icon"
+				"id":"blood",
+				"nameRU":"Кровавый",
+				"nameEN":"Blood",
+				"descriptionRU":"Вы не можете пустить кровь танкам, но этот эффект выстрела — отличная альтернатива.",
+				"descriptionEN":"Tanks don't bleed, but here's a good alternative."
 			},
 			{
-				"name":"Снег",
-				"description":"«Бой в снежки» — звучит как детская забава... Игры в сторону: обрушьтесь на врагов, словно снежная лавина.",
-				"iconResourceId":"shot_skin_railgun_snow_icon"
+				"id":"snow",
+				"nameRU":"Снег",
+				"nameEN":"Snow",
+				"descriptionRU":"«Бой в снежки» — звучит как детская забава... Игры в сторону: обрушьтесь на врагов, словно снежная лавина.",
+				"descriptionEN":"A snowball fight sounds like fun... but yours will be more like an avalanche."
 			},
 			{
-				"name":"Лиловый",
-				"description":"Этот угрожающий цвет ваших выстрелов без слов расскажет противникам, что вы не собираетесь с ними шутить.",
-				"iconResourceId":"shot_skin_railgun_violet_icon"
+				"id":"violet",
+				"nameRU":"Лиловый",
+				"nameEN":"Violet",
+				"descriptionRU":"Этот угрожающий цвет ваших выстрелов без слов расскажет противникам, что вы не собираетесь с ними шутить.",
+				"descriptionEN":"The ominous color of your shots should be a clear message to your enemies that you're not messing around."
 			},
 			{
-				"name":"Тьма",
-				"description":"Когда ваши враги поймут, что на них охотится сама тьма, уже станет слишком поздно.",
-				"iconResourceId":"shot_skin_railgun_darkness_icon"
+				"id":"darkness",
+				"nameRU":"Тьма",
+				"nameEN":"Darkness",
+				"descriptionRU":"Когда ваши враги поймут, что на них охотится сама тьма, уже станет слишком поздно.",
+				"descriptionEN":"Just like a shot in the dark, your enemies will never know what hit them until it's too late."
 			}
 		]
 	},
 	{
-		"name":"Магнум",
-		"description":"Настоящий magnum opus танкостроительного искусства. Самый большой калибр, который смог поместиться на танковый корпус. Самый мощный фугасный снаряд, который удалось найти. Самый длинный ствол с самым большим дульным тормозом. Самая большая отдача, которая играючи перевернёт лёгкий танк. Нет ничего в этой гаубице, что бы ни кричало «самая». Даже система наведения — и та самая сложная. Тяжёлые снаряды летят к цели по дуге, что значительно усложняет прицеливание. Приловчившись, можно доставать противника за любым укрытием и на любом расстоянии. Ну или просто стрелять в упор со всеми вытекающими последствиями.",
-		"previewResourceId":"turret_magnum_preview",
+		"id":"magnum",
+		"nameRU":"Магнум",
+		"nameEN":"Magnum",
+		"descriptionRU":"Гаубица большой дальности. Стреляет мощными разрывными снарядами по баллистической траектории.\n\nПушка «Магнум» стреляет снарядами по ярко выраженной баллистической траектории. В стандартных настройках угол ствола фиксирован, но некоторые устройства позволяют обменять поворот башни на управление углом возвышения пушки. При удержании кнопки стрельбы система наведения рисует ожидаемую траекторию и точку попадания снаряда. Каждый снаряд имеет огромный радиус поражения.\n\nНастоящий magnum opus танкостроительного искусства. Самый большой калибр, который смог поместиться на танковый корпус. Самый мощный фугасный снаряд, который удалось найти. Самый длинный ствол с самым большим дульным тормозом. Приловчившись, можно доставать противника за любым укрытием и на любом расстоянии.",
+		"descriptionEN":"Long range howitzer. Fires powerful explosive shells on a ballistic trajectory.\n\nThe «Magnum» turret fires shells in a pronounced ballistic trajectory. In standard settings, the barrel angle is fixed, but some augments allow you to exchange the turret rotation ability for the ability to control the vertical angle. When holding down the firing button, the guidance system draws the expected trajectory and the shell’s impact point. Each shell has a large blast radius.\n\nA true magnum opus of artistic tank construction. The biggest caliber, which can fit onto a tank hull. The most destructive high-explosive shell, from what we could find. The longest barrel with the biggest barrel brake. With enough skill, though, you can hit enemies behind any cover and at any distance.",
 		"skins":
 		[
 			{
-				"name":"Стандарт",
-				"resourceId":"turret_magnum_m3",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon",
-				"type":"magnum"
+				"id":"m3",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true"
 			},
 			{
+				"id":"m0",
 				"name":"M0",
-				"resourceId":"turret_magnum_m0",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon",
-				"type":"magnum"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m1",
 				"name":"M1",
-				"resourceId":"turret_magnum_m1",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon",
-				"type":"magnum"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m2",
 				"name":"M2",
-				"resourceId":"turret_magnum_m2",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon",
-				"type":"magnum"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
-				"name":"XT",
-				"resourceId":"turret_magnum_xt",
-				"description":"Обладатель Магнума XT выделяется на поле боя благодаря устрашающему виду этой разрушительной пушки. Опытные артиллеристы утверждают, что этот эксклюзивный скин помогает попадать прямо в яблочко даже на самых больших боевых аренах.",
-				"iconResourceId":"skin_xt_icon",
-				"type":"magnum"
+				"id":"xt",
+				"name":"XT",	
+				"descriptionRU":"Обладатель Магнума XT выделяется на поле боя благодаря устрашающему виду этой разрушительной пушки. Опытные артиллеристы утверждают, что этот эксклюзивный скин помогает попадать прямо в яблочко даже на самых больших боевых аренах.",
+				"descriptionEN":"The owner of Magnum XT is easily recognized on the battlefield thanks to the menacing look of the turret. Experienced artillery users claim that this exclusive skin helps hit targets even on the largest battlefields.",
+				"icon":"xt"
 			}
 		],
 		"shotSkins":
 		[
 			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
 			},
 			{
-				"name":"Багровый",
-				"description":"Выстрелы багрового цвета несут в себе гнев, который падёт на ваших врагов, словно раскат грома.",
-				"iconResourceId":"shot_skin_magnum_crimson_icon"
+				"id":"crimson",
+				"nameRU":"Багровый",
+				"nameEN":"Crimson",
+				"descriptionRU":"Выстрелы багрового цвета несут в себе гнев, который падёт на ваших врагов, словно раскат грома.",
+				"descriptionEN":"This one is crimson, like the color of your wrath in battle."
 			},
 			{
-				"name":"Синий",
-				"description":"Синий — это цвет синяков, которые останутся на самолюбии врагов после ваших попаданий.",
-				"iconResourceId":"shot_skin_magnum_blue_icon"
+				"id":"blue",
+				"nameRU":"Синий",
+				"nameEN":"Blue",
+				"descriptionRU":"Синий — это цвет синяков, которые останутся на самолюбии врагов после ваших попаданий.",
+				"descriptionEN":"This one is blue, like the bruises you will leave on your enemy's ego."
 			},
 			{
-				"name":"Затмение",
-				"description":"Точно так же, как луна сливается с солнцем в одно целое при затмении, ваши снаряды пробивают вражескую броню.",
-				"iconResourceId":"shot_skin_magnum_eclipse_icon"
+				"id":"eclipse",
+				"nameRU":"Затмение",
+				"nameEN":"Eclipse",
+				"descriptionRU":"Точно так же, как луна сливается с солнцем в одно целое при затмении, ваши снаряды пробивают вражескую броню.",
+				"descriptionEN":"The moon merges with the sun as one in the sky, just like your bullet with your enemy's armor."
 			},
 			{
-				"name":"Ядовитый",
-				"description":"Ядовитые вещества очень опасны, но вам это только на руку. Превратите поле битвы в токсичный полигон, отравляя врагов своими выстрелами.",
-				"iconResourceId":"shot_skin_magnum_toxic_icon"
+				"id":"toxic",
+				"nameRU":"Ядовитый",
+				"nameEN":"Toxic",
+				"descriptionRU":"Ядовитые вещества очень опасны, но вам это только на руку. Превратите поле битвы в токсичный полигон, отравляя врагов своими выстрелами.",
+				"descriptionEN":"A toxic attitude will get you banned. But it's perfectly fine for your tank to spread toxicity. So have fun with it."
 			},
 			{
-				"name":"Лиловый",
-				"description":"Этот угрожающий цвет ваших выстрелов без слов расскажет противникам, что вы не собираетесь с ними шутить.",
-				"iconResourceId":"shot_skin_magnum_violet_icon"
+				"id":"violet",
+				"nameRU":"Лиловый",
+				"nameEN":"Violet",
+				"descriptionRU":"Этот угрожающий цвет ваших выстрелов без слов расскажет противникам, что вы не собираетесь с ними шутить.",
+				"descriptionEN":"The ominous color of your shots should be a clear message to your enemies that you're not messing around."
 			}
 		]
 	},
 	{
-		"name":"Гаусс",
-		"description":"Пушка «Гаусс» родилась в гаражах танкистов, пытавшихся подручными средствами повысить эффективность Грома в борьбе со снайперами. Оказалось, что обмотка ствола сверхпроводящей проволокой придаёт выстрелам колоссальное ускорение за счёт эффекта электромагнетизма. Разогнанный таким способом снаряд не уступает по дальности выстрелам Рельсотрона и бабахает особенно громко. А когда кустарную модификацию Грома оснастили современным комплексом прицеливания и сопровождения цели, появилась Гаусс-пушка — самый мобильный снайпер на поле боя. Пока стрелок на полной скорости уклоняется от огня противника, системы наведения Гаусса самостоятельно делают точный выстрел в оптимальный момент. Отличительной чертой пушки являются антенны, поднимаемые при подготовке электромагнитного ускорителя к выстрелу. За своеобразный внешний вид пушку прозвали «ушастым снайпером».",
-		"previewResourceId":"turret_gauss_preview",
+		"id":"gauss",
+		"nameRU":"Гаусс",
+		"nameEN":"Gauss",
+		"descriptionRU":"Снайперская пушка большой дальности. Удержание кнопки стрельбы некоторое время задействует электромагнитный ускоритель.\n\nСамый мобильный снайпер на поле боя. Комплектуется разрывными выстрелами, которые могут поразить несколько танков одновременно. Удерживая противника в прицеле некоторое время, можно задействовать встроенный в ствол пушки электромагнитный ускоритель. Разогнанный таким способом снаряд наносит повышенный урон, поражая группу целей на любом расстоянии.\n\nПушка «Гаусс» родилась в гаражах танкистов, пытавшихся подручными средствами повысить эффективность пушки «Гром» в борьбе со снайперами. Отличительной чертой пушки являются антенны, поднимаемые при подготовке электромагнитного ускорителя к выстрелу. За своеобразный внешний вид пушку прозвали «ушастым снайпером».",
+		"descriptionEN":"Long range sniper turret. Holding down the firing button for some time activates the electromagnetic accelerator.\n\nThe most mobile sniper on the battlefield. It is equipped with exploding shots that can hit multiple tanks simultaneously. Keeping the enemy in sight for a while, you can activate the electromagnetic accelerator which is built in the barrel. A projectile fired in this way deals increased damage, hitting a group of targets at any distance.\n\nThe «Gauss» turret was born in the garages of tankers who were looking for ways to increase the effectiveness of Thunder against snipers. A distinctive feature of this turret is the antennas, which extend while the electromagnetic accelerator is preparing for the shot. This turret has been nicknamed «big-eared sniper» due to its peculiar appearance.",
 		"skins":
 		[
 			{
-				"name":"Стандарт",
-				"resourceId":"turret_gauss_hd",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true",
+				"emissionColor":"16721408",
+				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"m0",
 				"name":"M0",
-				"resourceId":"turret_gauss_m0",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m1",
 				"name":"M1",
-				"resourceId":"turret_gauss_m1",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m2",
 				"name":"M2",
-				"resourceId":"turret_gauss_m2",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m3",
 				"name":"M3",
-				"resourceId":"turret_gauss_m3",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"xt",
 				"name":"XT",
-				"resourceId":"turret_gauss_xt",
-				"description":"Говорят, что внешность — это не главное. Но когда наступает время битвы, запугивание становится хорошей тактикой. Гаусс XT вселяет в соперников ужас и предупреждает их о жёстких ударах, которые обязательно последуют.",
-				"iconResourceId":"skin_xt_icon"
+				"descriptionRU":"Говорят, что внешность — это не главное. Но когда наступает время битвы, запугивание становится хорошей тактикой. Гаусс XT вселяет в соперников ужас и предупреждает их о жёстких ударах, которые обязательно последуют.",
+				"descriptionEN":"Looks aren't everything. But when it's time for battle, intimidation is always a good tactic. Gauss XT tells your enemies that you mean business, and prepares them for the hard-hitting shots that will surely follow.",
+				"icon":"xt"
 			},
 			{
+				"id":"pr",
 				"name":"Prime",
-				"resourceId":"turret_gauss_pr",
-				"description":"Этот скин создан специально для снайперов-виртуозов, для тех, кто за короткое время смог приручить «ушастого дьявола». Выглядит круто и опасно.",
-				"iconResourceId":"skin_pr_icon"
+				"descriptionRU":"Этот скин создан специально для снайперов-виртуозов, для тех, кто за короткое время смог приручить «ушастого дьявола». Выглядит круто и опасно.",
+				"descriptionEN":"This skin was crafted especially for virtuoso snipers who are skillful enough to tame the «big-eared devil». Looks cool and dangerous.",
+				"icon":"pr"
 			},
 			{
+				"id":"ut",
 				"name":"Ultra",
-				"resourceId":"turret_gauss_ut",
-				"description":"Такая многогранная и смертоносная пушка, как Гаусс, заслуживает столь же впечатляющего скина. А вот и он, скин Ультра для Гаусса.",
-				"iconResourceId":"skin_ut_icon"
+				"descriptionRU":"Такая многогранная и смертоносная пушка, как Гаусс, заслуживает столь же впечатляющего скина. А вот и он, скин Ультра для Гаусса.",
+				"descriptionEN":"A turret that is versatile and deadly as Gauss deserves an equally impressive skin. Here it is.",
+				"icon":"ut",
+				"emissionColor":"6213623",
+				"emissionColorSecond":"16109169",
+				"emissionColorThreshold":"0.4"
 			}
 		],
 		"shotSkins":
 		[
 			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
 			},
 			{
-				"name":"Яростный",
-				"description":"Эффект выстрела, который соответствует жёсткому характеру Гаусса и вмятинам, которые тот оставляет на броне вражеских танков.",
-				"iconResourceId":"shot_skin_gauss_violent_icon"
+				"id":"violent",
+				"nameRU":"Яростный",
+				"nameEN":"Violent",
+				"descriptionRU":"Эффект выстрела, который соответствует жёсткому характеру Гаусса и вмятинам, которые тот оставляет на броне вражеских танков.",
+				"descriptionEN":"A shot effect that matches the mean and hard-hitting nature of the Gauss shot, and the bruises it will leave on the enemy's tank."
 			}
 		]
 	},
 	{
-		"name":"Шафт",
-		"description":"Отличный выбор для любителей снайперской стрельбы. В обычном режиме пушка представляет из себя современный многофункциональный комплекс вооружения с огромным количеством функций. Она может варить кофе, заказывать пиццу, оплачивать счета, но в боевых условиях мало чем отличается от обычных систем вооружения. Главной особенностью пушки «Шафт» является дополнительный снайперский режим, в котором мощность бластера можно повысить многократно, накопив заряд. Применение этого режима требует перехода корпуса танка в осадный режим, исключающий возможность передвигаться. Фокусировка прицела использует вспомогательный лазер наведения, который легко засекают системы наблюдения любого современного танка. Потому бывалые танкисты не рекомендуют находиться в снайперском режиме слишком долго, иначе подкравшийся сзади противник может вас сильно напугать.",
-		"previewResourceId":"turret_shaft_preview",
+		"id":"shaft",
+		"nameRU":"Шафт",
+		"nameEN":"Shaft",
+		"descriptionRU":"Снайперская пушка большой дальности. Может переходить в снайперский режим при удержании кнопки стрельбы.\n\nЛазерная пушка с уникальным режимом стрельбы. Остановив танк на месте, можно направить всю энергию реактора на накачку мощности лазерного выстрела. Урон в этом режиме зависит от времени накопления заряда, но танк должен оставаться полностью неподвижным. Фокусировка прицела использует вспомогательный лазер наведения, который легко засекают системы наблюдения любого современного танка.\n\nОтличный выбор для любителей снайперской стрельбы. Пушка представляет из себя современный многофункциональный комплекс вооружения с огромным количеством функций. Она может варить кофе, заказывать пиццу, оплачивать счета, но главной особенностью является снайперский прицел. Бывалые танкисты не рекомендуют находиться в снайперском режиме слишком долго, иначе подкравшийся сзади противник может вас сильно напугать.",
+		"descriptionEN":"Long range sniper turret. Can enter sniper mode by holding down the firing button.\n\nA laser turret with a unique firing mode. By halting the tank in place, you can direct all the energy of the reactor to pump up the power of the laser shot. Damage in this mode will depend on how long you charge up the shot, and your tank will also become completely immobile. Focusing your shot on the enemy will also use an additional laser pointer, which can be detected by most modern tanks’ optical systems.\n\nA great choice for fans of sniper battles. The turret works as a modern multifunctional weapon system, with an astounding number of uses. It can brew coffee, order pizza, pay bills — but its main feature is the sniper scope. Seasoned tankers recommend never being in the sniper mode for long, or you risk opening your backside for a surprise enemy attack.",
 		"skins":
 		[
 			{
-				"name":"Стандарт",
-				"resourceId":"turret_shaft_m3",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"m3",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true"
 			},
 			{
+				"id":"m0",
 				"name":"M0",
-				"resourceId":"turret_shaft_m0",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m1",
 				"name":"M1",
-				"resourceId":"turret_shaft_m1",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"m2",
 				"name":"M2",
-				"resourceId":"turret_shaft_m2",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			},
 			{
+				"id":"xt",
 				"name":"XT",
-				"resourceId":"turret_shaft_xt",
-				"description":"Золотой лев с серебристой гривой, воплощённый в облике Шафта XT, станет вашим преданным боевым товарищем и поможет защитить ваш прайд.",
-				"iconResourceId":"skin_xt_icon"
+				"descriptionRU":"Золотой лев с серебристой гривой, воплощённый в облике Шафта XT, станет вашим преданным боевым товарищем и поможет защитить ваш прайд.",
+				"descriptionEN":"Golden lion with a silver mane, shaped into the form of Shaft XT, will become your trusted battle friend and will help protect the pride of fellow lions from the enemies.",
+				"icon":"xt"
 			},
 			{
+				"id":"lc",
 				"name":"Legacy",
-				"resourceId":"turret_shaft_lc",
-				"description":"Ох уж этот снайпер с орлиным зрением! В новом брутальном образе бойца из стали он поразит ещё больше целей. Осторожно: вызывает зависть у противников!",
-				"iconResourceId":"skin_lc_icon"
+				"descriptionRU":"Ох уж этот снайпер с орлиным зрением! В новом брутальном образе бойца из стали он поразит ещё больше целей. Осторожно: вызывает зависть у противников!",
+				"descriptionEN":"Oh, what an eagle-eyed sniper! In a new brutal style of a fighter made of steel, the user of this skin will see increased kills and definitely increased jealousy!",
+				"icon":"lc",
+				"emissionColor":"16755200",
+				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"tx_m2",
 				"name":"M2 (Tanki X)",
-				"resourceId":"turret_shaft_tx_m2",
-				"description":"Сверхточное орудие «Шафт» было создано «Фронтиром» для ведения позиционных боёв за горные перевалы в Латинской Америке. Режим снайперского огня и возможность ведения эффективного боя на коротких дистанциях сделали «Шафт» надеждой на «победу качеством». Продолжалось это до тех пор, пока инженеры «Антея» не скопировали новинку, демонтировав её с одного из подбитых танков.",
-				"iconResourceId":"skin_tx_icon"
+				"descriptionRU":"Сверхточное орудие «Шафт» было создано «Фронтиром» для ведения позиционных боёв за горные перевалы в Латинской Америке. Режим снайперского огня и возможность ведения эффективного боя на коротких дистанциях сделали «Шафт» надеждой на «победу качеством». Продолжалось это до тех пор, пока инженеры «Антея» не скопировали новинку, демонтировав её с одного из подбитых танков.",
+				"descriptionEN":"The Shaft is a very accurate weapon created by Frontier for waging positional battles over the mountain passes of Latin America. Its sniper mode, the increased damage to turrets, and the ability to conduct effective short-range battles have made Shaft the hope for a clean victory. That was until Antaeus engineers replicated the turret by studying a partially destroyed weapon they found on a partially destroyed tank.",
+				"icon":"tx",
+				"emissionColor":"4186194",
+				"emissionColorThreshold":"0.6"
 			}
 		],
 		"shotSkins":
 		[
 			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
 			},
 			{
-				"name":"Затмение",
-				"description":"Точно так же, как луна сливается с солнцем в одно целое при затмении, ваши снаряды пробивают вражескую броню.",
-				"iconResourceId":"shot_skin_shaft_eclipse_icon"
+				"id":"eclipse",
+				"nameRU":"Затмение",
+				"nameEN":"Eclipse",
+				"descriptionRU":"Точно так же, как луна сливается с солнцем в одно целое при затмении, ваши снаряды пробивают вражескую броню.",
+				"descriptionEN":"The moon merges with the sun as one in the sky, just like your bullet with your enemy's armor."
 			},
 			{
-				"name":"Зенит",
-				"description":"Как и от ослепительного света полуденного солнца, от ваших выстрелов невозможно скрыться.",
-				"iconResourceId":"shot_skin_shaft_noon_icon"
+				"id":"noon",
+				"nameRU":"Зенит",
+				"nameEN":"Noon",
+				"descriptionRU":"Как и от ослепительного света полуденного солнца, от ваших выстрелов невозможно скрыться.",
+				"descriptionEN":"The blinding light of the noon sun, as inescapable as your shot."
 			},
 			{
-				"name":"Зелёный",
-				"description":"Зелёный — это цвет мягкости и спокойствия. Ваш выстрел не является ни тем, ни другим. Замечаете иронию?",
-				"iconResourceId":"shot_skin_shaft_green_icon"
+				"id":"green",
+				"nameRU":"Зелёный",
+				"nameEN":"Green",
+				"descriptionRU":"Зелёный — это цвет мягкости и спокойствия. Ваш выстрел не является ни тем, ни другим. Замечаете иронию?",
+				"descriptionEN":"Green is a nice, peaceful color. Your shot is neither nice, nor peaceful. Notice the irony?"
 			},
 			{
-				"name":"Аква",
-				"description":"«Aqua» означает «вода» на латыни. Эта прозрачная текучая жидкость — не только источник жизни: струя воды под давлением приобретает разрушительную мощь. Ваши выстрелы будут такими же опасными.",
-				"iconResourceId":"shot_skin_shaft_aqua_icon"
+				"id":"aqua",
+				"nameRU":"Аква",
+				"nameEN":"Aqua",
+				"descriptionRU":"«Aqua» означает «вода» на латыни. Эта прозрачная текучая жидкость — не только источник жизни: струя воды под давлением приобретает разрушительную мощь. Ваши выстрелы будут такими же опасными.",
+				"descriptionEN":"Aqua... Latin for «water» — fluid, adaptable, but incredibly destructive when applied with focus, just like your shot."
 			},
 			{
-				"name":"Синий",
-				"description":"Синий — это цвет синяков, которые останутся на самолюбии врагов после ваших попаданий.",
-				"iconResourceId":"shot_skin_shaft_blue_icon"
+				"id":"blue",
+				"nameRU":"Синий",
+				"nameEN":"Blue",
+				"descriptionRU":"Синий — это цвет синяков, которые останутся на самолюбии врагов после ваших попаданий.",
+				"descriptionEN":"This one is blue, like the bruises you will leave on your enemy's ego."
 			},
 			{
-				"name":"Кровавый",
-				"description":"Вы не можете пустить кровь танкам, но этот эффект выстрела — отличная альтернатива.",
-				"iconResourceId":"shot_skin_shaft_blood_icon"
+				"id":"blood",
+				"nameRU":"Кровавый",
+				"nameEN":"Blood",
+				"descriptionRU":"Вы не можете пустить кровь танкам, но этот эффект выстрела — отличная альтернатива.",
+				"descriptionEN":"Tanks don't bleed, but here's a good alternative."
 			},
 			{
-				"name":"Лиловый",
-				"description":"Этот угрожающий цвет ваших выстрелов без слов расскажет противникам, что вы не собираетесь с ними шутить.",
-				"iconResourceId":"shot_skin_shaft_violet_icon"
+				"id":"violet",
+				"nameRU":"Лиловый",
+				"nameEN":"Violet",
+				"descriptionRU":"Этот угрожающий цвет ваших выстрелов без слов расскажет противникам, что вы не собираетесь с ними шутить.",
+				"descriptionEN":"The ominous color of your shots should be a clear message to your enemies that you're not messing around."
 			},
 			{
-				"name":"Пустота",
-				"description":"Пустота — самое подходящее слово для описания того, что останется от противника после того, как вы разнесёте его танк на мелкие кусочки.",
-				"iconResourceId":"shot_skin_shaft_void_icon"
+				"id":"void",
+				"nameRU":"Пустота",
+				"nameEN":"Void",
+				"descriptionRU":"Пустота — самое подходящее слово для описания того, что останется от противника после того, как вы разнесёте его танк на мелкие кусочки.",
+				"descriptionEN":"This one is called \"Void\", because that's exactly what will be left after you've blown your opponent to bits."
 			},
 			{
-				"name":"Магма",
-				"description":"Есть краска огненного цвета? Теперь вам нужен пылающий эффект выстрела. А вот и он.",
-				"iconResourceId":"shot_skin_shaft_magma_icon"
+				"id":"magma",
+				"nameRU":"Магма",
+				"nameEN":"Magma",
+				"descriptionRU":"Есть краска огненного цвета? Теперь вам нужен пылающий эффект выстрела. А вот и он.",
+				"descriptionEN":"Got a hot paint job? Now you need an equally hot shot color to go with it. Here it is."
 			}
 		]
 	},
 	{
-		"name":"Терминатор",
+		"id":"terminator",
+		"nameRU":"Терминатор",
+		"nameEN":"Terminator",
 		"description":"Hasta la vista, baby!",
-		"previewResourceId":"turret_terminator_preview",
 		"skins":
 		[
 			{
-				"name":"Стандарт",
-				"resourceId":"turret_terminator_m3",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"m3",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true"
 			},
 			{
-				"name":"XT (Фанатский)",
-				"resourceId":"turret_terminator_xt_fake",
+				"id":"xt_fake",
+				"nameRU":"XT (неофициальный)",
+				"nameEN":"XT (unofficial)",
 				"description":"TODO",
-				"iconResourceId":"skin_xt_icon"
+				"icon":"xt"
 			}
 		],
 		"shotSkins":
 		[
 			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
 			}
 		]
 	},
 	{
-		"name":"B0-NK «Кувалда»",
-		"description":"Отличный инструмент для промышленных строительных работ. Массивное зубило предназначено для разрушения бетонных и кирпичных стен, фундаментов, вскрытия дорожного полотна и демонтажа твердых покрытий. В конструкцию встроен реактивный разгонный элемент для повышения пробивающей способности зубила.",
-		"previewResourceId":"turret_bonk_preview",
+		"id":"bonk",
+		"nameRU":"B0-NK «Кувалда»",
+		"nameEN":"B0-NK «Sledgehammer»",
+		"description":"B0-NK Sledgehammer",
 		"skins":
 		[
 			{
-				"name":"Стандарт",
-				"resourceId":"turret_bonk_hd",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true",
+				"emissionColor":"65535",
+				"emissionColorThreshold":"0.6"
 			},
 			{
-				"name":"Стандарт (Старый)",
-				"resourceId":"turret_bonk_hd_old",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"hd_old",
+				"nameRU":"Стандартные настройки (старый)",
+				"nameEN":"Standard settings (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true",
+				"emissionColor":"65535",
+				"emissionColorThreshold":"0.6"
 			},
 			{
-				"name":"Коготь",
-				"resourceId":"turret_bonk_biomorphic_claw",
+				"id":"biomorphic_claw",
+				"nameRU":"Коготь",
+				"nameEN":"Claw",
 				"description":"TODO",
-				"iconResourceId":"skin_xt_icon"
+				"icon":"xt",
+				"emissionColor":"16747520",
+				"emissionColorThreshold":"0.4"
 			}
 		],
 		"shotSkins":
 		[
 			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
 			}
 		]
 	},
 	{
-		"name":"Глебыч",
-		"description":"Особая пушка, которая запускает смертоносные снежки в врагов поблизости. Он был создан случайно во время ужасной метели перед Рождеством. Один из старых прототипов Магнума был выброшен и оставлен на свалке. При попытке очистить ствол от снега выяснилось, что снежки, которые уже были снаряжены в прототипе, еще можно было использовать в качестве боеприпасов. В итоге было решено установить его на корпус и украсить снеговиком с морковкой, зажжёнными ветками и ведром.",
-		"previewResourceId":"turret_snowman_preview",
+		"id":"snowman",
+		"nameRU":"Глебыч",
+		"nameEN":"Snowman",
+		"description":"Snowman",
 		"skins":
 		[
 			{
-				"name":"Стандарт (Красный)",
-				"resourceId":"turret_snowman_hd_red",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"hd_red",
+				"nameRU":"Стандартные настройки (красный)",
+				"nameEN":"Standard settings (red)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true",
+				"emissionColor":"16581323",
+				"emissionColorThreshold":"0.4"
 			},
 			{
-				"name":"Стандарт (Зелёный)",
-				"resourceId":"turret_snowman_hd_green",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"hd_green",
+				"nameRU":"Стандартные настройки (зелёный)",
+				"nameEN":"Standard settings (green)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true",
+				"emissionColor":"13434624",
+				"emissionColorThreshold":"0.4"
 			},
 			{
-				"name":"Стандарт (Синий)",
-				"resourceId":"turret_snowman_hd_blue",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"hd_blue",
+				"nameRU":"Стандартные настройки (синий)",
+				"nameEN":"Standard settings (blue)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true",
+				"emissionColor":"131033",
+				"emissionColorThreshold":"0.4"
 			}
 		],
 		"shotSkins":
 		[
 			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
 			}
 		]
 	},
 	{	
-		"name":"Томатыч",
-		"description":"Модифицированная версия Магнума, представляющая собой пушку Глебыч с изменённым внешним видом. Высота ствола немного выше, чем у Магнума, а скорость снарядов снижена. Это приводит к тому, что Томатыч является пушкой средней дальности. При критических попаданиях он наносит на противника сразу несколько статус-эффектов.",
-		"previewResourceId":"turret_tomato_gun_preview",
+		"id":"tomato_gun",
+		"nameRU":"Томатыч",
+		"nameEN":"Tomato Gun",
+		"description":"Tomato Gun",
 		"skins":
 		[
 			{
-				"name":"Стандарт",
-				"resourceId":"turret_tomato_gun_hd",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"skin_standard_icon"
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"isStandard":"true",
+				"emissionColor":"4652800",
+				"emissionColorThreshold":"0.6"
 			}
 		],
 		"shotSkins":
 		[
 			{
-				"name":"Стандарт",
-				"description":"Стандартные заводские настройки без специальных эффектов.",
-				"iconResourceId":"shot_skin_standard_icon"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":"true"
 			}
 		]
 	}

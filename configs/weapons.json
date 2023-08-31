@@ -2,94 +2,126 @@
 		"railgun":
 		[
 			{
-				"name":"Стандарт",
+				"id":"standard",
 				"part1ResourceId":"shot_skin_railgun_standard_part_1",
 				"part2ResourceId":"shot_skin_railgun_standard_part_2",
 				"part3ResourceId":"shot_skin_railgun_standard_part_3",
 				"trailResourceId":"shot_skin_railgun_standard_trail",
-				"smokeResourceId":"shot_skin_railgun_standard_smoke"
+				"smokeResourceId":"shot_skin_railgun_standard_smoke",
+				"chargeLight":"railgun_standard_charge",
+				"shotLight":"railgun_standard_shot",
+				"hitLight":"railgun_standard_hit",
+				"railLight":"railgun_standard_rail"
 			},
 			{
-				"name":"Золотой",
+				"id":"gold",
 				"part1ResourceId":"shot_skin_railgun_gold_part_1",
 				"part2ResourceId":"shot_skin_railgun_standard_part_2",
 				"part3ResourceId":"shot_skin_railgun_standard_part_3",
 				"trailResourceId":"shot_skin_railgun_gold_trail",
-				"smokeResourceId":"shot_skin_railgun_gold_smoke"
+				"smokeResourceId":"shot_skin_railgun_gold_smoke",
+				"chargeLight":"railgun_gold_charge",
+				"shotLight":"railgun_gold_shot",
+				"hitLight":"railgun_gold_hit",
+				"railLight":"railgun_gold_rail"
 			},
 			{
-				"name":"Синий",
+				"id":"blue",
 				"part1ResourceId":"shot_skin_railgun_blue_part_1",
 				"part2ResourceId":"shot_skin_railgun_standard_part_2",
 				"part3ResourceId":"shot_skin_railgun_standard_part_3",
 				"trailResourceId":"shot_skin_railgun_blue_trail",
-				"smokeResourceId":"shot_skin_railgun_blue_smoke"
+				"smokeResourceId":"shot_skin_railgun_blue_smoke",
+				"chargeLight":"railgun_blue_charge",
+				"shotLight":"railgun_blue_shot",
+				"hitLight":"railgun_blue_hit",
+				"railLight":"railgun_blue_rail"
 			},
 			{
-				"name":"Зелёный",
+				"id":"green",
 				"part1ResourceId":"shot_skin_railgun_green_part_1",
 				"part2ResourceId":"shot_skin_railgun_standard_part_2",
 				"part3ResourceId":"shot_skin_railgun_standard_part_3",
 				"trailResourceId":"shot_skin_railgun_green_trail",
-				"smokeResourceId":"shot_skin_railgun_green_smoke"
+				"smokeResourceId":"shot_skin_railgun_green_smoke",
+				"chargeLight":"railgun_green_charge",
+				"shotLight":"railgun_green_shot",
+				"hitLight":"railgun_green_hit",
+				"railLight":"railgun_green_rail"
 			},
 			{
-				"name":"Кровавый",
+				"id":"blood",
 				"part1ResourceId":"shot_skin_railgun_blood_part_1",
 				"part2ResourceId":"shot_skin_railgun_standard_part_2",
 				"part3ResourceId":"shot_skin_railgun_standard_part_3",
 				"trailResourceId":"shot_skin_railgun_blood_trail",
-				"smokeResourceId":"shot_skin_railgun_blood_smoke"
+				"smokeResourceId":"shot_skin_railgun_blood_smoke",
+				"chargeLight":"railgun_blood_charge",
+				"shotLight":"railgun_blood_shot",
+				"hitLight":"railgun_blood_hit",
+				"railLight":"railgun_blood_rail"
 			},
 			{
-				"name":"Снег",
+				"id":"snow",
 				"part1ResourceId":"shot_skin_railgun_snow_part_1",
 				"part2ResourceId":"shot_skin_railgun_standard_part_2",
 				"part3ResourceId":"shot_skin_railgun_standard_part_3",
 				"trailResourceId":"shot_skin_railgun_snow_trail",
-				"smokeResourceId":"shot_skin_railgun_snow_smoke"
+				"smokeResourceId":"shot_skin_railgun_snow_smoke",
+				"chargeLight":"railgun_snow_charge",
+				"shotLight":"railgun_snow_shot",
+				"hitLight":"railgun_snow_hit",
+				"railLight":"railgun_snow_rail"
 			},
 			{
-				"name":"Лиловый",
+				"id":"violet",
 				"part1ResourceId":"shot_skin_railgun_violet_part_1",
 				"part2ResourceId":"shot_skin_railgun_standard_part_2",
 				"part3ResourceId":"shot_skin_railgun_standard_part_3",
 				"trailResourceId":"shot_skin_railgun_violet_trail",
-				"smokeResourceId":"shot_skin_railgun_violet_smoke"
+				"smokeResourceId":"shot_skin_railgun_violet_smoke",
+				"chargeLight":"railgun_violet_charge",
+				"shotLight":"railgun_violet_shot",
+				"hitLight":"railgun_violet_hit",
+				"railLight":"railgun_violet_rail"
 			},
 			{
-				"name":"Тьма",
+				"id":"darkness",
 				"part1ResourceId":"shot_skin_railgun_darkness_part_1",
 				"part2ResourceId":"shot_skin_railgun_standard_part_2",
 				"part3ResourceId":"shot_skin_railgun_standard_part_3",
 				"trailResourceId":"shot_skin_railgun_darkness_trail",
-				"smokeResourceId":"shot_skin_railgun_darkness_smoke"
+				"smokeResourceId":"shot_skin_railgun_darkness_smoke",
+				"chargeLight":"railgun_darkness_charge",
+				"shotLight":"railgun_darkness_shot",
+				"hitLight":"railgun_darkness_hit",
+				"railLight":"railgun_darkness_rail"
 			}
 		],
 		"striker":
 		[
 			{
-				"name":"Стандарт",
+				"id":"standard",
 				"explosionResourceId":"shot_skin_striker_standard_explosion",
 				"smokeResourceId":"shot_skin_striker_standard_smoke"
 			},
 			{
-				"name":"Ядовитый",
+				"id":"toxic",
 				"explosionResourceId":"shot_skin_striker_toxic_explosion",
 				"smokeResourceId":"shot_skin_striker_toxic_smoke"
 			},
 			{
-				"name":"Багровый",
+				"id":"crimson",
 				"explosionResourceId":"shot_skin_striker_crimson_explosion",
 				"smokeResourceId":"shot_skin_striker_crimson_smoke"
 			},
 			{
-				"name":"Синий",
+				"id":"blue",
 				"explosionResourceId":"shot_skin_striker_blue_explosion",
 				"smokeResourceId":"shot_skin_striker_blue_smoke"
 			},
 			{
-				"name":"Лиловый",
+				"id":"violet",
 				"explosionResourceId":"shot_skin_striker_violet_explosion",
 				"smokeResourceId":"shot_skin_striker_violet_smoke"
 			}
@@ -97,7 +129,7 @@
 		"twins":
 		[
 			{
-				"name":"Стандарт",
+				"id":"standard",
 				"explosionResourceId":"shot_skin_twins_standard_explosion",
 				"shotResourceId":"shot_skin_twins_standard_shot",
 				"muzzleResourceId":"shot_skin_twins_standard_muzzle",
@@ -106,7 +138,7 @@
 				"hitLight":"twins_default_hit"
 			},
 			{
-				"name":"Небесный",
+				"id":"sky",
 				"explosionResourceId":"shot_skin_twins_sky_explosion",
 				"shotResourceId":"shot_skin_twins_sky_shot",
 				"muzzleResourceId":"shot_skin_twins_sky_muzzle",
@@ -115,7 +147,7 @@
 				"hitLight":"twins_sky_hit"
 			},
 			{
-				"name":"Золотой",
+				"id":"gold",
 				"explosionResourceId":"shot_skin_twins_gold_explosion",
 				"shotResourceId":"shot_skin_twins_gold_shot",
 				"muzzleResourceId":"shot_skin_twins_gold_muzzle",
@@ -124,7 +156,7 @@
 				"hitLight":"twins_gold_hit"
 			},
 			{
-				"name":"Тёмная луна",
+				"id":"darkmoon",
 				"explosionResourceId":"shot_skin_twins_darkmoon_explosion",
 				"shotResourceId":"shot_skin_twins_darkmoon_shot",
 				"muzzleResourceId":"shot_skin_twins_darkmoon_muzzle",
@@ -133,7 +165,7 @@
 				"hitLight":"twins_darkmoon_hit"
 			},
 			{
-				"name":"Лиловый",
+				"id":"violet",
 				"explosionResourceId":"shot_skin_twins_violet_explosion",
 				"shotResourceId":"shot_skin_twins_violet_shot",
 				"muzzleResourceId":"shot_skin_twins_violet_muzzle",
@@ -142,7 +174,7 @@
 				"hitLight":"twins_violet_hit"
 			},
 			{
-				"name":"Коралловый риф",
+				"id":"coral",
 				"explosionResourceId":"shot_skin_twins_coral_explosion",
 				"shotResourceId":"shot_skin_twins_coral_shot",
 				"muzzleResourceId":"shot_skin_twins_coral_muzzle",
@@ -151,7 +183,7 @@
 				"hitLight":"twins_coral_hit"
 			},
 			{
-				"name":"Разряд",
+				"id":"electric",
 				"explosionResourceId":"shot_skin_twins_electric_explosion",
 				"shotResourceId":"shot_skin_twins_electric_shot",
 				"muzzleResourceId":"shot_skin_twins_electric_muzzle",
@@ -164,7 +196,7 @@
 		"isida":
 		[
 			{
-				"name":"Стандарт",
+				"id":"standard",
 				"damageBallResourceId":"shot_skin_isida_standard_ball",
 				"damageRayResourceId":"shot_skin_isida_standard_ray",
 				"enemyStartLight":"isida_default_enemy_start",
@@ -174,7 +206,7 @@
 				"loopLight":"isida_default_loop"
 			},
 			{
-				"name":"Солнечный",
+				"id":"sun",
 				"damageBallResourceId":"shot_skin_isida_sun_ball",
 				"damageRayResourceId":"shot_skin_isida_sun_ray",
 				"enemyStartLight":"isida_sun_enemy_start",
@@ -184,7 +216,7 @@
 				"loopLight":"isida_default_loop"
 			},
 			{
-				"name":"Пламя",
+				"id":"fire",
 				"damageBallResourceId":"shot_skin_isida_fire_ball",
 				"damageRayResourceId":"shot_skin_isida_fire_ray",
 				"enemyStartLight":"isida_fire_enemy_start",
@@ -194,7 +226,7 @@
 				"loopLight":"isida_default_loop"
 			},
 			{
-				"name":"Лечение",
+				"id":"heal",
 				"damageBallResourceId":"shot_skin_isida_heal_ball",
 				"damageRayResourceId":"shot_skin_isida_heal_ray",
 				"enemyStartLight":"isida_heal_enemy_start",
@@ -208,7 +240,7 @@
 		"hammer":
 		[
 			{
-				"name":"Стандарт",
+				"id":"standard",
 				"pelletTrailResourceId":"shot_skin_hammer_standard_pellet_trail",
 				"shotAcrossResourceId":"shot_skin_hammer_standard_shot_across",
 				"shotAlongResourceId":"shot_skin_hammer_standard_shot_along",
@@ -216,7 +248,7 @@
 				"shotLight":"hammer_default_shot"
 			},
 			{
-				"name":"Аква",
+				"id":"aqua",
 				"pelletTrailResourceId":"shot_skin_hammer_aqua_pellet_trail",
 				"shotAcrossResourceId":"shot_skin_hammer_aqua_shot_across",
 				"shotAlongResourceId":"shot_skin_hammer_aqua_shot_along",
@@ -224,7 +256,7 @@
 				"shotLight":"hammer_aqua_shot"
 			},
 			{
-				"name":"Магма",
+				"id":"magma",
 				"pelletTrailResourceId":"shot_skin_hammer_magma_pellet_trail",
 				"shotAcrossResourceId":"shot_skin_hammer_magma_shot_across",
 				"shotAlongResourceId":"shot_skin_hammer_magma_shot_along",
@@ -232,7 +264,7 @@
 				"shotLight":"hammer_magma_shot"
 			},
 			{
-				"name":"Пустота",
+				"id":"void",
 				"pelletTrailResourceId":"shot_skin_hammer_void_pellet_trail",
 				"shotAcrossResourceId":"shot_skin_hammer_void_shot_across",
 				"shotAlongResourceId":"shot_skin_hammer_void_shot_along",
@@ -240,7 +272,7 @@
 				"shotLight":"hammer_void_shot"
 			},
 			{
-				"name":"Ядовитый",
+				"id":"toxic",
 				"pelletTrailResourceId":"shot_skin_hammer_toxic_pellet_trail",
 				"shotAcrossResourceId":"shot_skin_hammer_toxic_shot_across",
 				"shotAlongResourceId":"shot_skin_hammer_toxic_shot_along",
@@ -248,7 +280,7 @@
 				"shotLight":"hammer_toxic_shot"
 			},
 			{
-				"name":"Затмение",
+				"id":"eclipse",
 				"pelletTrailResourceId":"shot_skin_hammer_eclipse_pellet_trail",
 				"shotAcrossResourceId":"shot_skin_hammer_eclipse_shot_across",
 				"shotAlongResourceId":"shot_skin_hammer_eclipse_shot_along",
@@ -256,7 +288,7 @@
 				"shotLight":"hammer_eclipse_shot"
 			},
 			{
-				"name":"Синий",
+				"id":"blue",
 				"pelletTrailResourceId":"shot_skin_hammer_blue_pellet_trail",
 				"shotAcrossResourceId":"shot_skin_hammer_blue_shot_across",
 				"shotAlongResourceId":"shot_skin_hammer_blue_shot_along",
@@ -264,7 +296,7 @@
 				"shotLight":"hammer_blue_shot"
 			},
 			{
-				"name":"Кровавый",
+				"id":"blood",
 				"pelletTrailResourceId":"shot_skin_hammer_blood_pellet_trail",
 				"shotAcrossResourceId":"shot_skin_hammer_blood_shot_across",
 				"shotAlongResourceId":"shot_skin_hammer_blood_shot_along",
@@ -275,7 +307,7 @@
 		"thunder":
 		[
 			{
-				"name":"Стандарт",
+				"id":"standard",
 				"barrelFlameResourceId":"shot_skin_thunder_standard_flame",
 				"barrelFireResourceId":"shot_skin_thunder_standard_fire",
 				"barrelSmokeResourceId":"shot_skin_thunder_standard_smoke",
@@ -289,7 +321,7 @@
 		"smoky":
 		[
 			{
-				"name":"Стандарт",
+				"id":"standard",
 				"barrelFlameResourceId":"shot_skin_smoky_standard_flame",
 				"barrelFireResourceId":"shot_skin_smoky_standard_fire",
 				"barrelStaticSmokeResourceId":"shot_skin_smoky_standard_soot",
@@ -299,6 +331,61 @@
 				"shotLight":"thunder_default_shot",
 				"hitLight":"thunder_default_hit",
 				"shellLight":"thunder_default_shell"
+			}
+		],
+		"terminator":
+		[
+			{
+				"id":"standard",
+				"part1ResourceId":"shot_skin_railgun_standard_part_1",
+				"part2ResourceId":"shot_skin_railgun_standard_part_2",
+				"part3ResourceId":"shot_skin_railgun_standard_part_3",
+				"trailResourceId":"shot_skin_railgun_standard_trail",
+				"railgunSmokeResourceId":"shot_skin_railgun_standard_smoke",
+				"explosionResourceId":"shot_skin_striker_standard_explosion",
+				"strikerSmokeResourceId":"shot_skin_striker_standard_smoke",
+				"chargeLight":"railgun_standard_charge",
+				"shotLight":"railgun_standard_shot",
+				"hitLight":"railgun_standard_hit",
+				"railLight":"railgun_standard_rail"
+			}
+		],
+		"flamethrower":
+		[
+			{
+				"id":"standard",
+				"particle":"shot_skin_flamethrower_standard_particle",
+				"muzzle":"shot_skin_flamethrower_standard_muzzle",
+				"startLight":"flamethrower_standard_start",
+				"loopLight":"flamethrower_standard_loop"
+			},
+			{
+				"id":"crimson",
+				"particle":"shot_skin_flamethrower_crimson_particle",
+				"muzzle":"shot_skin_flamethrower_crimson_muzzle",
+				"startLight":"flamethrower_crimson_start",
+				"loopLight":"flamethrower_crimson_loop"
+			},
+			{
+				"id":"magma",
+				"particle":"shot_skin_flamethrower_magma_particle",
+				"muzzle":"shot_skin_flamethrower_magma_muzzle",
+				"startLight":"flamethrower_magma_start",
+				"loopLight":"flamethrower_magma_loop"
+			},
+			{
+				"id":"black",
+				"particle":"shot_skin_flamethrower_black_particle",
+				"muzzle":"shot_skin_flamethrower_black_muzzle",
+				"startLight":"flamethrower_black_start",
+				"loopLight":"flamethrower_black_loop"
+			},
+			{
+				"id":"pink",
+				"particle":"shot_skin_flamethrower_pink_particle",
+				"muzzle":"shot_skin_flamethrower_pink_muzzle",
+				"startLight":"flamethrower_pink_start",
+				"loopLight":"flamethrower_pink_loop"
 			}
 		]
 }

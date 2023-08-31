@@ -6,6 +6,17 @@
 	"TIP_4":"Update 2.5 - rebranding and the beginning of a series of updates on the \"reload\" of this project.",
 	"TIP_5":"Want to change control or graphics settings? Press H to open settings.",
 	"TIP_6":"You don't drive a tank - you are the tank!",
+	"TIP_7":"TLVK has been ground-up rewritten in update 2.6.",
+	
+	"ALERT_ANSWER_YES":"Yes",
+	"ALERT_ANSWER_NO":"No",
+	"ALERT_ANSWER_YES_FOR_FOREIGNERS":"Да",
+	"ALERT_ANSWER_NO_FOR_FOREIGNERS":"Нет",
+	"ALERT_QUIT":"Quit the game?",
+	"ALERT_CHANGE_LANGUAGE":"Для смены языка требуется перезапуск. Продолжить?",
+	"ALERT_CLEAR_STORAGE":"A restart is required to clean up. Continue?",
+	"ALERT_EXIT_FROM_BATTLE":"Leave the battle?",
+	
 	"MAP_LIST":"MAP LIST",
 	"SELECTED_MAP":"SELECTED MAP",
 	"SUMMER":"Summer",
@@ -28,6 +39,7 @@
 	"DEVICES":"Devices",
 	"DESCRIPTION":"Description",
 	"HEADER_DEVICES":"DEVICES",
+	"SKIN":"Skin",
 	
 	"MASS":"Mass",
 	"DAMPING":"Damping",
@@ -52,6 +64,7 @@
 	"DEBUG_PANEL":"Debug panel",
 	"SOUND_VOLUME":"Sound volume:",
 	"BACKGROUND_SOUND":"Background sound",
+	"CLEAR_STORAGE":"Clear save",
 	"HEADER_SETTINGS":"SETTINGS",
 	"TAB_GAME":"Game",
 	"TAB_GRAPHICS":"Graphics",
@@ -69,6 +82,8 @@
 	"ANTIALIASING":"Antialiasing",
 	"DYNAMIC_LIGHTING":"Dynamic lighting",
 	"GRAPHICS_AUTO_QUALITY":"Automatic graphics quality",
+	"3D_BUSHES":"3D-bushes",
+	
 	"MOUSE_CONTROL":"Mouse controls",
 	"MOUSE_SENSITIVITY":"Mouse look sensitivity",
 	"MOUSE_INVERSION":"Mouse look vertical inversion",
@@ -104,6 +119,5 @@
 	"GAME_ACTION_OPEN_SETTINGS":"Open settings",
 	"GAME_ACTION_TOGGLE_CAMERA_CONTROLLER":"Spectator/follow camera mode",
 	"GAME_ACTION_CAMERA_UP":"Move camera up",
-	"GAME_ACTION_CAMERA_DOWN":"Move camera down",
-	"LANG":"Language (need a restart):"
+	"GAME_ACTION_CAMERA_DOWN":"Move camera down"
 }
