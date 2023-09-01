@@ -1061,7 +1061,10 @@
 				"name":"SP",
 				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным. Ученые со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберете на себе тысячи восхищенных взглядов. Бронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид. Сочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
 				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artifacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only a few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. Bronze plates made of the rarest alloy will make your tank look powerful and fearsome. The combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
-				"icon":"sp"
+				"icon":"sp",
+				"emissionColor":"16633877",
+				"emissionColorSecond":"15823378",
+				"emissionColorThreshold":"0.3"
 			},
 			{
 				"id":"2.0_m3",
