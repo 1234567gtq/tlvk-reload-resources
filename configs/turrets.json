@@ -1071,7 +1071,9 @@
 				"name":"Ultra",
 				"descriptionRU":"Король скорострельности — теперь с новым скином Ультра. Он поможет вам уничтожать вражеские танки не только эффективно, но и грациозно.",
 				"descriptionEN":"The king of rapid-firing gets a cool Ultra skin. Rip your enemies to shreds and look good doing it.",
-				"icon":"ut"
+				"icon":"ut",
+				"emissionColor":"3268055",
+				"emissionColorThreshold":"0.4"
 			}
 		],
 		"shotSkins":
