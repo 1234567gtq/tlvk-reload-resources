@@ -191,7 +191,9 @@
 				"name":"XT",
 				"descriptionRU":"Уникальный Фриз XT стилизован под голову мамонта. Крепкие серебряные бивни послужат отличным оружием для нападения или защиты от врагов.",
 				"descriptionEN":"Unique Freeze XT is designed to look like the head of a mammoth. Sturdy silver tusks will help you as a weapon against the enemies but also create a great protection.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"16729344",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"xt_hd",
