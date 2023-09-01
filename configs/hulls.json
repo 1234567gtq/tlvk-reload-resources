@@ -56,7 +56,9 @@
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"standard",
+				"emissionColor":"65535",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"xt",
