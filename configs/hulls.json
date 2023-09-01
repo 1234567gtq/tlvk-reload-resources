@@ -1089,7 +1089,7 @@
 				"descriptionRU":"«Мамонт» — дитя новой войны и эпохи катастроф. Это ответ на разрушительность стихии и новых видов вооружения. «Мамонт» становится краеугольным камнем любой обороны и точкой отсчета каждого крупного наступления. Ему не нужна скорость или маневренность. Ему нужно держать удар и не уходить с занятых позиций. С этим он всегда справляется.",
 				"descriptionEN":"The Mammoth is the product of a new era of war and disasters. This is the answer to the devastating destructive power of the elements and the new types of weapons that have been introduced. The Mammoth is the cornerstone of any defense and the starting point of every major offensive. It does not need speed or agility. It can take a punch while holding its ground. It will always prevail.",
 				"icon":"tx",
-				"emissionColor":"65280",
+				"emissionColor":"4186194",
 				"emissionColorThreshold":"0.6"
 			}
 		]
