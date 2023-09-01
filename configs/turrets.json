@@ -665,7 +665,9 @@
 				"name":"XT",
 				"descriptionRU":"Твинс XT покрыт шкурой динозавра, чудесным образом сохранившейся невредимой в пещерах Южной Африки. Также при изготовлении скина использовалась лава из индонезийских вулканов, благодаря которой плазма приобретает по-настоящему огненную силу!",
 				"descriptionEN":"Twins XT is covered in the dinosaur hide preserved in the excellent condition among the caves of South Africa. Also infused with lava from the Indonesian volcanos, this skin turns plasma shots into a truly melting firepower!",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"13314560",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"lc",
