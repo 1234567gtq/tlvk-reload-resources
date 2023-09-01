@@ -1051,7 +1051,10 @@
 				"name":"Ultra",
 				"descriptionRU":"Хоть в этом скине Ультра для Мамонта нет ничего доисторического, он сохраняет всю удивительность корпуса, который дал ему имя.",
 				"descriptionEN":"Its appearance resembles a strong wall that can easily fend off any attack on your team’s base. Though there might not be anything prehistoric about Mammoth Ultra, it retains all the splendor of its namesake.",
-				"icon":"ut"
+				"icon":"ut",
+				"emissionColor":"16775936",
+				"emissionColorSecond":"13268224",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"sp",
