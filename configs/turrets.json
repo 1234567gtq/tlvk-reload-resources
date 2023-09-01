@@ -1359,7 +1359,9 @@
 				"name":"XT",
 				"descriptionRU":"Скорпион XT — первый скин, оптимизированный с помощью аэродинамической трубы. Его обтекаемая облицовка из полированного золота способствует охлаждению ракетной установки и снижает вибрацию системы наведения. Крылья Гермеса, выгравированные на скине, передают с каждым снарядом следующее послание от владельца: «Я быстр, как ветер, и мучителен, как укус скорпиона».",
 				"descriptionEN":"Scorpion XT is the first skin optimized with the help of a wind tunnel. Its streamlined cladding made of polished gold helps cool the rocket launcher and reduces vibrations in the aiming system. Wings of Hermes engraved on the skin deliver the following message from its owner with each shot: «I am as swift as the wind and as excruciating as a scorpion sting».",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"16720403",
+				"emissionColorThreshold":"0.4"
 			}
 		],
 		"shotSkins":
