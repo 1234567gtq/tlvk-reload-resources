@@ -65,7 +65,9 @@
 				"name":"XT",
 				"descriptionRU":"Элитный Васп XT отличается уникальным боковым рисунком, напоминающим сложенные крылья древнего дракона.",
 				"descriptionEN":"The elite Wasp XT is special due to its unique side ornament, resembling the wings of an ancient dragon.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"16729344",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"dc",
