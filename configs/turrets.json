@@ -51,7 +51,9 @@
 				"name":"XT",
 				"descriptionRU":"Уникальный Огнемёт XT украшен оригинальным рисунком, стилизованным под голову огнедышащего дракона с горящими глазами.",
 				"descriptionEN":"The Unique Firebird XT is embellished with a unique ornament, styled after the head of a fire-breathing dragon with burning eyes.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"16729344",
+				"emissionColorThreshold":"0.5"
 			},
 			{
 				"id":"lc",
