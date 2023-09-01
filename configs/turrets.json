@@ -209,7 +209,9 @@
 				"name":"Legacy",
 				"descriptionRU":"Этот скин, разработанный давным-давно, обходится самыми простыми технологиями. Гладкая броня из толстых стальных пластин надёжно скреплена и обеспечивает наилучшую защиту для встроенных охлаждающих устройств. Хоть они и потребляют много энергии, это не останавливает любителей старой боевой техники.",
 				"descriptionEN":"Designed eons ago, this skin makes the most of primitive technology. Riveted steel plates provide excellent protection for the onboard cooling apparatus. The extra weight increases fuel consumption dramatically, but that won't stop collectors of old combat antiques.",
-				"icon":"lc"
+				"icon":"lc",
+				"emissionColor":"57852",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"lc_old",
