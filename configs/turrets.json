@@ -1251,7 +1251,9 @@
 				"name":"XT",
 				"descriptionRU":"Эксклюзивный Гром XT заставит вас почувствовать себя в шкуре грозного хищного зверя.",
 				"descriptionEN":"The exclusive Thunder XT will give you the feeling of slipping into the skin of a seasoned northern predator.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"16728349",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"lc",
