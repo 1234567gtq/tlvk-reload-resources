@@ -898,7 +898,9 @@
 				"name":"XT (Tanki X)",
 				"descriptionRU":"Технологический прорыв родом из лабораторий «Фронтира». Служит главным компонентом танков для вторжения. «Титаны» приходят в раскрученную мясорубку боя, чтобы стать той костью, которая её остановит. Обогащённый кристаллами титановый сплав — гарантия того, что этот корпус остудит пекло сражения и выживет сам.",
 				"descriptionEN":"This technological breakthrough comes from the Frontier laboratories. It can serve as the main component outfitting an invasion force of tanks. Titans are sent into the meat-grinding mayhem of conflicts in order to turn the tide of battle. The titanium alloy enriched with crystals guarantees that the hull can remain cool through the scorching heat of battle and survive.",
-				"icon":"tx"
+				"icon":"tx",
+				"emissionColor":"65535",
+				"emissionColorThreshold":"0.6"
 			}
 		]
 	},
