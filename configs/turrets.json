@@ -698,7 +698,9 @@
 				"name":"XT (Tanki X)",
 				"descriptionRU":"«Твинс» стала одной из первых пушек будущего корпорации «Антей». Появилась она благодаря упавшим с неба кристаллам. Двуствольный плазмомёт — оружие маневренного боя, идеальное для подавления противника огнем. Не даёт врагу возможности сориентироваться и прицелиться под шквальным обстрелом, незаменима в маневренном сражении.",
 				"descriptionEN":"The Twins turret was one of the first guns of the future produced by Antaeus. It was created using the crystals that fell to earth in meteor showers. The double-barrel plasma cannon is a tactical battlefield weapon that is perfect for suppressing enemy fire. Do not let the enemy find their bearings and aim during a heavy bombardment. This is an indispensable weapon for Blitzkrieg warfare.",
-				"icon":"tx"
+				"icon":"tx",
+				"emissionColor":"4521983",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"tx_sp",
