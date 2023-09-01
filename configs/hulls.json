@@ -1035,7 +1035,9 @@
 				"name":"XT",
 				"descriptionRU":"Элитный Мамонт XT примечателен своим уникальным внешним видом. Корпус закован в золотые пластины, символизирующие стабильность и огромный запас здоровья этого сверхтяжёлого танка.",
 				"descriptionEN":"This elite Mammoth XT is special due to its unique texture. The hull is covered with additional golden plating that symbolizes the stability and unprecedented protection of this extremely heavy tank.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"12729393",
+				"emissionColorThreshold":"0.3"
 			},
 			{
 				"id":"lc",
