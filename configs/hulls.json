@@ -275,7 +275,10 @@
 				"name":"Prime",
 				"descriptionRU":"Легендарный корпус в новом облике — для любителей строгой классики. Ничего лишнего, только скорость, манёвренность и выносливость. Подчёркивает тонкий вкус и статус его владельца.",
 				"descriptionEN":"The legendary hull has just received a fresh, new look — elegant and classic combined for a timeless design. No fluff. Just speed, maneuverability, and endurance. Now, more than ever, this hull symbolizes the fine taste and status of its owner.",
-				"icon":"pr"
+				"icon":"pr",
+				"emissionColor":"15706377",
+				"emissionColorThreshold":"0.6"
+				
 			},
 			{
 				"id":"ut",
