@@ -631,7 +631,9 @@
 				"name":"Prime",
 				"descriptionRU":"С этим скином Prime корпус Хантер обретает новый стильный вид. В умелых руках Хантер достойно проявляет себя в любых битвах, а высокотехнологичный облик позволит ему и вовсе доминировать.",
 				"descriptionEN":"Next in line for the Prime series is Hunter - known for its swift acceleration and agile structure. Now, more than ever, using this skin in battle will reflect the owner's grasp over key game mechanics and near-perfect aim.",
-				"icon":"pr"
+				"icon":"pr",
+				"emissionColor":"624580",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"ut",
