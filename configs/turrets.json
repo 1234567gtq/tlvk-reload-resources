@@ -1470,7 +1470,9 @@
 				"name":"Ultra",
 				"descriptionRU":"Рельса является одним из основных видов вооружения для чемпионов киберспорта. Теперь эта популярная пушка имеет скин Ультра, чтобы поддерживать свою уникальную репутацию.",
 				"descriptionEN":"Railgun is one of the main weapons of choice for eSports champions. Now, this popular turret has a cool Ultra skin to match its amazing reputation.",
-				"icon":"ut"
+				"icon":"ut",
+				"emissionColor":"43673",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"gt",
