@@ -888,7 +888,10 @@
 				"name":"Prime",
 				"descriptionRU":"Скин Prime отражает устойчивость и силу Титана в бою.",
 				"descriptionEN":"Titan by name and reputation, this hull now has its very own Prime skin, reflecting its resilience and power in battle.",
-				"icon":"pr"
+				"icon":"pr",
+				"emissionColor":"3308733",
+				"emissionColorSecond":"12676397",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"tx_xt",
