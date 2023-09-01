@@ -1274,7 +1274,10 @@
 				"name":"Ultra",
 				"descriptionRU":"В умелых руках Гром грациозен и смертоносен. А с новым скином Ультра он выглядит ещё круче!",
 				"descriptionEN":"In the right hands, Thunder is as graceful as it is deadly. And with this Ultra skin, it also looks downright cool.",
-				"icon":"ut"
+				"icon":"ut",
+				"emissionColor":"516349",
+				"emissionColorSecond":"16762192",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"gt",
