@@ -547,7 +547,9 @@
 				"name":"M0 (Tanki X)",
 				"descriptionRU":"Когда «Молот» появился на поле боя под Кунгуром, казалось, что он был в танковых сражениях всегда. В ближнем бою «Молот» — гарантия снести одну башню. На средней дистанции «Молот» — обещание снести несколько. Дробовик танкового типа. И этим всё сказано.",
 				"descriptionEN":"When the Hammer first appeared during the Battle of Kungur, the opposing sides wondered how they could have conducted tank war without it. When you're in the thick of battle, the Hammer is your ticket to demolishing at least one enemy. When used at medium range, the Hammer can take out a few. Think of it like a tank-mounted shotgun. Enough said.",
-				"icon":"tx"
+				"icon":"tx",
+				"emissionColor":"4186194",
+				"emissionColorThreshold":"0.4"
 			}
 		],
 		"shotSkins":
