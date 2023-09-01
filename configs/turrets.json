@@ -1145,7 +1145,9 @@
 				"name":"Ultra",
 				"descriptionRU":"Вам нравится свист и шипение набирающих скорость ракет Страйкера? С этим скином Ультра стрелять залпом станет вдвойне приятнее.",
 				"descriptionEN":"The \"whoooosh\" of a Striker's salvo is one of the coolest sounds in the game. Complete the picture by equipping this cool Ultra Skin.",
-				"icon":"ut"
+				"icon":"ut",
+				"emissionColor":"16747264",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"demo",
