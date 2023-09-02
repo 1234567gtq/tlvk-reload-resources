@@ -1,5 +1,13 @@
 [
 	{
+		"id":"aleksandrovsk_mm_winter",
+		"nameRU":"Александровск ММ",
+		"nameEN":"Aleksandrovsk MM",
+		"skyBox":"winter",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
@@ -475,7 +483,7 @@
 		"id":"madness_with_floor_summer",
 		"nameRU":"Безумие (с полом)",
 		"nameEN":"Madness (with floor)",
-		"skyBox":"space",
+		"skyBox":"space_day",
 		"theme":"space",
 		"category":"summer"
 	},
