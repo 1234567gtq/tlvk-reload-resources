@@ -1388,6 +1388,8 @@
 { "id":"map_barda_mm_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_barda_winter", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_barda_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
+{ "id":"map_berlin_winter", "version":"1", "type":"maps",  "isLazy":"true" },
+{ "id":"map_berlin_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 
 
 { "id":"map_serpuhov_summer", "version":"1", "type":"maps",  "isLazy":"true" },
