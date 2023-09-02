@@ -1373,6 +1373,9 @@
 { "id":"map_aleksandrovsk_mm_winter", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_aleksandrovsk_mm_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 
+{ "id":"map_aleksandrovsk_winter", "version":"1", "type":"maps",  "isLazy":"true" },
+{ "id":"map_aleksandrovsk_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
+
 { "id":"map_serpuhov_summer", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_serpuhov_mm_summer", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_short_bridge_summer", "version":"1", "type":"maps",  "isLazy":"true" },

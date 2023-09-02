@@ -3,7 +3,15 @@
 		"id":"aleksandrovsk_mm_winter",
 		"nameRU":"Александровск ММ",
 		"nameEN":"Aleksandrovsk MM",
-		"skyBox":"winter",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"aleksandrovsk_winter",
+		"nameRU":"Александровск",
+		"nameEN":"Aleksandrovsk",
+		"skyBox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
