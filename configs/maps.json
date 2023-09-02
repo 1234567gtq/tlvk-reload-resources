@@ -40,6 +40,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"barda_mm_winter",
+		"nameRU":"Барда ММ",
+		"nameEN":"Barda MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
