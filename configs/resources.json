@@ -36,6 +36,15 @@
 { "id":"sound_terminator_close", "version":"1", "type":"sounds",  "isLazy":"false" },
 { "id":"sound_terminator_open", "version":"1", "type":"sounds",  "isLazy":"false" },
 { "id":"sound_flamethrower_shot", "version":"1", "type":"sounds",  "isLazy":"false" },
+{ "id":"sound_magnum_charge", "version":"1", "type":"sounds",  "isLazy":"false" },
+{ "id":"sound_magnum_explosion", "version":"1", "type":"sounds",  "isLazy":"false" },
+{ "id":"sound_magnum_far_shot", "version":"1", "type":"sounds",  "isLazy":"false" },
+{ "id":"sound_magnum_reload", "version":"1", "type":"sounds",  "isLazy":"false" },
+{ "id":"sound_magnum_shell_flight", "version":"1", "type":"sounds",  "isLazy":"false" },
+{ "id":"sound_magnum_shot_1", "version":"1", "type":"sounds",  "isLazy":"false" },
+{ "id":"sound_magnum_shot_2", "version":"1", "type":"sounds",  "isLazy":"false" },
+{ "id":"sound_magnum_shot_3", "version":"1", "type":"sounds",  "isLazy":"false" },
+{ "id":"sound_magnum_shot_4", "version":"1", "type":"sounds",  "isLazy":"false" },
 
 { "id":"arrow_spawn_point", "version":"1", "type":"models" },
 
