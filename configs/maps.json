@@ -65,6 +65,14 @@
 	},
 	{
 		"id":"bobruisk_mm_winter",
+		"nameRU":"Бобруйск ММ",
+		"nameEN":"Bobruisk MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"bobruisk_winter",
 		"nameRU":"Бобруйск",
 		"nameEN":"Bobruisk",
 		"skyBox":"winter_day",
