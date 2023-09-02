@@ -108,7 +108,7 @@
 		"gravity":"1000",
 		"skyBoxRevolutionSpeed":"0",
 		"SSAOColor":"2045258",
-		"dustResourceId":"hull_dust_summer",
+		"dustResourceId":"hull_dust_winter",
 		"dustAlpha":"0.75"
 	}
 ]
