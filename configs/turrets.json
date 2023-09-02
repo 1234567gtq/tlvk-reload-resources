@@ -1626,6 +1626,13 @@
 				"descriptionRU":"Обладатель Магнума XT выделяется на поле боя благодаря устрашающему виду этой разрушительной пушки. Опытные артиллеристы утверждают, что этот эксклюзивный скин помогает попадать прямо в яблочко даже на самых больших боевых аренах.",
 				"descriptionEN":"The owner of Magnum XT is easily recognized on the battlefield thanks to the menacing look of the turret. Experienced artillery users claim that this exclusive skin helps hit targets even on the largest battlefields.",
 				"icon":"xt"
+			},
+			{
+				"id":"sp",
+				"name":"SP",	
+				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным. \n\nУчёные со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберёте на себе тысячи восхищённых взглядов. \n\nБронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид. \n\nСочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
+				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artefacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. \n\nBronze plates made of the rarest alloy will make your tank look powerful and fearsome. \n\nThe combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
+				"icon":"sp"
 			}
 		],
 		"shotSkins":
