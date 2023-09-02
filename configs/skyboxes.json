@@ -78,5 +78,10 @@
 		"id":"halloween",
 		"nameRU":"Хеллоуин",
 		"nameEN":"Halloween"
-	}
+	},
+	{
+		"id":"winter_day",
+		"nameRU":"Зима день",
+		"nameEN":"Winter day"
+	},
 ]
