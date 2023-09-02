@@ -525,6 +525,9 @@
 { "id":"shot_skin_magnum_crimson_explosion", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_magnum_crimson_trail", "version":"1", "type":"textures" },
 { "id":"shot_skin_magnum_crimson_smoke", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_magnum_blue_explosion", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_magnum_blue_trail", "version":"1", "type":"textures" },
+{ "id":"shot_skin_magnum_blue_smoke", "version":"1", "type":"multiframe_textures" },
 
 
 { "id":"hull_dust_summer", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
