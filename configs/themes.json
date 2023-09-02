@@ -64,6 +64,22 @@
 		"dustAlpha":"0.75"
 	},
 	{
+		"id":"iran",
+		"nameRU":"Иран",
+		"nameEN":"Iran",
+		"ambientResourceId":"sound_ambient_summer_day",
+		"angleX":"-1.1",
+		"angleZ":"-0.3",
+		"lightColor":"8816262",
+		"shadowColor":"4016978",
+		"fogColor":"15124897",
+		"gravity":"1000",
+		"skyBoxRevolutionSpeed":"0",
+		"SSAOColor":"2045258",
+		"dustResourceId":"hull_dust_summer",
+		"dustAlpha":"0.75"
+	},
+	{
 		"id":"space",
 		"nameRU":"Космический",
 		"nameEN":"Space",
@@ -79,5 +95,4 @@
 		"dustResourceId":"hull_dust_summer",
 		"dustAlpha":"0.75"
 	}
-
 ]
