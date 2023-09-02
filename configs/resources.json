@@ -534,7 +534,7 @@
 
 
 { "id":"hull_dust_summer", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
-{ "id":"hull_dust_winter", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
+{ "id":"hull_dust_winter", "version":"2", "type":"multiframe_textures",  "isLazy":"false" },
 { "id":"wasp_bomb_light", "version":"1", "type":"textures",  "isLazy":"false" },
 { "id":"wasp_bomb_smoke", "version":"1", "type":"textures",  "isLazy":"false" },
 { "id":"wasp_bomb_crater", "version":"1", "type":"textures",  "isLazy":"false" },
