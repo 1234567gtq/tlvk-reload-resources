@@ -80,6 +80,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"boombox_winter",
+		"nameRU":"Бумбокс",
+		"nameEN":"Boombox",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
