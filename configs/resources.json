@@ -1396,6 +1396,8 @@
 { "id":"map_bobruisk_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_boombox_winter", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_boombox_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
+{ "id":"map_brest_mm_winter", "version":"1", "type":"maps",  "isLazy":"true" },
+{ "id":"map_brest_mm_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 
 
 { "id":"map_serpuhov_summer", "version":"1", "type":"maps",  "isLazy":"true" },

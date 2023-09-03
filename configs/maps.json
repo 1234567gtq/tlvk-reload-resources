@@ -88,6 +88,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"brest_mm_winter",
+		"nameRU":"Брест ММ",
+		"nameEN":"Brest MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
