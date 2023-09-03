@@ -1406,6 +1406,8 @@
 { "id":"map_bridges_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_camp_winter", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_camp_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
+{ "id":"map_canyon_winter", "version":"1", "type":"maps",  "isLazy":"true" },
+{ "id":"map_canyon_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 
 
 { "id":"map_serpuhov_summer", "version":"1", "type":"maps",  "isLazy":"true" },

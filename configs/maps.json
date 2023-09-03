@@ -128,6 +128,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"canyon_winter",
+		"nameRU":"Каньон",
+		"nameEN":"Canyon",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
