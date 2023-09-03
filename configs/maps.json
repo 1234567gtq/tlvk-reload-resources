@@ -120,6 +120,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"camp_winter",
+		"nameRU":"Лагерь",
+		"nameEN":"Camp",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
