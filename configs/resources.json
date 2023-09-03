@@ -1412,6 +1412,8 @@
 { "id":"map_chernobyl_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_cologne_mm_winter", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_cologne_mm_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
+{ "id":"map_combe_winter", "version":"1", "type":"maps",  "isLazy":"true" },
+{ "id":"map_combe_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 
 
 { "id":"map_serpuhov_summer", "version":"1", "type":"maps",  "isLazy":"true" },
