@@ -104,6 +104,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"bridges_mm_winter",
+		"nameRU":"Мосты ММ",
+		"nameEN":"Bridges MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
