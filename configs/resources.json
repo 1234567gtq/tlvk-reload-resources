@@ -543,6 +543,9 @@
 { "id":"wasp_bomb_flame", "version":"1", "type":"textures",  "isLazy":"false" },
 { "id":"wasp_bomb_wave", "version":"1", "type":"textures",  "isLazy":"false" },
 { "id":"ultimate_skin_juggernaut_standard_spark", "version":"1", "type":"textures",  "isLazy":"false" },
+{ "id":"ultimate_skin_dictator_standard_wave", "version":"1", "type":"textures",  "isLazy":"false" },
+{ "id":"ultimate_skin_dictator_standard_star", "version":"1", "type":"textures",  "isLazy":"false" },
+{ "id":"ultimate_skin_dictator_standard_beam", "version":"1", "type":"textures",  "isLazy":"false" },
 
 { "id":"tank_destroyed_flame", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
 { "id":"tank_destroyed_smoke", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
