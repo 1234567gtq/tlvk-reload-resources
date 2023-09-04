@@ -192,6 +192,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"deck-9_winter",
+		"nameRU":"Палуба 9",
+		"nameEN":"Deck-9",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
