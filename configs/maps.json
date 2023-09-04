@@ -224,6 +224,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"edinburgh_winter",
+		"nameRU":"Эдинбург",
+		"nameEN":"Edinburgh",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",

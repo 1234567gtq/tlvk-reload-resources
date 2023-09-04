@@ -1432,6 +1432,8 @@
 { "id":"map_duel_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_dusseldorf_winter", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_dusseldorf_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
+{ "id":"map_edinburgh_winter", "version":"1", "type":"maps",  "isLazy":"true" },
+{ "id":"map_edinburgh_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 
 
 { "id":"map_serpuhov_summer", "version":"1", "type":"maps",  "isLazy":"true" },
