@@ -1451,6 +1451,8 @@
 { "id":"map_garder_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_gravity_winter", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_gravity_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
+{ "id":"map_gubakha_winter", "version":"1", "type":"maps",  "isLazy":"true" },
+{ "id":"map_gubakha_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 
 
 { "id":"map_serpuhov_summer", "version":"1", "type":"maps",  "isLazy":"true" },

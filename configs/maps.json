@@ -288,6 +288,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"gubakha_winter",
+		"nameRU":"Губаха",
+		"nameEN":"Gubakha",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
