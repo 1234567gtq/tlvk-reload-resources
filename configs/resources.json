@@ -1193,7 +1193,7 @@
 { "id":"map_sandal_summer_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_sandal_mm_summer_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_sandbox_summer_preview", "version":"1", "type":"images",  "isLazy":"true" },
-{ "id":"map_sandbox_mm_summer_preview", "version":"1", "type":"images",  "isLazy":"true" },
+{ "id":"map_sandbox_mm_summer_preview", "version":"2", "type":"images",  "isLazy":"true" },
 { "id":"map_sandbox_I_summer_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_scope_summer_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_serpuhov_summer_preview", "version":"1", "type":"images",  "isLazy":"true" },
