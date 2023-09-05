@@ -264,6 +264,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"fort_knox_winter",
+		"nameRU":"Форт Нокс",
+		"nameEN":"Fort Knox",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
