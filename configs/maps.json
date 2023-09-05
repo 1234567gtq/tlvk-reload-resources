@@ -240,6 +240,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"farm_winter",
+		"nameRU":"Ферма",
+		"nameEN":"Farm",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
