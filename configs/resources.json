@@ -1447,6 +1447,8 @@
 { "id":"map_forest_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_fort_knox_winter", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_fort_knox_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
+{ "id":"map_garder_winter", "version":"1", "type":"maps",  "isLazy":"true" },
+{ "id":"map_garder_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 
 
 { "id":"map_serpuhov_summer", "version":"1", "type":"maps",  "isLazy":"true" },

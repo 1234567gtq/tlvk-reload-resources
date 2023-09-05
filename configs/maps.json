@@ -272,6 +272,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"garder_winter",
+		"nameRU":"Гардер",
+		"nameEN":"Garder",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
