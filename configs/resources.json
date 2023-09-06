@@ -1469,6 +1469,8 @@
 { "id":"map_industrial_zone_mm_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_industrial_zone_winter", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_industrial_zone_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
+{ "id":"map_island_winter", "version":"1", "type":"maps",  "isLazy":"true" },
+{ "id":"map_island_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 
 
 { "id":"map_serpuhov_summer", "version":"1", "type":"maps",  "isLazy":"true" },
