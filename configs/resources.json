@@ -1463,6 +1463,8 @@
 { "id":"map_highways_mm_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_highways_winter", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_highways_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
+{ "id":"map_hill_winter", "version":"1", "type":"maps",  "isLazy":"true" },
+{ "id":"map_hill_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 
 
 { "id":"map_serpuhov_summer", "version":"1", "type":"maps",  "isLazy":"true" },
