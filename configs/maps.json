@@ -384,6 +384,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"lost_temple_winter",
+		"nameRU":"Тэмпл",
+		"nameEN":"Lost Temple",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
