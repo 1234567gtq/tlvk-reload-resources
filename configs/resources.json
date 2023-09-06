@@ -983,6 +983,8 @@
 { "id":"paint_ghost_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 { "id":"paint_lady", "version":"1", "type":"textures",  "isLazy":"false"   },
 { "id":"paint_lady_preview", "version":"1", "type":"images",  "isLazy":"true"   },
+{ "id":"paint_lannies", "version":"1", "type":"textures",  "isLazy":"false"   },
+{ "id":"paint_lannies_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 
 { "id":"paint_spectrum", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
 { "id":"paint_spinner", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
