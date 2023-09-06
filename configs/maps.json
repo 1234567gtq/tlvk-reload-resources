@@ -336,6 +336,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"industrial_zone_mm_winter",
+		"nameRU":"Промзона ММ",
+		"nameEN":"Industrial Zone MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
