@@ -408,6 +408,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"magistral_winter",
+		"nameRU":"Магистраль",
+		"nameEN":"Magistral",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
