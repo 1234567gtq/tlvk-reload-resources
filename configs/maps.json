@@ -400,6 +400,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"magistral_mm_winter",
+		"nameRU":"Магистраль ММ",
+		"nameEN":"Magistral MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
