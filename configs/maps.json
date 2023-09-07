@@ -432,6 +432,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"molotov_mm_winter",
+		"nameRU":"Молотов ММ",
+		"nameEN":"Molotov MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
