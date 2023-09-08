@@ -480,6 +480,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"osa_mm_winter",
+		"nameRU":"Оса ММ",
+		"nameEN":"Osa MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
