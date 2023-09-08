@@ -496,6 +496,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"parma_mm_winter",
+		"nameRU":"Парма ММ",
+		"nameEN":"Parma MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
