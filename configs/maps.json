@@ -544,6 +544,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"red_alert_mm_winter",
+		"nameRU":"Ред Алерт ММ",
+		"nameEN":"Red Alert MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
