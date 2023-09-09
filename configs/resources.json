@@ -1065,6 +1065,8 @@
 { "id":"paint_switzerland_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 { "id":"paint_tunisia", "version":"1", "type":"textures",  "isLazy":"false"   },
 { "id":"paint_tunisia_preview", "version":"1", "type":"images",  "isLazy":"true"   },
+{ "id":"paint_uruguay", "version":"1", "type":"textures",  "isLazy":"false"   },
+{ "id":"paint_uruguay_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 
 { "id":"paint_spectrum", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
 { "id":"paint_spinner", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
