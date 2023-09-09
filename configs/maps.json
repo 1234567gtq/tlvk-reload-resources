@@ -568,6 +568,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"sandal_mm_winter",
+		"nameRU":"Сандал ММ",
+		"nameEN":"Sandal MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",

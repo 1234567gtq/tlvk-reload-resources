@@ -1545,6 +1545,8 @@
 { "id":"map_red_alert_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_rift_winter", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_rift_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
+{ "id":"map_sandal_mm_winter", "version":"1", "type":"maps",  "isLazy":"true" },
+{ "id":"map_sandal_mm_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 
 
 { "id":"map_serpuhov_summer", "version":"1", "type":"maps",  "isLazy":"true" },
