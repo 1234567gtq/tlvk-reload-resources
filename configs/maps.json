@@ -632,6 +632,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"siege_winter",
+		"nameRU":"Осада",
+		"nameEN":"Siege",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
