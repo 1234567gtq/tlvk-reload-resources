@@ -1001,6 +1001,8 @@
 { "id":"paint_belgium_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 { "id":"paint_bosnia_and_herzegovina", "version":"1", "type":"textures",  "isLazy":"false"   },
 { "id":"paint_bosnia_and_herzegovina_preview", "version":"1", "type":"images",  "isLazy":"true"   },
+{ "id":"paint_brazil", "version":"1", "type":"textures",  "isLazy":"false"   },
+{ "id":"paint_brazil_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 
 { "id":"paint_spectrum", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
 { "id":"paint_spinner", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
