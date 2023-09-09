@@ -1079,6 +1079,8 @@
 { "id":"paint_condensed_milk_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 { "id":"paint_dead", "version":"1", "type":"textures",  "isLazy":"false"   },
 { "id":"paint_dead_preview", "version":"1", "type":"images",  "isLazy":"true"   },
+{ "id":"paint_e236", "version":"1", "type":"textures",  "isLazy":"false"   },
+{ "id":"paint_e236_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 
 { "id":"paint_spectrum", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
 { "id":"paint_spinner", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
