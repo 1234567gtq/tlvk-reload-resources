@@ -1061,6 +1061,8 @@
 { "id":"paint_serbia_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 { "id":"paint_spain", "version":"1", "type":"textures",  "isLazy":"false"   },
 { "id":"paint_spain_preview", "version":"1", "type":"images",  "isLazy":"true"   },
+{ "id":"paint_switzerland", "version":"1", "type":"textures",  "isLazy":"false"   },
+{ "id":"paint_switzerland_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 
 { "id":"paint_spectrum", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
 { "id":"paint_spinner", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
