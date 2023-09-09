@@ -592,6 +592,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"sandbox_winter",
+		"nameRU":"Песочница",
+		"nameEN":"Sandbox",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
