@@ -1011,6 +1011,8 @@
 { "id":"paint_colombia_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 { "id":"paint_costa_rica", "version":"1", "type":"textures",  "isLazy":"false"   },
 { "id":"paint_costa_rica_preview", "version":"1", "type":"images",  "isLazy":"true"   },
+{ "id":"paint_croatia", "version":"1", "type":"textures",  "isLazy":"false"   },
+{ "id":"paint_croatia_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 
 { "id":"paint_spectrum", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
 { "id":"paint_spinner", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
