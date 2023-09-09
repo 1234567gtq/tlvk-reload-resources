@@ -576,6 +576,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"sandal_winter",
+		"nameRU":"Сандал",
+		"nameEN":"Sandal",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
