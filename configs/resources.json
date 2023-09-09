@@ -1017,6 +1017,8 @@
 { "id":"paint_denmark_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 { "id":"paint_egypt", "version":"1", "type":"textures",  "isLazy":"false"   },
 { "id":"paint_egypt_preview", "version":"1", "type":"images",  "isLazy":"true"   },
+{ "id":"paint_england", "version":"1", "type":"textures",  "isLazy":"false"   },
+{ "id":"paint_england_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 
 { "id":"paint_spectrum", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
 { "id":"paint_spinner", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
