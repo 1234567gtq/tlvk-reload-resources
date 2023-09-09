@@ -624,6 +624,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"short_bridge_winter",
+		"nameRU":"Мостик",
+		"nameEN":"Short Bridge",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
