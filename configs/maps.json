@@ -696,6 +696,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"tribute_mm_winter",
+		"nameRU":"Трибьют ММ",
+		"nameEN":"Tribute MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
