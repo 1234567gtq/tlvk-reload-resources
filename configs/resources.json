@@ -2014,6 +2014,8 @@
 { "id":"map_year_2042_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_yorkshire_mm_winter", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_yorkshire_mm_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
+{ "id":"map_zone_winter", "version":"1", "type":"maps",  "isLazy":"true" },
+{ "id":"map_zone_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 
 
 { "id":"map_serpuhov_summer", "version":"1", "type":"maps",  "isLazy":"true" },
