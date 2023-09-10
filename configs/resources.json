@@ -1417,6 +1417,8 @@
 { "id":"paint_wonderbird_preview", "version":"1", "type":"images", "isLazy":"true" },
 { "id":"paint_apple_company", "version":"1", "type":"textures" },
 { "id":"paint_apple_company_preview", "version":"1", "type":"images", "isLazy":"true" },
+{ "id":"paint_iphone_11", "version":"1", "type":"textures" },
+{ "id":"paint_iphone_11_preview", "version":"1", "type":"images", "isLazy":"true" },
 
 
 { "id":"paint_spectrum", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
