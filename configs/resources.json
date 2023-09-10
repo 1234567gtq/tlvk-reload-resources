@@ -1169,10 +1169,10 @@
 { "id":"paint_peaks_preview", "version":"1", "type":"images", "isLazy":"true" },
 { "id":"paint_phantom", "version":"1", "type":"textures" },
 { "id":"paint_phantom_preview", "version":"1", "type":"images", "isLazy":"true" },
-{ "id":"paint_playdoh", "version":"1", "type":"textures" },
-{ "id":"paint_playdoh_preview", "version":"1", "type":"images", "isLazy":"true" },
-{ "id":"paint_popart", "version":"1", "type":"textures" },
-{ "id":"paint_popart_preview", "version":"1", "type":"images", "isLazy":"true" },
+{ "id":"paint_play_doh", "version":"1", "type":"textures" },
+{ "id":"paint_play_doh_preview", "version":"1", "type":"images", "isLazy":"true" },
+{ "id":"paint_pop_art", "version":"1", "type":"textures" },
+{ "id":"paint_pop_art_preview", "version":"1", "type":"images", "isLazy":"true" },
 { "id":"paint_potter", "version":"1", "type":"textures" },
 { "id":"paint_potter_preview", "version":"1", "type":"images", "isLazy":"true" },
 { "id":"paint_pulsar", "version":"1", "type":"textures" },
@@ -1982,6 +1982,8 @@
 { "id":"map_short_bridge_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_siege_winter", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_siege_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
+{ "id":"map_silence_mm_winter", "version":"1", "type":"maps",  "isLazy":"true" },
+{ "id":"map_silence_mm_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 
 
 { "id":"map_serpuhov_summer", "version":"1", "type":"maps",  "isLazy":"true" },
