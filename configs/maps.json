@@ -664,6 +664,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"solikamsk_mm_winter",
+		"nameRU":"Соликамск ММ",
+		"nameEN":"Solikamsk MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
