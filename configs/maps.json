@@ -728,6 +728,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"wolfenstein_mm_winter",
+		"nameRU":"Вольфенштейн ММ",
+		"nameEN":"Wolfenstein MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
