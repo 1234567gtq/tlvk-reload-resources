@@ -25,10 +25,10 @@
 	"SKYBOX":"Небо",
 	"BILLBOARD":"Билборд",
 	"PLAY":"Играть",
+	"SEARCH":"Поиск",
 	"CAMERA_MODE":"Режим камеры",
 	"SPECTATOR":"спектатор",
 	"FOLLOW":"за танком",
-	"OVERDRIVE":"Овердрайв",
 	"NUMBER_OF_TANKS":"Количество танков",
 	"CURRENT_TANK":"ТЕКУЩИЙ ТАНК",
 	"INFORMATION":"ИНФОРМАЦИЯ",
@@ -62,6 +62,7 @@
 	"DEBUG_MODE":"Режим отладки",
 	"AXIS_INDICATOR":"Индикатор осей",
 	"DEBUG_PANEL":"Панель отладки",
+	"SPAWN_ARROW":"Стрелка спавна",
 	"SOUND_VOLUME":"Громкость:",
 	"BACKGROUND_SOUND":"Фоновый звук",
 	"CLEAR_STORAGE":"Отчистить сохранение",
@@ -111,6 +112,8 @@
 	"GAME_ACTION_FLIP_TANK":"Перевернуть танк",
 	"GAME_ACTION_TOGGLE_TYPE_DRONE":"Локальный/удаленный дрон",
 	"GAME_ACTION_TOGGLE_VISIBLE_DRONE":"Показать/скрыть дрон",
+	
+	"GAME_ACTION_OVERDRIVE":"Овердрайв",
 	
 	"GAME_ACTION_SCREEN_SIZE_INCREASE":"Увеличить размер окна битвы",
 	"GAME_ACTION_SCREEN_SIZE_DECREASE":"Уменьшить размер окна битвы",

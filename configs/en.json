@@ -25,10 +25,10 @@
 	"SKYBOX":"Skybox",
 	"BILLBOARD":"Billboard",
 	"PLAY":"Play",
+	"SEARCH":"Search",
 	"CAMERA_MODE":"Camera mode",
 	"SPECTATOR":"spectator",
 	"FOLLOW":"follow",
-	"OVERDRIVE":"Overdrive",
 	"NUMBER_OF_TANKS":"Number of tanks",
 	"CURRENT_TANK":"CURRENT TANK",
 	"INFORMATION":"INFORMATION",
@@ -62,6 +62,7 @@
 	"DEBUG_MODE":"Debug mode",
 	"AXIS_INDICATOR":"Axis indicator",
 	"DEBUG_PANEL":"Debug panel",
+	"SPAWN_ARROW":"Spawn arrow",
 	"SOUND_VOLUME":"Sound volume:",
 	"BACKGROUND_SOUND":"Background sound",
 	"CLEAR_STORAGE":"Clear save",
@@ -111,6 +112,8 @@
 	"GAME_ACTION_FLIP_TANK":"Flip tank",
 	"GAME_ACTION_TOGGLE_TYPE_DRONE":"Local/remote drone",
 	"GAME_ACTION_TOGGLE_VISIBLE_DRONE":"Show/hide drone",
+	
+	"GAME_ACTION_OVERDRIVE":"Overdrive",
 	
 	"GAME_ACTION_SCREEN_SIZE_INCREASE":"Increase battle screen size",
 	"GAME_ACTION_SCREEN_SIZE_DECREASE":"Decrease battle screen size",
