@@ -752,6 +752,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"year_2042_winter",
+		"nameRU":"Год 2042",
+		"nameEN":"Year 2042",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
