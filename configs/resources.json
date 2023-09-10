@@ -2000,6 +2000,8 @@
 { "id":"map_tribute_mm_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_tribute_winter", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_tribute_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
+{ "id":"map_valley_winter", "version":"1", "type":"maps",  "isLazy":"true" },
+{ "id":"map_valley_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 
 
 { "id":"map_serpuhov_summer", "version":"1", "type":"maps",  "isLazy":"true" },
