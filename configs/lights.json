@@ -1,5 +1,31 @@
 [
 	{
+		"id":"tank_destroyed",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":13411640, "intensity":0, "time":0 },
+			{ "attenuationBegin":500, "attenuationEnd":1500, "color":13411640, "intensity":1.2, "time":100 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":13411640, "intensity":0, "time":1200 }
+        ]
+	},
+	{
+		"id":"magnum_standard_shot",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16741656, "intensity":1, "time":0 },
+			{ "attenuationBegin":500, "attenuationEnd":1000, "color":16741656, "intensity":1, "time":200 },
+			{ "attenuationBegin":250, "attenuationEnd":1500, "color":16741656, "intensity":0, "time":500 }
+        ]
+	},
+	{
+		"id":"magnum_standard_hit",
+		"light":
+		[
+			{ "attenuationBegin":500, "attenuationEnd":2000, "color":16741656, "intensity":1, "time":0 },
+			{ "attenuationBegin":500, "attenuationEnd":2000, "color":16741656, "intensity":0, "time":300 }
+        ]
+	},
+	{
 		"id":"railgun_standard_charge",
 		"light":
 		[

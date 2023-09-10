@@ -1,4 +1,55 @@
 {
+		"magnum":
+		[
+			{
+				"id":"standard",
+				"smoke":"shot_skin_magnum_standard_smoke",
+				"trail":"shot_skin_magnum_standard_trail",
+				"explosion":"shot_skin_magnum_standard_explosion",
+				"shotLight":"magnum_standard_shot",
+				"hitLight":"magnum_standard_hit"
+			},
+			{
+				"id":"crimson",
+				"smoke":"shot_skin_magnum_crimson_smoke",
+				"trail":"shot_skin_magnum_crimson_trail",
+				"explosion":"shot_skin_magnum_crimson_explosion",
+				"shotLight":"magnum_standard_shot",
+				"hitLight":"magnum_standard_hit"
+			},
+			{
+				"id":"blue",
+				"smoke":"shot_skin_magnum_blue_smoke",
+				"trail":"shot_skin_magnum_blue_trail",
+				"explosion":"shot_skin_magnum_blue_explosion",
+				"shotLight":"magnum_standard_shot",
+				"hitLight":"magnum_standard_hit"
+			},
+			{
+				"id":"eclipse",
+				"smoke":"shot_skin_magnum_eclipse_smoke",
+				"trail":"shot_skin_magnum_eclipse_trail",
+				"explosion":"shot_skin_magnum_eclipse_explosion",
+				"shotLight":"magnum_standard_shot",
+				"hitLight":"magnum_standard_hit"
+			},
+			{
+				"id":"toxic",
+				"smoke":"shot_skin_magnum_toxic_smoke",
+				"trail":"shot_skin_magnum_toxic_trail",
+				"explosion":"shot_skin_magnum_toxic_explosion",
+				"shotLight":"magnum_standard_shot",
+				"hitLight":"magnum_standard_hit"
+			},
+			{
+				"id":"violet",
+				"smoke":"shot_skin_magnum_violet_smoke",
+				"trail":"shot_skin_magnum_violet_trail",
+				"explosion":"shot_skin_magnum_violet_explosion",
+				"shotLight":"magnum_standard_shot",
+				"hitLight":"magnum_standard_hit"
+			}
+		],
 		"railgun":
 		[
 			{
@@ -102,28 +153,28 @@
 		[
 			{
 				"id":"standard",
-				"explosionResourceId":"shot_skin_striker_standard_explosion",
-				"smokeResourceId":"shot_skin_striker_standard_smoke"
+				"explosion":"shot_skin_striker_standard_explosion",
+				"smoke":"shot_skin_striker_standard_smoke"
 			},
 			{
 				"id":"toxic",
-				"explosionResourceId":"shot_skin_striker_toxic_explosion",
-				"smokeResourceId":"shot_skin_striker_toxic_smoke"
+				"explosion":"shot_skin_striker_toxic_explosion",
+				"smoke":"shot_skin_striker_toxic_smoke"
 			},
 			{
 				"id":"crimson",
-				"explosionResourceId":"shot_skin_striker_crimson_explosion",
-				"smokeResourceId":"shot_skin_striker_crimson_smoke"
+				"explosion":"shot_skin_striker_crimson_explosion",
+				"smoke":"shot_skin_striker_crimson_smoke"
 			},
 			{
 				"id":"blue",
-				"explosionResourceId":"shot_skin_striker_blue_explosion",
-				"smokeResourceId":"shot_skin_striker_blue_smoke"
+				"explosion":"shot_skin_striker_blue_explosion",
+				"smoke":"shot_skin_striker_blue_smoke"
 			},
 			{
 				"id":"violet",
-				"explosionResourceId":"shot_skin_striker_violet_explosion",
-				"smokeResourceId":"shot_skin_striker_violet_smoke"
+				"explosion":"shot_skin_striker_violet_explosion",
+				"smoke":"shot_skin_striker_violet_smoke"
 			}
 		],
 		"twins":
