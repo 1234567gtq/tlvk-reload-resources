@@ -656,6 +656,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"skylark_winter",
+		"nameRU":"Жаворонки",
+		"nameEN":"Skylark",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
