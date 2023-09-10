@@ -1994,6 +1994,8 @@
 { "id":"map_solikamsk_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_station_winter", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_station_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
+{ "id":"map_subway_winter", "version":"1", "type":"maps",  "isLazy":"true" },
+{ "id":"map_subway_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 
 
 { "id":"map_serpuhov_summer", "version":"1", "type":"maps",  "isLazy":"true" },
