@@ -86,9 +86,10 @@
 				"id":"ut_old",
 				"nameRU":"Ultra (старый, неофициальный)",
 				"nameEN":"Ultra (old, unofficial)",
-				"descriptionRU":"TODO",
-				"descriptionEN":"TODO",
-				"icon":"ut"
+				"description":"TODO",
+				"icon":"ut",
+				"emissionColor":"5884149",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"2.0_m1",
