@@ -83,6 +83,14 @@
 				"icon":"dc"
 			},
 			{
+				"id":"ut_old",
+				"nameRU":"Ultra (старый, неофициальный)",
+				"nameEN":"Ultra (old, unofficial)",
+				"descriptionRU":"TODO",
+				"descriptionEN":"TODO",
+				"icon":"ut"
+			},
+			{
 				"id":"2.0_m1",
 				"name":"M1 (Tanki Online 2.0)",
 				"description":"TODO",
