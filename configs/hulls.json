@@ -101,6 +101,13 @@
 				"icon":"standard"
 			},
 			{
+				"id":"release_1.100_3",
+				"nameRU":"Релиз 1.100 (3)",
+				"nameEN":"Release 1.100 (3)",
+				"description":"TODO",
+				"icon":"standard"
+			},
+			{
 				"id":"2.0_m2",
 				"name":"M2 (Tanki Online 2.0)",
 				"description":"TODO",
