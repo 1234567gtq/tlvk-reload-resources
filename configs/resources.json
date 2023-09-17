@@ -380,6 +380,7 @@
 { "id":"drone_pumpkin_preview", "version":"1", "type":"images", "isLazy":"true" },
 { "id":"drone_tx", "version":"1", "type":"models" },
 { "id":"drone_tx_preview", "version":"1", "type":"images", "isLazy":"true" },
+{ "id":"bonus_gold_hd", "version":"1", "type":"images", "isLazy":"true" },
 
 { "id":"paint_yellow_bug", "version":"1", "type":"multiframe_textures" },
 { "id":"hull_smoke", "version":"1", "type":"multiframe_textures", "isLazy":"false" },
