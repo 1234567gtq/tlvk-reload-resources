@@ -90,7 +90,14 @@
 				"id":"release_1.100_1",
 				"nameRU":"Релиз 1.100 (1)",
 				"nameEN":"Release 1.100 (1)",
-				"descriptionRU":"TODO",
+				"description":"TODO",
+				"icon":"standard"
+			},
+			{
+				"id":"release_1.100_2",
+				"nameRU":"Релиз 1.100 (2)",
+				"nameEN":"Release 1.100 (2)",
+				"description":"TODO",
 				"icon":"standard"
 			},
 			{
