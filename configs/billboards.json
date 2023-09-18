@@ -1,10 +1,5 @@
 [
 	{	
-		"id":"tanker's_day_2023",
-		"nameRU":"День танкиста 2023",
-		"nameEN":"Tanker's day 2023"
-	},
-	{	
 		"id":"standard",
 		"nameRU":"Стандартный",
 		"nameEN":"Standard"
@@ -38,6 +33,11 @@
 		"id":"tlvk_reload",
 		"nameRU":"TLVK: Reload",
 		"nameEN":"TLVK: Reload"
+	},
+	{	
+		"id":"tanker's_day_2023",
+		"nameRU":"День танкиста 2023",
+		"nameEN":"Tanker's day 2023"
 	},
 	{	
 		"id":"tanker's_day_2022",
