@@ -47,6 +47,8 @@
 { "id":"sound_magnum_shot_4", "version":"1", "type":"sounds",  "isLazy":"false" },
 { "id":"sound_juggernaut_activation", "version":"1", "type":"sounds",  "isLazy":"false" },
 { "id":"sound_hopper_activation", "version":"1", "type":"sounds",  "isLazy":"false" },
+{ "id":"sound_parachute_take_off", "version":"1", "type":"sounds",  "isLazy":"false" },
+{ "id":"sound_parachute_engine", "version":"1", "type":"sounds",  "isLazy":"false" },
 
 { "id":"arrow_spawn_point", "version":"1", "type":"models" },
 
