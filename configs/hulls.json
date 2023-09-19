@@ -1214,7 +1214,7 @@
 				"icon":"standard",
 				"isStandard":"true",
 				"emissionColor":"16711697",
-				"emissionColorThreshold":"0.4"
+				"emissionColorThreshold":"0.8"
 			}
 		]
 	}
