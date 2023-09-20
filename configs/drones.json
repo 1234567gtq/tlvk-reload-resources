@@ -5,9 +5,9 @@
 		"nameEN":"Brutus",
 		"descriptionRU":"Даёт доступ к припасам в бою. При улучшении дрона усиливает эффект применяемых припасов.",
 		"descriptionEN":"Makes it possible to use supplies in battle. Upgrading this drone boosts the effect of the activated supplies.",
-		"emissionColor":"2028488",
-		"emissionColorSecond":"10349557",
-		"emissionColorThreshold":"0.4"
+		"emissionColor":"6664641",
+		"emissionColorSecond":"3404476",
+		"emissionColorThreshold":"0.6"
 	},
 	{
 		"id":"hyperion",
@@ -43,8 +43,8 @@
 		"nameEN":"Crisis XT",
 		"descriptionRU":"Значительно усиливает припасы «Повышенная защита», «Повышенный урон» и «Ускорение». В усиленном режиме может находиться только один из этих припасов, остальные отключаются. Расходует больше припасов «Ремкомплект», «Повышенная защита», «Повышенный урон», «Ускорение» и «Мина». При улучшении дрона усиливает эффект применяемых припасов.",
 		"descriptionEN":"Significantly boosts the effects of «Boosted armor», «Boosted damage», and «Speed boost» supplies. Only one type of supply gets boosted at a time, the rest are disabled. This drone consumes additional units of the «Repair kit», «Boosted armor», «Boosted damge», «Speed boost», and «Mine» supplies. Upgrading this drone boosts the effect of the activated supplies.",
-		"emissionColor":"15468552",
-		"emissionColorThreshold":"0.4"
+		"emissionColor":"16711680",
+		"emissionColorThreshold":"0.6"
 	},
 	{
 		"id":"driver",
