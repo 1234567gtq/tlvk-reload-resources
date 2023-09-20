@@ -2322,7 +2322,7 @@
 { "id":"map_yorkshire_mm_summer", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_zone_summer", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_luxembourg_summer", "version":"2", "type":"maps",  "isLazy":"true" },
-{ "id":"map_luxembourg_mm_summer", "version":"1", "type":"maps",  "isLazy":"true" },
+{ "id":"map_luxembourg_mm_summer", "version":"2", "type":"maps",  "isLazy":"true" },
 { "id":"map_happy_new_year_2018", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_gallery_summer", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_tutorial_summer", "version":"1", "type":"maps",  "isLazy":"true" },
