@@ -2488,5 +2488,6 @@
 { "id":"billboard_fwa", "version":"1", "type":"textures",  "isLazy":"true" },
 { "id":"billboard_volvo_club", "version":"1", "type":"textures",  "isLazy":"true" },
 { "id":"billboard_ultra_weekend_2023_3", "version":"1", "type":"textures",  "isLazy":"true" },
-{ "id":"billboard_tanker's_day_2023", "version":"1", "type":"textures",  "isLazy":"true" }
+{ "id":"billboard_tanker's_day_2023", "version":"1", "type":"textures",  "isLazy":"true" },
+{ "id":"billboard_autumn_festival_2023", "version":"1", "type":"textures",  "isLazy":"true" }
 ]

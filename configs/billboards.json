@@ -1,4 +1,9 @@
-[
+[	
+	{	
+		"id":"autumn_festival_2023",
+		"nameRU":"Осенний фестиваль 2023",
+		"nameEN":"Autumn Festival 2023"
+	},
 	{	
 		"id":"standard",
 		"nameRU":"Стандартный",
