@@ -549,6 +549,8 @@
 { "id":"shot_skin_freeze_standard_particle", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_freeze_cold_muzzle", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_freeze_cold_particle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_freeze_toxic_muzzle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_freeze_toxic_particle", "version":"1", "type":"multiframe_textures" },
 
 
 { "id":"hull_dust_summer", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
