@@ -1217,6 +1217,120 @@
 				"emissionColorThreshold":"0.8"
 			}
 		]
+	},
+	{
+		"id":"tanks",
+		"nameRU":"Корпус из «Tanks»",
+		"nameEN":"Hull from «Tanks»",
+		"description":"TODO",
+		"profile":"Wasp",
+		"skins":
+		[
+			{
+				"id":"light_green",
+				"nameRU":"Лёгкий (зелёный)",
+				"nameEN":"Light (green)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"light_bluegray",
+				"nameRU":"Лёгкий (сине-серый)",
+				"nameEN":"Light (bluegray)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"light_desert",
+				"nameRU":"Лёгкий (пустынный)",
+				"nameEN":"Light (desert)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"light_damaged",
+				"nameRU":"Лёгкий (подбитый)",
+				"nameEN":"Light (damaged)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"middle_green",
+				"nameRU":"Средний (зелёный)",
+				"nameEN":"Middle (green)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"middle_bluegray",
+				"nameRU":"Средний (сине-серый)",
+				"nameEN":"Middle (bluegray)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"middle_desert",
+				"nameRU":"Средний (пустынный)",
+				"nameEN":"Middle (desert)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"middle_damaged",
+				"nameRU":"Средний (подбитый)",
+				"nameEN":"Middle (damaged)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"heavy_green",
+				"nameRU":"Тяжёлый (зелёный)",
+				"nameEN":"Heavy (green)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"heavy_bluegray",
+				"nameRU":"Тяжёлый (сине-серый)",
+				"nameEN":"Heavy (bluegray)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"heavy_desert",
+				"nameRU":"Тяжёлый (пустынный)",
+				"nameEN":"Heavy (desert)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"heavy_damaged",
+				"nameRU":"Тяжёлый (подбитый)",
+				"nameEN":"Heavy (damaged)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"heavy_alternativa",
+				"nameRU":"Тяжёлый (Альтернатива)",
+				"nameEN":"Heavy (Alternativa)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			}
+		]
 	}
 	
 ]
