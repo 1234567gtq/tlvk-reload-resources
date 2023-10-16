@@ -1,8 +1,8 @@
 [	
 	{	
-		"id":"autumn_festival_2023",
-		"nameRU":"Осенний фестиваль 2023",
-		"nameEN":"Autumn Festival 2023"
+		"id":"halloween_2023",
+		"nameRU":"Хеллоуин 2023",
+		"nameEN":"Halloween 2023"
 	},
 	{	
 		"id":"standard",
@@ -98,6 +98,11 @@
 		"id":"chinise_new_year_2022",
 		"nameRU":"Китайский Новый Год 2022",
 		"nameEN":"Chinise New Year 2022"
+	},
+	{	
+		"id":"autumn_festival_2023",
+		"nameRU":"Осенний фестиваль 2023",
+		"nameEN":"Autumn Festival 2023"
 	},
 	{	
 		"id":"halloween_2021",
