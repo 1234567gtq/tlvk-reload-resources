@@ -379,9 +379,9 @@
 				"barrelAnimatedSmokeResourceId":"shot_skin_smoky_standard_smoke",
 				"explosionResourceId":"shot_skin_smoky_standard_explosion",
 				"shellTracerResourceId":"shot_skin_thunder_standard_tracer",
-				"shotLight":"thunder_default_shot",
-				"hitLight":"thunder_default_hit",
-				"shellLight":"thunder_default_shell"
+				"shotLight":"smoky_standard_shot",
+				"hitLight":"smoky_standard_hit",
+				"shellLight":"smoky_standard_shell"
 			}
 		],
 		"terminator":
@@ -437,6 +437,15 @@
 				"muzzle":"shot_skin_flamethrower_pink_muzzle",
 				"startLight":"flamethrower_pink_start",
 				"loopLight":"flamethrower_pink_loop"
+			}
+		],
+		"bonk":
+		[
+			{
+				"id":"standard",
+				"flame":"shot_skin_thunder_standard_fire",
+				"smoke":"shot_skin_striker_standard_smoke",
+				"explosion":"shot_skin_magnum_standard_explosion"
 			}
 		]
 }

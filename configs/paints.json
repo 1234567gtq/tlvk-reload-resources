@@ -2091,6 +2091,2360 @@
 	"descriptionEN":"Blast through your enemies as you sing serenely, \"And after aaaaallll... you're my Wonder...\" No wait, that's not how the song goes. Oh well, you're probably not that great a singer anyway. Better stick to the shooting."
 },
 {
+	"id":"adversity",
+	"nameRU":"Поражающий фактор",
+	"nameEN":"Adversity",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"alien_abduction",
+	"nameRU":"Похищение",
+	"nameEN":"Alien abduction",
+	"descriptionRU":"Один пациент начал рисовать подобные изображения после якобы похищения инопланетянами. Каждый день картинка была новая, но цвета и стиль сохранялись. Оставалось только составить из этих узоров анимацию.",
+	"descriptionEN":"After having been abducted by aliens, a patient began to draw peculiar designs. Every day the design was new, but the colors and style were the same. In an attempt to understand the phenomenon, scientists turned these designs into an animation. Was this an abduction, or just inspiration? We'll never know."
+},
+{
+	"id":"alien_nebula",
+	"nameRU":"Туманность",
+	"nameEN":"Alien Nebula",
+	"descriptionRU":"Наши исследования инопланетных форм жизни продолжаются, и недавно было обнаружено, что корабли инопланетян используют маскировку под кодовым названием «инопланетная туманность». Вот как это выглядит.",
+	"descriptionEN":"As our study into alien life forms continues, it has recently been discovered that alien craft are using a type of cloaking technology codenamed \"Alien Nebula\". This is what it looks like."
+},
+{
+	"id":"alien_regeneration",
+	"nameRU":"Регенерация",
+	"nameEN":"Alien Regeneration",
+	"descriptionRU":"В состав этой краски введён особый химикат, разработанный по инопланетной технологии. Царапины и вмятины от снарядов, которые появляются на вашем танке, таинственным образом исчезают, оставляя врагов в недоумении.",
+	"descriptionEN":"This special paint has been injected with a cosmetically-restorative chemical developed by alien technology. Scratches and dents will appear on your tank as you take damage, but they will appear to mysteriously repair themselves, leaving your enemies confused and creeped out."
+},
+{
+	"id":"alien_skin",
+	"nameRU":"Кожа инопланетянина",
+	"nameEN":"Alien Skin",
+	"descriptionRU":"Эта краска доставлена нам прямо из секретного бункера в тихом российском городке Чернушка. Покрытие было разработано на основе образцов кожных трансплантатов, извлечённых у инопланетянина. Говорят, что инопланетянин использовал свои силы для управления разумом, чтобы попасть в офис «Танков Онлайн». Сейчас он работает там в качестве сотрудника, его сложно отличить от обычного человека. Но у него есть характерная особенность — бритая голова, которая действует как солнечная панель.",
+	"descriptionEN":"Straight out of Tanki Online's secret bunker in the quiet town of Chernushka, Russia, this paint was developed from skin graft samples extracted from an alien. It is said that the alien used mind control powers to manipulate its way into Tanki Online's office. Now it works there as an employee. It is virually indistinguishable from a regular human being. It's only striking characteristic is its shaved head, which acts as a solar panel."
+},
+{
+	"id":"alloy",
+	"nameRU":"Сплав",
+	"nameEN":"Alloy",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"atmospheric_conditions",
+	"nameRU":"Атмосферные явления",
+	"nameEN":"Atmospheric Conditions",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"badger-badger",
+	"nameRU":"Барсук",
+	"nameEN":"Badger-badger",
+	"descriptionRU":"Эта краска не имеет ничего общего с барсуками. Разве что вы помните флеш-видео с запоминающейся и очень раздражающей песней о барсуках и грибах. Посмотрите, если не видели.",
+	"descriptionEN":"This paint has nothing to do with badgers. That is, unless you're old enough to remember a certain Flash video featuring a particularly catchy (and eventually very annoying) song about badgers and mushrooms. Look it up. You're welcome."
+},
+{
+	"id":"barbed_wire",
+	"nameRU":"Колючая проволока",
+	"nameEN":"Barbed Wire",
+	"descriptionRU":"Эта шипастая краска защитит вашу технику от незваных гостей, пока вы восстанавливаете силы после утомительных сражений.",
+	"descriptionEN":"This spiky paint will protect your gear from unwanted visitors, while you're recovering your tank's strength after another round of tiresome battles."
+},
+{
+	"id":"beating_hearts",
+	"nameRU":"Биение сердец",
+	"nameEN":"Beating Hearts",
+	"descriptionRU":"Представьте, что вас затянуло в водоворот событий, тиски сжимаются, и времени на принятие решения почти не осталось. Что вы выберете — убить или любить?",
+	"descriptionEN":"When the heat of battle is closing in around you, and there is time only for one thing, what will you choose — to kill or to protect?"
+},
+{
+	"id":"beholder",
+	"nameRU":"Анютины глазки",
+	"nameEN":"Beholder",
+	"descriptionRU":"Прототипом для этого покрытия стало лицо помощника конструктора танкового завода Анны Викогромовой.",
+	"descriptionEN":"This paint was inspired by nightmares from the designer's childhood after seeing a very disturbing monster in an old computer game."
+},
+{
+	"id":"black_sea",
+	"nameRU":"Чёрное море",
+	"nameEN":"Black Sea",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"blue_lilac",
+	"nameRU":"Сирень",
+	"nameEN":"Blue lilac",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"bubble_gum",
+	"nameRU":"Жвачка",
+	"nameEN":"Bubble Gum",
+	"descriptionRU":"Эта краска появилась случайно. Механики одной мастерской перед входом на работу лепили жвачки на стоящий перед цехом танк. Со временем весь его корпус стал покрыт толстым слоем жевательной резинки. А после того, как танк завели и он нагрелся, покрытие получило занятный визуальный эффект.",
+	"descriptionEN":"This paint appeared by chance. Mechanics of a workshop before enter to work were sticking gum on the tank in front of the workshop. Over time, the entire hull was covered with a thick layer of chewing gum. And after the tank was brought in and it warmed up, the coating had an interesting visual effect."
+},
+{
+	"id":"bunny",
+	"nameRU":"Банни",
+	"nameEN":"Bunny",
+	"descriptionRU":"Краска «Банни» наделяет своего обладателя способностью замечать мельчайшие детали. От этих вездесущих глаз не спрячется даже самый маленький Васпо-Смок. Используйте её по назначению, и в бою вам не будет равных.",
+	"descriptionEN":"This paint grants the owner the ability to notice even the tiniest details, and not even the smallest Wasp-o-Smoky will hide from its piercing eyes. Use it for intended purposes only, and nobody will come even close to you."
+},
+{
+	"id":"burst_of_light",
+	"nameRU":"Вспышка",
+	"nameEN":"Burst of Light",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"busted",
+	"nameRU":"Арестован",
+	"nameEN":"Busted",
+	"descriptionRU":"Вы — рука правосудия. Принесите справедливость на поле боя. Носите это покрытие с гордостью, которую вы испытываете, уничтожая хаос и преступность.",
+	"descriptionEN":"You are the long arm (or turret) of the Law. Bring justice to the battlefield. Wear this paint with pride as you annihilate the threats of chaos and criminality."
+},
+{
+	"id":"campfire",
+	"nameRU":"Костёр",
+	"nameEN":"Campfire",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"canyon_hero",
+	"nameRU":"Герой Canyon",
+	"nameEN":"Canyon Hero",
+	"descriptionRU":"Редчайшая краска, созданная в содружестве с брендом CANYON. Отличный выбор для истинных геймеров!",
+	"descriptionEN":"The rarest of paints, made in collaboration with CANYON company. A great choice for all true gamers!"
+},
+{
+	"id":"carbon_stars",
+	"nameRU":"Карбоновые звёзды",
+	"nameEN":"Carbon Stars",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"This rare paint was created using the Triple-alpha process by transforming three helium-4 nuclei into carbon. This gives the paint its unique luminous effect and allows it to emit stellar gamma radiation that attacks enemies from within and takes control over them."
+},
+{
+	"id":"cathode_ray_tube",
+	"nameRU":"Кинескоп",
+	"nameEN":"Cathode Ray Tube",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"chemical_reaction",
+	"nameRU":"Химическая реакция",
+	"nameEN":"Chemical Reaction",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"constellation",
+	"nameRU":"Созвездие",
+	"nameEN":"Constellation",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"The original idea was to show only one constellation on this color. A lot of tankers were interviewed to define the most popular constellation. In the end it was decided to let one constellation emerge after the other to meet everyone's wishes. Did you find your favorite constellation?"
+},
+{
+	"id":"cosmic_blast",
+	"nameRU":"Космический взрыв",
+	"nameEN":"Cosmic Blast",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"craft_scissors",
+	"nameRU":"Фигурные ножницы",
+	"nameEN":"Craft Scissors",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"cucurbita_pepo",
+	"nameRU":"Тыквы",
+	"nameEN":"Cucurbita Pepo",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"cyber_shuriken",
+	"nameRU":"Киберниндзя",
+	"nameEN":"Cyber Shuriken",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"cyberpunk",
+	"nameRU":"Киберпанк",
+	"nameEN":"Cyberpunk",
+	"descriptionRU":"Эта краска — словно портал в мир киберпанка. Если присмотреться, в ней можно разглядеть отражение неоновых огней города будущего.",
+	"descriptionEN":"Shiny technology meets gritty metal in a paint dedicated to those who love to roam in cities of neon and chrome."
+},
+{
+	"id":"cyborg",
+	"nameRU":"Киборг",
+	"nameEN":"Cyborg",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"diamond",
+	"nameRU":"Бриллиант",
+	"nameEN":"Diamond",
+	"descriptionRU":"Эта краска — лучший друг девушек... и респектабельных мужчин. Ослепительный блеск и роскошь, как она есть.",
+	"descriptionEN":"This paint is the best friend of girls... and respectable men. Its brilliance can be blinding. Luxury all the way."
+},
+{
+	"id":"digital_borealis",
+	"nameRU":"Кибернетическое сияние",
+	"nameEN":"Digital Borealis",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"disco_2.0",
+	"nameRU":"Диско 2.0",
+	"nameEN":"Disco 2.0",
+	"descriptionRU":"Все знают диско, все любят диско, но некоторым всегда не хватало... диско в «Диско». Встречайте новое, улучшенное «Диско». Специально для ценителей.",
+	"descriptionEN":"Everybody loves Disco. Disco gets you movin' and groovin'. Now, this animated version of the all-time favorite paint will get you rockin' that dancefloor like never before!"
+},
+{
+	"id":"drive",
+	"nameRU":"Привод",
+	"nameEN":"Drive",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"ducks",
+	"nameRU":"Утки",
+	"nameEN":"Ducks",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"earthling",
+	"nameRU":"Землянин",
+	"nameEN":"Earthling",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"electric_sheep",
+	"nameRU":"Электроовцы",
+	"nameEN":"Electric Sheep",
+	"descriptionRU":"Снятся ли андроидам электроовцы? А эти овцы водят электрические танки? И будут ли эти танки покрыты этой краской? Никто не знает.",
+	"descriptionEN":"Do androids dream of electric sheep? And do those sheep drive electric tanks? And would those tanks be equipped with this paint? Nobody knows. That knowledge has been lost in time, like tears in the rain."
+},
+{
+	"id":"electrohive",
+	"nameRU":"Электроулей",
+	"nameEN":"Electrohive",
+	"descriptionRU":"В создании этой краски принимали участие специально обученные электронные пчёлы, которые производили неоновый мёд и складывали его в неоновые соты. При этом вкус у такого мёда правильный!",
+	"descriptionEN":"Specially trained electronic bees took part in the construction of this paint, working on a vivid neon honey that they put into neon hive cells. And the taste is spectacular!"
+},
+{
+	"id":"eruption",
+	"nameRU":"Извержение",
+	"nameEN":"Eruption",
+	"descriptionRU":"Мощный взрыв, чёрные клубы пепла, потоки раскалённой лавы, уничтожающие всё на своём пути — ваш танк станет настоящим стихийным бедствием для соперников.",
+	"descriptionEN":"Powerful explosion, black clouds of ash, rivers of searing lava, destroying everything in its path — this paint will make your tank a true disaster for your enemies."
+},
+{
+	"id":"fall_leaves",
+	"nameRU":"Осенняя листва",
+	"nameEN":"Fall leaves",
+	"descriptionRU":"Кленовые листья, входящие в состав этого покрытия, навсегда сохранят свою красивую форму и настроят вас на лирический лад. В любое время года танк в этой краске будет словно золотым. А ещё «Осенняя листва» прекрасно маскирует в осеннем лесу.",
+	"descriptionEN":"Maple leaves, which make up this paint, will forever keep their beautiful shape and inspire a wonderful mood within you. Any time of the year your tank will be golden, and the paint also makes a perfect forest camouflage."
+},
+{
+	"id":"fan",
+	"nameRU":"Вентилятор",
+	"nameEN":"Fan",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"far_north",
+	"nameRU":"Крайний Север",
+	"nameEN":"Far North",
+	"descriptionRU":"Обнаружить этот узор в природе — жуткая редкость. Так на Северном полюсе выглядит линия горизонта в течение пары дней ранней весной.",
+	"descriptionEN":"A pattern that is very hard to see in nature. This is what the horizon looks like in the North Pole during a couple of days in early spring."
+},
+{
+	"id":"fidget_toy",
+	"nameRU":"Антистресс",
+	"nameEN":"Fidget toy",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.!",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"fire_golem",
+	"nameRU":"Огненный голем",
+	"nameEN":"Fire golem",
+	"descriptionRU":"Примените эту текстуру на что угодно — плюшевого мишку, дом или танк — и это мгновенно превратится в Огненного голема. Краска не даёт сверхспособностей, но выглядеть будете роскошно.",
+	"descriptionEN":"If you've always wanted to look like a Fire Golem, this is the perfect paint for you. And if you don't want to look like a Fire Golem... wait, why WOULDN'T you want to look like a Fire Golem???"
+},
+{
+	"id":"first_kiss",
+	"nameRU":"Первый поцелуй",
+	"nameEN":"First Kiss",
+	"descriptionRU":"Чмок, чмок, чмок, чмок, чмок, чмок, чмок, чмок, чмок, чмок. Вот такая она — первая любовь.",
+	"descriptionEN":"Mwa, mwa, mwa, mwa, mwa, mwa, mwa, mwa, mwa, mwa. The memories of a first love last forever."
+},
+{
+	"id":"flow",
+	"nameRU":"Флоу",
+	"nameEN":"Flow",
+	"descriptionRU":"Ультракомпактные генераторы Тесла производят энергию, которая растекается по корпусу танка и покрывает его ритмично движущимся полем из нестабильных частиц. Завихрения этого поля создают гипнотизирующий узор. Эта уникальная краска изначально была названа «XF-245RD», однако позже была переименована в «Flow», что переводится с английского языка как «поток». Этим именем краска обязана не только своему движущемуся узору, но и сокрушительной мощи стихии воды, которую олицетворяют собой танкисты, использующие это покрытие.",
+	"descriptionEN":"A legendary animated tank coating - the first of its kind. Ultra-compact tesla-generators cause energy to flow along the tank's body, surrounding it with a moving field of unstable particles that swirl around the tank in hypnotic, swaying patterns. This special paint was originally named \"XF-245RD\". However, it was soon nicknamed \"Flow\", not just because of its flowing patterns, but because the tankers who use it personify the deadly calm and crushing the power of flowing water."
+},
+{
+	"id":"flowing_metal",
+	"nameRU":"Металлический дождь",
+	"nameEN":"Flowing Metal",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"flywheel",
+	"nameRU":"Маховик",
+	"nameEN":"Flywheel",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"fried_egg",
+	"nameRU":"Глазунья",
+	"nameEN":"Fried egg",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"frigid_coat",
+	"nameRU":"Холодный покров",
+	"nameEN":"Frigid Coat",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"funky_medicine",
+	"nameRU":"Странное лекарство",
+	"nameEN":"Funky Medicine",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"galaxian_explosion",
+	"nameRU":"Галактический взрыв",
+	"nameEN":"Galaxian Explosion",
+	"descriptionRU":"Эта анимированная краска создана для людей, очарованных бесконечностью космического пространства.",
+	"descriptionEN":"This animated paint was created for people who are fascinated by the infinity of outer space... and maybe for fans of a certain manga series from the eighties."
+},
+{
+	"id":"galaxy",
+	"nameRU":"Галактика",
+	"nameEN":"Galaxy",
+	"descriptionRU":"Если долго всматриваться в эту краску, можно увидеть кота, пролетающего на куске пиццы.",
+	"descriptionEN":"If you gaze into this paint long enough, you can see a cat flying through space on a slice of pizza."
+},
+{
+	"id":"gears",
+	"nameRU":"Шестерёнки",
+	"nameEN":"Gears",
+	"descriptionRU":"Шестерёнки на вашем танке запускают вечный двигатель. А это значит, что вы сможете при минимальном расходе энергии и ресурсов достичь максимального КПД игры. Но это не доказано.",
+	"descriptionEN":"Gears on your tank launch a perpetual motion machine, which means you can now reach the maximum efficiency in battles with the minimal resource waste. The effect wasn't proven yet though."
+},
+{
+	"id":"ginga",
+	"nameRU":"Джинга",
+	"nameEN":"Ginga",
+	"descriptionRU":"Яркие цвета этого покрытия, перетекающие друг в друга и расцветающие красивыми узорами, отражают приход весны. Празднуйте Международный женский день с «Танками Онлайн»!",
+	"descriptionEN":"As vivid colors flow into each other and bloom into beautiful patterns the Spring begins. Celebrate the start of Spring and International Women's Day with Tanki Online!"
+},
+{
+	"id":"glam_croc",
+	"nameRU":"Красная палитра",
+	"nameEN":"Glam Croc",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"glow",
+	"nameRU":"Свечение",
+	"nameEN":"Glow",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"gold_alloy",
+	"nameRU":"Золотой сплав",
+	"nameEN":"Gold alloy",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"golden_gears",
+	"nameRU":"Золотой механизм",
+	"nameEN":"Golden Gears",
+	"descriptionRU":"Эта анимированная краска, созданная из дамасской стали, генерируемой редкими золотыми ключами, не только притягивает взгляд, но и даёт понять, что вы цените красивые и редкие вещи.",
+	"descriptionEN":"Ready to show off your status in battle? This animated paint consists of an electron-generated damask coating, and solid gold wrench-and-gear motifs. Show your enemies that you're superior to them in every way, and then rub it in their faces."
+},
+{
+	"id":"green_quads",
+	"nameRU":"Ядовитое море",
+	"nameEN":"Green Quads",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"Engineers have been working hard to create such a unique camouflage. Just like a chameleon, your tank will blend in with its surroundings. However, it won't work properly in deserts and within city limits."
+},
+{
+	"id":"green_zircon",
+	"nameRU":"Зелёный циркон",
+	"nameEN":"Green Zircon",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"groovy_neon",
+	"nameRU":"Неоновая молния",
+	"nameEN":"Groovy Neon",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"head_ripper",
+	"nameRU":"Палач",
+	"nameEN":"Head Ripper",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"heart_of_steel",
+	"nameRU":"Стальное сердце",
+	"nameEN":"Heart of Steel",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"holiday_lights",
+	"nameRU":"Гирлянда",
+	"nameEN":"Holiday Lights",
+	"descriptionRU":"Подготовка к Новому году — серьёзное испытание для настоящих танкистов. Ведь весьма непросто украшать ёлку, когда у тебя лапки... То есть гусеницы! Можно и запутаться в гирляндах и мишуре. Порой танкисты настолько увлекаются, что выезжают крушить врагов, опутанные мигающими огоньками. Что, впрочем, не сказывается на их боевой эффективности.",
+	"descriptionEN":"Holiday preparations are a special task for real tankers. Try decorating a tree when you have metal tracks and you'll wrap yourself in holiday lights with sparkles! Those who go into battle equipped with colorful lights are the most feared on the battlefield. Or so we are told."
+},
+{
+	"id":"holo",
+	"nameRU":"Холо",
+	"nameEN":"Holo",
+	"descriptionRU":"Здесь могло бы быть любое изображение, ведь это голограмма. Но в холо-проекторе застряла флешка всего с одной текстурой.",
+	"descriptionEN":"This holo projector could project any image. But its flash drive has malfunctioned, so it's stuck showing the same image over and over again."
+},
+{
+	"id":"honor",
+	"nameRU":"Честь",
+	"nameEN":"Honor",
+	"descriptionRU":"Перед созданием этой краски мы опросили 2 тысячи мужчин разных национальностей и возрастов. «Честь» — результат совокупного мнения, концентрат мужественности.",
+	"descriptionEN":"Before creating this paint, we asked for the opinion of 2000 veteran warriors. Our question was, \"What's the most important thing in life?\" They all had the same answer. \"HONOR!\" they roared in one voice."
+},
+{
+	"id":"ice_flurry",
+	"nameRU":"Ледяной вихрь",
+	"nameEN":"Ice Flurry",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"integrated_circuit",
+	"nameRU":"Чип",
+	"nameEN":"Integrated circuit",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"jolly_season",
+	"nameRU":"Весёлое время",
+	"nameEN":"Jolly Season",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"kapuljat",
+	"nameRU":"Фарш",
+	"nameEN":"Kapuljat",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"katakana",
+	"nameRU":"Иероглифы",
+	"nameEN":"Katakana",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"lava_lamp",
+	"nameRU":"Лава-лампа",
+	"nameEN":"Lava Lamp",
+	"descriptionRU":"В составе этой краски содержится большое количество специальной липкой жидкости, создающей гипнотический эффект завихрения. Кто-то узнает в этом покрытии движение восковой смеси внутри лава-лампы.",
+	"descriptionEN":"This paint is infused with a liquifying element that makes it twist and swirl in a hypnotic motion. The movement resembles that of the wax mixture inside a lava lamp."
+},
+{
+	"id":"leds",
+	"nameRU":"Светодиоды",
+	"nameEN":"LEDs",
+	"descriptionRU":"Обладатель этой краски — желанный гость на любых праздниках и вечеринках, ведь его танк, украшенный переливающимися разноцветными светодиодами, сверкает как стробоскоп.",
+	"descriptionEN":"The owner of this paint is a welcome guest for any party or event, since their tank, decorated with flowing colorful lights, will shine like a strobe."
+},
+{
+	"id":"liana",
+	"nameRU":"Лиана",
+	"nameEN":"Liana",
+	"descriptionRU":"Это покрытие — природное чудо. В отличие от многих других «живых» красок, эта шевелится за счёт редкого вида лиан, которыми покрывается танк. Родина этого редкого растения — восточный Лаос.",
+	"descriptionEN":"This paint is a natural wonder. And unlike many other \"living\" colors, this one moves due to the rare species of lianas that coat the tank. The homeland of this rare plant in Eastern Laos."
+},
+{
+	"id":"light_organ",
+	"nameRU":"Светомузыка",
+	"nameEN":"Light organ",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"lightning_storm",
+	"nameRU":"Гроза",
+	"nameEN":"Lightning Storm",
+	"descriptionRU":"Прямо под тонким прозрачным покрытием этой краски струятся электрические разряды, которые превращают ваш танк в плазменный шар, сеющий массовые разрушения.",
+	"descriptionEN":"A rippling electrical current flows right beneath the transparent coating of this paint, making your tank look like a mobile plasma ball of destruction."
+},
+{
+	"id":"living_armor",
+	"nameRU":"Живая броня",
+	"nameEN":"Living Armor",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт..",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"lol",
+	"name":"LOL",
+	"descriptionRU":"Идеальная краска для танкиста-весельчака. Он сам — любитель сострить, а на чужие шутки выстреливает: «РЖУ НЕ МОГУ!».",
+	"descriptionEN":"For the tanker who can always find something to laugh about. Easily recognizable by the signature \"LOL\" reaction to jokes."
+},
+{
+	"id":"loving_camo",
+	"nameRU":"Розовый камуфляж",
+	"nameEN":"Loving Camo",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"magic_circles",
+	"nameRU":"Магические круги",
+	"nameEN":"Magic Circles",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"magnolia",
+	"nameRU":"Магнолия",
+	"nameEN":"Magnolia",
+	"descriptionRU":"С этой краской горечь от поражения в битве снижается на 42%. Доказано.",
+	"descriptionEN":"Roll into battle with your tank disguised in everblooming flowers and watch the paint suddenly turn into a spot on camouflage."
+},
+{
+	"id":"matrix",
+	"nameRU":"Матрица",
+	"nameEN":"Matrix",
+	"description":"\"スプーンを試したり曲げたりしないでください。 それ無理。 代わりに、真実を実現しようとするだけです。 どのような真実？ スプーンはありません。スプーンはありませんか？それから、あなたが曲がるスプーンではないことがわかります。それは自分だけです。\""
+},
+{
+	"id":"meteor_shower",
+	"nameRU":"Звездопад",
+	"nameEN":"Meteor Shower",
+	"descriptionRU":"Любите наблюдать за «звёздным дождём»? Специально для вас — танковое покрытие с бесконечно падающими звёздами. Выглядит особенно впечатляюще на ночных картах. Когда возле вас будут толпиться другие танки, не удивляйтесь — они загадывают желания.",
+	"descriptionEN":"Do you like watching the stars fall? Specifically for you, we've made a paint full of stars! Looks especially impressive on the night maps, and when other tankers will gather all around you amidst the battle, don't be surprised. They are making wishes."
+},
+{
+	"id":"microbiology",
+	"nameRU":"Микробиология",
+	"nameEN":"Microbiology",
+	"descriptionRU":"Именно так под микроскопом выглядит... Вы точно не захотите этого знать.",
+	"descriptionEN":"When observed under a microscope it looks like... you definitely don't want to know."
+},
+{
+	"id":"monochrome",
+	"nameRU":"Монохром",
+	"nameEN":"Monochrome",
+	"descriptionRU":"Слово «монохромный» означает «оттенки одного цвета, различающиеся по яркости». Но какая разница, ведь главное — это как круто выглядит краска на вашем танке, не так ли?",
+	"descriptionEN":"Contrary to what most people think, \"Monochrome\" does not mean \"Black and White\". Actually, it means \"various shades of a single color\". Then again, probably the only thing you care about is that the paint looks cool, right?"
+},
+{
+	"id":"mosaic",
+	"nameRU":"Мозаика",
+	"nameEN":"Mosaic",
+	"descriptionRU":"Хотите подчинить врагов своей воле и управлять ими как марионетками? Тогда без этой краски не обойтись! Циклично перемещающиеся детали мозаики загипнотизируют ваших противников, и вы сможете делать с ними всё, что вам вздумается.",
+	"descriptionEN":"Want to control your enemies like puppets? Equip this paint and capture their attention with the hypnotizing pattern of a moving mosaic! What's left is to destroy them."
+},
+{
+	"id":"mount_fuji",
+	"nameRU":"Фудзияма",
+	"nameEN":"Mount Fuji",
+	"descriptionRU":"Эта краска долгое время считалась секретной разработкой и использовалась исключительно самурайскими танковыми войсками, пока самураи не решили, что она должна приносить умиротворение и другим танкистам. Забудьте о тревогах и наслаждайтесь красотой живой природы.",
+	"descriptionEN":"For a long time this paint was known only as a top-secret project and was used only by the samurai tank forces, until they decided the paint instead should bring peace and quiet to other tankers too. Forget everyday worries and enjoy the living beauty of nature."
+},
+{
+	"id":"nanohud",
+	"nameRU":"Нанолаборатория",
+	"nameEN":"NanoHUD",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"They say that this paint occasionally plays the sound of alarm signals when a nuclear bomb is around. However, it is not clear if the paint also notifies you about Wasp's bombs, as none of those small tanks dare to get near a tank with this paint equipped. After the experiments, this paint went on sale."
+},
+{
+	"id":"nanosuit_armor",
+	"nameRU":"Нанокостюм",
+	"nameEN":"Nanosuit Armor",
+	"descriptionRU":"На этапе разработки это покрытие проходило под именем «Та краска со скользкой на ощупь чёрно-серой текстурой, которая выглядит супер-круто». Но из-за ограничения на количество символов в названии разработчикам пришлось согласиться на что-то более простое. Как жаль, ведь это было бы идеальное название.",
+	"descriptionEN":"During production, this paint was originally called, \"That paint with slithering black and gray textures that looks really cool.\" But due to character limit restrictions in the game, the devs had to settle for something a bit simpler. Pity. It would've been an awesome name."
+},
+{
+	"id":"neon_geometry",
+	"nameRU":"Неоновая геометрия",
+	"nameEN":"Neon Geometry",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"nickel",
+	"nameRU":"Никель",
+	"nameEN":"Nickel",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"night_city",
+	"nameRU":"Ночной город",
+	"nameEN":"Night City",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. It's color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional advantages."
+},
+{
+	"id":"nightmare",
+	"nameRU":"Кошмар",
+	"nameEN":"Nightmare",
+	"descriptionRU":"Немногие осмеливаются хотя бы приблизиться к танкам в этом покрытии. Однако те, кто найдёт в себе силы преодолеть леденящий ужас, который вселяют призрачные лица, безмолвно кричащие в бесконечной агонии, больше никогда не будут испытывать страх. Они сами станут воплощением кошмара. Ходят слухи, что когда танк с этим покрытием уничтожает противника, на его корпусе становится одним кричащим лицом больше.",
+	"descriptionEN":"Few dare to approach these tanks, but those who conquer the chilling horror of a thousand faces screaming in eternal agony will know no fear. You will become a Nightmare incarnate. Rumors say that every kill made with paint will add one more howling soul."
+},
+{
+	"id":"northern_lights",
+	"nameRU":"Северное сияние",
+	"nameEN":"Northern Lights",
+	"descriptionRU":"Эта необычная краска получается при бомбардировке частиц земной атмосферы заряженными частицами солнечного ветра. Результат напоминает северное сияние.",
+	"descriptionEN":"This peculiar paint is obtained by taking gaseous particles obtained from the Earth's atmosphere and bombarding them with charged particles released from the sun's atmosphere. The result is reminiscent of the Aurora Borealis, also known as \"Northern Lights\""
+},
+{
+	"id":"not_a_lantern",
+	"nameRU":"Без фонарей",
+	"nameEN":"Not a lantern",
+	"descriptionRU":"Несмотря на уникальную цветовую гамму, эта краска не имеет ничего общего с фонарями и супергероями. Однако танк в этой краске гарантированно будет выглядеть намного круче, чем любой фильм на такие темы.",
+	"descriptionEN":"Despite its unique color scheme, this paint has absolutely nothing to do with lanterns and superheroes. And if you wear it, you're guaranteed to be much cooler than any movie about such topics."
+},
+{
+	"id":"pastila",
+	"nameRU":"Пастила",
+	"nameEN":"Pastila",
+	"descriptionRU":"Это покрытие на самом деле сделано из пастилы с вкраплениями мармелада. Поднимает настроение в бою, а в перерывах между схватками можно побаловать себя чаем с десертом.",
+	"descriptionEN":"This paint is actually made from pastila sweets with bits of marmalade inside. Boosts your battle spirit, and in between matches invites you for a tea break with dessert."
+},
+{
+	"id":"pcb",
+	"nameRU":"Печатная плата",
+	"nameEN":"PCB",
+	"descriptionRU":"Эта краска появилась в результате попыток разработать невидимую броню. Первые испытания с тонкими стальными пластинами прошли успешно, но на практике инженеры увидели нечто удивительное: краска просто делала прозрачной броню, но не детали танка под ней! Однако эти открытия оказались настолько впечатляющими, что краска была выставлена на продажу.",
+	"descriptionEN":"This paint appeared as a result of attempts to develop an invisible armor. The first tests with thin steel plates were successful, but in practice engineers saw something surprising: The paint only made the armor transparent but not the parts underneath! These insights were so spectacular, it was decided that the paint should be put up for sale."
+},
+{
+	"id":"pixel_plasma",
+	"nameRU":"Пиксельная плазма",
+	"nameEN":"Pixel Plasma",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"This paint was made from the smallest atomic pixels. Take a good look and you will see that it achieves a certain color that the opponent can hardly see with the naked eye. They say that this paint can change its properties without anybody noticing."
+},
+{
+	"id":"prestigio",
+	"name":"Prestigio",
+	"descriptionRU":"Любой фокус состоит из трёх частей: «Наживка» — зрителю показывают самый обычный предмет. «Превращение» — с этим предметом делают что-то необычное. Ну а главный элемент называется «Престиж», в нём кроется вся суть чуда.",
+	"descriptionEN":"Every magic trick consists of three parts: \"The Bait\" — The magician shows you something ordinary. \"The Turn\" — The magician takes the ordinary something and makes it into something extraordinary. But every magic trick has a third part, the hardest part we call \"The Prestige\", which holds the secret behind the miracle."
+},
+{
+	"id":"prodigy_2.0",
+	"nameRU":"Продиджи 2.0",
+	"nameEN":"Prodigy 2.0",
+	"descriptionRU":"Классическое покрытие «Продиджи» не подходило для ветреных степных регионов — неподвижный рисунок выдавал танк. Для решения проблемы была разработана анимированная версия покрытия.",
+	"descriptionEN":"Classic paint \"Prodigi\" wasn't fit for the prairie regions — the static texture of the paint drew attention to the tank. To solve this problem, a new, animated version of the paint was developed."
+},
+{
+	"id":"quantum_camo",
+	"nameRU":"Квантовый камуфляж",
+	"nameEN":"Quantum Camo",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"radar",
+	"nameRU":"Радар",
+	"nameEN":"Radar",
+	"descriptionRU":"Это высокотехнологичное покрытие было создано с целью иметь радар, который видно отовсюду. Вот только что-то пошло не так, как предполагалось, и теперь краска оказывает гипнотическое воздействие на любого, кто на неё смотрит. «Ты тостер... Слушай меня: ТЫ — тостер.»",
+	"descriptionEN":"This paint was originally created with the intent of having a radar that drivers can see no matter where they look. Unfortunately, it didn't quite work as planned. But on the flip-side, the paint now has a hypnotic effect on whoever looks at it. \"You are a toaster. Listen to me... YOU are a toaster\""
+},
+{
+	"id":"radioactive_jelly",
+	"nameRU":"Радиоактивное желе",
+	"nameEN":"Radioactive Jelly",
+	"descriptionRU":"Это покрытие почти безвредно для своего носителя, так как наносится на толстую свинцовую подложку. Зато можно вызывать среди соперников ужас одним своим появлением на поле боя. Далеко не каждый танкист осмелится приблизиться к радиоактивному танку. А если и осмелится, то пусть пеняет на себя...»",
+	"descriptionEN":"This paint is almost safe for its owner since it is layered on top of a thick lead undercover, but a good side-effect is you can terrify your enemies with just a brief appearance on the battlefield. Not everyone will dare to approach such tank, and if they do, they better be ready for the radioactive outcome."
+},
+{
+	"id":"red_smoke",
+	"nameRU":"Красный дым",
+	"nameEN":"Red smoke",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"runes",
+	"nameRU":"Руны",
+	"nameEN":"Runes",
+	"descriptionRU":"Крайне маловероятно, что кому-нибудь удастся разгадать послание, зашифрованное рунами в этой краске. Вы, конечно, можете попробовать, но лучше не стоит — рискуете пропустить всю битву…",
+	"descriptionEN":"Very unlikely, that somebody will decipher the message within the runes on this paint. You can always try, but be careful the battle goes on."
+},
+{
+	"id":"secret_sauce",
+	"nameRU":"Секретный соус",
+	"nameEN":"Secret Sauce",
+	"descriptionRU":"Майонез, горчица и васаби — секрет незабываемого ужина. Острота приправленных блюд заставит ненавидеть врагов ещё больше.",
+	"descriptionEN":"Mayo, mustard and wasabi — it's a recipe of a dinner you'll never forget. The spice in the dishes will make your hatred for the enemies burn much, much stronger."
+},
+{
+	"id":"seventies_fun",
+	"nameRU":"Весёлые семидесятые",
+	"nameEN":"Seventies Fun",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"siberian_tiger",
+	"nameRU":"Амурский тигр",
+	"nameEN":"Siberian Tiger",
+	"descriptionRU":"Роскошное покрытие, которое характеризует его обладателя как свирепого хищника. Согласно данным «тигриной переписи» 2015 года, поголовье амурского тигра едва превышает 500 особей. Повысим же численность редкого зверя!",
+	"descriptionEN":"Luxurious paint, which defines its owner as a true, savage predator. According to worldwide numbers in 2015 there're only 500 Siberian tigers left. Let's up the number!"
+},
+{
+	"id":"silver_bricks",
+	"nameRU":"Серебряные кирпичи",
+	"nameEN":"Silver Bricks",
+	"descriptionRU":"Это покрытие — настоящая анимированная кольчуга из усиленного сплава серебра. Стоит только взглянуть на ваш танк, и сразу становится понятно: «Лучше меня не трогай, а то пожалеешь!».",
+	"descriptionEN":"An animated chain armor created out of a reinfoced silver alloy. This paint sends a clear message to your enemy, \"Mess with me and you're in for a bruising\"."
+},
+{
+	"id":"smoke_screen",
+	"nameRU":"Дымовая завеса",
+	"nameEN":"Smoke Screen",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"souls",
+	"nameRU":"Душа",
+	"nameEN":"Souls",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"sparks",
+	"nameRU":"Искры",
+	"nameEN":"Sparks",
+	"descriptionRU":"Эта краска была выпущена в честь наступления 2020 года. Пусть её яркие и блестящие узоры принесут вам бесконечную радость и удачу.",
+	"descriptionEN":"This paint was launched with the end of year celebrations for 2019-2020. May its bright and sparkly patterns bring you everlasting joy and fortune."
+},
+{
+	"id":"spectrum",
+	"nameRU":"Спектр",
+	"nameEN":"Spectrum",
+	"descriptionRU":"Это покрытие разработано с учётом редчайших квантовых технологий, позволяющих переносить вероятностные эффекты в макромир. Первой мыслью создателей технологии было наконец провести реальный эксперимент с суперпозицией кота Шрёдингера, но сделать это им не позволили защитники животных. Поэтому результатом их работы стала эта краска. Несмотря на всю сложную математику и научные изыскания, она представляет собой всего лишь монотонное покрытие зелёного... нет, синего цве... нет, постойте, красного... да чтоб тебя, жёлтого! ААА! ФИОЛЕТОВОГО! Так, всё, хватит с меня, сами пишите это описание!",
+	"descriptionEN":"This paint has been developed using the latest in quantum research technologies, which allow for probability effects to be applied to a macroworld. The first thought of the creators was to finally do the Schrodinger's cat experiment, but it was blocked by animal rights activists. So instead, they made this paint. If you don't mind all of the complex mathematics and scientific research, it's just a monochromatic paint of a green... wait, Blu... wait... red color. Oh for the love of!... Yellow! AAA! Purple! That's it, I'm done, write this description yourself."
+},
+{
+	"id":"spinner",
+	"nameRU":"Спиннер",
+	"nameEN":"Spinner",
+	"descriptionRU":"Спиннер? Это он? Да, вам не показалось. Неудачная «катка» или плохие «тиммейты»? Просто покрутите спиннер и будьте спокойны.",
+	"descriptionEN":"Spinner? Is that THE spinner? That's right, your eyes do not deceive you. A battle gone wrong or teammates being dense? Keep calm and spin it."
+},
+{
+	"id":"spreading_fast",
+	"nameRU":"Поглощение",
+	"nameEN":"Spreading Fast",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"spring",
+	"nameRU":"Весна",
+	"nameEN":"Spring",
+	"descriptionRU":"Танк в этой краске смотрится невероятно притягательно. Врагам вряд ли захочется стрелять в такую красоту.",
+	"descriptionEN":"When wearing this paint, your tank will looks so fresh and peaceful that your enemies won't even want to shoot you... Maybe"
+},
+{
+	"id":"surf",
+	"nameRU":"Сёрфинг",
+	"nameEN":"Surf",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"symbiote",
+	"nameRU":"Симбиот",
+	"nameEN":"Symbiote",
+	"descriptionRU":"«Мы взорвём твою пушку, потом гусеницы, а потом сдерём твою краску прямо с танка. Ты превратишься в беспушечную, безгусеничную, бескрасочную ...» (c) Владелец краски",
+	"descriptionEN":"«We will blow up your turret, and then your track, and then rip off your paint right off your tank. You will become a turretless, trackless, paintless...» (c) Owner of the paint"
+},
+{
+	"id":"synesthesia",
+	"nameRU":"Синестезия",
+	"nameEN":"Synesthesia",
+	"descriptionRU":"Знаете ли вы, каков на вкус выстрел Рельсы? А как звучит краска «Флоу»? Чем пахнет победный флаг, доставленный в последние мгновения боя? Каков на ощупь золотой ящик? Трансцендентных откровений достойны те, кто держит врата восприятия широко распахнутыми. Синестезия — это дар и проклятие, альфа и омега, аномалия в перекрёстках системы. Потоки вечности смывают смыслы и растворяют бытие. Танк — это меч, эго, воля. Это — синестезия.",
+	"descriptionEN":"Do you know how a shot from a Railgun tastes like? Did you listen to the «Flow» paint? How the flag captured in the last moments of battle smells? What Gold Box feels like to the touch? Only those who keep the gates of senses wide open deserve to transcend their discoveries. Synesthesia is a gift and a curse, alpha and omega, anomaly in the system. The rivers of eternity wash away meaning and delude reality. The tank is a sword, ego, power of will. It's Synesthesia."
+},
+{
+	"id":"synth-pop",
+	"nameRU":"Синти-поп",
+	"nameEN":"Synth-pop",
+	"descriptionRU":"Покрытие для настоящих меломанов, в особенности тех, кто любит электронную музыку. «Слушать» эту краску лучше всего на аналоговых звуковых устройствах. Поэтому доставайте свой кассетный плеер и в бой!",
+	"descriptionEN":"A paint for true music fans, especially for those who like electronic music. You will have better experience \"listening\" to this paint on analogue devices, dust off your tape deck and get ready for battle!"
+},
+{
+	"id":"tankoin_tank",
+	"nameRU":"Танкоиновый танк",
+	"nameEN":"Tankoin Tank",
+	"descriptionRU":"Краску получили самые везучие игроки, которым, благодаря своей удаче, из коинбоксов выпал приз в целых 100 000 танкоинов! Краску также можно купить в гараже.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tectonic_plates",
+	"nameRU":"Тектонические плиты",
+	"nameEN":"Tectonic plates",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tentacles",
+	"nameRU":"Щупальца",
+	"nameEN":"Tentacles",
+	"descriptionRU":"Осьминоги — удивительные создания. Они способны менять окраску, подстраиваясь под окружающую среду, и выбрасывать облако чернил, скрываясь за ним от врагов. Считается, что их даже можно приручить. А вы хотели бы завести себе танкового осьминожка?",
+	"descriptionEN":"Octopuses are wonderful creatures. They can change their skin color, adjusting to the surroundings, and disappear into a cloud of black ink leaving the puzzled enemies behind. Some even say you can make a tank pet out of an octopus. Would you?"
+},
+{
+	"id":"tessaract_camo",
+	"nameRU":"Тессеракт",
+	"nameEN":"Tesseract Camo",
+	"descriptionRU":"Этот визуально разрушительный, анимированный танковый камуфляж создан из неоновых нанотрубок. Его анимированные узоры вместе с комбинацией чёрного и синего цветов способны ослепить противника, что помешает ему попасть по вам.",
+	"descriptionEN":"A visually disruptive, animated camouflage assembled from nano neon tubes. The overlapping animated patterns together with the black and blue combination unsettles the enemy's vision, reducing the likelihood of getting a direct hit."
+},
+{
+	"id":"tic-tac-toe",
+	"nameRU":"Крестики-нолики",
+	"nameEN":"Tic-tac-toe",
+	"descriptionRU":"Не удивляйтесь, если во время жаркой баталии вам предложат сыграть в «крестики-нолики». Скорее всего, перед вами настоящий профессионал, за плечами которого множество успешных партий в эту увлекательную игру.",
+	"descriptionEN":"Don't be surprised, if during a heated battle someone will invite you to play Tic-tac-toe. You're probably facing a professional, who left plenty of opponents defeated in the dust."
+},
+{
+	"id":"touch_of_chill",
+	"nameRU":"Прикосновение холода",
+	"nameEN":"Touch of chill",
+	"descriptionRU":"Владелец этой краски — яркий пример сдержанности и хладнокровия. Такой танкист остаётся невозмутим даже в самом жарком сражении, и никому не под силу предугадать его дальнейшие действия. Безобидная снежинка или сильнейшая вьюга? Ответ на этот вопрос зачастую приходит слишком поздно.",
+	"descriptionEN":"If you're the kind of tanker who remains cool and relaxed even in the most heated of battles, this animated paint is for you. It tells your enemies that nothing can unsettle you. You remain calm as a snowflake and deadly as a blizzard."
+},
+{
+	"id":"trapped_inside",
+	"nameRU":"В ловушке",
+	"nameEN":"Trapped Inside",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"Do you feel like it's time to pursue a vendetta? Does it look like your teammates have deserted you? Feel like you are trapped in your own tank? Overcome the suffering by equipping this paint as a symbol of strength and pride on the battlefield."
+},
+{
+	"id":"under_the_tree",
+	"nameRU":"Под ёлкой",
+	"nameEN":"Under the Tree",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"valour",
+	"nameRU":"Доблесть",
+	"nameEN":"Valour",
+	"descriptionRU":"Это покрытие выдаётся лучшим бойцам передовой. Покажите внукам свой потрёпанный в боях танк, покрытый этой краской, и расскажите про свой два-ка-восемнадцатый, они будут гордиться предком!",
+	"descriptionEN":"This paint is given to the best fighters in the front line. Show to grandkids your battle-worn tank, covered with this paint, and tell them how you battled in 2018, they will be proud of their grandparent!"
+},
+{
+	"id":"vertigo",
+	"nameRU":"Вертиго",
+	"nameEN":"Vertigo",
+	"descriptionRU":"На этой краске лучше не задерживать свой взгляд надолго, ведь комбинация из постоянно вращающихся линий и геометрических фигур способна заставить потерять равновесие. Если что, мы предупреждали!",
+	"descriptionEN":"It's better not to look at this paint for too long, since the combination of rotating lines and geometrical shapes may strike you off balance. You've been warned!"
+},
+{
+	"id":"visual_disruptor",
+	"nameRU":"Визуальный разрушитель",
+	"nameEN":"Visual Disruptor",
+	"descriptionRU":"Согласно научным исследованиям (на самом деле это не совсем верно, но зато утверждение звучит правдоподобнее), переливы цветов этой анимированной краски вызывают дискомфорт и тошноту у любого, кто попытается приглядеться к ней… Из-за инопланетян.",
+	"descriptionEN":"According to scientific studies (not really, but it makes the claim sound more credible), the color combination in this animated paint, together with the movement of its hues, causes discomfort and a hint of nausea to whoever tries to focus on it from a certain distance... because aliens."
+},
+{
+	"id":"x_noir",
+	"nameRU":"Чёрный X",
+	"nameEN":"X Noir",
+	"descriptionRU":"Это покрытие — прямая отсылка к эпохе нуар-фильмов 1940-х — 1950-х. Краска пробуждает в киноманах ностальгию по старым детективным фильмам, а её обладатели словно заявляют: «Не связывайтесь со мной, иначе пожалеете».",
+	"descriptionEN":"A birthday-themed tribute to the 1944–54 Film Noir era. This animated paint evokes the gritty and brooding setting of those old detective movies. It makes a clear statement, \"Don't mess with me... you wouldn't like it\"."
+},
+{
+	"id":"holiday",
+	"nameRU":"Праздник",
+	"nameEN":"Holiday",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
+{
+	"id":"holiday_old",
+	"nameRU":"Праздник (старая)",
+	"nameEN":"Holiday (old)",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
+{
+	"id":"afterburner",
+	"nameRU":"Форсаж",
+	"nameEN":"Afterburner",
+	"descriptionRU":"Пилоты военных самолётов включают сверхзвуковой режим при помощи форсажной камеры, впрыскивающей топливо в турбореактивный двигатель. Танкисты увеличивают мощность своих боевых машин за счёт решительности отваги и страсти. Когда вам долго не удаётся сломить волю противника, эти качества становятся решающим преимуществом на поле боя.",
+	"descriptionEN":"n military aircraft, the afterburner activates supersonic flight by injecting additional fuel after the turbine. This paint reminds you that in battle, sometimes the best equipment isn't enough. Your tank needs to be fuelled by your passion and determination to win. They are the afterburner that will give you the ultimate advantage over your enemies so you can grind them into the ground."
+},
+{
+	"id":"bronze_colors",
+	"nameRU":"Бронзовые доспехи",
+	"nameEN":"Bronze Armor",
+	"descriptionRU":"Анимированная краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"arcade_citrus",
+	"nameRU":"Цитрус",
+	"nameEN":"Citrus",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"arcade_crimson",
+	"nameRU":"Пурпур",
+	"nameEN":"Crimson",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"cryo",
+	"nameRU":"Крио",
+	"nameEN":"Cryo",
+	"descriptionRU":"Покрытие разрабатывалось для защиты от эффекта Огнемёта — периодическое охлаждение отлично спасало от догорания. Однако вне схватки каждые несколько секунд танк замораживался, сводя эффективность защиты к нулю. Краске оставили только визуальный эффект.",
+	"descriptionEN":"This coating was originally intended to protect against the effects of Firebird by using a periodic cooling mechanism. Unfortunately, when actually tested in a real battle, the mechanism malfunctioned and kept freezing the tank every few seconds, turning it into a very cold sitting duck. That said, the paint still looks cool, so its creators decided to dump the cooling mechanism and keep the paint exclusively for cosmetic purposes."
+},
+{
+	"id":"demolisher_2.0",
+	"nameRU":"Разрушитель 2.0",
+	"nameEN":"Demolisher 2.0",
+	"descriptionRU":"Это специальная анимированная краска, которая досталась героям «Разрушительной войны». Она досталась только тем, кто выполнил все задания и спас танковый мир от угрозы корпорации AZAZACORP.",
+	"descriptionEN":"This is a special animated paint, which went to the heroes of \"Destructive War.\" It went only to those who completed all the tasks and saved the tank world from the threat of AZAZACORP corporation."
+},
+{
+	"id":"fire_of_valor",
+	"nameRU":"Огонь отваги",
+	"nameEN":"Fire of Valor",
+	"descriptionRU":"Эта алая краска является отражением огня отваги, пылающего в сердце танкиста. Она напоминает врагам о том, что её обладатель готов бороться за победу до последнего вздоха.",
+	"descriptionEN":"This vivid paint represents the fiery valor inside a tanker's heart. It reminds opponents that this tanker will fight on till the very end, even when cornered, overwhelmed, and down to the last bullet."
+},
+{
+	"id":"green_retinue",
+	"nameRU":"Зелёная дружина",
+	"nameEN":"Green retinue",
+	"descriptionRU":"Зелёная дружина — это сверкающая группа воинов, готовых защищать леса и прерии от любых захватчиков. В их рядах меткий стрелок-эльф, ловкий гном-лесоруб и огромный краулер-танконосец, способный выдержать любое столкновение.В каждом бою дружина бережно охраняет свою землю и использует силу природы в своих интересах. Гномы-инженеры создают боевые машины, использующие энергию водопадов и ветров, чтобы поразить врага своими мощными атаками.Каждый воин духовно связан с природой и готов бросить вызов любому врагу, чтобы защитить свою землю и своих товарищей.",
+	"descriptionEN":"Green retinue — a shining team of warriors who are ready to defend forests and prairies from attacks of invaders. In their ranks, there are an accurate elf-shooter, a dwarf-lumberjack and a huge tank landing crawler. The last can withstand any collision. In each battle, the retinue carefully defend their lands and use the power of nature in their own interest. Dwarf-engineers create battle machines that use the power of waterfalls and winds to hit an enemy with the most powerful attacks. Each warrior is spiritually connected with nature and is ready to challenge any enemy to defend his land and his teammates."
+},
+{
+	"id":"hazel's_panzerwerke",
+	"name":"Hazels Panzerwerke",
+	"descriptionRU":"Ореховские танковые заводы — это знак качества международного уровня! Внимание: завод не перерабатывает орехи, такое название он получил в честь главного конструктора — Ореха! Отличная управляемость и первоклассная динамика этих танковых болидов заложили фундамент успеха. Идеальное сочетание мощности, скорости и проходимости позволяет лидировать на мировой арене. Сколько бы конкуренты не пытались рассекретить уникальные технологии, им по-прежнему не удаётся этого сделать. Такой крепкий орешек не по зубам соперникам!",
+	"descriptionEN":"Hazel's tank factories are an international mark of quality! Attention: the plant does not process nuts, it got this name in honor of the chief game designer — Hazel-Rah! Excellent handling and first-class dynamics of these tank cars laid the foundation for success. The perfect combination of power, speed and cross-country ability allows you to lead in the global arena. No matter how many competitors try to declassify unique technologies, they still fail to do so. Such a tough nut is too tough for rivals!"
+},
+{
+	"id":"holi",
+	"nameRU":"Холи",
+	"nameEN":"Holi",
+	"descriptionRU":"Историки теряются в версиях происхождения этого праздника. Шива, Кама, Кришна, Вишну... Главное, что праздник дарит людям радость и краски.",
+	"descriptionEN":"Historians can't seem to agree on the origins of this holiday. Shiva, Kama, Krishna, Vishnu... But what really matters is that this holiday brings people joy... and paints."
+},
+{
+	"id":"houston_tankin",
+	"name":"Houston Tankin",
+	"descriptionRU":"В то время, когда наши космические корабли бороздят просторы Вселенной, в гоночном танкостроении загорелась новая звезда — Houston Tankin. Участники этой команды — прогрессивные мыслители своего времени, знающие толк в технологиях будущего. Высокоскоростные болиды, выдерживающие воздействие экстравысоких и криогенных температур, способны принести триумфальную победу их владельцам. Благодаря инновационным идеям и неординарному подходу у создателей этой гоночной команды сформировался следующий слоган: «Хьюстон, у нас нет проблем».",
+	"descriptionEN":"At a time when our spaceships are travelling through the universe, a new star has lit up in the racing tank building — Houston Tankin. The members of this team are progressive thinkers of their time, who know a lot about technologies of the future. High-speed cars that withstand the effects of extra high and cryogenic temperatures can bring a triumphant victory to their owners. Thanks to innovative ideas and an extraordinary approach, the creators of this racing team have formed the following motto: \"Houston, we have no problems.\""
+},
+{
+	"id":"immunes",
+	"nameRU":"Иммуны",
+	"nameEN":"Immunes",
+	"descriptionRU":"Фракция «Иммуны»! Главная цель — спасти человечество от нового секретного вируса. С помощью особого иммунного зелья, созданного по старинному рецепту наших бабушек, вы должны обезвредить фракцию зомби, излечив их! Судьба человечества в ваших руках!",
+	"descriptionEN":"«Immunes» faction! The main task is to save the world from the new secret virus. With the help of a special antidote potion, created according to the old man recipe of our grandmothers, neutralize the Zombies hoard by curing them! The fate of humanity rests on your shoulders!"
+},
+{
+	"id":"arcade_lazurite",
+	"nameRU":"Лазурит",
+	"nameEN":"Lazurite",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"leprechaun_brotherhood",
+	"nameRU":"Лепреконовое братство",
+	"nameEN":"Leprechaun Brotherhood",
+	"descriptionRU":"Лепреконовое братство — таинственная группа мастеров-колдунов, которые умеют обращаться с золотом и драгоценными камнями лучше, чем никто другой. Их магия знаменита своей мощью и необычными способностями, которые они используют в бою.В братстве есть волшебник-лепрекон, который обладает магической силой и может вызвать армию золотых големов для атаки врага. Также есть гном-алхимик, чьи знания в области химии позволяют ему создавать зелья и эликсиры, усиливающие боевые способности команды.",
+	"descriptionEN":"Leprechaun brotherhood — a mysterious group of master-wizards who can neatly handle gold and gems better than anyone else. Their magic is known for its power and unusual abilities that they use in battles. There is a leprechaun-wizard in the brotherhood who has magical powers and can bring an army of gold golems to a battlefield to attack an opponent. There is also an alchemist-dwarf, whose knowledge of chemistry let them create potions and elixirs to boost combart abilities of the team."
+},
+{
+	"id":"llama_tankini",
+	"name":"Llama Tankini",
+	"descriptionRU":"Известно, что корни основателей этой фракции находятся в Перу. По слухам, эта гоночная команда была названа в честь домашней ламы предков. Она отличалась грациозностью, умом и упрямством. Соревнуясь с участниками этой команды следует помнить, что дразнить и злить их не стоит. Ведь оберег в виде разноцветной ламы, установленный в каждом танковом болиде, не только приносит удачу и успех владельцам, но и отзеркаливает все нападки недоброжелателей. Гордость и упорство несомненно приведут Llama Tankini прямо к победе!",
+	"descriptionEN":"It is known that the roots of the founders of this faction are in Peru. According to rumors, this racing team was named after the ancestral domestic llama. It was distinguished by grace, intelligence and stubbornness. When competing with members of this team, remember that it is not worth it to tease and anger them. After all, the amulet in the form of a multi-colored llama installed in each tank car not only brings good luck and success to the owners, but also mirrors all the attacks of ill-wishers. Pride and perseverance will undoubtedly lead Llama Tankini straight to victory!"
+},
+{
+	"id":"oriental_glam",
+	"nameRU":"Восточный гламур",
+	"nameEN":"Oriental Glam",
+	"descriptionRU":"Эта запоминающаяся гламурная краска с восточными мотивами подготовлена специально в честь празднования китайского Нового года.",
+	"descriptionEN":"Get ready to rock some oriental coolness on the battlefield with this fearsome and glamorous themed paint for the Chinese New Year."
+},
+{
+	"id":"photon",
+	"nameRU":"Фотон",
+	"nameEN":"Photon",
+	"descriptionRU":"Уникальная краска пионеров TO Mobile.Многие верят, что танк в этом покрытии становится чуть меньше и в него сложнее попасть. Это не так, но если сильно верить...",
+	"descriptionEN":"Unique paint of TO Mobile pioneers. Many believe that a tank with this paint becomes a little smaller and harder to hit. It's not true, but if you believe in something strong enough.."
+},
+{
+	"id":"picnic",
+	"nameRU":"Пикник",
+	"nameEN":"Picnic",
+	"descriptionRU":"Как же здорово приехать на лужайку, разложить плед, снаряды, посуду и угощения. Сделать сэндвичи с джемом, поменять масло в двигателе... Красота!",
+	"descriptionEN":"How wonderful it is to go to a park, lay down on a blanket, put down the dishes and desserts. Make a peanut butter jelly sandwich, and change engine oil... What a sight!"
+},
+{
+	"id":"arcade_plasma",
+	"nameRU":"Плазма",
+	"nameEN":"Plasma",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"recruit",
+	"nameRU":"Новобранец",
+	"nameEN":"Recruit",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"shamrock_squad",
+	"nameRU":"Отряд трилистника",
+	"nameEN":"Shamrock Squad",
+	"descriptionRU":"Отряд трилистника — группа отважных воинов, сражающаяся за золото и свободу. Среди отряда есть гоблин-разведчик, чьи хитрые уловки и меткость помогают команде избежать ловушек и нанести сокрушительный урон врагу.Заработанные золотые монеты используются для улучшения танков и создания новых боевых устройств. С командой борются гном-инженер и юная эльфийка-снайпер, вооружённые улучшенным Шафтом и готовые на всё, чтобы добиться победы!",
+	"descriptionEN":"Shamrock squad — a group of the bravest warriors, who fight for gold and freedom. There is a goblin-scout among the squad, whose tricky tricks and accuracy help the team avoid traps and deal big damage to the enemy. Earned golden coins are used to upgrade tanks and create new battle augments. The team is supported by a dwarf-engineer and a young elf-sniper, equipped with upgraded Shaft, who are ready for anything to catch the victory!"
+},
+{
+	"id":"steam",
+	"name":"Steam",
+	"description":"Steam"
+},
+{
+	"id":"story",
+	"nameRU":"История",
+	"nameEN":"Story",
+	"descriptionRU":"История этого покрытия очень необычна. Однажды одному эксцентричному художнику было поручено создать краску к празднованию 10-летия «Танков Онлайн». Он долго пытался создать «ту самую» краску, но ни один вариант не пришёлся ему по вкусу. В конце концов, художник решил эту краску описать словами. Вскоре ему удалось придумать действительно классное описание, которое и вдохновило его на создание этой краски. Но, к сожалению, когда краска была уже готова, собака съела рукопись, а художник совершенно забыл, о чём писал. Поэтому оригинальное описание краски мы уже никогда не узнаем… К счастью, у нас осталась сама краска.",
+	"descriptionEN":"The story behind this paint is a very weird one. There was once an eccentric artist who was commissioned to create a special paint for Tanki Online's 10th birthday celebration. She tried and tried, but none of the designs she created were to her liking. So instead, she started writing. Soon she had created a really cool paint description, which inspired her to create this cool paint. Unfortunately, by the time she was done painting, her dog had eaten her manuscript, and she had completely forgotten what she had written about. So, what the original description was, we'll never know."
+},
+{
+	"id":"tanki_in_moscow",
+	"nameRU":"Танки в Москве",
+	"nameEN":"Tanki in Moscow",
+	"descriptionRU":"Краска выпущена специально для встречи «Танки в Городе», которая прошла 9 сентября 2017 года в Москве. Также она была частью набора «Танки в Москве».",
+	"descriptionEN":"This paint was added to the game especially for the «Tanki in the City» event that took place in Moscow on September 9th, 2017. The paint was also part of the special «Tanki in Moscow» pack."
+},
+{
+	"id":"tanki_online_turns_13",
+	"nameRU":"«Танкам Онлайн» — 13 лет!",
+	"nameEN":"Tanki Online turns 13!",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_trip_2019",
+	"name":"Tanki Trip 2019",
+	"descriptionRU":"Любишь лето? Любишь «Танки»? Тогда эта краска для тебя.",
+	"descriptionEN":"Do you like summer? Do you like Tanki? Then you will LOVE this paint!"
+},
+{
+	"id":"tanki's_sun",
+	"name":"Tanki's Sun",
+	"descriptionRU":"Над созданием экологичных танковых болидов успешно работали основатели фракции Tanki’s Sun. Для оснащения эко-модели были применены гибкие солнечные панели. Испытания модернизированного танка происходили не только на труднопроходимых участках полигона, но и на автомагистралях общего пользования. Благодаря завоёванному доверию публики, команда пополнилась новыми участниками, которые успешно применяют нестандартные методы не только в экологическом танкостроении, но и в борьбе с конкурентами. С мощью этой команды не сравнится даже солнечная буря.",
+	"descriptionEN":"The founders of the Tanki's Sun team successfully worked on the creation of eco-friendly tank cars. Flexible solar panels were used to equip the eco-model. Tests of the upgraded tank took place not only on impassable sections of the landfill, but also on public highways. Thanks to the public's trust, the team has been replenished with new participants who successfully apply non-standard methods not only in environmental tank construction, but also in the fight against competitors. Not even a solar storm can match the power of this team."
+},
+{
+	"id":"tankitty",
+	"name":"Tankitty",
+	"descriptionRU":"Название этой гоночной команды подчёркивает независимый и самодостаточный характер семьи её основателей, крупнейших меценатов кошачьих приютов. Их танковые болиды отличаются грациозностью, изяществом и чертовской привлекательностью! Как и полагается представителям семейства кошачьих, гонщики этой команды являются самыми манёвренными и без проблем способны вписаться в любой поворот. Словно от диких предков кошек, в крови участников этой команды бурлит желание доминировать и выхватывать победу как добычу из лап соперника./n/nTankitty — непобедимые хищники на поле боя.",
+	"descriptionEN":"The name of this racing team emphasizes the independent and self-sufficient nature of its founder family, the biggest patrons of cat shelters. Their tank cars are distinguished by gracefulness, elegance and devilish attractiveness! As suited representatives of the feline family, the racers of this team are the most maneuverable and are able to fit into any turn without difficulty. Like the wild ancestors of cats, the desire to dominate and snatch victory like prey from the clutches of an opponent, is bubbling in the blood of the participants of this team. Tankitty are invincible predators on the battlefield."
+},
+{
+	"id":"tank-noir",
+	"name":"Tank-Noir",
+	"descriptionRU":"Не трудно догадаться, что основатели этой гоночной команды являлись поклонниками Голливудских криминальных драм 40-50-х годов. За дизайн танковых болидов отвечало известное британское ателье, подарившее ему стильный интерьер и элегантные изгибы. Глянцевый чёрный цвет выдаёт в нём принадлежность к эстетичной ретро-классике, а также подчёркивает благородство его владельцев. Участники команды обладают стальным характером и не прощают себе поражения, поэтому соперникам не стоит забывать, что очередная гонка может обернуться для них ночным кошмаром!",
+	"descriptionEN":"It's not hard to guess that the founders of this racing team were fans of Hollywood crime dramas of the 40s and 50s. The famous British atelier was responsible for the design of tank cars and gave them a stylish interior and elegant curves. The glossy black color gives it a sense of belonging to the aesthetic retro classics, and also emphasizes the nobility of its owners. The team members have steel character and do not forgive themselves for defeat, so enemies should not forget that the next race can turn into a nightmare for them!"
+},
+{
+	"id":"thankos_armor",
+	"nameRU":"Доспехи Танкоса",
+	"nameEN":"Thankos Armor",
+	"descriptionRU":"Главная награда в «Войне суперсил». Владельцы этой краски совершили настоящий подвиг, собрав все 6 кристаллов могущества.",
+	"descriptionEN":"This is the main reward in the \"War of Super Powers\". The owners of this paint made a real feat, collecting all 6 crystals of power."
+},
+{
+	"id":"thankos",
+	"nameRU":"Танкос",
+	"nameEN":"Thankos",
+	"descriptionRU":"Великий титан из «Танков Онлайн» (не путать с корпусом!). Было бы здорово, если бы эта краска давала овердрайв «Щелчок», который уничтожает всех на карте. Но краски способностей не дают.",
+	"descriptionEN":"Great titan from Tanki Online (not to be confused with the hull!). It would be great if this paint gave an overdrive “Click” that kills everyone on the map. But the paint does not give abilities."
+},
+{
+	"id":"tote_bag",
+	"nameRU":"Шоппер",
+	"nameEN":"Tote bag",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"turbo",
+	"nameRU":"Турбо",
+	"nameEN":"Turbo",
+	"descriptionRU":"Промчитесь по арене, словно пылающий огненный шар. Пусть враги боятся подходить близко, ведь ваш танк обжигающе горяч.",
+	"descriptionEN":"Speed through the arena like a blazing ball of fire. Let your enemies know that you're way too hot to handle."
+},
+{
+	"id":"yellow_bug",
+	"nameRU":"Жёлтый жук",
+	"nameEN":"Yellow Bug",
+	"descriptionRU":"Настоящие шедевры порой таятся в самых укромных местах. Эта краска — для тех, кто выжидает подходящего момента, чтобы трансформироваться в непобедимую боевую машину, так же, как этот жёлтый жук на свалке.",
+	"descriptionEN":"Sometimes, great things lie hidden in the most humble and unpretentious things. This paint is for tankers who are just waiting to unlock their potential — to transform... into an unbeatable battle machine, just like that old, yellow bug in the scrapyard."
+},
+{
+	"id":"zombies",
+	"nameRU":"Зомби",
+	"nameEN":"Zombies",
+	"descriptionRU":"Фракция «Зомби»! Главная цель — выжить! Устрашайте противников своим внешним видом, заражайте их секретным вирусом, разработанным в лаборатории «Танки Онлайн». И пусть ваша армия ходячих мертвецов одержит знаменательную победу!",
+	"descriptionEN":"«Zombies» faction! The main task is to survive! Intimidate your opponents with you appearance, infect them with the secret virus developed in Tanki's laboratory, and bring your army of the walking dead to victory!"
+},
+{
+	"id":"tanki_sport_2022_1_atb",
+	"name":"ATB",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"bandits",
+	"nameRU":"Бандиты",
+	"nameEN":"Bandits",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2021_2_banguins",
+	"name":"Banguins",
+	"descriptionRU":"Купи эту краску и стань болельщиком этого клана в финалах турнира. Краска будет удалена с аккаунта перед началом финалов следующего турнира. Важно! После покупки этого покрытия три другие краски болельщиков пропадут из продажи.",
+	"descriptionEN":"Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament. The paint will be removed from your Garage before the playoffs of the next tournament. Important! Upon purchasing this paint, you will no longer be able to purchase the other three fan paints."
+},
+{
+	"id":"bears",
+	"nameRU":"Медведи",
+	"nameEN":"Bears",
+	"descriptionRU":"Краска создана специально для фракции «Медведи» в глобальном ивенте «Война. Превосходство». Представители этой фракции выделяются гигантской силой и свирепостью. Они доблестные, гордые и выносливые.",
+	"descriptionEN":"The paint is made specifically for the Bears faction in the global event \"War: Domination\". Players of this faction have gigantic strength and ferocity. They are honorable, proud, and can endure the hardest battles."
+},
+{
+	"id":"bigtanks",
+	"name":"BigTanks‎",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"birthday_hat",
+	"name":"Birthday Hat",
+	"description":"This paint was to celebrate the 1st Anniversary of Tanki LATAM, equip your tank to have fun at this party while destroying your enemies."
+},
+{
+	"id":"tanki_sport_2022_1_black_mirror",
+	"name":"Black Mirror",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"bounty_hunter",
+	"nameRU":"Охотник за головами",
+	"nameEN":"Bounty hunter",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"thug",
+	"nameRU":"Головорез",
+	"nameEN":"Thug",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2021_4_bulls",
+	"name":"Bulls",
+	"descriptionRU":"Купи эту краску и стань болельщиком этого клана в финалах турнира",
+	"descriptionEN":"Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament."
+},
+{
+	"id":"tanki_sport_2021_3_bulls",
+	"name":"Bulls",
+	"descriptionRU":"Купи эту краску и стань болельщиком этого клана в финалах турнира",
+	"descriptionEN":"Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament."
+},
+{
+	"id":"can't_stop_2",
+	"name":"Can't Stop",
+	"descriptionRU":"Купи эту краску и стань болельщиком клана Can’t Stop в финалах XII Межкланового Чемпионата.",
+	"descriptionEN":"Buy this paint and become a fan of Clan \"Can't Stop\" in the Clan Championship XII playoffs."
+},
+{
+	"id":"tanki_sport_2021_4_carnage",
+	"name":"Carnage",
+	"descriptionRU":"Купи эту краску и стань болельщиком этого клана в финалах турнира",
+	"descriptionEN":"Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament."
+},
+{
+	"id":"chocolatank",
+	"name":"Chocolatank",
+	"description":"Easter is so much sweeter with chocolate. Now, you can carry it with you into the battlefield with this chocolate-themed paint for your tank. Warning: With this paint, your tank will look delicious, but will still be pretty hard — biting it will likely result in loss of teeth."
+},
+{
+	"id":"city_dweller",
+	"nameRU":"Пермская езда",
+	"nameEN":"City Dweller",
+	"descriptionRU":"С этой краской, выполненной в стилистике карт оплаты общественного транспорта, вы сможете пользоваться выделенными полосами на дорогах города, брать на борт пассажиров и щеголять самым провокационным названием этого года.",
+	"descriptionEN":"Equipping this paint lets your enemies know that you are a respectable city-dwelling tanker who cares about traffic management and makes use of public transport... before politely blowing up their tank as a gentle reminder that they should use public transport next time."
+},
+{
+	"id":"crop_circles",
+	"nameRU":"Круги на полях",
+	"nameEN":"Crop Circles",
+	"descriptionRU":"Есть ли другая разумная жизнь, кроме нас? Посещали ли они нашу планету? Некоторые считают, что таинственные круги на полях, всего за одну ночь появляющиеся в самых разных точках мира, являются закодированными посланиями от инопланетян. Единственное, что мы знаем наверняка — эти круги отлично выглядят на вашем танке.",
+	"descriptionEN":"Is there intelligent life out there? Has it visited our planet? Some say that the mysterious \"Crop Circles\" that seem to appear overnight in various parts of the world, are a coded message from our interstellar cousins. The only thing we really know for sure is that they look super slick on your tank."
+},
+{
+	"id":"demolisher_1.0",
+	"nameRU":"Разрушитель",
+	"nameEN":"Demolisher",
+	"descriptionRU":"Купи эту временную краску, чтобы принять участие в «Разрушительной войне», где тебе предстоит защитить танковый мир от злобной корпорации AZAZACORP.",
+	"descriptionEN":"Buy this temporary paint to participate in the Demolition WAR, where you will defend the world of Tanki against the threat of the evil corporation AZAZACORP!"
+},
+{
+	"id":"developers_2k22",
+	"nameRU":"Разработчики 2к22",
+	"nameEN":"Developers 2K22",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2022_2_devine",
+	"name":"Devine",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2022_2_diamonds",
+	"name":"Diamonds",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2022_1_diamonds",
+	"name":"Diamonds",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"easter_egg",
+	"nameRU":"Пасхалка",
+	"nameEN":"Easter Egg",
+	"descriptionRU":"В каждой игре есть своя пасхалка. Нашу найти проще всего.",
+	"descriptionEN":"There are Easter eggs in many games. Our game is no exception."
+},
+{
+	"id":"eternity_2",
+	"name":"Eternity",
+	"descriptionRU":"Купи эту краску и стань болельщиком клана Eternity в финалах XII Межкланового Чемпионата.",
+	"descriptionEN":"Buy this paint and become a fan of Clan \"Etenity's\" in the Clan Championship XII playoffs."
+},
+{
+	"id":"tanki_sport_2021_1_feechki",
+	"name":"Feechki",
+	"descriptionRU":"Купи эту краску и стань болельщиком этого клана в финалах турнира. Краска будет удалена с аккаунта перед началом финалов следующего турнира. Важно! После покупки этого покрытия три другие краски болельщиков пропадут из продажи.",
+	"descriptionEN":"Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament. The paint will be removed from your Garage before the playoffs of the next tournament. Important! Upon purchasing this paint, you will no longer be able to purchase the other three fan paints."
+},
+{
+	"id":"flash",
+	"name":"Flash‎",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"for_developers_2",
+	"nameRU":"За разработчиков",
+	"nameEN":"For Developers",
+	"descriptionRU":"Покрытие участников команды разработчиков.",
+	"descriptionEN":"A paint given to the members of the development team during the Battle of \"1000 Astronauts\" event."
+},
+{
+	"id":"for_developers_3",
+	"nameRU":"За разработчиков",
+	"nameEN":"For Developers",
+	"descriptionRU":"Покрытие болельщика команды разработчиков.",
+	"descriptionEN":"A paint designed for the Developers fans during the Battle of \"Devs vs Players\" event."
+},
+{
+	"id":"for_developers_4",
+	"nameRU":"За разработчиков",
+	"nameEN":"For Developers",
+	"descriptionRU":"Краска болельщика команды разработчиков.",
+	"descriptionEN":"Paint created for the Players during the Battle of Developers event."
+},
+{
+	"id":"for_developers_5",
+	"nameRU":"За разработчиков",
+	"nameEN":"For Developers",
+	"descriptionRU":"Краска болельщика команды разработчиков.",
+	"descriptionEN":"A paint designed for Players fans during the Battle \"Rusty Barrels\" event."
+},
+{
+	"id":"for_developers_6",
+	"nameRU":"За разработчиков",
+	"nameEN":"For Developers",
+	"descriptionRU":"Это покрытие для тех, кто был уверен в победе разработчиков в битве «Разработчики vs Игроки».",
+	"descriptionEN":"This paint is for those who believes that players will win in the «Developers vs Players» battle."
+},
+{
+	"id":"for_developers_1",
+	"nameRU":"За разработчиков",
+	"nameEN":"For Developers",
+	"descriptionRU":"Покрытие, созданное специально для команды разработчиков.",
+	"descriptionEN":"A paint that was created especially for players during the 1000 Footballer's Battle event."
+},
+{
+	"id":"for_players_2",
+	"nameRU":"За игроков",
+	"nameEN":"For Players",
+	"descriptionRU":"Покрытие участников команды игроков.",
+	"descriptionEN":"A paint that was created especially for the players during the Battle of \"1000 Astronauts\" event."
+},
+{
+	"id":"for_players_3",
+	"nameRU":"За игроков",
+	"nameEN":"For Players",
+	"descriptionRU":"Покрытие болельщика команды игроков.",
+	"descriptionEN":"A paint designed for Players fans during the Battle of \"Devs vs Players\" event."
+},
+{
+	"id":"for_players_4",
+	"nameRU":"За игроков",
+	"nameEN":"For Players",
+	"descriptionRU":"Краска болельщика команды игроков.",
+	"descriptionEN":"Paint created for the Players during the Battle of Developers event."
+},
+{
+	"id":"for_players_5",
+	"nameRU":"За игроков",
+	"nameEN":"For Players",
+	"descriptionRU":"Краска болельщика команды игроков.",
+	"descriptionEN":"A paint designed for Players fans during the Battle \"Rusty Barrels\" event."
+},
+{
+	"id":"for_players_6",
+	"nameRU":"За игроков",
+	"nameEN":"For Players",
+	"descriptionRU":"Это покрытие для тех, кто был уверен в победе игроков в битве «Разработчики vs Игроки».",
+	"descriptionEN":"This paint is for those who believes that players will win in the «Developers vs Players» battle."
+},
+{
+	"id":"for_players_1",
+	"nameRU":"За игроков",
+	"nameEN":"For Players",
+	"descriptionRU":"Покрытие, созданное специально для команды игроков.",
+	"descriptionEN":"A paint that was created especially for players during the 1000 Footballer's Battle event."
+},
+{
+	"id":"fragment",
+	"nameRU":"Фрагмент",
+	"nameEN":"Fragment",
+	"descriptionRU":"Говорят, что настоящих коллекционеров интересуют не столько сами вещи, сколько их суть, идея. Так и танкисты, принимающие участие в событии «Собери танк», проявляют свой интерес и азартность в поиске нужных деталей. Собрать танк – дело не простое, но ужасно увлекательное.",
+	"descriptionEN":"They say that real collectors are interested not in the things themselves, but rather in their essence and the idea. Likewise, the tankers participating in the \"Assemble a Tank\" event show their interest and riskiness in finding the necessary parts. Assembling a tank is not easy. but really, really hard!"
+},
+{
+	"id":"galacticus",
+	"nameRU":"Галактикус",
+	"nameEN":"Galacticus‎",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"gingerbread",
+	"nameRU":"Имбирный пряник",
+	"nameEN":"Gingerbread‎",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"go_pro",
+	"name":"Go Pro",
+	"descriptionRU":"Купи эту краску и стань болельщиком клана Go Pro в финалах XII Межкланового Чемпионата.",
+	"descriptionEN":"Buy this paint and become a fan of Clan \"Go Pro's\" in the Clan Championship XII playoffs."
+},
+{
+	"id":"goliafffffff",
+	"name":"Goliafffffff",
+	"descriptionRU":"Краска болельщиков консультанта Goliafffffff.",
+	"descriptionEN":"A paint for fans of Goliafffffff during the competition \"Battle of the Consultants\""
+},
+{
+	"id":"tanki_sport_2022_2_guardians_advanced",
+	"name":"Guardians Advanced",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2023_1_battle_axes",
+	"name":"Battle Axes",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2023_1_cold",
+	"name":"Cold",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2023_1_diamonds",
+	"name":"Diamonds",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2023_1_devine",
+	"name":"Devine",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2023_1_frenzy",
+	"name":"Frenzy",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2023_1_lavanda",
+	"name":"Lavanda",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2023_1_red_notice",
+	"name":"Red Notice",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2023_1_teamp",
+	"name":"TeamP",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"hand_sanitizer",
+	"nameRU":"Санитайзер",
+	"nameEN":"Hand Sanitizer",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"horror",
+	"nameRU":"Жуть",
+	"nameEN":"Horror",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"international",
+	"name":"International",
+	"descriptionRU":"Купи эту краску и стань болельщиком клана International в финалах юбилейного Межкланового Чемпионата X.",
+	"descriptionEN":"Buy this paint and become clan International fan in the Clan Championship X finals. Important! After purchasing this paint the 3 remaining fan paints will become unavailable for purchase in the Shop."
+},
+{
+	"id":"jerryyy21",
+	"name":"JERRYYY21‎",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"jmpr",
+	"name":"JMPR",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"joy",
+	"nameRU":"Радость",
+	"nameEN":"Joy",
+	"descriptionRU":"Эта краска не для игроков, которые переживают за плохой бой, а для тех, кто всегда по-настоящему счастлив.",
+	"descriptionEN":"For those who love carnival, this paints its ideal to enjoy with friends and to show yourself off to your enemies meanwhile you are killing it inside maps."
+},
+{
+	"id":"kalash86rus",
+	"name":"KALASH86RUS",
+	"descriptionRU":"Краска болельщиков консультанта KALASH86RUS.",
+	"descriptionEN":"A paint for fans of KALASH86RUS during the competition \"Battle of the Consultants\""
+},
+{
+	"id":"kasim_vs_sun_kasim",
+	"name":"Kasim",
+	"descriptionRU":"Покрытие болельщиков Kasim'а.",
+	"descriptionEN":"A paint for Kasim's fans during the battle \"Kasim vs Sun\""
+},
+{
+	"id":"tanki_sport_2022_1_knockout",
+	"name":"Knockout",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"lions",
+	"nameRU":"Львы",
+	"nameEN":"Lions",
+	"descriptionRU":"Краска создана специально для фракции «Львы» в глобальном ивенте «Война. Превосходство». Представители этой фракции обладают смелостью и твёрдым характером, отлично взаимодействуют с командой и готовы стоять за свои владения горой.",
+	"descriptionEN":"The paint is made specifically for the Lions faction in the global event \"War: Domination\". Players of this faction have courage and iron will in their blood, work perfectly in teams, and can protect their territories to the end."
+},
+{
+	"id":"lucky_coin",
+	"name":"Lucky Coin",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2021_3_merciful",
+	"name":"Merciful",
+	"descriptionRU":"Купи эту краску и стань болельщиком этого клана в финалах турнира.",
+	"descriptionEN":"Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament."
+},
+{
+	"id":"mono_apple",
+	"nameRU":"Моно яблоко",
+	"nameEN":"Mono Apple",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"mono_aquamarine",
+	"nameRU":"Моно морской",
+	"nameEN":"Mono Aquamarine",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"mono_azure",
+	"nameRU":"Моно лазурный",
+	"nameEN":"Mono Azure",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"mono_blue",
+	"nameRU":"Моно синий",
+	"nameEN":"Mono Blue",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"mono_coral",
+	"nameRU":"Моно коралловый",
+	"nameEN":"Mono Coral",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"mono_fuchsia",
+	"nameRU":"Моно фуксия",
+	"nameEN":"Mono Fuchsia",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"mono_gold",
+	"nameRU":"Моно золотой",
+	"nameEN":"Mono Gold",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"mono_orange",
+	"nameRU":"Моно оранж",
+	"nameEN":"Mono Orange",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"mono_red",
+	"nameRU":"Моно красный",
+	"nameEN":"Mono Red",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"mono_violet",
+	"nameRU":"Моно индиго",
+	"nameEN":"Mono Violet",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"mono_yellow",
+	"nameRU":"Моно жёлтый",
+	"nameEN":"Mono Yellow",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"mr_smiley",
+	"nameRU":"Мистер Смайлик",
+	"nameEN":"Mr. Smiley",
+	"descriptionRU":"Эта краска подойдёт тем, кто верит, что смех, радость и розыгрыши должны случаться каждый день, а не один раз в году.",
+	"descriptionEN":"A paint for the tanker who believes that laughs, fun, and pranks should happen every day, not just once a year."
+},
+{
+	"id":"new_camouflage",
+	"nameRU":"Новый камуфляж",
+	"nameEN":"New Camouflage",
+	"descriptionRU":"Эта краска подойдёт танкистам, которые любят покрывать свой танк камуфляжем, но хотели бы придать ему нестандартный вид.",
+	"descriptionEN":"This paint is for tankers who love the camouflage look but would like to give it an unconventional twist."
+},
+{
+	"id":"new_year_2017",
+	"nameRU":"Новый год 2017",
+	"nameEN":"New Year 2017",
+	"descriptionRU":"Хочешь выглядеть как чудесный новогодний подарок? Тогда надевай эту краску и выходи на поле боя. Когда очарованные враги потеряют бдительность и приблизятся к тебе, прокричи «Сюрприз!» и проделай дырку в их корпусе!",
+	"descriptionEN":"A coating assembled out of steel micro-fibers, which give it a rugged and weathered look. Ideal for the warrior who has spent countless hours on the battlefield."
+},
+{
+	"id":"penguins",
+	"name":"Penguins",
+	"descriptionRU":"Купи эту краску и стань болельщиком клана Penguins в финалах XII Межкланового Чемпионата. Важно! После покупки этого покрытия три краски болельщиков пропадут из продажи.",
+	"descriptionEN":"Buy this paint and become a fan of Clan \"Penguins\" in the Clan Championship XII playoffs."
+},
+{
+	"id":"tanki_sport_2021_1_penguins",
+	"name":"Penguins",
+	"descriptionRU":"Купи эту краску и стань болельщиком этого клана в финалах турнира. Краска будет удалена с аккаунта перед началом финалов следующего турнира. Важно! После покупки этого покрытия три другие краски болельщиков пропадут из продажи.",
+	"descriptionEN":"Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament. The paint will be removed from your Garage before the playoffs of the next tournament. Important! Upon purchasing this paint, you will no longer be able to purchase the other three fan paints."
+},
+{
+	"id":"tanki_sport_2022_2_pepega",
+	"name":"Pepega",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"peppers",
+	"nameRU":"Перцы",
+	"nameEN":"Peppers",
+	"descriptionRU":"Купи эту краску и стань болельщиком клана Перцы в финалах юбилейного Межкланового Чемпионата X.",
+	"descriptionEN":"Buy this paint and become clan Peppers fan in the Clan Championship X finals. Important! After purchasing this paint the 3 remaining fan paints will become unavailable for purchase in the Shop."
+},
+{
+	"id":"pumpkins",
+	"nameRU":"Сезон тыкв",
+	"nameEN":"Pumpkins",
+	"descriptionRU":"Взошла луна, и мёртвые поднимаются из могил. Повсюду жутко скалящиеся тыквы, источающие инфернальный свет. Хэллоуин настал!",
+	"descriptionEN":"The moon is full and bright, the dead are seen, it's the pumpkin season - it's Halloween! Available only during the holiday celebrations for Halloween 2017."
+},
+{
+	"id":"quirky",
+	"name":"Quirky",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"rare_easter_egg",
+	"nameRU":"Редкая Пасхалка",
+	"nameEN":"Rare Easter Egg",
+	"descriptionRU":"Если она у вас есть, значит, вы обладатель самой редкой пасхалки в «Танках Онлайн». Поздравляем!",
+	"descriptionEN":"If you have it, you are the owner of the rarest Easter egg in Tanki Online. Congratulations!"
+},
+{
+	"id":"tanki_sport_2022_2_red_notice",
+	"name":"Red Notice",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2022_1_red_notice",
+	"name":"Red Notice",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2022_2_retired_bots",
+	"name":"Retired Bots",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2021_1_revenge",
+	"name":"Revenge",
+	"descriptionRU":"Купи эту краску и стань болельщиком этого клана в финалах турнира. Краска будет удалена с аккаунта перед началом финалов следующего турнира. Важно! После покупки этого покрытия три другие краски болельщиков пропадут из продажи.",
+	"descriptionEN":"Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament. The paint will be removed from your Garage before the playoffs of the next tournament. Important! Upon purchasing this paint, you will no longer be able to purchase the other three fan paints."
+},
+{
+	"id":"samba",
+	"nameRU":"Самба",
+	"nameEN":"Samba",
+	"descriptionRU":"Эта краска для любителей карнавала, повеселитесь в кругу друзей и убивайте врагов на поле боя, пока они отвлечены на вас.",
+	"descriptionEN":"For those who love carnival, this paints its ideal to enjoy with friends and to show yourself off to your enemies meanwhile you are killing it inside maps."
+},
+{
+	"id":"sheriffs",
+	"nameRU":"Шерифы",
+	"nameEN":"Sheriffs",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"singularity",
+	"nameRU":"Сингулярность",
+	"nameEN":"Singularity",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"s-n-e-g",
+	"name":"S-N-E-G",
+	"descriptionRU":"Краска болельщиков консультанта S-N-E-G.",
+	"descriptionEN":"A paint for fans of S-N-E-G during the competition \"Battle of the Consultants\""
+},
+{
+	"id":"spirit_of_brazil",
+	"nameRU":"Дух Бразилии",
+	"nameEN":"Spirit of Brazil",
+	"descriptionRU":"Эта уникальная краска была создана в честь бразильского сообщества в Танках Онлайн. Она предоставляется исключительно участникам этой локали.",
+	"descriptionEN":"This unique paint was created in honor of the Brazilian community in Tanki Online. It is given exclusively to members of that localization."
+},
+{
+	"id":"spirit_of_latam",
+	"nameRU":"Дух Латинской Америки",
+	"nameEN":"Spirit of LATAM",
+	"descriptionRU":"Эта уникальная краска была создана в честь латиноамериканского сообщества в Танках Онлайн. Она предоставляется исключительно участникам этой локали.",
+	"descriptionEN":"This unique paint was created in honor of the Latin American community in Tanki Online. It is given exclusively to members of that localization."
+},
+{
+	"id":"tanki_sport_2021_4_stepbrothers",
+	"name":"Stepbrothers",
+	"descriptionRU":"Купи эту краску и стань болельщиком этого клана в финалах турнира.",
+	"descriptionEN":"Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament."
+},
+{
+	"id":"tanki_sport_2021_3_stepbrothers",
+	"name":"Stepbrothers",
+	"descriptionRU":"Купи эту краску и стань болельщиком этого клана в финалах турнира.",
+	"descriptionEN":"Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament."
+},
+{
+	"id":"storm_2",
+	"nameRU":"Шторм",
+	"nameEN":"Storm",
+	"descriptionRU":"Краска победителей весеннего квеста 2013 года, имела защиту 15% от всех пушек.",
+	"descriptionEN":"A paint that was given to the winners of the Spring quest in 2013 during the May holidays 2013."
+},
+{
+	"id":"kasim_vs_sun_sun",
+	"name":"Sun",
+	"descriptionRU":"Покрытие болельщиков Sun.",
+	"descriptionEN":"A paint for Sun's fans during the battle \"Kasim vs Sun\""
+},
+{
+	"id":"survivor",
+	"nameRU":"Выживший",
+	"nameEN":"Survivor",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"sweet_trick",
+	"nameRU":"Сладкая гадость",
+	"nameEN":"Sweet trick",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"synergy",
+	"name":"Synergy",
+	"descriptionRU":"Купи эту краску и стань болельщиком клана Synergy в финалах юбилейного Межкланового Чемпионата X.",
+	"descriptionEN":"Buy this paint and become clan Synergy fan in the Clan Championship X finals. Important! After purchasing this paint the 3 remaining fan paints will become unavailable for purchase in the Shop."
+},
+{
+	"id":"tanks_1.0",
+	"nameRU":"Танки 1.0",
+	"nameEN":"Tanks 1.0",
+	"descriptionRU":"Теперь у вас есть пижама-танк. Это отличная находка для холодных зимних ночей, когда хочется укрыться с головой под одеялом и посмотреть новый выпуск видеоблога.",
+	"descriptionEN":"Admit it. You've got tank pajamas. You do. And now, your tank can too. Awesome for those cold winter nights when you wanna snuggle up under a quilt with your tank and watch the V-LOG. It also comes in an animated version."
+},
+{
+	"id":"tanks_2.0",
+	"nameRU":"Танки 2.0",
+	"nameEN":"Tanks 2.0",
+	"descriptionRU":"Анимированная версия краски «Танки 1.0». Потому что танк смотрится ещё круче с анимированным покрытием. Соседи будут вам завидовать.",
+	"descriptionEN":"The animated version of the \"Tanks 1.0\" paint. Because tank pajamas are even cooler when the print is animated. You'll be the envy of the neighborhood. True story."
+},
+{
+	"id":"taspens",
+	"name":"Taspens",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"team_world",
+	"nameRU":"За сборную мира",
+	"nameEN":"Team International",
+	"descriptionRU":"Покрытие болельщиков «За сборную мира».",
+	"descriptionEN":"This is the paint of a tanker that supported the team of English and German female tankers during the Spring Showdown battle. It was only available for purchase on March 7th and 8th, 2016."
+},
+{
+	"id":"team_ok",
+	"nameRU":"Команда ОК",
+	"nameEN":"Team OK",
+	"descriptionRU":"Эта краска — для участников события «Танковый Баттл: ОК versus VK». Уничтожь как можно больше вражеских танков, играя в этой краске, принеси победу «Одноклассникам» и получи крутые призы!",
+	"descriptionEN":"This paint is for the participants of the «Tanki Battle: OK vs VK» event. Destroy as many enemy tanks as you can with this paint equipped, lead Odnoklassniki to victory and win cool prizes!"
+},
+{
+	"id":"tanki_sport_2021_2_team_pointers",
+	"name":"Team Pointers",
+	"descriptionRU":"Купи эту краску и стань болельщиком этого клана в финалах турнира. Краска будет удалена с аккаунта перед началом финалов следующего турнира. Важно! После покупки этого покрытия три другие краски болельщиков пропадут из продажи.",
+	"descriptionEN":"Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament. The paint will be removed from your Garage before the playoffs of the next tournament. Important! Upon purchasing this paint, you will no longer be able to purchase the other three fan paints."
+},
+{
+	"id":"tanki_sport_2022_2_team_pointers",
+	"name":"Team Pointers",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2021_4_team_pointers",
+	"name":"Team Pointers",
+	"descriptionRU":"Купи эту краску и стань болельщиком этого клана в финалах турнира",
+	"descriptionEN":"Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament."
+},
+{
+	"id":"tanki_sport_2022_1_team_pointers",
+	"name":"Team Pointers",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2021_3_team_pointers",
+	"name":"Team Pointers",
+	"descriptionRU":"Купи эту краску и стань болельщиком этого клана в финалах турнира",
+	"descriptionEN":"Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament."
+},
+{
+	"id":"tanki_sport_2021_1_team_pointers",
+	"name":"Team Pointers",
+	"descriptionRU":"Купи эту краску и стань болельщиком этого клана в финалах турнира. Краска будет удалена с аккаунта перед началом финалов следующего турнира. Важно! После покупки этого покрытия три другие краски болельщиков пропадут из продажи.",
+	"descriptionEN":"Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament. The paint will be removed from your Garage before the playoffs of the next tournament. Important! Upon purchasing this paint, you will no longer be able to purchase the other three fan paints."
+},
+{
+	"id":"team_russia",
+	"nameRU":"За русскую сборную",
+	"nameEN":"Team Russia",
+	"descriptionRU":"Покрытие болельщиков «За русскую сборную».",
+	"descriptionEN":"This is the paint of a tanker that supported the team of Russian female tankers during the Spring Showdown battle. It was only available for purchase on March 7th and 8th, 2016. Thanks to the victory of the Russian team, each of their fans received 7112 crystals."
+},
+{
+	"id":"team_vk",
+	"nameRU":"Команда ВК",
+	"nameEN":"Team VK",
+	"descriptionRU":"Эта краска — для участников события «Танковый Баттл: ОК versus VK». Уничтожь как можно больше вражеских танков, играя в этой краске, принеси победу ВКонтакте и получи крутые призы!",
+	"descriptionEN":"This paint is for the participants of the «Tanki Battle: OK vs VK» event. Destroy as many enemy tanks as you can with this paint equipped, lead VKontakte to victory, and win cool prizes!"
+},
+{
+	"id":"tanki_sport_2022_1_the_dreamers",
+	"name":"The Dreamers",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"game_2020",
+	"nameRU":"ИГРА 2020",
+	"nameEN":"The Game 2020",
+	"descriptionRU":"Эта краска создана специально для победителей квеста «ИГРА 2020». Её обладатели — настоящие сыщики, способные разгадать самые хитрые загадки, сложные шифры и скрытые смыслы.",
+	"descriptionEN":"his paint was created specifically for the winners of the quiz THE GAME 2020. Owners of this paint are smart and observant and possess the cerebral skills required to solve the most tricky puzzles, complex ciphers, and hidden meanings."
+},
+{
+	"id":"tanki_sport_2022_2_toxic",
+	"name":"Toxic",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2022_1_toxic",
+	"name":"Toxic",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"vavilon",
+	"name":"Vavilon",
+	"descriptionRU":"Купи эту краску и стань болельщиком клана Vavilon в финалах юбилейного Межкланового Чемпионата X.",
+	"descriptionEN":"Buy this paint and become clan Synergy fan in the Clan Championship X finals. Important! After purchasing this paint the 3 remaining fan paints will become unavailable for purchase in the Shop."
+},
+{
+	"id":"waider",
+	"name":"Waider‎",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"war_winner",
+	"nameRU":"Победитель Войны",
+	"nameEN":"War Winner",
+	"descriptionRU":"Краска выдаётся победителям глобального ивента «Война». События в «Войне» разворачиваются на карте Танкового мира. Владелец этой краски — очень активный танкист, который отлично играет в команде и умеет грамотно выстраивать тактику./n/nКраска остаётся в Гараже победителей до начала следующей «Войны» с механикой голосования на специальной карте.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"war_de",
+	"nameRU":"Война. DE",
+	"nameEN":"War. DE",
+	"descriptionRU":"Краска участника фракции DE.",
+	"descriptionEN":"This paint was made specifically for the global event «Tanki Online War». Purchase the paint of the German community and lead it to victory! Capture territories, devise strategies, and conquer the world!"
+},
+{
+	"id":"war_en",
+	"nameRU":"Война. EN",
+	"nameEN":"War. EN",
+	"descriptionRU":"Краска участника фракции EN.",
+	"descriptionEN":"This paint was made specifically for the global event «Tanki Online War». Purchase the paint of the German community and lead it to victory! Capture territories, devise strategies, and conquer the world!"
+},
+{
+	"id":"war_pl",
+	"nameRU":"Война. PL",
+	"nameEN":"War. PL",
+	"descriptionRU":"Краска участника фракции PL.",
+	"descriptionEN":"This paint was made specifically for the global event «Tanki Online War». Purchase the paint of the German community and lead it to victory! Capture territories, devise strategies, and conquer the world!"
+},
+{
+	"id":"war_ru",
+	"nameRU":"Война. RU",
+	"nameEN":"War. RU",
+	"descriptionRU":"Краска участника фракции RU.",
+	"descriptionEN":"This paint was made specifically for the global event «Tanki Online War». Purchase the paint of the German community and lead it to victory! Capture territories, devise strategies, and conquer the world!"
+},
+{
+	"id":"wolves",
+	"nameRU":"Волки",
+	"nameEN":"Wolves",
+	"descriptionRU":"Краска создана специально для фракции «Волки» в глобальном ивенте «Война. Превосходство». Представители этой фракции обладают хищным нравом. Они осмотрительны, ловки и готовы днями напролёт преследовать врага.",
+	"descriptionEN":"The paint is made specifically for the Wolves faction in the global event \"War: Domination\". Players of this faction have hunting in their blood, they are observant, agile, and ready to chase the enemy down for days.."
+},
+{
+	"id":"yin_and_yang",
+	"nameRU":"Инь & Янь",
+	"nameEN":"Yin & Yang",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"youtubers_2k22",
+	"nameRU":"Ютуберы 2к22",
+	"nameEN":"Youtubers 2K22",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"acid",
+	"nameRU":"Кислота",
+	"nameEN":"Acid",
+	"descriptionRU":"Основная составляющая этого элитного покрытия — венерианский кислотный туман, состоящий из мельчайших капелек серной кислоты. Добывать и доставлять этот компонент на Землю очень дорого, именно поэтому «Кислоту» не найти в открытой продаже. Но тем, кому всё-таки удалось заполучить заветную краску, не страшны никакие природные катаклизмы!",
+	"descriptionEN":"The main component of this elite paint is venereal acid fog that consists of small droplets of sulfuric acid. It's really expensive to extract and transport this component to Earth so you can't find Acid on the market. But those who manage to get a hold of it will be invulnerable to all-natural disasters."
+},
+{
+	"id":"aero",
+	"nameRU":"Аэро",
+	"nameEN":"Aero",
+	"descriptionRU":"Эта краска выдается командам международного сообщества за выдающиеся достижения в паркуре, и выиграть её могут только отчаянные сорвиголовы! Краска состоит из высоколетучих частиц и начинает испаряться при недостаточной концентрации адреналина в крови танкиста.",
+	"descriptionEN":"This paint is awarded to teams in the International Community for outstanding performance in Parkour. It may only be worn by the craziest daredevils, and due to the highly volatile nature of its particles, it will abandon the owner’s tank if it's not fed a regular dose of concentrated adrenaline. It was designed for parkour specialists. The team \"German Tanki Tutorials\" kept this paint for a long time due to their extraordinary performance. Currently, the paint is owned by the international parkour team \"Fly to High\"."
+},
+{
+	"id":"blaze",
+	"nameRU":"Блейз",
+	"nameEN":"Blaze",
+	"descriptionRU":"Эта краска принадлежит искуснейшим паркуристам, которые сумели справиться со всеми вызовами турнира «Parkour Survival 2020» и проявили себя как сплочённая команда. У победителей краска остаётся до следующего турнира Parkour Survival.",
+	"descriptionEN":"This paint belongs to the fearsome players of the parkour community, who completed the impossible challenges of Parkour Survival and finished the contest as a single team."
+},
+{
+	"id":"bronze",
+	"nameRU":"Бронза",
+	"nameEN":"Bronze",
+	"descriptionRU":"Уникальное покрытие с добавлением сплава бронзы с секретными нано-ингредиентами. Краску нельзя купить в гараже ни за какие деньги, она выдаётся только особо отличившимся в киберспортивных сражениях, под личную роспись.",
+	"descriptionEN":"Bronze is a unique paint composed of bronze alloy and secret nano-ingredients. This paint can’t be bought in the Garage and is issued only to those who distinguished themselves in cybersport battles."
+},
+{
+	"id":"champion",
+	"nameRU":"Чемпион",
+	"nameEN":"Champion",
+	"descriptionRU":"Уникальное покрытие «Чемпион» нельзя купить ни за какие деньги даже на чёрном рынке. Изготовленное из золотых и платиновых волокон, оно строго под роспись выдаётся лишь победителям крупных командных турниров.",
+	"descriptionEN":"Unique paint cannot be bought for any amount of money even on the Black Market. Made from gold and platinum fibers, it is given strictly under personal signature only to the winners of the big team tournaments."
+},
+{
+	"id":"gladiator",
+	"nameRU":"Гладиатор",
+	"nameEN":"Gladiator",
+	"descriptionRU":"Эксклюзивное покрытие, которое может получить только игрок, добившийся результатов в киберспорте.",
+	"descriptionEN":"An exclusive paint issued only to those who achieved good results in cybersport."
+},
+{
+	"id":"eagle",
+	"nameRU":"Орёл",
+	"nameEN":"Eagle",
+	"descriptionRU":"Краска создана для профессиональных паркуристов польского сообщества. Название и цвета покрытия выбраны неслучайно: они показывают, что участники паркурной команды могут парить в небе, как орлы, и при этом стильно выглядеть.",
+	"descriptionEN":"A paint prepared especially for representatives of the Polish community on the stage of professional parkour. The colors and name have been chosen to reflect what the members of this team can do in the game: soar in the sky like eagles while presenting themselves stylishly at the same time."
+},
+{
+	"id":"glide",
+	"nameRU":"Глайд",
+	"nameEN":"Glide",
+	"descriptionRU":"Уникальная краска для специалистов паркура.",
+	"descriptionEN":"This unique paint job was designed for members of the \"Academy of Parkour\" parkour team. It first appeared on the main servers in July 2013 but was removed from the garages of its owners in December 2015. At present, the Parkour Academy team has it. These guys not only perform various tricks on their tanks but also produce excellent video guides."
+},
+{
+	"id":"lucky_7",
+	"nameRU":"Счастливая семёрка",
+	"nameEN":"Lucky 7",
+	"descriptionRU":"Эксклюзивное покрытие, которое может получить только игрок, добившийся результатов в киберспорте. Краска выдаётся командам, которые были в шаге от победы на турнирах «TankiSport Season I», «TankiSport Season II» и «TankiSport Season III».",
+	"descriptionEN":"Exclusive paint only awarded to players who have achieved great victories in eSports. This paint is given to teams who were close to victory in the «TankiSport Season I», «TankiSport Season II», or «TankiSport Season III» tournaments."
+},
+{
+	"id":"master_of_parkour_2015",
+	"nameRU":"Мастер паркура 2015",
+	"nameEN":"Master of Parkour 2015",
+	"descriptionRU":"Это уникальная краска, которой награждаются победители конкурса «Мастера паркура 2015».",
+	"descriptionEN":"This paint is needed for taking part in the Masters of Parkour contest."
+},
+{
+	"id":"master_of_parkour_2016",
+	"nameRU":"Мастер паркура 2016",
+	"nameEN":"Master of Parkour 2016",
+	"descriptionRU":"Это уникальная краска, которой награждались победители конкурса «Мастера паркура 2016». Краска осталась в гаражах победителей навсегда.",
+	"descriptionEN":"This paint is the prize for the \"Masters of Parkour\" contest that took place in 2016."
+},
+{
+	"id":"master_of_parkour_2017",
+	"nameRU":"Мастер паркура 2017",
+	"nameEN":"Master of Parkour 2017",
+	"descriptionRU":"Эта краска вручена призёрам конкурса «Мастера паркура», проведённого осенью 2017 года.",
+	"descriptionEN":"This temporary paint has been added in the game for participants of the «Masters of Parkour 2017» contest. After the contest ends, the paint will disappear and will only remain in the garages of members from the winning team."
+},
+{
+	"id":"master_of_parkour_2019",
+	"nameRU":"Мастер паркура 2019",
+	"nameEN":"Master of Parkour 2019",
+	"descriptionRU":"Эта краска вручена призёрам конкурса «Мастера паркура», проведённого весной 2019 года.",
+	"descriptionEN":"This temporary paint has been added in the game for participants of the «Masters of Parkour 2019» contest. After the contest ends, the paint will disappear and will only remain in the garages of members from the winning team."
+},
+{
+	"id":"master_of_parkour_2020",
+	"nameRU":"Мастер паркура 2020",
+	"nameEN":"Master of Parkour 2020",
+	"descriptionRU":"Эта краска вручена призёрам конкурса «Мастера паркура», проведённого в конце зимы — начале весны 2020 года.",
+	"descriptionEN":"This paint is the prize for the Masters of Parkour contest that took place in 2020."
+},
+{
+	"id":"master_of_parkour_2023",
+	"nameRU":"Мастера паркура 2023",
+	"nameEN":"Masters of Parkour 2023",
+	"descriptionRU":"Эта временная краска нужна для участия в конкурсе «Мастера Паркура 2023». По окончании состязания покрытие останется лишь у призёров конкурса.",
+	"descriptionEN":"This temporary paint has been added in the game for participants of the «Masters of Parkour 2023» contest. After the contest ends, the paint will disappear and will only remain in the garages of members from the winning team."
+},
+{
+	"id":"pegasus",
+	"nameRU":"Пегас",
+	"nameEN":"Pegasus",
+	"descriptionRU":"В августе 2016 года был проведен конкурс, в котором мы выбрали название для краски официальной краски бразильской команды паркура. Имя Пегас было предложено четырмя различными игроками, которые разделили главный приз. Эта краска уникальна и может быть использована только членами официальной паркур команды бразильского сообщества.",
+	"descriptionEN":"In August 2016, a contest was held to find a name for the paint of the official Brazilian Parkour team. The name Pegasus was chosen by 4 different players, who shared the main prize. This paint is unique and may only be used by the official Parkour team of the BR community."
+},
+{
+	"id":"phoenix",
+	"nameRU":"Феникс",
+	"nameEN":"Phoenix",
+	"descriptionRU":"Эта краска выдаётся командам международного сообщества за выдающиеся достижения в паркуре, и выиграть её могут только отчаянные сорвиголовы! Краска состоит из высоколетучих частиц и начинает испаряться при недостаточной концентрации адреналина в крови танкиста.",
+	"descriptionEN":"This paint is awarded to teams in the International Community for outstanding performance in Parkour. It may only be worn by the craziest daredevils, and due to the highly volatile nature of its particles, it will abandon the owner's tank if its not fed a regular dose of concentrated adrenaline."
+},
+{
+	"id":"prism",
+	"nameRU":"Призма",
+	"nameEN":"Prism",
+	"descriptionRU":"Эксклюзивное покрытие, которое может получить только игрок, добившийся результатов в киберспорте. Краска выдаётся командам, которые были в шаге от победы на турнирах в категориях Solo, Tandem и Trio.",
+	"descriptionEN":"Only true masters of battle received this paint as the winners of the International Tournament, where best European clans fought for the title of eSports Champions."
+},
+{
+	"id":"silver",
+	"nameRU":"Серебро",
+	"nameEN":"Silver",
+	"descriptionRU":"Уникальное покрытие с добавлением волокон серебра и секретных нано-ингредиентов, разработанных в передовых научных лабораториях. Краску нельзя купить в гараже ни за какие кристаллы, она выдаётся только особо отличившимся в киберспортивных сражениях, под личную роспись.",
+	"descriptionEN":"Silver is a unique paint composed of silver fiber and secret nano-ingredients developed in advanced science labs. This paint can’t be bought in the Garage and is issued only to those who distinguished themselves in cybersport battles."
+},
+{
+	"id":"sky",
+	"nameRU":"Облака",
+	"nameEN":"Sky",
+	"descriptionRU":"Краска для танкистов, витающих в облаках — в буквальном смысле. Выдавалась участникам паркурного турнира «Parkour Survival 2017» после прохождения определённых туров. У победителей турнира краска осталась навсегда..",
+	"descriptionEN":"A paint for those tankers whose head is literally up in the clouds. It is temporally awarded to players who are participating in the parkour survival tournament after having passed the qualifying stages. The winners of the tournament will get to keep the paint."
+},
+{
+	"id":"impulse",
+	"nameRU":"Импульс",
+	"nameEN":"Impulse",
+	"descriptionRU":"Эксклюзивное покрытие, которое может получить только игрок, добившийся результатов в киберспорте.",
+	"descriptionEN":"This paint is named after the shell of the most popular turret in cybersports — the Railgun. Whoever owns this paint, has earned it by surviving some of the toughest and most challenging Railgun battles. If you see this paint in the arena, stay out of the way."
+},
+{
+	"id":"star",
+	"nameRU":"Звезда",
+	"nameEN":"Star",
+	"descriptionRU":"Эксклюзивное покрытие, которое может получить только игрок, добившийся результатов в киберспорте.",
+	"descriptionEN":"Exclusive paint only awarded to players who have achieved great victories in eSports. This paint is given to winners of the «TankiSport Season II» tournament."
+},
+{
+	"id":"top_class",
+	"nameRU":"Высший пилотаж",
+	"nameEN":"Top Class",
+	"descriptionRU":"Эта краска создана специально для паркурного турнира «Высший пилотаж». Её обладатели — бесспорные асы, показавшие выдающиеся умения в паркуре.",
+	"descriptionEN":"This paint is made specifically for the \"Top Class\" parkour tournament. The owner of this paint is a parkour ace, who showed remarkable skills. The winners of the tournament will keep the paint forever."
+},
+{
+	"id":"traceur",
+	"nameRU":"Трейсер",
+	"nameEN":"Traceur",
+	"descriptionRU":"Карабкаться на дома, совершать головокружительные полёты и прочие впечатляющие трюки в этой краске станет гораздо легче. В её создании участвовали ведущие лаборатории, занимающиеся самолётостроением и исследованиями в области аэродинамики. Получившееся покрытие резко снижает сопротивление воздуха и позволяет прыгать дальше, летать выше, кувыркаться быстрее. А ещё ваши навыки паркура точно не останутся незамеченными в этой яркой и радующей глаз краске.",
+	"descriptionEN":"Climbing houses, displaying dizzying tricks, and other spectacular stunts will be much easier with this paint. During its creation, leading laboratories engaged in aircraft design and research in the field of aerodynamics. The resulting paint dramatically reduces air resistance and allows you to jump further, fly higher, tumble faster. Your parkour skills will not go unnoticed in this bright and aesthetically pleasing paint. The coating is designed specifically for participants of the competition \"Masters of Parkour\"."
+},
+{
+	"id":"veteran",
+	"nameRU":"Ветеран",
+	"nameEN":"Veteran",
+	"descriptionRU":"Покрытие выдаётся только легендарным, знаменитым и титулованным киберспортсменам, заслужившим его за годы тренировок и побед. Оттенок цвета темного золота подчеркивает мудрость и опыт, а схожая с «Чемпионом» текстура даёт понять, что обладатель «Ветерана» не просто бился: он побеждал.",
+	"descriptionEN":"A paint that was given to legendary tankers who earned their fame in years of cybersport trainings and victories. The dark gold color stresses experience and wisdom, while a texture similar to Champion tells everyone that the owner of Veteran is not just a fighter, he’s a winner."
+},
+{
+	"id":"alligator",
+	"nameRU":"Аллигатор",
+	"nameEN":"Alligator",
+	"descriptionRU":"Скрытое от глаз простых людей эксклюзивное покрытие для танка «Аллигатор» появилось в результате успешно проведенного эксперимента по скрещиванию Чёрных Африканских Аллигаторов с пластинами углеродистой стали. Эта краска настолько испугала исследователей, что они не решились показывать её кому-либо, кроме охранников правопорядка. Тех, кто каждый день рискует жизнью ради благополучия других, сложно чем-то удивить, а слово «страх» они навсегда выбросили из памяти.",
+	"descriptionEN":"An exclusive paint for chat moderators called Alligator is a result of a successful experiment of crossbreeding Black African alligators with carbon steel plates. This paint scared the researchers so much that they decided to show it only to law enforcers. Those who risk their lives every day for the wellbeing of others are hard to surprise with anything, and they have forgotten the word \"Fear\" long ago."
+},
+{
+	"id":"aramid",
+	"nameRU":"Арамид",
+	"nameEN":"Aramid",
+	"descriptionRU":"Это покрытие создано специально для тех, кто отвечает за организацию киберспортивных турниров и проведение их трансляций. Поэтому перед инженерами была поставлена задача — создать не механическую защиту, но надёжный щит от различных искушений и соблазнов, гарантирующий объективность и беспристрастность. «Арамид» обладает именно такими свойствами. Обладатель такой краски — гарантированно образец справедливости и носитель высшей мудрости.",
+	"descriptionEN":"This paint was designed specifically for those who are responsible for organizing cybersport tournaments and streaming battles. Therefore, the engineers were given a truly challenging task — to create not mechanical protection but a reliable shield capable of deflecting various seductions and temptations that would guarantee equality and fairness. Aramid has exactly these properties. The owner of this paint is an example of justice and a source of supreme wisdom."
+},
+{
+	"id":"best_helper_2016",
+	"nameRU":"Лучший помощник 2016",
+	"nameEN":"Best Helper 2016",
+	"descriptionRU":"Эта краска была создана специально для самых активных, усердных и трудолюбивых помощников года, для тех, кто посвятил весь год помощи танкистам и поддерживал порядок в сообществе Танков Онлайн. Обладатели этой краски — яркий пример самоотдачи и преданности, и они по-настоящему достойны титула «Лучший помощник года».",
+	"descriptionEN":"This paint goes to the most active, enthusiastic, and hardworking helpers of the year — those who have dedicated their whole year to helping their fellow tankers and making the Tanki Online community a better place. They are a shining example of selflessness and service, and they truly deserve the honor and title of «Best Helper of the Year»."
+},
+{
+	"id":"best_helper_2017",
+	"nameRU":"Лучший помощник 2017",
+	"nameEN":"Best Helper 2017",
+	"descriptionRU":"Эта краска была создана специально для самых активных, усердных и трудолюбивых помощников года, для тех, кто посвятил весь год помощи танкистам и поддерживал порядок в сообществе Танков Онлайн. Обладатели этой краски — яркий пример самоотдачи и преданности, и они по-настоящему достойны титула «Лучший помощник года».",
+	"descriptionEN":"This paint goes to the most active, enthusiastic, and hardworking helpers of the year — those who have dedicated their whole year to helping their fellow tankers and making the Tanki Online community a better place. They are a shining example of selflessness and service, and they truly deserve the honor and title of «Best Helper of the Year»."
+},
+{
+	"id":"best_helper_2020",
+	"nameRU":"Лучший помощник 2020",
+	"nameEN":"Best Helper 2020",
+	"descriptionRU":"Эта краска была создана специально для самых активных, усердных и трудолюбивых помощников 2020 года, для тех, кто посвятил весь год помощи танкистам и поддерживал порядок в сообществе «Танков Онлайн». Обладатели этой краски — яркий пример самоотдачи и преданности, и они по-настоящему достойны титула «Лучший помощник года».",
+	"descriptionEN":"This paint was created especially for the most active, diligent, and hardworking helpers of 2020. These are those members of the helpers community who dedicated their whole year in helping other tankers and maintaining the order in the Tanki Online community. The owners of this paint are a shining example of dedication and devotion, and they are truly worthy of the title \"Best Helper of the Year\"."
+},
+{
+	"id":"best_helper_2021",
+	"nameRU":"Лучший помощник 2021",
+	"nameEN":"Best Helper 2021",
+	"descriptionRU":"Эта краска была создана специально для самых активных, усердных и трудолюбивых помощников 2021 года, для тех, кто посвятил весь год помощи танкистам и поддерживал порядок в сообществе «Танков Онлайн». Обладатели этой краски — яркий пример самоотдачи и преданности, и они по-настоящему достойны титула «Лучший помощник года».",
+	"descriptionEN":"This paint was created especially for the most active, diligent and hardworking helpers of 2021. These are those members of the helpers community who dedicated their whole year in helping other tankers and maintaining the order in the Tanki Online community. The owners of this paint are a shining example of dedication and devotion, and they are truly worthy of the title \"Best Helper of the Year\"."
+},
+{
+	"id":"best_helper_2022",
+	"nameRU":"Лучший помощник 2022",
+	"nameEN":"Best Helper 2022",
+	"descriptionRU":"Эта краска была создана специально для самых активных, усердных и трудолюбивых помощников 2022 года, для тех, кто посвятил весь год помощи танкистам и поддерживал порядок в сообществе «Танков Онлайн». Обладатели этой краски — яркий пример самоотдачи и преданности, и они по-настоящему достойны титула «Лучший помощник года».",
+	"descriptionEN":"This paint was created especially for the most active, diligent and hardworking helpers of 2022. These are those members of the helpers community who dedicated their whole year in helping other tankers and maintaining the order in the Tanki Online community. The owners of this paint are a shining example of dedication and devotion, and they are truly worthy of the title \"Best Helper of the Year\"."
+},
+{
+	"id":"best_helper_2019",
+	"nameRU":"Лучший помощник 2019",
+	"nameEN":"Best Helper 2019",
+	"descriptionRU":"Эта краска была создана специально для самых активных, усердных и трудолюбивых помощников года, для тех, кто посвятил весь год помощи танкистам и поддерживал порядок в сообществе Танков Онлайн. Обладатели этой краски — яркий пример самоотдачи и преданности, и они по-настоящему достойны титула «Лучший помощник года».",
+	"descriptionEN":"This paint goes to the most active, enthusiastic, and hardworking helpers of the year — those who have dedicated their whole year to helping their fellow tankers and making the Tanki Online community a better place. They are a shining example of selflessness and service, and they truly deserve the honor and title of «Best Helper of the Year»."
+},
+{
+	"id":"best_helper_2018",
+	"nameRU":"Лучший помощник 2018",
+	"nameEN":"Best Helper 2018",
+	"descriptionRU":"Эта краска была создана специально для самых активных, усердных и трудолюбивых помощников года, для тех, кто посвятил весь год помощи танкистам и поддерживал порядок в сообществе Танков Онлайн. Обладатели этой краски — яркий пример самоотдачи и преданности, и они по-настоящему достойны титула «Лучший помощник года».",
+	"descriptionEN":"This paint goes to the most active, enthusiastic, and hardworking helpers of the year — those who have dedicated their whole year to helping their fellow tankers and making the Tanki Online community a better place. They are a shining example of selflessness and service, and they truly deserve the honor and title of «Best Helper of the Year»."
+},
+{
+	"id":"engineer",
+	"nameRU":"Механик",
+	"nameEN":"Engineer",
+	"descriptionRU":"В основе покрытия «Механик» лежат принципы, разработанные самим Николой Теслой. Металлические гаечные ключи, размещенные на карбоновых пластинах по особой сетке координат, под воздействием тока создают магнитно-резонансное поле с до конца не изученными свойствами. Покрытие устанавливается на специальные испытательные танки, пилоты которых добровольно участвуют в экспериментах, рискуя жизнью во благо будущих поколений.",
+	"descriptionEN":"A special paint for testers. This paint is based on principles developed by Nicola Tesla himself. Metal wrenches placed on carbon armor plates generate a magnetic resonance field with properties that haven't been studied to the full extent yet. The coating is installed on special test tanks that are controlled by pilots voluntarily taking part in experiments and risking their lives for the well-being of future generations."
+},
+{
+	"id":"flame_2.0",
+	"nameRU":"Пламя 2.0",
+	"nameEN":"Flame 2.0",
+	"descriptionRU":"Стихия огня — самая разрушительная, активная и подвижная. Огонь удержать непросто, но еще труднее остановить. Администраторы легко меняют своё местоположение — от серверных чатов до форума, от ПМ до чатов игровых. Только переборовший свой страх перед огнём сможет укротить его. Админы ТО смогли и это. Покрытие «Пламя» смешано из горячих слёз нарушителей и стёртых в огненный порошок костей читеров, скреплено пламенными благодарностями игроков, вселяет страх и уважение на полях сражений.",
+	"descriptionEN":"An animated version of the legendary «Flame» paint. They say that nobody has managed to subdue the elements yet except from the Administrators of Tanki Online who also handle more serious tasks on a daily basis: wise and fair guardians of the game manage helper groups and are responsible for different sectors of community life. The paint commands respect to its owner and gifts an ability to predict actions and wishes of tankers."
+},
+{
+	"id":"flame",
+	"nameRU":"Пламя",
+	"nameEN":"Flame",
+	"descriptionRU":"Стихия огня — самая разрушительная, активная и подвижная. Огонь удержать непросто, но еще труднее остановить. Администраторы легко меняют своё местоположение — от серверных чатов до форума, от ПМ до чатов игровых. Только переборовший свой страх перед огнём сможет укротить его. Админы ТО смогли и это. Покрытие «Пламя» смешано из горячих слёз нарушителей и стёртых в огненный порошок костей читеров, скреплено пламенными благодарностями игроков, вселяет страх и уважение на полях сражений.",
+	"descriptionEN":"A special paint for administrators.Fire is destructive, unstoppable and it's always moving like administrators who easily change their location, from chats to forum and PM. They are everywhere. Only those who overcome their fear of fire can tame it. TO Admins can do this. The Flame coating is mixed from the hot tears of violators and the cheaters' bones crushed into fiery powder, sealed with fiery thanks from the players, instills fear and respect on the battlefields."
+},
+{
+	"id":"helios",
+	"nameRU":"Гелиос",
+	"nameEN":"Helios",
+	"descriptionRU":"Это уникальное покрытие найдено во время археологических раскопок древнего города, где располагался храм солнечного божества. Легенды гласят, что обладатель этой краски получает заключённую в ней безграничную энергию — и может использовать её только в созидательных целях, в творчестве. Каждый художник мечтает заполучить экземпляр, но только избранные творцы имеют право носить корону Гелиоса.",
+	"descriptionEN":"A special paint for truly creative tankers. This unique coating is found during archaeological excavations of the ancient city full of temples, where people used to worship the ancient sun god. Legend has it that this paint holds enormous amounts of energy that can be used only by truly creative people. Every artist wants it but only the members of the Creative League and chosen artists can wear the Helios."
+},
+{
+	"id":"helper",
+	"nameRU":"Помощник",
+	"nameEN":"Helper",
+	"descriptionRU":"Уникальное покрытие, которым награждаются только лучшие помощники проекта. Люди, двигающие его вперёд. Танкисты, для которых «Танки Онлайн» — это больше, чем игра.",
+	"descriptionEN":"A unique paint that protects its owner from all types of weapons. It is only issued to the best helpers of the project. For them, Tanki Online is more than just a game."
+},
+{
+	"id":"microchip",
+	"nameRU":"Микросхема",
+	"nameEN":"Microchip",
+	"descriptionRU":"Долгое время учёные секретной лаборатории разрабатывали данное покрытие. Работа была не такой, как обычно, потому что нужно было создать не столько универсальную защиту, сколько барьер, который мог бы работать с человеческой любознательностью. Основная спецификация данного покрытия — это фильтрация вопросов, поступающих владельцу танка. В ходе тестов было выяснено, что 95% вопросов являются необоснованными, странными и нелогичными. При использовании данного вида защиты такие вопросы автоматически блокируются, что позволяет уделять больше внимания действительно важным информационным поводам. Покрытие решено было торжественно вручить консультантам, чтобы их дело процветало и росло. Внешне защита напоминает микросхему, что отсылает нас к древним изобретениям людей, ведь микросхема, подобно консультанту, помогала быстро и точно решать любые вопросы и доставляла потоки информации точно адресату.",
+	"descriptionEN":"Scientists of secret labs spent years developing this paint. The task was unusual as it was important to create not just a protective coating but an intelligent barrier. The main purpose of Microchip is sorting the questions addressed to the owner. According to the results of tests, 95% of the questions are strange and illogical. With this paint questions that don't meet the requirements are automatically blocked so that the owner gets more time to answer truly important ones."
+},
+{
+	"id":"neon",
+	"nameRU":"Неон",
+	"nameEN":"Neon",
+	"descriptionRU":"Эта краска — неотъемлемый атрибут помощников администрации, которые организуют развлекательные мероприятия в игре. Яркий неоново-жёлтый цвет выбран неспроста: помощники в этой краске будут выделяться на поле боя, и игроки всегда будут знать, к кому можно обратиться с вопросом во время конкурса или ивента.",
+	"descriptionEN":"This paint was designed specifically for those helpers who are responsible for organizing daily Events. This paint is an integral attribute of the administrative assistants who organize entertainment in the game. The bright neon-yellow color was chosen for a reason: the helpers in this paint will stand out on the battlefield, and players will always know who they can contact during a competition or event. This paint goes to all Event helpers - those who dedicate their time to designing and organizing Events to continually bring original battles to the community, as well as dealing with trolls who try to spoil the fun of honest players."
+},
+{
+	"id":"reporter",
+	"nameRU":"Репортёр",
+	"nameEN":"Reporter",
+	"descriptionRU":"Раньше, чтобы выделиться на поле сражения, военные журналисты использовали персональные бэйджи, но крошечные карточки на танковой броне никто не замечал. Поэтому Союз Журналистов и Вики-редакторов приняли волевое решение оборачивать свои танки проектами и технической документацией! Теперь их ни с кем не перепутаешь. К тому же это эксклюзивное покрытие, по слухам, даёт защиту от мата, троллинга и флуда.",
+	"descriptionEN":"A special paint for Tanki Online wiki editors.Not so long ago war correspondents used personal ID cards to show who they are on the battlefield. But these cards were too small and nobody noticed them. So the Journalists and Wiki Editors Union made a hard decision to wrap newsmen's tanks in a newspaper! This exclusive paint gives protection from swear language, trolling, and flood!"
+},
+{
+	"id":"ruby",
+	"nameRU":"Рубин",
+	"nameEN":"Ruby",
+	"descriptionRU":"Это бесценное покрытие создано виртуозными пермскими ювелирами из кристаллов особо ценящихся азиатских рубинов. Оно придаёт танку глубокий багровый цвет. Защитные свойства, основанные на показателе преломления огранённого минерала, позволяют обладателю одержать победу над флудом и оверквотингом, которые выжигаются ярко-красными бликами благородного камня. Краска выдаётся модераторам форума.",
+	"descriptionEN":"This invaluable paint was made of crystals of especially rare Asian rubies by the most skillful jewelers of Perm. It gives a tank a deep purple color. Protective properties based on the refractive index of the faceted mineral allow the owner of this paint to defeat flood and trolling. They just get burned out by the bright red glare of the noble gem. The paint is issued only to forum moderators."
+},
+{
+	"id":"spectator",
+	"nameRU":"Оператор",
+	"nameEN":"Spectator",
+	"descriptionRU":"Данная краска создана специально для группы операторов «Танков Онлайн». Её наличие говорит о том, что владелец покрытия — настоящий мастер съёмки и монтажа.",
+	"descriptionEN":"This paint is issued to the members of the Tanki Online Spectator group and shows that the owner is a real master of shooting and montage."
+},
+{
+	"id":"youtuber_to",
+	"nameRU":"Ютубер ТО",
+	"nameEN":"Youtuber TO",
+	"descriptionRU":"Редкое покрытие, которого удостаиваются только мастера танкового Youtube-ремесла.",
+	"descriptionEN":"Rare paint given only to the true masters of Tanki Youtube."
+},
+{
+	"id":"playground",
+	"name":"Playground",
+	"descriptionRU":"Черта между невинными шалостями и боем насмерть проходит там, где догорает чей-то танк. Это сочное покрытие служит для ваших врагов напоминанием: вы здесь, чтобы хорошенько повеселиться... и, конечно, поджарить их танки, ведь это часть развлекательной программы..",
+	"descriptionEN":"It's all fun and games until someone's tank gets barbecued. This joyous paint reminds your enemies that you're here to have fun... and to toast them... which is the part of the fun."
+},
+{
+	"id":"lord",
+	"nameRU":"Властелин",
+	"nameEN":"Lord",
+	"descriptionRU":"Покрытие «Властелин» не существует официально. Его нет в базах данных и каталогах комплектующих для танков. Но ходят слухи, что выпущенный в единственном экземпляре покрасочный набор — не выдумка, а реальность! Некоторые даже уверяют, что лично видели зловеще-чёрный танк, вселяющий ужас в своих врагов. Но где его найти — неизвестно...",
+	"descriptionEN":"A special paint that can only be found in the Garage of one particular tanker.The overlord does not exist officially. It is not in the databases and catalogs of components for tanks. But there are rumors that the paint kit released in a single copy is not fiction, but reality! Some even claim that they personally saw an ominously black tank that instills terror in their enemies. But where to find it is unknown ..."
+},
+{
+	"id":"dead",
+	"nameRU":"Мертвец",
+	"nameEN":"Dead",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"snowman",
+	"nameRU":"Снеговик",
+	"nameEN":"Snowman",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"gooseberry",
+	"nameRU":"Крыжовник",
+	"nameEN":"Gooseberry",
+	"descriptionRU":"Крыжовник - это краска, которая вдохновлена одним из самых полезных и вкусных ягодных культур. Она имеет зеленовато-желтый оттенок с пятнами, напоминающими спелые ягоды крыжовника. Эта краска придает танку оригинальность и шарм.",
+	"descriptionEN":"Gooseberry is a paint that is inspired by one of the most useful and delicious berry crops. It has a greenish-yellow hue with spots reminiscent of ripe gooseberries. This paint gives the tank originality and charm."
+},
+{
 	"id":"apple_company",
 	"nameRU":"Компания «Apple»",
 	"nameEN":"\"Apple\" company",
@@ -2110,8 +4464,7 @@
 	"id":"neo-cubes",
 	"nameRU":"Neo-кубы",
 	"nameEN":"Neo-Cubes",
-	"descriptionRU":"Краска, выпущенная ограниченным тиражом в одну штуку, должна была достаться заказчику, но тот не дожил до этого момента. Пришлось её выпустить на массовый рынок, так как компания была на грани банкротства. Вскоре краска обрела своих любителей, а кто долго ее носил, говорил, что можно увидеть в глубине тьмы неоновых кубов цифры «8», «4» или там вообще были буквы «В», «Ч», много споров на этот счет было.\n!!Внимание!!\nПосле покраски на танк рекомендуется поставить его на солнце, чтобы она могла светиться ночью.\n\n - Команда «МХ»",
-	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+	"description":"TODO"
 },
 {
 	"id":"destroyed_tank",

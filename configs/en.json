@@ -53,6 +53,39 @@
 	"TURN_DECELERATION":"Turn deceleration",
 	"TURN_REVERSE_ACCELERATION":"Turn reverse acceleration",
 	
+	"CONE_ANGLE":"Cone angle",
+	"RANGE":"Range",
+	"CONE_HORIZONTAL_ANGLE":"Cone horizontal angle",
+	"CONE_VERTICAL_ANGLE":"Cone vertical angle",
+	"MAGAZINE_RELOAD_TIME":"Magazine reload time",
+	"MAGAZINE_SIZE":"Magazine size",
+	"SALVO_SIZE":"Salvo size",
+	"PELLET_COUNT":"Pellet count",
+	
+	"RELOAD_TIME":"Reload time",
+	"SALVO_RELOAD_TIME":"Salvo reload time",
+	"WEAKENING_COEFF":"Impact force weakening coefficient",
+	"MAX_RICOCHET_ANGLE":"Max ricochet angle",
+	"MAX_RICOCHET_COUNT":"Max ricochet count",
+	"SHELL_SPEED":"Shell speed",
+	"SHELL_RADIUS":"Shell radius",
+	"SHOT_RANGE":"Shot range",
+	
+	"AIMING_TIME":"Aiming time",
+	"TIME_BETWEEN_SHOTS_OF_SALVO":"Time between shots of salvo",
+	"ANGULAR_VELOCITY":"Angular velocity",
+	"BOOST_PHASE_DURATION":"Boost phase duration",
+	"SALVO_AIMING_GRACE_PERIOD":"Salvo aiming grace period",
+	"CRITICAL_HIT_CHANCE":"Critical hit chance",
+	
+	"CHARGING_TIME":"Charging time",
+	"IMPACT_FORCE":"Impact force",
+	"MAX_SHELL_SPEED":"Max shell speed",
+	"MIN_SHELL_SPEED":"Min shell speed",
+	"RECOIL_FORCE":"Recoil force",
+	"SHELL_GRAVITY_COEFF":"Shell gravity coeff",
+	"SPEEDS_COUNT":"Speeds count",
+	
 	"CLOSE":"Close",
 	"EQUIP":"Equip",
 	"EQUIPPED":"Equipped",
@@ -122,5 +155,7 @@
 	"GAME_ACTION_OPEN_SETTINGS":"Open settings",
 	"GAME_ACTION_TOGGLE_CAMERA_CONTROLLER":"Spectator/follow camera mode",
 	"GAME_ACTION_CAMERA_UP":"Move camera up",
-	"GAME_ACTION_CAMERA_DOWN":"Move camera down"
+	"GAME_ACTION_CAMERA_DOWN":"Move camera down",
+	"GAME_ACTION_SAVE_BOOKMARK":"Save camera position in spectator",
+	"GAME_ACTION_SELECT_BOOKMARK":"Switch camera position in spectator"
 }

@@ -58,6 +58,39 @@
 	"TURN_DECELERATION":"Торможение поворота",
 	"TURN_REVERSE_ACCELERATION":"Противоинерционное ускорение поворота",
 	
+	"CONE_ANGLE":"Угол конуса",
+	"RANGE":"Диапозон",
+	"CONE_HORIZONTAL_ANGLE":"Угол горизонтального конуса",
+	"CONE_VERTICAL_ANGLE":"Угол вертикального конуса",
+	"MAGAZINE_RELOAD_TIME":"Время перезарядки магазина",
+	"MAGAZINE_SIZE":"Размер магазина",
+	"SALVO_SIZE":"Размер залпа",
+	"PELLET_COUNT":"Количество пуль",
+	
+	"RELOAD_TIME":"Время перезарядки",
+	"SALVO_RELOAD_TIME":"Время перезарядки залпа",
+	"WEAKENING_COEFF":"Коэффициент ослабления силы удара",
+	"MAX_RICOCHET_ANGLE":"Максимальный угол рикошета",
+	"MAX_RICOCHET_COUNT":"Максимальное количество рикошетов",
+	"SHELL_SPEED":"Скорость снаряда",
+	"SHELL_RADIUS":"Радиус снаряда",
+	"SHOT_RANGE":"Диапозон выстрела",
+	
+	"AIMING_TIME":"Время прицеливания",
+	"TIME_BETWEEN_SHOTS_OF_SALVO":"Время между выстрелами залпа",
+	"ANGULAR_VELOCITY":"Угловая скорость",
+	"BOOST_PHASE_DURATION":"Продолжительность фазы усиления",
+	"SALVO_AIMING_GRACE_PERIOD":"Период отсрочки прицеливания залпа",
+	"CRITICAL_HIT_CHANCE":"Шанс критического урона",
+	
+	"CHARGING_TIME":"Время зарядки",
+	"IMPACT_FORCE":"Cила удара",
+	"MAX_SHELL_SPEED":"Максимальная скорость снаряда",
+	"MIN_SHELL_SPEED":"Минимальная скорость снаряда",
+	"RECOIL_FORCE":"Сила отдачи",
+	"SHELL_GRAVITY_COEFF":"Коэффициент гравитации снаряда",
+	"SPEEDS_COUNT":"Количество скоростей",
+	
 	"ALTERNATE_CAMERA":"Альтернативное поведение камеры",
 	"DEBUG_MODE":"Режим отладки",
 	"AXIS_INDICATOR":"Индикатор осей",
@@ -122,5 +155,7 @@
 	"GAME_ACTION_OPEN_SETTINGS":"Открыть настройки",
 	"GAME_ACTION_TOGGLE_CAMERA_CONTROLLER":"Переключить режим камеры",
 	"GAME_ACTION_CAMERA_UP":"Поднять камеру",
-	"GAME_ACTION_CAMERA_DOWN":"Опустить камеру"
+	"GAME_ACTION_CAMERA_DOWN":"Опустить камеру",
+	"GAME_ACTION_SAVE_BOOKMARK":"Сохранить положение камеры в спектаторе",
+	"GAME_ACTION_SELECT_BOOKMARK":"Переключить положение камеры в спектаторе"
 }
