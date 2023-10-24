@@ -60,6 +60,7 @@
 { "id":"sound_parachute_take_off", "version":"1", "type":"sounds" },
 { "id":"sound_goldbox_pickup", "version":"1", "type":"sounds" },
 { "id":"sound_goldbox_siren", "version":"1", "type":"sounds" },
+{ "id":"sound_freeze_shot", "version":"1", "type":"sounds" },
 
 { "id":"bonus_gold_hd", "version":"1", "type":"models" },
 
