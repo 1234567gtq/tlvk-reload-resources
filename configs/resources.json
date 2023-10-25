@@ -13,6 +13,7 @@
 { "id":"sound_tank_destroyed", "version":"1", "type":"sounds" },
 { "id":"sound_rank_up", "version":"1", "type":"sounds" },
 { "id":"sound_flamethrower_shot", "version":"1", "type":"sounds" },
+{ "id":"sound_freeze_shot", "version":"1", "type":"sounds" },
 { "id":"sound_isida_shot", "version":"1", "type":"sounds" },
 { "id":"sound_hammer_shot", "version":"1", "type":"sounds" },
 { "id":"sound_hammer_shot_reload", "version":"1", "type":"sounds" },
@@ -60,7 +61,6 @@
 { "id":"sound_parachute_take_off", "version":"1", "type":"sounds" },
 { "id":"sound_goldbox_pickup", "version":"1", "type":"sounds" },
 { "id":"sound_goldbox_siren", "version":"1", "type":"sounds" },
-{ "id":"sound_freeze_shot", "version":"1", "type":"sounds" },
 
 { "id":"bonus_gold_hd", "version":"1", "type":"models" },
 
@@ -548,6 +548,18 @@
 { "id":"shot_skin_flamethrower_crimson_particle", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_flamethrower_magma_muzzle", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_flamethrower_magma_particle", "version":"1", "type":"multiframe_textures" },
+
+{ "id":"shot_skin_freeze_standard_muzzle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_freeze_standard_particle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_freeze_darkmoon_muzzle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_freeze_darkmoon_particle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_freeze_toxic_muzzle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_freeze_toxic_particle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_freeze_cold_muzzle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_freeze_cold_particle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_freeze_snow_muzzle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_freeze_snow_particle", "version":"1", "type":"multiframe_textures" },
+
 { "id":"shot_skin_magnum_standard_explosion", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_magnum_standard_trail", "version":"1", "type":"textures" },
 { "id":"shot_skin_magnum_standard_smoke", "version":"1", "type":"multiframe_textures" },

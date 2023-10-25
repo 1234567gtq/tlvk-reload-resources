@@ -305,16 +305,6 @@
 			{ "attenuationBegin":1, "attenuationEnd":2, "color":16777215, "intensity":0, "time":1800 }
         ]
 	},
-
-
-
-
-
-
-
-
-
-
 	{
 		"id":"flamethrower_standard_start",
 		"light":
@@ -408,6 +398,101 @@
 			{ "attenuationBegin":100, "attenuationEnd":1500, "color":16484062, "intensity":1, "time":200 },
 			{ "attenuationBegin":150, "attenuationEnd":800, "color":16484062, "intensity":1, "time":300 },
 			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16484062, "intensity":1, "time":400 }
+        ]
+	},
+	{
+		"id":"freeze_standard_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":65535, "intensity":0, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":65535, "intensity":0.3, "time":200 }
+        ]
+	},
+	{
+		"id":"freeze_standard_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":65535, "intensity":0.3, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":65535, "intensity":0.3, "time":200 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":65535, "intensity":0.3, "time":400 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":65535, "intensity":0.3, "time":600 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":65535, "intensity":0.3, "time":800 }
+        ]
+	},
+	{
+		"id":"freeze_darkmoon_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":1017, "intensity":0, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":1017, "intensity":0.3, "time":200 }
+        ]
+	},
+	{
+		"id":"freeze_darkmoon_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":1017, "intensity":0.3, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":1017, "intensity":0.3, "time":200 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":1017, "intensity":0.3, "time":400 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":1017, "intensity":0.3, "time":600 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":1017, "intensity":0.3, "time":800 }
+        ]
+	},
+	{
+		"id":"freeze_toxic_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":393052, "intensity":0, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":393052, "intensity":0.3, "time":200 }
+        ]
+	},
+	{
+		"id":"freeze_toxic_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":393052, "intensity":0.3, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":393052, "intensity":0.3, "time":200 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":393052, "intensity":0.3, "time":400 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":393052, "intensity":0.3, "time":600 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":393052, "intensity":0.3, "time":800 }
+        ]
+	},
+	{
+		"id":"freeze_cold_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":8365823, "intensity":0, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":8365823, "intensity":0.3, "time":200 }
+        ]
+	},
+	{
+		"id":"freeze_cold_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":8365823, "intensity":0.3, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":8365823, "intensity":0.3, "time":200 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":8365823, "intensity":0.3, "time":400 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":8365823, "intensity":0.3, "time":600 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":8365823, "intensity":0.3, "time":800 }
+        ]
+	},
+	{
+		"id":"freeze_snow_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16777215, "intensity":0, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":16777215, "intensity":0.3, "time":200 }
+        ]
+	},
+	{
+		"id":"freeze_snow_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":16777215, "intensity":0.3, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":16777215, "intensity":0.3, "time":200 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":16777215, "intensity":0.3, "time":400 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":16777215, "intensity":0.3, "time":600 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":16777215, "intensity":0.3, "time":800 }
         ]
 	},
 	{
