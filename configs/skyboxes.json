@@ -50,6 +50,11 @@
 		"nameEN":"Remaster evening"
 	},
 	{
+		"id":"remaster_autumn",
+		"nameRU":"Ремастер осень",
+		"nameEN":"Remaster autumn"
+	},
+	{
 		"id":"iran_day",
 		"nameRU":"Иран",
 		"nameEN":"Iran"

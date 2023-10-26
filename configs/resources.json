@@ -2263,6 +2263,12 @@
 { "id":"skybox_winter_day_left", "version":"1", "type":"textures",  "isLazy":"false" },
 { "id":"skybox_winter_day_right", "version":"1", "type":"textures",  "isLazy":"false" },
 { "id":"skybox_winter_day_top", "version":"1", "type":"textures",  "isLazy":"false" },
+{ "id":"skybox_remaster_autumn_back", "version":"1", "type":"textures",  "isLazy":"false" },
+{ "id":"skybox_remaster_autumn_bottom", "version":"1", "type":"textures",  "isLazy":"false" },
+{ "id":"skybox_remaster_autumn_front", "version":"1", "type":"textures",  "isLazy":"false" },
+{ "id":"skybox_remaster_autumn_left", "version":"1", "type":"textures",  "isLazy":"false" },
+{ "id":"skybox_remaster_autumn_right", "version":"1", "type":"textures",  "isLazy":"false" },
+{ "id":"skybox_remaster_autumn_top", "version":"2", "type":"textures",  "isLazy":"false" },
 
 { "id":"skybox_garage_front_side", "version":"1", "type":"textures",  "isLazy":"true" },
 
