@@ -1,8 +1,8 @@
 [	
 	{	
-		"id":"halloween_2023",
-		"nameRU":"Хеллоуин 2023",
-		"nameEN":"Halloween 2023"
+		"id":"day_of_the_dead_2023",
+		"nameRU":"День духов 2023",
+		"nameEN":"Day of the Dead 2023"
 	},
 	{	
 		"id":"standard",
@@ -103,6 +103,11 @@
 		"id":"autumn_festival_2023",
 		"nameRU":"Осенний фестиваль 2023",
 		"nameEN":"Autumn Festival 2023"
+	},
+	{	
+		"id":"halloween_2023",
+		"nameRU":"Хеллоуин 2023",
+		"nameEN":"Halloween 2023"
 	},
 	{	
 		"id":"halloween_2021",
