@@ -1,8 +1,8 @@
 [	
 	{	
-		"id":"day_of_the_dead_2023",
-		"nameRU":"День духов 2023",
-		"nameEN":"Day of the Dead 2023"
+		"id":"black_friday_2023",
+		"nameRU":"Чёрная пятница 2023",
+		"nameEN":"Black Friday 2023"
 	},
 	{	
 		"id":"standard",
@@ -218,6 +218,11 @@
 		"id":"ultra_weekend_2020-2021",
 		"nameRU":"Ультра уикенд 2020-2021",
 		"nameEN":"Ultra weekend 2020-2021"
+	},
+	{	
+		"id":"day_of_the_dead_2023",
+		"nameRU":"День духов 2023",
+		"nameEN":"Day of the Dead 2023"
 	},
 	{	
 		"id":"day_of_the_dead_2021",
