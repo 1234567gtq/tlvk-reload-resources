@@ -2237,6 +2237,8 @@
 { "id":"paint_tx_sport_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 { "id":"paint_tx_summer", "version":"1", "type":"textures",  "isLazy":"false"   },
 { "id":"paint_tx_summer_preview", "version":"1", "type":"images",  "isLazy":"true"   },
+{ "id":"paint_reddit", "version":"1", "type":"textures",  "isLazy":"false"   },
+{ "id":"paint_reddit_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 
 { "id":"skybox_hills_day_top", "version":"1", "type":"textures",  "isLazy":"false" },
 { "id":"skybox_hills_day_bottom", "version":"1", "type":"textures",  "isLazy":"false" },

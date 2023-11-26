@@ -4438,6 +4438,12 @@
 	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
 },
 {
+	"id":"reddit",
+	"name":"Reddit",
+	"descriptionRU":"Эта краска выдавалась за подписку на Tanki Online на Reddit. Спасибо за вашу поддержку!",
+	"descriptionEN":"You can obtain this paint by subscribing to Tanki Online on Reddit. Thanks for your support!"
+},
+{
 	"id":"gooseberry",
 	"nameRU":"Крыжовник",
 	"nameEN":"Gooseberry",
