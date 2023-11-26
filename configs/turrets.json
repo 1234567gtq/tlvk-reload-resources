@@ -1097,6 +1097,16 @@
 				"icon":"ut",
 				"emissionColor":"3268055",
 				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"dc",
+				"name":"Demonic",
+				"descriptionRU":"Позволь силам тьмы овладеть тобой и твоей пушкой! Умелые лапы этого монстра направят огонь вашего орудия прямо на противника. Он настолько горяч, что пули плавятся под эффектом этого огненного дыхания, вылетая из дула. Корпусу противника не поздоровится, сгусток чистой магмы пробьёт его насквозь! Враг, знай: увидев его глаза, можно смело прощаться с жизнью.",
+				"descriptionEN":"Let the forces of darkness envelop you and your turret! The mighty paws of the monsters will point the trajectory of your shots right onto the enemies! The pellets are so hot that they melt under the effect of fiery breath as they fly out of the muzzle. The hulls of your opponents will be in big trouble as clots of hot magma pierce through them. Let the enemy know that once you look into their eyes, the end is near!",
+				"icon":"dc",
+				"emissionColor":"15884800",
+				"emissionColorSecond":"16685824",
+				"emissionColorThreshold":"0.4"
 			}
 		],
 		"shotSkins":
