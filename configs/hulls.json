@@ -666,6 +666,16 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"dc",
+				"name":"Demomic",
+				"descriptionRU":"Видели когда-нибудь жерло вулкана? С данным скином это будет последнее, что увидят ваши враги перед неминуемой гибелью. Тысячи шестерёнок находятся прямо в лаве и обеспечивают бесперебойное движение вестника смерти. Шипы по всему периметру корпуса и зловещие морды сзади отпугнут всех, кто осмелится бросить вам вызов.",
+				"descriptionEN":"Have you ever seen the vent of a volcano? With this skin, it will be the last thing your enemies see before their inevitable death. Thousands of gears are located directly in the lava and ensure the uninterrupted movement of the messenger of death. Spikes along the entire perimeter of the body and ominous faces at the back will scare off anyone who dares to challenge you.",
+				"icon":"dc",
+				"emissionColor":"15884800",
+				"emissionColorSecond":"16685824",
+				"emissionColorThreshold":"0.4"
+			},
+			{
 				"id":"tx_xt",
 				"name":"XT (Tanki X)",
 				"descriptionRU":"«Хантер» — точка отсчета для всех танков «Х». Это первый корпус, который пошел в массовое производство. Он повсеместно применяется по сей день. Это корпус танков первой волны, попытка достигнуть эффективного компромисса между бронированностью и маневренностью. «Хантер» появляется там, где нужно сражаться, а не отстреливаться.",
