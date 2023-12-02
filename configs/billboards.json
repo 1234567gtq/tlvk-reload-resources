@@ -1,8 +1,8 @@
 [	
 	{	
-		"id":"black_friday_2023",
-		"nameRU":"Чёрная пятница 2023",
-		"nameEN":"Black Friday 2023"
+		"id":"ice_age_2023",
+		"nameRU":"Ice Age 2023",
+		"nameEN":"Ледниковый период 2023"
 	},
 	{	
 		"id":"standard",
@@ -73,6 +73,11 @@
 		"id":"summer_sport_games_2021",
 		"nameRU":"Summer Sport Games 2021",
 		"nameEN":"Summer Sport Games 2021"
+	},
+	{	
+		"id":"black_friday_2023",
+		"nameRU":"Чёрная пятница 2023",
+		"nameEN":"Black Friday 2023"
 	},
 	{	
 		"id":"carnival_2021",
