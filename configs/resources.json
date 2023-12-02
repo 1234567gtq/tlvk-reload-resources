@@ -2470,6 +2470,8 @@
 { "id":"map_happy_new_year_2018_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_gallery_summer_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_tutorial_summer_preview", "version":"1", "type":"images",  "isLazy":"true" },
+{ "id":"map_domburg_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
+
 { "id":"map_aleksandrovsk_summer", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_aleksandrovsk_mm_summer", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_archipelago_mm_summer", "version":"1", "type":"maps",  "isLazy":"true" },
@@ -2783,6 +2785,7 @@
 { "id":"map_happy_new_year_2018", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_gallery_summer", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_tutorial_summer", "version":"1", "type":"maps",  "isLazy":"true" },
+{ "id":"map_domburg_winter", "version":"1", "type":"maps",  "isLazy":"true" },
 
 { "id":"proplib_noob", "version":"1", "type":"proplibs",  "isLazy":"true" },
 { "id":"proplib_bush", "version":"1", "type":"proplibs",  "isLazy":"true" },

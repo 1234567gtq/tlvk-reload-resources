@@ -776,6 +776,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"domburg_winter",
+		"nameRU":"Домбург",
+		"nameEN":"Domburg",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
