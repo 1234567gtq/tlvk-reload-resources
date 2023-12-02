@@ -2472,6 +2472,7 @@
 { "id":"map_tutorial_summer_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_domburg_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_domburg_summer_preview", "version":"1", "type":"images",  "isLazy":"true" },
+{ "id":"map_luxembourg_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 
 { "id":"map_aleksandrovsk_summer", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_aleksandrovsk_mm_summer", "version":"1", "type":"maps",  "isLazy":"true" },
@@ -2788,6 +2789,7 @@
 { "id":"map_tutorial_summer", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_domburg_winter", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_domburg_summer", "version":"1", "type":"maps",  "isLazy":"true" },
+{ "id":"map_luxembourg_winter", "version":"1", "type":"maps",  "isLazy":"true" },
 
 { "id":"proplib_noob", "version":"1", "type":"proplibs",  "isLazy":"true" },
 { "id":"proplib_bush", "version":"1", "type":"proplibs",  "isLazy":"true" },
