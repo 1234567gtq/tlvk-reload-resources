@@ -1726,5 +1726,13 @@
 		"skyBox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
+	},
+	{
+		"id":"domburg_summer",
+		"nameRU":"Домбург",
+		"nameEN":"Domburg",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"summer"
 	}
 ]
