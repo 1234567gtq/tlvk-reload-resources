@@ -1368,8 +1368,8 @@
 			},
 			{
 				"id":"blood_fake",
-				"nameRU":"Кровавый",
-				"nameEN":"Blood",
+				"nameRU":"Кровавый (неофициальный)",
+				"nameEN":"Blood (unofficial)",
 				"descriptionRU":"Вы не можете пустить кровь танкам, но этот эффект выстрела — отличная альтернатива.",
 				"descriptionEN":"Tanks don't bleed, but here's a good alternative."
 			}

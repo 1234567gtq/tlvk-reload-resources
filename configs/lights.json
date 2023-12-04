@@ -1,5 +1,46 @@
 [
 	{
+		"id":"vulcan_standard_fire",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":16746496, "intensity":0.9, "time":0 },
+			{ "attenuationBegin":200, "attenuationEnd":500, "color":16746496, "intensity":0, "time":100 }
+        ]
+	},
+	{
+		"id":"vulcan_standard_trace",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":500, "color":8255999, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":8255999, "intensity":0, "time":1800 }
+        ]
+	},
+	{
+		"id":"vulcan_red_fire",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":16711680, "intensity":0.9, "time":0 },
+			{ "attenuationBegin":200, "attenuationEnd":500, "color":16711680, "intensity":0, "time":100 }
+        ]
+	},
+	{
+		"id":"vulcan_red_trace",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":500, "color":16711680, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16711680, "intensity":0, "time":1800 }
+        ]
+	},
+
+
+
+
+
+
+
+
+
+	{
 		"id":"gauss_standard_shot",
 		"light":
 		[

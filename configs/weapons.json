@@ -367,6 +367,17 @@
 				"shotLight":"thunder_default_shot",
 				"hitLight":"thunder_default_hit",
 				"shellLight":"thunder_default_shell"
+			},
+			{
+				"id":"blood_fake",
+				"barrelFlameResourceId":"shot_skin_thunder_blood_fake_flame",
+				"barrelFireResourceId":"shot_skin_thunder_blood_fake_fire",
+				"barrelSmokeResourceId":"shot_skin_thunder_standard_smoke",
+				"explosionResourceId":"shot_skin_thunder_blood_fake_explosion",
+				"shellTracerResourceId":"shot_skin_thunder_blood_fake_tracer",
+				"shotLight":"thunder_blood_fake_shot",
+				"hitLight":"thunder_blood_fake_hit",
+				"shellLight":"thunder_blood_fake_shell"
 			}
 		],
 		"smoky":
@@ -625,6 +636,33 @@
 				"powerShotLight":"gauss_violent_power_shot",
 				"powerHitLight":"gauss_violent_power_hit",
 				"lightningLight":"gauss_violent_lightning"
+			}
+		],
+		"vulcan":
+		[
+			{
+				"id":"standard",
+				"fireAlong":"shot_skin_vulcan_standard_fire_along",
+				"fireAcross":"shot_skin_vulcan_standard_fire_across",
+				"smoke":"shot_skin_vulcan_standard_smoke",
+				"tracer":"shot_skin_vulcan_standard_tracer",
+				"dust":"shot_skin_vulcan_standard_dust",
+				"sparkles":"shot_skin_vulcan_standard_sparkles",
+				"tankSparkles":"shot_skin_vulcan_standard_tank_sparkles",
+				"fireLight":"vulcan_standard_fire",
+				"traceLight":"vulcan_standard_trace"
+			},
+			{
+				"id":"red",
+				"fireAlong":"shot_skin_vulcan_red_fire_along",
+				"fireAcross":"shot_skin_vulcan_red_fire_across",
+				"smoke":"shot_skin_vulcan_standard_smoke",
+				"tracer":"shot_skin_vulcan_red_tracer",
+				"dust":"shot_skin_vulcan_standard_dust",
+				"sparkles":"shot_skin_vulcan_red_sparkles",
+				"tankSparkles":"shot_skin_vulcan_red_tank_sparkles",
+				"fireLight":"vulcan_red_fire",
+				"traceLight":"vulcan_red_trace"
 			}
 		]
 }
