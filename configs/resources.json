@@ -359,6 +359,7 @@
 { "id":"turret_vulcan_m1", "version":"2", "type":"models",  "isLazy":"false" },
 { "id":"turret_vulcan_m0", "version":"2", "type":"models",  "isLazy":"false" },
 { "id":"turret_vulcan_dc", "version":"1", "type":"models",  "isLazy":"false" },
+{ "id":"turret_vulcan_tx_m0", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_thunder_hd", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_thunder_xt", "version":"2", "type":"models",  "isLazy":"false" },
 { "id":"turret_thunder_lc", "version":"1", "type":"models",  "isLazy":"false" },
