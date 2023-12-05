@@ -425,6 +425,7 @@
 { "id":"turret_tomato_gun_hd", "version":"1", "type":"models",  "isLazy":"false" },
 
 { "id":"garage", "version":"1", "type":"models", "isLazy":"true" },
+{ "id":"garage_new_year", "version":"1", "type":"models", "isLazy":"true" },
 { "id":"drone_brutus", "version":"1", "type":"models" },
 { "id":"drone_brutus_preview", "version":"1", "type":"images", "isLazy":"true" },
 { "id":"drone_hyperion", "version":"1", "type":"models" },
