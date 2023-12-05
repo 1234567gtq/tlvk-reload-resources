@@ -181,6 +181,8 @@
 	"GAME_ACTION_RANK_UP":"Rank up",
 	"GAME_ACTION_RANK_UP_SETTINGS":"Rank up settings",
 	"GAME_ACTION_FLIP_TANK":"Flip tank",
+	"GAME_ACTION_RESTORE_TANK_STATE":"Restore tank position",
+	"GAME_ACTION_MOVE_TANK_TO_CURSOR_POSITION":"Teleport by mouse cursor",
 	"GAME_ACTION_TOGGLE_TYPE_DRONE":"Local/remote drone",
 	"GAME_ACTION_TOGGLE_VISIBLE_DRONE":"Show/hide drone",
 	

@@ -181,6 +181,8 @@
 	"GAME_ACTION_RANK_UP":"Получить звание",
 	"GAME_ACTION_RANK_UP_SETTINGS":"Настройки получения звания",
 	"GAME_ACTION_FLIP_TANK":"Перевернуть танк",
+	"GAME_ACTION_RESTORE_TANK_STATE":"Восстановить положение танка",
+	"GAME_ACTION_MOVE_TANK_TO_CURSOR_POSITION":"Телепорт по курсору мыши",
 	"GAME_ACTION_TOGGLE_TYPE_DRONE":"Локальный/удаленный дрон",
 	"GAME_ACTION_TOGGLE_VISIBLE_DRONE":"Показать/скрыть дрон",
 	

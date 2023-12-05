@@ -11,8 +11,8 @@
 		"id":"vulcan_standard_trace",
 		"light":
 		[
-			{ "attenuationBegin":100, "attenuationEnd":500, "color":8255999, "intensity":1.5, "time":0 },
-			{ "attenuationBegin":1, "attenuationEnd":2, "color":8255999, "intensity":0, "time":1800 }
+			{ "attenuationBegin":100, "attenuationEnd":500, "color":16746496, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16746496, "intensity":0, "time":1800 }
         ]
 	},
 	{
