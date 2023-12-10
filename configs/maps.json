@@ -1,5 +1,53 @@
 [
 	{
+		"id":"new_year_2013_winter",
+		"nameRU":"Новый Год 2013",
+		"nameEN":"New Year 2013",
+		"skyBox":"new_year",
+		"theme":"summer_night",
+		"category":"special"
+	},
+	{
+		"id":"new_year_2014_winter",
+		"nameRU":"Новый Год 2014",
+		"nameEN":"New Year 2014",
+		"skyBox":"new_year",
+		"theme":"summer_night",
+		"category":"special"
+	},
+	{
+		"id":"new_year_2015_winter",
+		"nameRU":"Новый Год 2015",
+		"nameEN":"New Year 2015",
+		"skyBox":"new_year",
+		"theme":"summer_night",
+		"category":"special"
+	},
+	{
+		"id":"new_year_2016_winter",
+		"nameRU":"Новый Год 2016",
+		"nameEN":"New Year 2016",
+		"skyBox":"new_year",
+		"theme":"summer_night",
+		"category":"special"
+	},
+	{
+		"id":"new_year_2017_winter",
+		"nameRU":"Новый Год 2017",
+		"nameEN":"New Year 2017",
+		"skyBox":"new_year",
+		"theme":"summer_night",
+		"category":"special"
+	},
+	{
+		"id":"new_year_2018_winter",
+		"nameRU":"Новый Год 2018",
+		"nameEN":"New Year 2018",
+		"skyBox":"new_year",
+		"theme":"summer_night",
+		"category":"special"
+	},
+	{
 		"id":"aleksandrovsk_mm_winter",
 		"nameRU":"Александровск ММ",
 		"nameEN":"Aleksandrovsk MM",
