@@ -4195,10 +4195,10 @@
 },
 {
 	"id":"master_of_parkour_2023",
-	"nameRU":"Мастера паркура 2023",
-	"nameEN":"Masters of Parkour 2023",
-	"descriptionRU":"Эта временная краска нужна для участия в конкурсе «Мастера Паркура 2023». По окончании состязания покрытие останется лишь у призёров конкурса.",
-	"descriptionEN":"This temporary paint has been added in the game for participants of the «Masters of Parkour 2023» contest. After the contest ends, the paint will disappear and will only remain in the garages of members from the winning team."
+	"nameRU":"Мастер паркура 2023",
+	"nameEN":"Master of Parkour 2023",
+	"descriptionRU":"Эта краска для призёров конкурса «Мастера паркура 2023».",
+	"descriptionEN":"This paint is the prize for the «Masters of Parkour» contest that took place in 2023."
 },
 {
 	"id":"pegasus",
