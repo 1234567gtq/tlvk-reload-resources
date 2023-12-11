@@ -1,0 +1,4 @@
+<images>
+	<image name="lightmap" new-name="bomb.jpg"/>
+	<image name="details" new-name="bomb.png"/>
+</images>
