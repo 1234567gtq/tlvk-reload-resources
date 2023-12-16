@@ -58,7 +58,21 @@
 { "id":"sound_bonk_static_hit", "version":"1", "type":"sounds" },
 { "id":"sound_bonk_tank_hit", "version":"1", "type":"sounds" },
 { "id":"sound_notification", "version":"1", "type":"sounds" },
+{ "id":"sound_wasp_activation", "version":"1", "type":"sounds" },
+{ "id":"sound_wasp_beep", "version":"1", "type":"sounds" },
+{ "id":"sound_wasp_bang", "version":"1", "type":"sounds" },
 { "id":"sound_hopper_activation", "version":"1", "type":"sounds" },
+{ "id":"sound_hornet_activation", "version":"1", "type":"sounds" },
+{ "id":"sound_hornet_sonar", "version":"1", "type":"sounds" },
+
+{ "id":"sound_mammoth_activation", "version":"1", "type":"sounds" },
+{ "id":"sound_mammoth_loop", "version":"1", "type":"sounds" },
+{ "id":"sound_mammoth_deactivation", "version":"1", "type":"sounds" },
+{ "id":"sound_mammoth_spark_1", "version":"1", "type":"sounds" },
+{ "id":"sound_mammoth_spark_2", "version":"1", "type":"sounds" },
+{ "id":"sound_mammoth_spark_3", "version":"1", "type":"sounds" },
+{ "id":"sound_mammoth_spark_4", "version":"1", "type":"sounds" },
+
 { "id":"sound_juggernaut_activation", "version":"1", "type":"sounds" },
 { "id":"sound_parachute_engine", "version":"1", "type":"sounds" },
 { "id":"sound_parachute_take_off", "version":"1", "type":"sounds" },
@@ -426,6 +440,7 @@
 
 { "id":"garage", "version":"1", "type":"models", "isLazy":"true" },
 { "id":"garage_new_year", "version":"1", "type":"models", "isLazy":"true" },
+
 { "id":"drone_brutus", "version":"1", "type":"models" },
 { "id":"drone_brutus_preview", "version":"1", "type":"images", "isLazy":"true" },
 { "id":"drone_hyperion", "version":"1", "type":"models" },
@@ -683,6 +698,7 @@
 { "id":"shot_skin_gauss_violent_tracer", "version":"1", "type":"textures" },
 { "id":"shot_skin_gauss_violent_lightning", "version":"1", "type":"textures" },
 
+{ "id":"shot_skin_magnum_standard_shell", "version":"1", "type":"models" },
 { "id":"shot_skin_magnum_standard_explosion", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_magnum_standard_trail", "version":"1", "type":"textures" },
 { "id":"shot_skin_magnum_standard_smoke", "version":"1", "type":"multiframe_textures" },
@@ -702,22 +718,43 @@
 { "id":"shot_skin_magnum_blue_trail", "version":"1", "type":"textures" },
 { "id":"shot_skin_magnum_blue_smoke", "version":"1", "type":"multiframe_textures" },
 
+{ "id":"shot_skin_tomato_gun_standard_explosion", "version":"1", "type":"multiframe_textures" },
+
 { "id":"shot_skin_tanks_standard_muzzle", "version":"1", "type":"textures" },
 { "id":"shot_skin_tanks_standard_explosion", "version":"1", "type":"textures" },
 { "id":"shot_skin_tanks_standard_smoke", "version":"1", "type":"textures" },
 
 { "id":"hull_dust_summer", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
 { "id":"hull_dust_winter", "version":"2", "type":"multiframe_textures",  "isLazy":"false" },
-{ "id":"wasp_bomb_light", "version":"1", "type":"textures",  "isLazy":"false" },
-{ "id":"wasp_bomb_smoke", "version":"1", "type":"textures",  "isLazy":"false" },
-{ "id":"wasp_bomb_crater", "version":"1", "type":"textures",  "isLazy":"false" },
-{ "id":"wasp_bomb_flame", "version":"1", "type":"textures",  "isLazy":"false" },
-{ "id":"wasp_bomb_wave", "version":"1", "type":"textures",  "isLazy":"false" },
-{ "id":"ultimate_skin_juggernaut_standard_spark", "version":"1", "type":"textures",  "isLazy":"false" },
-{ "id":"ultimate_skin_dictator_standard_wave", "version":"1", "type":"textures",  "isLazy":"false" },
-{ "id":"ultimate_skin_dictator_standard_star", "version":"1", "type":"textures",  "isLazy":"false" },
-{ "id":"ultimate_skin_dictator_standard_beam", "version":"1", "type":"textures",  "isLazy":"false" },
-{ "id":"ultimate_skin_hopper_standard_wave", "version":"1", "type":"textures",  "isLazy":"false" },
+
+{ "id":"ultimate_skin_wasp_standard_countdown", "version":"1", "type":"multiframe_textures" },
+{ "id":"ultimate_skin_wasp_standard_far_countdown", "version":"1", "type":"multiframe_textures" },
+{ "id":"ultimate_skin_wasp_standard_bomb", "version":"1", "type":"models" },
+{ "id":"ultimate_skin_wasp_standard_flame", "version":"1", "type":"textures" },
+{ "id":"ultimate_skin_wasp_standard_wave", "version":"1", "type":"textures" },
+{ "id":"ultimate_skin_wasp_standard_light", "version":"1", "type":"textures" },
+{ "id":"ultimate_skin_wasp_standard_smoke", "version":"1", "type":"textures" },
+{ "id":"ultimate_skin_wasp_standard_crater", "version":"1", "type":"textures" },
+
+
+
+
+{ "id":"ultimate_skin_hopper_standard_wave", "version":"1", "type":"textures" },
+{ "id":"ultimate_skin_hornet_standard_ring", "version":"1", "type":"textures" },
+{ "id":"ultimate_skin_hornet_standard_marker", "version":"1", "type":"textures" },
+{ "id":"ultimate_skin_dictator_standard_wave", "version":"1", "type":"textures" },
+{ "id":"ultimate_skin_dictator_standard_star", "version":"1", "type":"textures" },
+{ "id":"ultimate_skin_dictator_standard_beam", "version":"1", "type":"textures" },
+
+
+{ "id":"ultimate_skin_mammoth_standard_heart", "version":"1", "type":"textures" },
+{ "id":"ultimate_skin_mammoth_standard_shine", "version":"1", "type":"textures" },
+{ "id":"ultimate_skin_mammoth_standard_sparkles", "version":"1", "type":"textures" },
+
+
+{ "id":"ultimate_skin_juggernaut_standard_spark", "version":"1", "type":"textures" },
+
+
 
 { "id":"tank_destroyed_flame", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
 { "id":"tank_destroyed_smoke", "version":"1", "type":"multiframe_textures",  "isLazy":"false" },
@@ -1110,8 +1147,8 @@
 { "id":"paint_diamond_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 { "id":"paint_master_of_parkour_2023", "version":"1", "type":"textures",  "isLazy":"false"   },
 { "id":"paint_master_of_parkour_2023_preview", "version":"1", "type":"images",  "isLazy":"true"   },
-{ "id":"paint_to14", "version":"1", "type":"textures",  "isLazy":"false"   },
-{ "id":"paint_to14_preview", "version":"1", "type":"images",  "isLazy":"true"   },
+{ "id":"paint_14_years", "version":"1", "type":"textures",  "isLazy":"false"   },
+{ "id":"paint_14_years_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 { "id":"paint_mono_apple", "version":"1", "type":"textures",  "isLazy":"false"   },
 { "id":"paint_mono_apple_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 { "id":"paint_mono_aquamarine", "version":"1", "type":"textures",  "isLazy":"false"   },
@@ -2828,7 +2865,7 @@
 { "id":"map_luxembourg_summer", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_luxembourg_winter", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_luxembourg_mm_summer", "version":"1", "type":"maps",  "isLazy":"true" },
-{ "id":"map_happy_new_year_2018", "version":"1", "type":"maps",  "isLazy":"true" },
+
 { "id":"map_gallery_summer", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_tutorial_summer", "version":"1", "type":"maps",  "isLazy":"true" },
 { "id":"map_domburg_summer", "version":"1", "type":"maps",  "isLazy":"true" },
@@ -2836,6 +2873,18 @@
 { "id":"map_luxembourg_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_domburg_winter_preview", "version":"1", "type":"images",  "isLazy":"true" },
 { "id":"map_domburg_summer_preview", "version":"1", "type":"images",  "isLazy":"true" },
+
+
+{ "id":"map_new_year_2013_winter", "version":"1", "type":"maps" },
+{ "id":"map_new_year_2013_winter_preview", "version":"1", "type":"images", "isLazy":"true" },
+{ "id":"map_new_year_2014_winter", "version":"1", "type":"maps" },
+{ "id":"map_new_year_2014_winter_preview", "version":"1", "type":"images", "isLazy":"true" },
+{ "id":"map_new_year_2015_winter", "version":"1", "type":"maps" },
+{ "id":"map_new_year_2015_winter_preview", "version":"1", "type":"images", "isLazy":"true" },
+{ "id":"map_new_year_2016-2017_winter", "version":"1", "type":"maps" },
+{ "id":"map_new_year_2016-2017_winter_preview", "version":"1", "type":"images", "isLazy":"true" },
+{ "id":"map_new_year_2018_winter", "version":"1", "type":"maps" },
+{ "id":"map_new_year_2018_winter_preview", "version":"1", "type":"images", "isLazy":"true" },
 
 { "id":"proplib_noob", "version":"1", "type":"proplibs",  "isLazy":"true" },
 { "id":"proplib_bush", "version":"1", "type":"proplibs",  "isLazy":"true" },
@@ -2935,7 +2984,7 @@
 { "id":"proplib_trees_winter", "version":"1", "type":"proplibs",  "isLazy":"true" },
 { "id":"proplib_village_builds_winter", "version":"1", "type":"proplibs",  "isLazy":"true" },
 { "id":"proplib_waffle_fence_winter", "version":"1", "type":"proplibs",  "isLazy":"true" },
-{ "id":"proplib_ny", "version":"1", "type":"proplibs",  "isLazy":"true" },
+{ "id":"proplib_ny", "version":"2", "type":"proplibs",  "isLazy":"true" },
 { "id":"proplib_halloween", "version":"1", "type":"proplibs",  "isLazy":"true" },
 { "id":"proplib_special", "version":"1", "type":"proplibs",  "isLazy":"true" },
 { "id":"proplib_com_build_old", "version":"1", "type":"proplibs",  "isLazy":"true" },

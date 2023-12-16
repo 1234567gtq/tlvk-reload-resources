@@ -1,4 +1,26 @@
 {
+		"snowman":
+		[
+			{
+				"id":"standard",
+				"smoke":"shot_skin_magnum_blue_smoke",
+				"trail":"shot_skin_magnum_blue_trail",
+				"explosion":"shot_skin_magnum_blue_explosion",
+				"shotLight":"magnum_standard_shot",
+				"hitLight":"magnum_standard_hit"
+			}
+		],
+		"tomato_gun":
+		[
+			{
+				"id":"standard",
+				"smoke":"shot_skin_magnum_crimson_smoke",
+				"trail":"shot_skin_magnum_crimson_trail",
+				"explosion":"shot_skin_tomato_gun_standard_explosion",
+				"shotLight":"magnum_standard_shot",
+				"hitLight":"magnum_standard_hit"
+			}
+		],
 		"magnum":
 		[
 			{
