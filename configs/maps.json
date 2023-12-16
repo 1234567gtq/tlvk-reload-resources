@@ -24,21 +24,14 @@
 		"category":"special"
 	},
 	{
-		"id":"new_year_2016_winter",
-		"nameRU":"Новый Год 2016",
-		"nameEN":"New Year 2016",
+		"id":"new_year_2016-2017_winter",
+		"nameRU":"Новый Год 2016-2017",
+		"nameEN":"New Year 2016-2017",
 		"skyBox":"new_year",
 		"theme":"summer_night",
 		"category":"special"
 	},
-	{
-		"id":"new_year_2017_winter",
-		"nameRU":"Новый Год 2017",
-		"nameEN":"New Year 2017",
-		"skyBox":"new_year",
-		"theme":"summer_night",
-		"category":"special"
-	},
+
 	{
 		"id":"new_year_2018_winter",
 		"nameRU":"Новый Год 2018",
