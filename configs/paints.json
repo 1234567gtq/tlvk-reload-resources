@@ -4479,6 +4479,12 @@
 	"description":"TODO"
 },
 {
+	"id":"spots",
+	"nameRU":"Пятна",
+	"nameEN":"Spots",
+	"description":"TODO"
+},
+{
 	"id":"destroyed_tank",
 	"nameRU":"Уничтоженный танк",
 	"nameEN":"Destroyed tank",
