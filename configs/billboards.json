@@ -1,8 +1,8 @@
 [	
 	{	
-		"id":"ice_age_2023",
-		"nameRU":"Ледниковый период 2023",
-		"nameEN":"Ice Age 2023"
+		"id":"new_year_2024",
+		"nameRU":"Новый Год 2024",
+		"nameEN":"New Year 2024"
 	},
 	{	
 		"id":"standard",
@@ -83,6 +83,11 @@
 		"id":"carnival_2021",
 		"nameRU":"Карнавал 2021",
 		"nameEN":"Сarnival 2021"
+	},
+	{	
+		"id":"ice_age_2023",
+		"nameRU":"Ледниковый период 2023",
+		"nameEN":"Ice Age 2023"
 	},
 	{	
 		"id":"new_year_2023",
