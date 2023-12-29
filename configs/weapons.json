@@ -658,6 +658,24 @@
 				"powerShotLight":"gauss_violent_power_shot",
 				"powerHitLight":"gauss_violent_power_hit",
 				"lightningLight":"gauss_violent_lightning"
+			},
+			{
+				"id":"green_fake",
+				"electro":"shot_skin_gauss_green_fake_electro",
+				"explosionElectro":"shot_skin_gauss_green_fake_explosion_electro",
+				"explosion":"shot_skin_gauss_green_fake_explosion",
+				"fire":"shot_skin_gauss_green_fake_fire",
+				"flame":"shot_skin_gauss_green_fake_flame",
+				"lightning":"shot_skin_gauss_green_fake_lightning",
+				"tracer":"shot_skin_gauss_green_fake_tracer",
+				"trail":"shot_skin_gauss_green_fake_trail",
+				"smoke":"shot_skin_gauss_standard_smoke",
+				"shotLight":"gauss_green_fake_shot",
+				"hitLight":"gauss_green_fake_hit",
+				"shellLight":"gauss_green_fake_shell",
+				"powerShotLight":"gauss_green_fake_power_shot",
+				"powerHitLight":"gauss_green_fake_power_hit",
+				"lightningLight":"gauss_green_fake_lightning"
 			}
 		],
 		"vulcan":

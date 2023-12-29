@@ -1835,6 +1835,13 @@
 				"nameEN":"Violent",
 				"descriptionRU":"Эффект выстрела, который соответствует жёсткому характеру Гаусса и вмятинам, которые тот оставляет на броне вражеских танков.",
 				"descriptionEN":"A shot effect that matches the mean and hard-hitting nature of the Gauss shot, and the bruises it will leave on the enemy's tank."
+			},
+			{
+				"id":"green_fake",
+				"nameRU":"Зелёный (неофициальный)",
+				"nameEN":"Green (unofficial)",
+				"descriptionRU":"Зелёный — это цвет мягкости и спокойствия. Ваш выстрел не является ни тем, ни другим. Замечаете иронию?",
+				"descriptionEN":"Green is a nice, peaceful color. Your shot is neither nice, nor peaceful. Notice the irony?"
 			}
 		]
 	},

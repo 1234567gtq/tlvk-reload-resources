@@ -133,6 +133,52 @@
         ]
 	},
 	{
+		"id":"gauss_green_fake_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":1834839, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":1834839, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"gauss_green_fake_shell",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":350, "color":1834839, "intensity":0.5, "time":0 }
+        ]
+	},
+	{
+		"id":"gauss_green_fake_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":900, "color":1834839, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":300, "attenuationEnd":900, "color":1834839, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"gauss_green_fake_power_shot",
+		"light":
+		[
+			{ "attenuationBegin":1000, "attenuationEnd":3500, "color":1834839, "intensity":1.5, "time":0 }
+        ]
+	},
+	{
+		"id":"gauss_green_fake_power_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":1834839, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":3000, "attenuationEnd":6000, "color":1834839, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"gauss_green_fake_lightning",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":500, "color":1834839, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":1834839, "intensity":0, "time":600 }
+        ]
+	},
+	{
 		"id":"ricochet_standard_shot",
 		"light":
 		[
