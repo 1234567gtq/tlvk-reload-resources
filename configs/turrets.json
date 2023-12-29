@@ -1810,6 +1810,13 @@
 				"icon":"gt",
 				"emissionColor":"16721408",
 				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"ic",
+				"name":"IC",
+				"descriptionRU":"Покрытые толстым слоем антарктического льда скины этой серии внушают леденящий страх и ужас. Они превращают сердца врагов в ледяную глыбу, лишая их возможности мыслить и чувствовать, делая их танки безжизненными роботами. Пусть соперники увидят всю морозную мощь этих ледяных зверей!",
+				"descriptionEN":"A thick top-layer of ice taken from a remote Antarctic glacier inspires enemies with a chilling fear and terror. These skins penetrates into the very soul of opponents. A single glance renders their hearts blocks of ice - left without mind or reason to become an aimless, lifeless hulk. Let the enemy witness the full might of this icy beasts!",
+				"icon":"ic"
 			}
 		],
 		"shotSkins":
