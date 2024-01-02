@@ -106,6 +106,7 @@
 { "id":"sound_vulcan_tank_hit_5", "version":"1", "type":"sounds" },
 { "id":"sound_ricochet_blaster_hit", "version":"1", "type":"sounds" },
 { "id":"sound_ricochet_blaster_shot", "version":"1", "type":"sounds" },
+{ "id":"sound_ambient_new_year", "version":"1", "type":"sounds" },
 { "id":"shot_skin_vulcan_standard_dust", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_vulcan_standard_sparkles", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_vulcan_red_sparkles", "version":"1", "type":"multiframe_textures" },
