@@ -2340,6 +2340,8 @@
 { "id":"paint_spots_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 { "id":"paint_sapphire", "version":"1", "type":"textures",  "isLazy":"false"   },
 { "id":"paint_sapphire_preview", "version":"1", "type":"images",  "isLazy":"true"   },
+{ "id":"paint_sweet_gift", "version":"1", "type":"textures",  "isLazy":"false"   },
+{ "id":"paint_sweet_gift_preview", "version":"1", "type":"images",  "isLazy":"true"   },
 
 { "id":"skybox_hills_day_top", "version":"1", "type":"textures",  "isLazy":"false" },
 { "id":"skybox_hills_day_bottom", "version":"1", "type":"textures",  "isLazy":"false" },

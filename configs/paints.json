@@ -4457,6 +4457,13 @@
 	"descriptionEN":"You can obtain this paint by subscribing to Tanki Online on Reddit. Thanks for your support!"
 },
 {
+	"id":"sweet_gift",
+	"nameRU":"Сладкий подарок",
+	"nameEN":"Sweet Gift",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
 	"id":"gooseberry",
 	"nameRU":"Крыжовник",
 	"nameEN":"Gooseberry",
