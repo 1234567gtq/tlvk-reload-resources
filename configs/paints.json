@@ -4347,6 +4347,13 @@
 	"descriptionEN":"A special paint for testers. This paint is based on principles developed by Nicola Tesla himself. Metal wrenches placed on carbon armor plates generate a magnetic resonance field with properties that haven't been studied to the full extent yet. The coating is installed on special test tanks that are controlled by pilots voluntarily taking part in experiments and risking their lives for the well-being of future generations."
 },
 {
+	"id":"sapphire",
+	"nameRU":"Сапфир",
+	"nameEN":"Sapphire",
+	"descriptionRU":"Краска создана из редчайших и самых драгоценных камней. В процессе её создания мастера вложили в неё все лучшие свойства сапфира. Согласно легенде, сапфир приносит своим обладателям удачу, богатство и успехи в боях. Некоторые особенно суеверные также верят в его защитные свойства — способность противостоять порче, сглазу и вражеским проклятьям. Многие мечтают об этой краске, однако лишь по-настоящему лучшие и талантливые тестировщики, которые внесли значительный вклад в выявление и исправление багов игры, удостаиваются чести обладать ею.",
+	"descriptionEN":"The paint is created from some of the rarest and most precious stones. During its creation, the masters forge the best properties of sapphire into it. According to the legend, Sapphire brings luck, wealth, and success in battles to its owners. Some superstitious people also believe in its protective properties — ability to resist spells, the evil eye, and enemy curses. Many dream of this paint, but only the best and the most talented testers who have made a significant contribution in finding and fixing bugs deserve to get it."
+},
+{
 	"id":"flame_2.0",
 	"nameRU":"Пламя 2.0",
 	"nameEN":"Flame 2.0",
