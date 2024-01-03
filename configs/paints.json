@@ -4340,6 +4340,13 @@
 	"descriptionEN":"This paint goes to the most active, enthusiastic, and hardworking helpers of the year — those who have dedicated their whole year to helping their fellow tankers and making the Tanki Online community a better place. They are a shining example of selflessness and service, and they truly deserve the honor and title of «Best Helper of the Year»."
 },
 {
+	"id":"best_helper_2023",
+	"nameRU":"Лучший помощник 2023",
+	"nameEN":"Best Helper of 2023",
+	"descriptionRU":"Эта краска была создана специально для самых активных, усердных и трудолюбивых помощников 2023 года, для тех, кто посвятил весь год помощи танкистам и поддерживал порядок в сообществе «Танков Онлайн». Обладатели этой краски — яркий пример самоотдачи и преданности, и они по-настоящему достойны титула «Лучший помощник года».",
+	"descriptionEN":"This paint was created especially for the most active, diligent and hardworking helpers of 2023. These are those members of the helpers community who dedicated their whole year in helping other tankers and maintaining the order in the Tanki Online community. The owners of this paint are a shining example of dedication and devotion, and they are truly worthy of the title «Best Helper of the Year»."
+},
+{
 	"id":"engineer",
 	"nameRU":"Механик",
 	"nameEN":"Engineer",
