@@ -324,7 +324,7 @@
 { "id":"turret_hammer_m3", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_hammer_xt", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_hammer_lc", "version":"1", "type":"models",  "isLazy":"false" },
-{ "id":"turret_hammer_dc", "version":"1", "type":"models",  "isLazy":"false" },
+{ "id":"turret_hammer_dc", "version":"2", "type":"models",  "isLazy":"false" },
 { "id":"turret_hammer_tx_m0", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_hammer_m2", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"turret_hammer_m1", "version":"1", "type":"models",  "isLazy":"false" },
