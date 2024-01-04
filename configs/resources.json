@@ -216,7 +216,7 @@
 { "id":"hull_hunter_dc", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_crusader_hd", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_crusader_xt", "version":"1", "type":"models",  "isLazy":"false" },
-{ "id":"hull_crusader_rt", "version":"1", "type":"models",  "isLazy":"false" },
+{ "id":"hull_crusader_rt", "version":"2", "type":"models",  "isLazy":"false" },
 { "id":"hull_paladin_hd", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_paladin_xt", "version":"1", "type":"models",  "isLazy":"false" },
 { "id":"hull_paladin_rt", "version":"1", "type":"models",  "isLazy":"false" },
