@@ -80,6 +80,22 @@
 		"dustAlpha":"0.75"
 	},
 	{
+		"id":"winter_day",
+		"nameRU":"Зимний день",
+		"nameEN":"Winter day",
+		"ambientResourceId":"sound_ambient_summer_day",
+		"angleX":"-0.8500000238418579",
+		"angleZ":"2.5",
+		"lightColor":"8419955",
+		"shadowColor":"6184542",
+		"fogColor":"15333375",
+		"gravity":"1000",
+		"skyBoxRevolutionSpeed":"0",
+		"SSAOColor":"2045258",
+		"dustResourceId":"hull_dust_winter",
+		"dustAlpha":"0.75"
+	},
+	{
 		"id":"space",
 		"nameRU":"Космический",
 		"nameEN":"Space",
@@ -96,19 +112,19 @@
 		"dustAlpha":"0.75"
 	},
 	{
-		"id":"winter_day",
-		"nameRU":"Зимний день",
-		"nameEN":"Winter day",
-		"ambientResourceId":"sound_ambient_summer_day",
-		"angleX":"-0.8500000238418579",
-		"angleZ":"2.5",
-		"lightColor":"8419955",
-		"shadowColor":"6184542",
-		"fogColor":"15333375",
+		"id":"new_year",
+		"nameRU":"Новый Год",
+		"nameEN":"New Year",
+		"ambientResourceId":"sound_ambient_new_year",
+		"angleX":"-0.21",
+		"angleZ":"-0.84",
+		"lightColor":"3952742",
+		"shadowColor":"2963798",
+		"fogColor":"71213",
 		"gravity":"1000",
 		"skyBoxRevolutionSpeed":"0",
 		"SSAOColor":"2045258",
 		"dustResourceId":"hull_dust_winter",
-		"dustAlpha":"0.75"
+		"dustAlpha":"0.9"
 	}
 ]
