@@ -1,0 +1,170 @@
+{
+	"particleSystems": [
+	{
+		"transform3dData": {
+			"position": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			}
+		},
+		"initialData": {
+			"lifetime": {
+				"mode": "Constant",
+				"value": 0.15
+			},
+			"speed": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"isSize3d": false,
+			"size": {
+				"mode": "Constant",
+				"value": 4.0
+			},
+			"isRotation3d": false,
+			"rotation": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"color": {
+				"mode": "Color",
+				"color": -1
+			},
+			"simulationSpace": "Local"
+		},
+		"shapeData": {
+			"shape": "Point",
+			"position": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"radius": 0.0,
+			"angle": 0.0,
+			"length": 0.0,
+			"radiusThickness": 0.0,
+			"arc": 0.0
+		},
+		"rendererData": {
+			"textureName": "Flash",
+			"blendMode": "ADD",
+			"renderMode": "Billboard",
+			"alignment": "Facing",
+			"lengthScale": 2.0,
+			"speedScale": 0.0,
+			"softParticles": false,
+			"invFade": 0.0,
+			"pivot": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"particleMaterial": "Default",
+			"materialParams": {
+				"shader": "TankiOnline/Particles/Additive",
+				"textureParameters": [
+				{
+					"name": "_MainTex",
+					"textureName": "Flash"
+				}
+				],
+				"scalarParameters": [
+				{
+					"name": "_UseSoftParticles",
+					"value": 0.0
+				},
+				{
+					"name": "_InvFade",
+					"value": 0.1
+				}
+				],
+				"vector2Parameters": [],
+				"vector3Parameters": [],
+				"vector4Parameters": [
+				{
+					"name": "_MainTex_scaleOffset",
+					"value": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 0.0,
+						"w": 0.0
+					}
+				}
+				]
+			},
+			"meshName": ""
+		},
+		"emissionData": {
+			"durationSec": 1.0,
+			"isLooping": false,
+			"prewarm": false,
+			"startDelay": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"rateOverTime": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"maxParticles": 2,
+			"bursts": [
+			{
+				"time": 0.0,
+				"count": {
+					"mode": "Constant",
+					"value": 1.0
+				},
+				"cycles": 1,
+				"cycleInterval": 0.01,
+				"probability": 1.0
+			}
+			],
+			"emitterVelocity": 0
+		},
+		"modules": [
+		{
+			"type": "SizeOverLifetimeModule",
+			"separateAxes": false,
+			"size": {
+				"mode": "Curve",
+				"points": [
+				{
+					"time": 0.0,
+					"value": 0.7127642,
+					"inTangent": 0.2872358,
+					"outTangent": 0.2872358
+				},
+				{
+					"time": 1.0,
+					"value": 1.0,
+					"inTangent": 0.2872358,
+					"outTangent": 0.2872358
+				}
+				]
+			}
+		}
+		]
+	}
+	]
+}

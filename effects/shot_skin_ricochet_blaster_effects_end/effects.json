@@ -1,0 +1,818 @@
+{
+	"particleSystems": [
+	{
+		"transform3dData": {
+			"position": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			}
+		},
+		"initialData": {
+			"lifetime": {
+				"mode": "TwoConstants",
+				"value1": 0.3,
+				"value2": 0.4
+			},
+			"speed": {
+				"mode": "Constant",
+				"value": 400.0
+			},
+			"isSize3d": true,
+			"sizeX": {
+				"mode": "TwoConstants",
+				"value1": 0.1,
+				"value2": 0.05
+			},
+			"sizeY": {
+				"mode": "TwoConstants",
+				"value1": 0.2,
+				"value2": 0.1
+			},
+			"sizeZ": {
+				"mode": "TwoConstants",
+				"value1": 0.5,
+				"value2": 0.4
+			},
+			"isRotation3d": false,
+			"rotation": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"color": {
+				"mode": "Color",
+				"color": -1
+			},
+			"simulationSpace": "Local"
+		},
+		"shapeData": {
+			"shape": "Cone",
+			"position": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"radius": 20.0,
+			"angle": 0.9599311,
+			"length": 500.0,
+			"radiusThickness": 1.0,
+			"arc": 6.28318548
+		},
+		"rendererData": {
+			"textureName": "Sparks",
+			"blendMode": "ADD",
+			"renderMode": "Stretch",
+			"alignment": "View",
+			"lengthScale": 1.0,
+			"speedScale": 0.02,
+			"softParticles": false,
+			"invFade": 0.0,
+			"pivot": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"particleMaterial": "Default",
+			"materialParams": {
+				"shader": "TankiOnline/Particles/Additive",
+				"textureParameters": [
+				{
+					"name": "_MainTex",
+					"textureName": "Sparks"
+				}
+				],
+				"scalarParameters": [
+				{
+					"name": "_UseSoftParticles",
+					"value": 0.0
+				},
+				{
+					"name": "_InvFade",
+					"value": 1.0
+				}
+				],
+				"vector2Parameters": [],
+				"vector3Parameters": [],
+				"vector4Parameters": [
+				{
+					"name": "_MainTex_scaleOffset",
+					"value": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 0.0,
+						"w": 0.0
+					}
+				}
+				]
+			},
+			"meshName": []
+		},
+		"emissionData": {
+			"durationSec": 0.3,
+			"isLooping": false,
+			"prewarm": false,
+			"startDelay": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"rateOverTime": {
+				"mode": "TwoConstants",
+				"value1": 80.0,
+				"value2": 90.0
+			},
+			"maxParticles": 27,
+			"emitterVelocity": 0
+		},
+		"modules": [
+		{
+			"type": "AccelerationModule",
+			"gravityModifier": {
+				"mode": "Constant",
+				"value": 1.0
+			}
+		},
+		{
+			"type": "VelocityOverLifetimeModule",
+			"linearX": {
+				"mode": "TwoConstants",
+				"value1": -300.0,
+				"value2": 300.0
+			},
+			"linearY": {
+				"mode": "TwoConstants",
+				"value1": 200.0,
+				"value2": 100.0
+			},
+			"linearZ": {
+				"mode": "TwoConstants",
+				"value1": -300.0,
+				"value2": 300.0
+			},
+			"orbitalX": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"orbitalY": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"orbitalZ": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"orbitalOffsetX": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"orbitalOffsetY": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"orbitalOffsetZ": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"radial": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"speedModifier": {
+				"mode": "Constant",
+				"value": 1.0
+			}
+		},
+		{
+			"type": "SizeOverLifetimeModule",
+			"separateAxes": true,
+			"x": {
+				"mode": "Curve",
+				"points": [
+				{
+					"time": 0.0,
+					"value": 0.7659574,
+					"inTangent": -0.7659574,
+					"outTangent": -0.7659574
+				},
+				{
+					"time": 1.0,
+					"value": 0.0,
+					"inTangent": -0.7659574,
+					"outTangent": -0.7659574
+				}
+				]
+			},
+			"y": {
+				"mode": "Curve",
+				"points": [
+				{
+					"time": 0.0,
+					"value": 0.0,
+					"inTangent": 0.0,
+					"outTangent": 1.0
+				},
+				{
+					"time": 1.0,
+					"value": 1.0,
+					"inTangent": 1.0,
+					"outTangent": 0.0
+				}
+				]
+			},
+			"z": {
+				"mode": "Curve",
+				"points": [
+				{
+					"time": 0.0,
+					"value": 0.0,
+					"inTangent": 0.0,
+					"outTangent": 1.0
+				},
+				{
+					"time": 1.0,
+					"value": 1.0,
+					"inTangent": 1.0,
+					"outTangent": 0.0
+				}
+				]
+			}
+		},
+		{
+			"type": "SpeedModule"
+		}
+		]
+	},
+	{
+		"transform3dData": {
+			"position": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			}
+		},
+		"initialData": {
+			"lifetime": {
+				"mode": "TwoConstants",
+				"value1": 0.2,
+				"value2": 0.4
+			},
+			"speed": {
+				"mode": "Constant",
+				"value": 300.0
+			},
+			"isSize3d": true,
+			"sizeX": {
+				"mode": "TwoConstants",
+				"value1": 0.1,
+				"value2": 0.08
+			},
+			"sizeY": {
+				"mode": "TwoConstants",
+				"value1": 0.2,
+				"value2": 0.1
+			},
+			"sizeZ": {
+				"mode": "TwoConstants",
+				"value1": 0.12,
+				"value2": 0.08
+			},
+			"isRotation3d": false,
+			"rotation": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"color": {
+				"mode": "Color",
+				"color": -1
+			},
+			"simulationSpace": "Local"
+		},
+		"shapeData": {
+			"shape": "Cone",
+			"position": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"radius": 30.0000019,
+			"angle": 1.30899692,
+			"length": 500.0,
+			"radiusThickness": 1.0,
+			"arc": 6.28318548
+		},
+		"rendererData": {
+			"textureName": "Sparks",
+			"blendMode": "ADD",
+			"renderMode": "Stretch",
+			"alignment": "View",
+			"lengthScale": 2.0,
+			"speedScale": 0.02,
+			"softParticles": false,
+			"invFade": 0.0,
+			"pivot": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"particleMaterial": "Default",
+			"materialParams": {
+				"shader": "TankiOnline/Particles/Additive",
+				"textureParameters": [
+				{
+					"name": "_MainTex",
+					"textureName": "Sparks"
+				}
+				],
+				"scalarParameters": [
+				{
+					"name": "_UseSoftParticles",
+					"value": 0.0
+				},
+				{
+					"name": "_InvFade",
+					"value": 1.0
+				}
+				],
+				"vector2Parameters": [],
+				"vector3Parameters": [],
+				"vector4Parameters": [
+				{
+					"name": "_MainTex_scaleOffset",
+					"value": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 0.0,
+						"w": 0.0
+					}
+				}
+				]
+			},
+			"meshName": []
+		},
+		"emissionData": {
+			"durationSec": 0.4,
+			"isLooping": false,
+			"prewarm": false,
+			"startDelay": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"rateOverTime": {
+				"mode": "TwoConstants",
+				"value1": 50.0,
+				"value2": 60.0
+			},
+			"maxParticles": 24,
+			"emitterVelocity": 0
+		},
+		"modules": [
+		{
+			"type": "AccelerationModule",
+			"gravityModifier": {
+				"mode": "Constant",
+				"value": 1.5
+			}
+		},
+		{
+			"type": "SizeOverLifetimeModule",
+			"separateAxes": true,
+			"x": {
+				"mode": "Curve",
+				"points": [
+				{
+					"time": 0.0,
+					"value": 1.0,
+					"inTangent": -2.0,
+					"outTangent": -2.0
+				},
+				{
+					"time": 1.0,
+					"value": 0.3297882,
+					"inTangent": 0.0,
+					"outTangent": 0.0
+				}
+				]
+			},
+			"y": {
+				"mode": "Curve",
+				"points": [
+				{
+					"time": 0.0,
+					"value": 0.0,
+					"inTangent": 0.0,
+					"outTangent": 1.0
+				},
+				{
+					"time": 1.0,
+					"value": 1.0,
+					"inTangent": 1.0,
+					"outTangent": 0.0
+				}
+				]
+			},
+			"z": {
+				"mode": "Curve",
+				"points": [
+				{
+					"time": 0.0,
+					"value": 1.0,
+					"inTangent": -2.0,
+					"outTangent": -2.0
+				},
+				{
+					"time": 1.0,
+					"value": 0.3510666,
+					"inTangent": 0.0,
+					"outTangent": 0.0
+				}
+				]
+			}
+		},
+		{
+			"type": "SpeedModule"
+		}
+		]
+	},
+	{
+		"transform3dData": {
+			"position": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			}
+		},
+		"initialData": {
+			"lifetime": {
+				"mode": "Constant",
+				"value": 0.1
+			},
+			"speed": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"isSize3d": false,
+			"size": {
+				"mode": "Constant",
+				"value": 10.0
+			},
+			"isRotation3d": false,
+			"rotation": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"color": {
+				"mode": "Color",
+				"color": -1
+			},
+			"simulationSpace": "Local"
+		},
+		"shapeData": {
+			"shape": "Point",
+			"position": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"radius": 0.0,
+			"angle": 0.0,
+			"length": 0.0,
+			"radiusThickness": 0.0,
+			"arc": 0.0
+		},
+		"rendererData": {
+			"textureName": "Sparks_Flash",
+			"blendMode": "NORMAL",
+			"renderMode": "Billboard",
+			"alignment": "View",
+			"lengthScale": 2.0,
+			"speedScale": 0.0,
+			"softParticles": false,
+			"invFade": 0.0,
+			"pivot": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"particleMaterial": "Default",
+			"materialParams": {
+				"shader": "TankiOnline/Particles/AlphaBlended NoMultiply",
+				"textureParameters": [
+				{
+					"name": "_MainTex",
+					"textureName": "Sparks_Flash"
+				}
+				],
+				"scalarParameters": [
+				{
+					"name": "_UseSoftParticles",
+					"value": 0.0
+				},
+				{
+					"name": "_InvFade",
+					"value": 3.0
+				}
+				],
+				"vector2Parameters": [],
+				"vector3Parameters": [],
+				"vector4Parameters": [
+				{
+					"name": "_MainTex_scaleOffset",
+					"value": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 0.0,
+						"w": 0.0
+					}
+				}
+				]
+			},
+			"meshName": []
+		},
+		"emissionData": {
+			"durationSec": 1.0,
+			"isLooping": false,
+			"prewarm": false,
+			"startDelay": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"rateOverTime": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"maxParticles": 2,
+			"bursts": [
+			{
+				"time": 0.0,
+				"count": {
+					"mode": "Constant",
+					"value": 1.0
+				},
+				"cycles": 1,
+				"cycleInterval": 0.01,
+				"probability": 1.0
+			}
+			],
+			"emitterVelocity": 0
+		},
+		"modules": [
+		{
+			"type": "SizeOverLifetimeModule",
+			"separateAxes": false,
+			"size": {
+				"mode": "Curve",
+				"points": [
+				{
+					"time": 0.0,
+					"value": 0.0,
+					"inTangent": 1.0,
+					"outTangent": 1.0
+				},
+				{
+					"time": 1.0,
+					"value": 1.0,
+					"inTangent": 1.0,
+					"outTangent": 1.0
+				}
+				]
+			}
+		}
+		]
+	},
+	{
+		"transform3dData": {
+			"position": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			}
+		},
+		"initialData": {
+			"lifetime": {
+				"mode": "TwoConstants",
+				"value1": 0.4,
+				"value2": 0.5
+			},
+			"speed": {
+				"mode": "Constant",
+				"value": 200.0
+			},
+			"isSize3d": true,
+			"sizeX": {
+				"mode": "TwoConstants",
+				"value1": 0.1,
+				"value2": 0.08
+			},
+			"sizeY": {
+				"mode": "TwoConstants",
+				"value1": 0.2,
+				"value2": 0.1
+			},
+			"sizeZ": {
+				"mode": "TwoConstants",
+				"value1": 0.08,
+				"value2": 0.08
+			},
+			"isRotation3d": false,
+			"rotation": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"color": {
+				"mode": "Color",
+				"color": -1
+			},
+			"simulationSpace": "Local"
+		},
+		"shapeData": {
+			"shape": "Cone",
+			"position": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"radius": 20.0,
+			"angle": 0.436332315,
+			"length": 500.0,
+			"radiusThickness": 1.0,
+			"arc": 6.28318548
+		},
+		"rendererData": {
+			"textureName": "Sparks",
+			"blendMode": "ADD",
+			"renderMode": "Stretch",
+			"alignment": "View",
+			"lengthScale": 1.0,
+			"speedScale": 0.02,
+			"softParticles": false,
+			"invFade": 0.0,
+			"pivot": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"particleMaterial": "Default",
+			"materialParams": {
+				"shader": "TankiOnline/Particles/Additive",
+				"textureParameters": [
+				{
+					"name": "_MainTex",
+					"textureName": "Sparks"
+				}
+				],
+				"scalarParameters": [
+				{
+					"name": "_UseSoftParticles",
+					"value": 0.0
+				},
+				{
+					"name": "_InvFade",
+					"value": 1.0
+				}
+				],
+				"vector2Parameters": [],
+				"vector3Parameters": [],
+				"vector4Parameters": [
+				{
+					"name": "_MainTex_scaleOffset",
+					"value": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 0.0,
+						"w": 0.0
+					}
+				}
+				]
+			},
+			"meshName": []
+		},
+		"emissionData": {
+			"durationSec": 0.5,
+			"isLooping": false,
+			"prewarm": false,
+			"startDelay": {
+				"mode": "Constant",
+				"value": 0.0
+			},
+			"rateOverTime": {
+				"mode": "Constant",
+				"value": 30.0
+			},
+			"maxParticles": 15,
+			"emitterVelocity": 0
+		},
+		"modules": [
+		{
+			"type": "AccelerationModule",
+			"gravityModifier": {
+				"mode": "Constant",
+				"value": 2.0
+			}
+		},
+		{
+			"type": "SizeOverLifetimeModule",
+			"separateAxes": false,
+			"size": {
+				"mode": "Curve",
+				"points": [
+				{
+					"time": 0.0,
+					"value": 1.0,
+					"inTangent": -0.6808548,
+					"outTangent": -0.6808548
+				},
+				{
+					"time": 1.0,
+					"value": 0.3191452,
+					"inTangent": -0.6808548,
+					"outTangent": -0.6808548
+				}
+				]
+			}
+		},
+		{
+			"type": "SpeedModule"
+		}
+		]
+	}
+	]
+}
