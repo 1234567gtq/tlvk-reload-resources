@@ -774,7 +774,14 @@
 				"nameEN":"Electric",
 				"descriptionRU":"Дайте вашим противникам знать, что они останутся в шоке от встречи с вами на поле боя.",
 				"descriptionEN":"Let your enemies know that they're in for a shock when they meet you on the battlefield."
-			}
+			},
+			{
+                "id":"blaster",
+                "nameRU":"Бластер",
+                "nameEN":"Blaster",
+                "descriptionRU":"Зелёные лучи межгалактического бластера будут наносить сокрушительные удары, не оставляя ничего живого на своём пути.",
+                "descriptionEN":"The green LED rays of intergalactic blaster will inflict devastating blows, leaving nothing on their way."
+            }
 		]
 	},
 	{
@@ -920,6 +927,13 @@
 				"nameEN":"Electric",
 				"descriptionRU":"Дайте вашим противникам знать, что они останутся в шоке от встречи с вами на поле боя.",
 				"descriptionEN":"Let your enemies know that they're in for a shock when they meet you on the battlefield."
+			},
+			{
+				"id":"blaster",
+				"nameRU":"Бластер",
+				"nameEN":"Blaster",
+				"descriptionRU":"Красные лучи межгалактического бластера будут наносить сокрушительные удары, не оставляя ничего живого на своём пути.",
+				"descriptionEN":"The red LED rays of intergalactic blaster will inflict devastating blows, leaving nothing on their way."
 			}
 		]
 	},

@@ -203,66 +203,75 @@
 		[
 			{
 				"id":"standard",
-				"explosionResourceId":"shot_skin_twins_standard_explosion",
-				"shotResourceId":"shot_skin_twins_standard_shot",
-				"muzzleResourceId":"shot_skin_twins_standard_muzzle",
+				"explosion":"shot_skin_twins_standard_explosion",
+				"shot":"shot_skin_twins_standard_shot",
+				"muzzle":"shot_skin_twins_standard_muzzle",
 				"shotLight":"twins_default_shot",
 				"shellLight":"twins_default_shell",
 				"hitLight":"twins_default_hit"
 			},
 			{
 				"id":"sky",
-				"explosionResourceId":"shot_skin_twins_sky_explosion",
-				"shotResourceId":"shot_skin_twins_sky_shot",
-				"muzzleResourceId":"shot_skin_twins_sky_muzzle",
+				"explosion":"shot_skin_twins_sky_explosion",
+				"shot":"shot_skin_twins_sky_shot",
+				"muzzle":"shot_skin_twins_sky_muzzle",
 				"shotLight":"twins_sky_shot",
 				"shellLight":"twins_sky_shell",
 				"hitLight":"twins_sky_hit"
 			},
 			{
 				"id":"gold",
-				"explosionResourceId":"shot_skin_twins_gold_explosion",
-				"shotResourceId":"shot_skin_twins_gold_shot",
-				"muzzleResourceId":"shot_skin_twins_gold_muzzle",
+				"explosion":"shot_skin_twins_gold_explosion",
+				"shot":"shot_skin_twins_gold_shot",
+				"muzzle":"shot_skin_twins_gold_muzzle",
 				"shotLight":"twins_gold_shot",
 				"shellLight":"twins_gold_shell",
 				"hitLight":"twins_gold_hit"
 			},
 			{
 				"id":"darkmoon",
-				"explosionResourceId":"shot_skin_twins_darkmoon_explosion",
-				"shotResourceId":"shot_skin_twins_darkmoon_shot",
-				"muzzleResourceId":"shot_skin_twins_darkmoon_muzzle",
+				"explosion":"shot_skin_twins_darkmoon_explosion",
+				"shot":"shot_skin_twins_darkmoon_shot",
+				"muzzle":"shot_skin_twins_darkmoon_muzzle",
 				"shotLight":"twins_darkmoon_shot",
 				"shellLight":"twins_darkmoon_shell",
 				"hitLight":"twins_darkmoon_hit"
 			},
 			{
 				"id":"violet",
-				"explosionResourceId":"shot_skin_twins_violet_explosion",
-				"shotResourceId":"shot_skin_twins_violet_shot",
-				"muzzleResourceId":"shot_skin_twins_violet_muzzle",
+				"explosion":"shot_skin_twins_violet_explosion",
+				"shot":"shot_skin_twins_violet_shot",
+				"muzzle":"shot_skin_twins_violet_muzzle",
 				"shotLight":"twins_violet_shot",
 				"shellLight":"twins_violet_shell",
 				"hitLight":"twins_violet_hit"
 			},
 			{
 				"id":"coral",
-				"explosionResourceId":"shot_skin_twins_coral_explosion",
-				"shotResourceId":"shot_skin_twins_coral_shot",
-				"muzzleResourceId":"shot_skin_twins_coral_muzzle",
+				"explosion":"shot_skin_twins_coral_explosion",
+				"shot":"shot_skin_twins_coral_shot",
+				"muzzle":"shot_skin_twins_coral_muzzle",
 				"shotLight":"twins_coral_shot",
 				"shellLight":"twins_coral_shell",
 				"hitLight":"twins_coral_hit"
 			},
 			{
 				"id":"electric",
-				"explosionResourceId":"shot_skin_twins_electric_explosion",
-				"shotResourceId":"shot_skin_twins_electric_shot",
-				"muzzleResourceId":"shot_skin_twins_electric_muzzle",
+				"explosion":"shot_skin_twins_electric_explosion",
+				"shot":"shot_skin_twins_electric_shot",
+				"muzzle":"shot_skin_twins_electric_muzzle",
 				"shotLight":"twins_electric_shot",
 				"shellLight":"twins_electric_shell",
 				"hitLight":"twins_electric_hit"
+			},
+			{
+				"id":"blaster",
+				"effectsFlash":"shot_skin_twins_blaster_effects_flash",
+				"effectsBeam":"shot_skin_twins_blaster_effects_beam",
+				"effectsEnd":"shot_skin_ricochet_blaster_effects_end",
+				"shotLight":"twins_blaster_shot",
+				"shellLight":"twins_blaster_shell",
+				"hitLight":"twins_blaster_hit"
 			}
 			
 		],
@@ -270,8 +279,8 @@
 		[
 			{
 				"id":"standard",
-				"damageBallResourceId":"shot_skin_isida_standard_ball",
-				"damageRayResourceId":"shot_skin_isida_standard_ray",
+				"damageBall":"shot_skin_isida_standard_ball",
+				"damageRay":"shot_skin_isida_standard_ray",
 				"enemyStartLight":"isida_default_enemy_start",
 				"enemyLoopLight":"isida_default_enemy_loop",
 				"enemyBeamLight":"isida_default_enemy_beam",
@@ -280,8 +289,8 @@
 			},
 			{
 				"id":"sun",
-				"damageBallResourceId":"shot_skin_isida_sun_ball",
-				"damageRayResourceId":"shot_skin_isida_sun_ray",
+				"damageBall":"shot_skin_isida_sun_ball",
+				"damageRay":"shot_skin_isida_sun_ray",
 				"enemyStartLight":"isida_sun_enemy_start",
 				"enemyLoopLight":"isida_sun_enemy_loop",
 				"enemyBeamLight":"isida_sun_enemy_beam",
@@ -290,8 +299,8 @@
 			},
 			{
 				"id":"fire",
-				"damageBallResourceId":"shot_skin_isida_fire_ball",
-				"damageRayResourceId":"shot_skin_isida_fire_ray",
+				"damageBall":"shot_skin_isida_fire_ball",
+				"damageRay":"shot_skin_isida_fire_ray",
 				"enemyStartLight":"isida_fire_enemy_start",
 				"enemyLoopLight":"isida_fire_enemy_loop",
 				"enemyBeamLight":"isida_fire_enemy_beam",
@@ -300,8 +309,8 @@
 			},
 			{
 				"id":"heal",
-				"damageBallResourceId":"shot_skin_isida_heal_ball",
-				"damageRayResourceId":"shot_skin_isida_heal_ray",
+				"damageBall":"shot_skin_isida_heal_ball",
+				"damageRay":"shot_skin_isida_heal_ray",
 				"enemyStartLight":"isida_heal_enemy_start",
 				"enemyLoopLight":"isida_heal_enemy_loop",
 				"enemyBeamLight":"isida_heal_enemy_beam",
@@ -619,6 +628,17 @@
 				"shellLight":"ricochet_electric_shell",
 				"ricochetLight":"ricochet_electric_ricochet",
 				"hitLight":"ricochet_electric_hit"
+			},
+			{
+				"id":"blaster",
+				"effectsFlash":"shot_skin_ricochet_blaster_effects_flash",
+				"effectsBeam":"shot_skin_ricochet_blaster_effects_beam",
+				"effectsSparks":"shot_skin_ricochet_blaster_effects_end",
+				"effectsEnd":"shot_skin_ricochet_blaster_effects_end",
+				"shotLight":"ricochet_blaster_shot",
+				"shellLight":"ricochet_blaster_shell",
+				"ricochetLight":"ricochet_blaster_shell",
+				"hitLight":"ricochet_blaster_hit"
 			}
 		],
 		"gauss":

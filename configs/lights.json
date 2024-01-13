@@ -1,5 +1,16 @@
 [
 	{
+		"id":"crusader_standard_activation",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":57599, "intensity":0, "time":0 },
+			{ "attenuationBegin":500, "attenuationEnd":2000, "color":57599, "intensity":1, "time":100 },
+			{ "attenuationBegin":300, "attenuationEnd":800, "color":57599, "intensity":2, "time":600 },
+			{ "attenuationBegin":200, "attenuationEnd":900, "color":57599, "intensity":2, "time":1100 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":57599, "intensity":0, "time":1500 }
+        ]
+	},
+	{
 		"id":"vulcan_standard_fire",
 		"light":
 		[
@@ -31,14 +42,6 @@
 			{ "attenuationBegin":1, "attenuationEnd":2, "color":16711680, "intensity":0, "time":1800 }
         ]
 	},
-
-
-
-
-
-
-
-
 
 	{
 		"id":"gauss_standard_shot",
@@ -457,6 +460,39 @@
 			{ "attenuationBegin":300, "attenuationEnd":600, "color":42751, "intensity":0, "time":600 }
         ]
 	},
+	
+	{
+		"id":"ricochet_blaster_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":500, "color":16711680, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16711680, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_blaster_shell",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":350, "color":16711680, "intensity":1.5, "time":0 }
+        ]
+	},
+	{
+		"id":"ricochet_blaster_ricochet",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":400, "color":16711680, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":200, "color":16711680, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_blaster_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":16711680, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":16711680, "intensity":0, "time":600 }
+        ]
+	},
+	
 	{
 		"id":"smoky_standard_shot",
 		"light":
@@ -1112,6 +1148,33 @@
 		[
 			   { "attenuationBegin": 200, "attenuationEnd": 400, "color":35049, "intensity": 0.3, "time": 0 },
               { "attenuationBegin": 1, "attenuationEnd": 2, "color":35049, "intensity": 0, "time": 300 }
+        ]
+	},
+	
+	
+	
+	
+	{
+		"id":"twins_blaster_shot",
+		"light":
+		[
+			{	"attenuationBegin":300,	"attenuationEnd":500, "color":65280, "intensity": 1.3, "time": 0 },
+			{	"attenuationBegin":1,	"attenuationEnd":2, "color":65280, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"twins_blaster_shell",
+		"light":
+		[
+			{ "attenuationBegin": 100, "attenuationEnd": 300, "color":65280, "intensity": 1.5, "time": 0 }
+        ]
+	},
+	{
+		"id":"twins_blaster_hit",
+		"light":
+		[
+			{ "attenuationBegin": 200, "attenuationEnd": 400, "color":65280, "intensity": 1.3, "time": 0 },
+            { "attenuationBegin": 1, "attenuationEnd": 2, "color":65280, "intensity": 0, "time": 300 }
         ]
 	},
 	
