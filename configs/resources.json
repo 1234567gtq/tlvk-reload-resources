@@ -2265,6 +2265,8 @@
 { "id":"paint_gladiator_preview", "version":"1", "type":"images", "isLazy":"true" },
 { "id":"paint_eagle", "version":"1", "type":"textures" },
 { "id":"paint_eagle_preview", "version":"1", "type":"images", "isLazy":"true" },
+{ "id":"paint_onyx", "version":"1", "type":"textures" },
+{ "id":"paint_onyx_preview", "version":"1", "type":"images", "isLazy":"true" },
 { "id":"paint_glide", "version":"1", "type":"textures" },
 { "id":"paint_glide_preview", "version":"1", "type":"images", "isLazy":"true" },
 { "id":"paint_lucky_7", "version":"1", "type":"textures" },

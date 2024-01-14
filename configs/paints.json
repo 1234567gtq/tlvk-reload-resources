@@ -4164,6 +4164,13 @@
 	"descriptionEN":"A paint prepared especially for representatives of the Polish community on the stage of professional parkour. The colors and name have been chosen to reflect what the members of this team can do in the game: soar in the sky like eagles while presenting themselves stylishly at the same time."
 },
 {
+	"id":"onyx",
+	"nameRU":"Оникс",
+	"nameEN":"Onyx",
+	"descriptionRU":"Краска создана для профессиональных паркуристов польского сообщества. Название и цвета покрытия выбраны неслучайно: они показывают, что участники паркурной команды могут парить в небе, как орлы, и при этом стильно выглядеть.",
+	"descriptionEN":"A paint prepared especially for representatives of the Polish community on the stage of professional parkour. The colors and name have been chosen to reflect what the members of this team can do in the game: soar in the sky like eagles while presenting themselves stylishly at the same time."
+},
+{
 	"id":"glide",
 	"nameRU":"Глайд",
 	"nameEN":"Glide",
