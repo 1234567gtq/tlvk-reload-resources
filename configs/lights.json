@@ -1,5 +1,69 @@
 [
 	{
+		"id":"striker_standard_rocket",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":400, "color":16753920, "intensity":1, "time":0 }
+        ]
+	},
+	{
+		"id":"striker_standard_explosion",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16753920, "intensity":0, "time":0 },
+			{ "attenuationBegin":400, "attenuationEnd":500, "color":16753920, "intensity":1, "time":130 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16753920, "intensity":0, "time":400 }
+        ]
+	},
+	{
+		"id":"striker_toxic_explosion",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":393052, "intensity":0, "time":0 },
+			{ "attenuationBegin":400, "attenuationEnd":500, "color":393052, "intensity":1, "time":130 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":393052, "intensity":0, "time":400 }
+        ]
+	},
+	{
+		"id":"striker_crimson_explosion",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16711680, "intensity":0, "time":0 },
+			{ "attenuationBegin":400, "attenuationEnd":500, "color":16711680, "intensity":1, "time":130 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16711680, "intensity":0, "time":400 }
+        ]
+	},
+	{
+		"id":"striker_blue_explosion",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":6056702, "intensity":0, "time":0 },
+			{ "attenuationBegin":400, "attenuationEnd":500, "color":6056702, "intensity":1, "time":130 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":6056702, "intensity":0, "time":400 }
+        ]
+	},
+	{
+		"id":"striker_violet_explosion",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":13320191, "intensity":0, "time":0 },
+			{ "attenuationBegin":400, "attenuationEnd":500, "color":13320191, "intensity":1, "time":130 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":13320191, "intensity":0, "time":400 }
+        ]
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+	{
 		"id":"crusader_standard_activation",
 		"light":
 		[
@@ -8,6 +72,17 @@
 			{ "attenuationBegin":300, "attenuationEnd":800, "color":57599, "intensity":2, "time":600 },
 			{ "attenuationBegin":200, "attenuationEnd":900, "color":57599, "intensity":2, "time":1100 },
 			{ "attenuationBegin":1, "attenuationEnd":2, "color":57599, "intensity":0, "time":1500 }
+        ]
+	},
+	{
+		"id":"ares_standard_activation",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16733440, "intensity":0, "time":0 },
+			{ "attenuationBegin":500, "attenuationEnd":2000, "color":16733440, "intensity":1, "time":100 },
+			{ "attenuationBegin":300, "attenuationEnd":800, "color":16733440, "intensity":2, "time":600 },
+			{ "attenuationBegin":200, "attenuationEnd":900, "color":16733440, "intensity":2, "time":1100 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16733440, "intensity":0, "time":1500 }
         ]
 	},
 	{

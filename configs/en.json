@@ -7,6 +7,7 @@
 	"TIP_5":"Want to change control or graphics settings? Press «H» to open settings.",
 	"TIP_6":"You don't drive a tank - you are the tank!",
 	"TIP_7":"TLVK has been ground-up rewritten in update «2.6».",
+	"TIP_8":"The game interface appeared in update «2.7».",
 	
 	"HEADER_RANK_UP":"RANKS",
 	"PREMIUM":"Premium",
@@ -54,9 +55,7 @@
 	
 	"MAP_LIST":"MAP LIST",
 	"SELECTED_MAP":"SELECTED MAP",
-	"SUMMER":"Summer",
-	"WINTER":"Winter",
-	"SPECIAL":"Special",
+	
 	"THEME":"Theme",
 	"SKYBOX":"Skybox",
 	"BILLBOARD":"Billboard",
@@ -88,6 +87,8 @@
 	"TURN_ACCELERATION":"Turn acceleration (rad/s²)",
 	"TURN_DECELERATION":"Turn deceleration (rad/s²)",
 	"TURN_REVERSE_ACCELERATION":"Turn reverse acceleration (rad/s²)",
+	"OPTIMAL_SURFACE_DISTANCE":"Optimal surface distance (cm)",
+	"TILT_STABILITY_SCALE":"Tilt stability scale (cond. units)",
 	
 	"RANGE":"Range (cm)",
 	"CONE_ANGLE":"Cone angle (rad)",

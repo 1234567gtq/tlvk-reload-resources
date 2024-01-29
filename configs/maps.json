@@ -1,5 +1,172 @@
 [
 	{
+		"id":"deck-9_old_summer",
+		"nameRU":"Палуба 9",
+		"nameEN":"Deck-9",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"deathtrack_old_summer",
+		"nameRU":"Трек",
+		"nameEN":"Deathtrack",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"cross_old_summer",
+		"nameRU":"Перекрёсток",
+		"nameEN":"Cross",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"courage_old_summer",
+		"nameRU":"Кураж",
+		"nameEN":"Courage",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"combe_old_summer",
+		"nameRU":"Овраг",
+		"nameEN":"Combe",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"chernobyl_old_summer",
+		"nameRU":"Чернобыль",
+		"nameEN":"Chernobyl",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"canyon_old_summer",
+		"nameRU":"Каньон",
+		"nameEN":"Canyon",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"camp_old_summer",
+		"nameRU":"Лагерь",
+		"nameEN":"Camp",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"bridges_old_summer",
+		"nameRU":"Мосты",
+		"nameEN":"Bridges",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"brest_ii_old_summer",
+		"nameRU":"Брест II",
+		"nameEN":"Brest II",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"brest_i_old_summer",
+		"nameRU":"Брест I",
+		"nameEN":"Brest I",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"boombox_old_summer",
+		"nameRU":"Бумбокс",
+		"nameEN":"Boombox",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"bobruisk_old_summer",
+		"nameRU":"Бобруйск",
+		"nameEN":"Bobruisk",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"berlin_old_summer",
+		"nameRU":"Берлин",
+		"nameEN":"Berlin",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"barda_old_summer",
+		"nameRU":"Барда",
+		"nameEN":"Barda",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"atra_ii_old_summer",
+		"nameRU":"Атра II",
+		"nameEN":"Atra II",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"atra_i_old_summer",
+		"nameRU":"Атра I",
+		"nameEN":"Atra I",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"arena_old_summer",
+		"nameRU":"Арена",
+		"nameEN":"Arena",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+
+
+	{
+		"id":"sandbox_old_summer",
+		"nameRU":"Песочница",
+		"nameEN":"Sandbox",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	
+	
+	{
+		"id":"osa_old_summer",
+		"nameRU":"Оса",
+		"nameEN":"Osa",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	
+	
+
+	{
 		"id":"new_year_2013_winter",
 		"nameRU":"Новый Год 2013",
 		"nameEN":"New Year 2013",
