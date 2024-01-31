@@ -1,4 +1,160 @@
 [
+
+
+
+
+	{
+		"id":"iran_old_summer",
+		"nameRU":"Иран",
+		"nameEN":"Iran",
+		"skyBox":"iran_day",
+		"theme":"iran",
+		"category":"summer_old"
+	},
+	{
+		"id":"industrial_zone_old_summer",
+		"nameRU":"Промзона",
+		"nameEN":"Industrial Zone",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"hill_old_summer",
+		"nameRU":"Холм",
+		"nameEN":"Hill",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"highways_old_summer",
+		"nameRU":"Шоссе",
+		"nameEN":"Highways",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"highland_ii_old_summer",
+		"nameRU":"Плато II",
+		"nameEN":"Highland II",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"highland_i_old_summer",
+		"nameRU":"Плато I",
+		"nameEN":"Highland I",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"gubakha_old_summer",
+		"nameRU":"Губаха",
+		"nameEN":"Gubakha",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"gravity_old_summer",
+		"nameRU":"Гравити",
+		"nameEN":"Gravity",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"garder_old_summer",
+		"nameRU":"Гардер",
+		"nameEN":"Garder",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"fort_knox_iii_old_summer",
+		"nameRU":"Форт Нокс III",
+		"nameEN":"Fort Knox III",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"fort_knox_ii_old_summer",
+		"nameRU":"Форт Нокс II",
+		"nameEN":"Fort Knox II",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"fort_knox_i_old_summer",
+		"nameRU":"Форт Нокс I",
+		"nameEN":"Fort Knox I",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"forest_old_summer",
+		"nameRU":"Форест",
+		"nameEN":"Forest",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"farm_old_summer",
+		"nameRU":"Ферма",
+		"nameEN":"Farm",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"esplanade_old_summer",
+		"nameRU":"Эспланада",
+		"nameEN":"Esplanade",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"dusseldorf_old_summer",
+		"nameRU":"Дюссельдорф",
+		"nameEN":"Dusseldorf",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"duel_old_summer",
+		"nameRU":"Дуэль",
+		"nameEN":"Duel",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"duality_old_summer",
+		"nameRU":"Дуалити",
+		"nameEN":"Duality",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"desert_old_summer",
+		"nameRU":"Пустыня",
+		"nameEN":"Desert",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
 	{
 		"id":"deck-9_old_summer",
 		"nameRU":"Палуба 9",
@@ -143,7 +299,14 @@
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
-
+	{
+		"id":"abyss_old_summer",
+		"nameRU":"Бездна",
+		"nameEN":"Abyss",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
 
 	{
 		"id":"sandbox_old_summer",
