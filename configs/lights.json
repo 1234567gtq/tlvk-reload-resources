@@ -1,5 +1,15 @@
 [
 	{
+		"id":"hunter_standard_activation",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":200, "color":43775, "intensity":1, "time":0 },
+			{ "attenuationBegin":1000, "attenuationEnd":2000, "color":43775, "intensity":1.5, "time":1100 },
+			{ "attenuationBegin":1500, "attenuationEnd":5000, "color":43775, "intensity":2, "time":1200 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":43775, "intensity":0, "time":1300 }
+        ]
+	},
+	{
 		"id":"striker_standard_rocket",
 		"light":
 		[

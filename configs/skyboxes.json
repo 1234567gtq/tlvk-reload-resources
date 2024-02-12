@@ -35,6 +35,11 @@
 		"nameEN":"Winter day"
 	},
 	{
+		"id":"winter_old",
+		"nameRU":"Зима (старая)",
+		"nameEN":"Winter (old)"
+	},
+	{
 		"id":"rio_day",
 		"nameRU":"Рио день",
 		"nameEN":"Rio day"

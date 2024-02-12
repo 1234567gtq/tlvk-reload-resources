@@ -1,0 +1,44 @@
+<map version="1.0">
+  <static-geometry>
+    <prop library-name="Landscape Old" group-name="Grass&amp;dirt Tiles" name="Grass 3x3">
+      <rotation>
+        <z>0.000000</z>
+      </rotation>
+      <position>
+        <x>500.000</x>
+        <y>0.000</y>
+        <z>0.000</z>
+      </position>
+      <texture-name>Grass 3x3 var1</texture-name>
+    </prop>
+  </static-geometry>
+  <collision-geometry>
+    <collision-plane id="0">
+      <width>1500.000</width>
+      <length>1500.000</length>
+      <position>
+        <x>250.000</x>
+        <y>-250.000</y>
+        <z>0.000</z>
+      </position>
+      <rotation>
+        <x>0.000000</x>
+        <y>0.000000</y>
+        <z>-1.570796</z>
+      </rotation>
+    </collision-plane>
+  </collision-geometry>
+  <spawn-points>
+    <spawn-point type="dm" free="true">
+      <position>
+        <x>250.000</x>
+        <y>-228.822</y>
+        <z>0.000</z>
+      </position>
+      <rotation>
+        <z>0.000</z>
+      </rotation>
+    </spawn-point>
+  </spawn-points>
+  <bonus-regions/>
+</map>

@@ -88,7 +88,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -220,7 +220,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb2">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -605,7 +605,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -924,7 +924,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -1177,7 +1177,7 @@
         <z>1200.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -1221,7 +1221,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="vik">
+    <prop library-name="Fence Old" group-name="fence_b" name="vik">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -1518,7 +1518,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb1">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -1551,7 +1551,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb1">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb1">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -1628,7 +1628,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -1771,7 +1771,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2090,7 +2090,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2112,7 +2112,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -2189,7 +2189,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -2321,7 +2321,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -2376,7 +2376,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of4">
+    <prop library-name="Fence Old" group-name="out_fence" name="of4">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2431,7 +2431,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -2893,7 +2893,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -2926,7 +2926,7 @@
         <z>1200.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_a" name="Fence Old5">
+    <prop library-name="Fence Old" group-name="fence_a" name="fence5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3047,7 +3047,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -3344,7 +3344,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -3399,7 +3399,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb1">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -3828,7 +3828,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -4554,7 +4554,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb1">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -4565,7 +4565,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -4719,7 +4719,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb2">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb2">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -4906,7 +4906,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -5005,7 +5005,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_a" name="Fence Old6">
+    <prop library-name="Fence Old" group-name="fence_a" name="fence6">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -5027,7 +5027,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -5808,7 +5808,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -6083,7 +6083,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -6204,7 +6204,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6259,7 +6259,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -6281,7 +6281,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -6292,7 +6292,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -6424,7 +6424,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -6886,7 +6886,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of1">
+    <prop library-name="Fence Old" group-name="out_fence" name="of1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -6930,7 +6930,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -6952,7 +6952,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -7183,7 +7183,7 @@
         <z>-300.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -7216,7 +7216,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb2">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb2">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -7326,7 +7326,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7502,7 +7502,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -7590,7 +7590,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb1">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb1">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -7766,7 +7766,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -8008,7 +8008,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -8283,7 +8283,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb1">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8382,7 +8382,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -8558,7 +8558,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -8613,7 +8613,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -8624,7 +8624,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8679,7 +8679,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -8866,7 +8866,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -9284,7 +9284,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -9955,7 +9955,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -10054,7 +10054,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb1">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb1">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -10076,7 +10076,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -10131,7 +10131,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -10384,7 +10384,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb2">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb2">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -10439,7 +10439,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb1">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10494,7 +10494,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of1">
+    <prop library-name="Fence Old" group-name="out_fence" name="of1">
       <rotation>
         <z>3.141592</z>
       </rotation>
@@ -10648,7 +10648,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of1">
+    <prop library-name="Fence Old" group-name="out_fence" name="of1">
       <rotation>
         <z>10.995574</z>
       </rotation>
@@ -10725,7 +10725,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb1">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb1">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10758,7 +10758,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_a" name="Fence Old5">
+    <prop library-name="Fence Old" group-name="fence_a" name="fence5">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -10868,7 +10868,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb1">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -10956,7 +10956,7 @@
         <z>300.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -11154,7 +11154,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_a" name="Fence Old3">
+    <prop library-name="Fence Old" group-name="fence_a" name="fence3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -11187,7 +11187,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb2">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb2">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -11495,7 +11495,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb1">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -11517,7 +11517,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -11528,7 +11528,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -11583,7 +11583,7 @@
         <z>900.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb2">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb2">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -11605,7 +11605,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_a" name="Fence Old5">
+    <prop library-name="Fence Old" group-name="fence_a" name="fence5">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -11781,7 +11781,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="hor">
+    <prop library-name="Fence Old" group-name="fence_b" name="hor">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -12232,7 +12232,7 @@
         <z>2700.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of4">
+    <prop library-name="Fence Old" group-name="out_fence" name="of4">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -12298,7 +12298,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -12375,7 +12375,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -12386,7 +12386,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_a" name="Fence Old5">
+    <prop library-name="Fence Old" group-name="fence_a" name="fence5">
       <rotation>
         <z>3.141593</z>
       </rotation>
@@ -12606,7 +12606,7 @@
         <z>-600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb1">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb1">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -13376,7 +13376,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -13563,7 +13563,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of1">
+    <prop library-name="Fence Old" group-name="out_fence" name="of1">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -13794,7 +13794,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -13816,7 +13816,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_a" name="Fence Old2">
+    <prop library-name="Fence Old" group-name="fence_a" name="fence2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -13882,7 +13882,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -14058,7 +14058,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -14113,7 +14113,7 @@
         <z>1800.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb1">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb1">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -14520,7 +14520,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -14553,7 +14553,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb1">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -14608,7 +14608,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_a" name="Fence Old2">
+    <prop library-name="Fence Old" group-name="fence_a" name="fence2">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -14685,7 +14685,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb1">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb1">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -15114,7 +15114,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -15136,7 +15136,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -15158,7 +15158,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb2">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb2">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -15235,7 +15235,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="Fence Old_b" name="fb2">
+    <prop library-name="Fence Old" group-name="fence_b" name="fb2">
       <rotation>
         <z>6.283185</z>
       </rotation>
@@ -15378,7 +15378,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -15664,7 +15664,7 @@
         <z>0.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -15708,7 +15708,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -15862,7 +15862,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -15895,7 +15895,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -15950,7 +15950,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>9.424778</z>
       </rotation>
@@ -15994,7 +15994,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>4.712389</z>
       </rotation>
@@ -16005,7 +16005,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -16192,7 +16192,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -16489,7 +16489,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>1.570796</z>
       </rotation>
@@ -16731,7 +16731,7 @@
         <z>1200.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>0.000000</z>
       </rotation>
@@ -16797,7 +16797,7 @@
         <z>600.000</z>
       </position>
     </prop>
-    <prop library-name="Fence Old" group-name="out_Fence Old" name="of3">
+    <prop library-name="Fence Old" group-name="out_fence" name="of3">
       <rotation>
         <z>1.570796</z>
       </rotation>
