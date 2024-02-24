@@ -1,5 +1,165 @@
 [
 	{
+		"id":"shaft_standard_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":16731904, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16731904, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"shaft_standard_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":700, "color":16731904, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16731904, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"shaft_eclipse_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":16777215, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16777215, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"shaft_eclipse_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":700, "color":16777215, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16777215, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"shaft_noon_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":15787660, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":15787660, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"shaft_noon_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":700, "color":15787660, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":15787660, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"shaft_green_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":3658286, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":3658286, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"shaft_green_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":700, "color":3658286, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":3658286, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"shaft_aqua_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":3653556, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":3653556, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"shaft_aqua_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":700, "color":3653556, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":3653556, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"shaft_blue_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":24575, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":24575, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"shaft_blue_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":700, "color":24575, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":24575, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"shaft_blood_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":9502720, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":9502720, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"shaft_blood_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":700, "color":9502720, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":9502720, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"shaft_violet_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":13652735, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":13652735, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"shaft_violet_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":700, "color":13652735, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":13652735, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"shaft_void_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":7078000, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":7078000, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"shaft_void_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":700, "color":7078000, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":7078000, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"shaft_magma_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":9650944, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":9650944, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"shaft_magma_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":700, "color":9650944, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":9650944, "intensity":0, "time":600 }
+        ]
+	},
+	{
 		"id":"hunter_standard_activation",
 		"light":
 		[

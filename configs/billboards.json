@@ -1,8 +1,8 @@
 [	
 	{	
-		"id":"lunar_new_year_2024",
-		"nameRU":"Китайский Новый год 2024",
-		"nameEN":"Lunar New Year 2024"
+		"id":"valentine's_day_2024",
+		"nameRU":"День святого Валентина 2024",
+		"nameEN":"Valentine's Day 2024"
 	},
 	{	
 		"id":"standard",
@@ -108,6 +108,11 @@
 		"id":"new_year_2019",
 		"nameRU":"Новый Год 2019",
 		"nameEN":"New Year 2019"
+	},
+	{	
+		"id":"lunar_new_year_2024",
+		"nameRU":"Китайский Новый год 2024",
+		"nameEN":"Lunar New Year 2024"
 	},
 	{	
 		"id":"chinise_new_year_2022",
@@ -266,18 +271,15 @@
 	},
 	{	
 		"id":"mashable_awards",
-		"nameRU":"Mashable awards",
-		"nameEN":"Mashable awards"
+		"name":"Mashable awards"
 	},
 	{	
 		"id":"mashable_awards_final",
-		"nameRU":"Mashable awards final",
-		"nameEN":"Mashable awards final"
+		"name":"Mashable awards final"
 	},
 	{	
 		"id":"fwa",
-		"nameRU":"The FWA",
-		"nameEN":"The FWA"
+		"name":"The FWA"
 	},
 	{	
 		"id":"volvo_club",
@@ -286,18 +288,15 @@
 	},
 	{	
 		"id":"alternativaplatform",
-		"nameRU":"AlternativaPlatform",
-		"nameEN":"AlternativaPlatform"
+		"name":"AlternativaPlatform"
 	},
 	{	
 		"id":"alternativa",
-		"nameRU":"Alternativa",
-		"nameEN":"Alternativa"
+		"name":"Alternativa"
 	},
 	{	
 		"id":"alternativa3d",
-		"nameRU":"Alternativa3d",
-		"nameEN":"Alternativa3d"
+		"name":"Alternativa3d"
 	},
 	{	
 		"id":"vasya_was_here",

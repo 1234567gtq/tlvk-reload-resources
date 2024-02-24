@@ -129,6 +129,12 @@
 	"SPIN_DOWN_TIME":"Время остановки стволов (мс)",
 	"TEMPERATURE_HITTING_TIME":"Время до перегрева (мс)",
 	"TURRET_TURN_DECELERATION_COEFF":"Замедление поворота башни (%)",
+	"MAX_ENERGY":"Энергозапас (усл. ед.)",
+	"FAST_SHOT_ENERGY":"Энергия на выстрел навскидку (усл. ед.)",
+	"MIN_AIMED_SHOT_ENERGY":"Минимальная энергия на прицельный выстрел (усл. ед.)",
+	"HORIZONTAL_TARGETING_SPEED":"Скорость прицеливания по горизонтали (рад/с)",
+	"VERTICAL_TARGETING_SPEED":"Скорость прицеливания по вертикали (рад/с)",
+	"TARGETING_ACCELERATION":"Ускорение поворота в прицельном состоянии (рад/с²)",
 	
 	"ALTERNATE_CAMERA":"Альтернативное поведение камеры",
 	"DEBUG_MODE":"Режим отладки",
@@ -160,6 +166,7 @@
 	"MOUSE_CONTROL":"Управление мышью",
 	"MOUSE_SENSITIVITY":"Чувствительность мыши",
 	"MOUSE_INVERSION":"Инверсия мыши по вертикали",
+	"MOUSE_SHAFT_SCOPE_VERTICAL_INVERSION":"Инверсия мыши по вертикали в снайперском режиме Шафта",
 	"INVERSE_TURN_CONTROL":"Инверсное управление при движении назад",
 	"RESTORE_DEFAULT_BUTTONS":"Восстановить кнопки по умолчанию",
 	"KEYBOARD_KEY_LEFT":"Влево",
@@ -188,6 +195,7 @@
 	"GAME_ACTION_TOGGLE_TYPE_DRONE":"Локальный/удаленный дрон",
 	"GAME_ACTION_TOGGLE_VISIBLE_DRONE":"Показать/скрыть дрон",
 	
+	"GAME_ACTION_USE_MINE":"Использовать мину",
 	"GAME_ACTION_OVERDRIVE":"Овердрайв",
 	
 	"GAME_ACTION_SCREEN_SIZE_INCREASE":"Увеличить размер окна битвы",

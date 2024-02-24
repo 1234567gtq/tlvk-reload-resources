@@ -124,6 +124,12 @@
 	"SPIN_DOWN_TIME":"Barrels stopping time (ms)",
 	"TEMPERATURE_HITTING_TIME":"Time to overheat (ms)",
 	"TURRET_TURN_DECELERATION_COEFF":"Turret turning speed slowing (%)",
+	"MAX_ENERGY":"Energy reserve (cond. units)",
+	"FAST_SHOT_ENERGY":"Energy used per arcade shot (cond. units)",
+	"MIN_AIMED_SHOT_ENERGY":"Minimum energy used per sniping shot (cond. units)",
+	"HORIZONTAL_TARGETING_SPEED":"Horizontal aiming speed (rad/s)",
+	"VERTICAL_TARGETING_SPEED":"Vertical aiming speed (rad/s)",
+	"TARGETING_ACCELERATION":"Turning acceleration in sniping mode (rad/s²)",
 	
 	"CLOSE":"Close",
 	"EQUIP":"Equip",
@@ -160,6 +166,7 @@
 	"MOUSE_CONTROL":"Mouse controls",
 	"MOUSE_SENSITIVITY":"Mouse look sensitivity",
 	"MOUSE_INVERSION":"Mouse look vertical inversion",
+	"MOUSE_SHAFT_SCOPE_VERTICAL_INVERSION":"Mouse view vertical inversion for Shaft Sniping Mode",
 	"INVERSE_TURN_CONTROL":"Inverse turn controls while moving back",
 	"RESTORE_DEFAULT_BUTTONS":"Restore default buttons",
 	"KEYBOARD_KEY_LEFT":"Left",
@@ -188,6 +195,7 @@
 	"GAME_ACTION_TOGGLE_TYPE_DRONE":"Local/remote drone",
 	"GAME_ACTION_TOGGLE_VISIBLE_DRONE":"Show/hide drone",
 	
+	"GAME_ACTION_USE_MINE":"Drop Mine",
 	"GAME_ACTION_OVERDRIVE":"Overdrive",
 	
 	"GAME_ACTION_SCREEN_SIZE_INCREASE":"Increase battle screen size",

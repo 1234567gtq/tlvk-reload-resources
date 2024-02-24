@@ -7,6 +7,20 @@
 	"descriptionEN":"A tribute to the tradition of the classic tank, this simple color, so beloved by designers all over the world, has become a standard paint for factory models. This legendary color has the true connoisseurs returning to it, having tried everything in the world."
 },
 {
+	"id":"mono_apple",
+	"nameRU":"Яблоко",
+	"nameEN":"Apple",
+	"descriptionRU":"Если танк необходимо замаскировать на фоне растительности, то лучше использовать эту специальную расцветку. Стандартная зелёная расцветка является скорее данью традициям и хуже справляется с этой задачей.",
+	"descriptionEN":"If a tank needs to be camouflaged against the background of vegetation, then it is better to use this paint. The standard green paint is more of a tribute to tradition and copes with this task worse."
+},
+{
+	"id":"mono_aquamarine",
+	"nameRU":"Морской",
+	"nameEN":"Aquamarine",
+	"descriptionRU":"Расцветка танков береговой охраны. Большое число транспортных контейнеров проще всего перемещать водными путями, а на большой груз всегда находится большой разбойник.",
+	"descriptionEN":"Paint of the Coast Guard tanks. Most shipping containers are easiest to move by waterways, and when there is a big cargo, there is a big robber."
+},
+{
 	"id":"black",
 	"nameRU":"Чёрный",
 	"nameEN":"Black",
@@ -14,11 +28,32 @@
 	"descriptionEN":"This color has become the unofficial standard for the saboteur tank division, whose main task is to penetrate enemy territory during the night. Within military circles, these elite divisions have been nicknamed \"The black spots of death\"."
 },
 {
-	"id":"blue",
+	"id":"mono_blue",
 	"nameRU":"Синий",
 	"nameEN":"Blue",
 	"descriptionRU":"Эту расцветку оставили в официальном перечне, как память о провалившемся проекте разработки танка-амфибии «Сом». По задумке конструкторов, он должен был передвигаться по руслам неглубоких рек, и, благодаря синей расцветке, беспрепятственно проникать в глубокий вражеский тыл, оставаясь незамеченным.",
 	"descriptionEN":"This paint was added to the official list in memory of a failed project - the development of an amphibious tank codenamed \"Catfish\". Designers were planning on giving the \"Catfish\" the ability to move beneath the waters of shallow rivers, allowing it to take position behind enemy lines. The blue color would have been perfect for camouflage."
+},
+{
+	"id":"blue",
+	"nameRU":"Синий (старый)",
+	"nameEN":"Blue (old)",
+	"descriptionRU":"Эту расцветку оставили в официальном перечне, как память о провалившемся проекте разработки танка-амфибии «Сом». По задумке конструкторов, он должен был передвигаться по руслам неглубоких рек, и, благодаря синей расцветке, беспрепятственно проникать в глубокий вражеский тыл, оставаясь незамеченным.",
+	"descriptionEN":"This paint was added to the official list in memory of a failed project - the development of an amphibious tank codenamed \"Catfish\". Designers were planning on giving the \"Catfish\" the ability to move beneath the waters of shallow rivers, allowing it to take position behind enemy lines. The blue color would have been perfect for camouflage."
+},
+{
+	"id":"mono_azure",
+	"nameRU":"Синева",
+	"nameEN":"Blueness",
+	"descriptionRU":"Расцветка, разработанная для ховер-танков. Прототипы могли летать значительно выше и маскировка на фоне неба была практически необходима. Версии же для массового производства имеют оптимизированную высоту полёта на уровне традиционных танков и требуют стандартной маскировки. Покрытие, тем не менее закрепилось в официальном перечне.",
+	"descriptionEN":"This paint has been developed for hovering tanks. The prototypes could fly much higher and camouflage against the sky was practically necessary. Versions for mass production have an optimized flight altitude at the level of traditional tanks and require standard camouflage. The paint nevertheless was kept in the official catalog."
+},
+{
+	"id":"calm",
+	"nameRU":"Штиль",
+	"nameEN":"Calm",
+	"descriptionRU":"Специализированная расцветка для форсирования небольших рек. Имеет олеофобное покрытие, максимально быстро справляющееся с влагой на корпусе. Не защищает от солёной воды.",
+	"descriptionEN":"Specialized paint for traversing small rivers. It has a hydrophobic coating that quickly deals with moisture on the hull. It does not protect against salt water."
 },
 {
 	"id":"cedar",
@@ -47,6 +82,13 @@
 	"nameEN":"Confetti",
 	"descriptionRU":"Специальная краска для проведения вечеринок, праздников, юбилеев, свадеб и иных засекреченных спецопераций. Особенно интересные результаты можно получить, если это покрытие использовать в бригаде лёгких танков. Незабываемый фейерверк гарантирован для любых гостей — званых и не очень.",
 	"descriptionEN":"Getting married? Commemorating an anniversary? Throwing a party to celebrate your enemy biting the dust? Confetti is the paint for you. A Cake paint was originally planned, but the icing kept falling off, so it was deemed impractical."
+},
+{
+	"id":"mono_coral",
+	"nameRU":"Коралловый",
+	"nameEN":"Coral",
+	"descriptionRU":"Ремонтное покрытие, упрощающее проведение спектрального и ультразвукового анализа трещин в броне. Если танк применяется в чрезвычайно тяжёлых температурных и радиационных условиях, то практический смысл этой краски в том, чтобы не перекрашивать танк между частым техническим обслуживанием.",
+	"descriptionEN":"A repair coating that simplifies spectral and ultrasonic analysis of cracks in armor. If the tank is used in extremely difficult temperature and radiation conditions, then the practical purpose of this paint is to avoid repainting the tank between with technical maintenance."
 },
 {
 	"id":"corrosion",
@@ -98,6 +140,20 @@
 	"descriptionEN":"An experimental camouflage, developed for combat in tropical climates."
 },
 {
+	"id":"mono_fuchsia",
+	"nameRU":"Фуксия",
+	"nameEN":"Fuchsia",
+	"descriptionRU":"Расцветка, по слухам, разработанная для битв в цветочных полях. Где найти такие поля — никто не знает, но сама идея их существования завораживает. Не имея практичного применения, эта расцветка стала символизировать мечту.",
+	"descriptionEN":"According to rumors, this paint has been developed for battles in flower fields. No one knows where to find such fields, but the idea of their existence is fascinating. Having no practical usage, this paint symbolizes a dream."
+},
+{
+	"id":"mono_gold",
+	"nameRU":"Золотой",
+	"nameEN":"Gold",
+	"descriptionRU":"Расцветка, которую часто используют для тестовых образцов и машин технического обеспечения. Золотой цвет максимально привлекает внимание, даже если это просто краска. Игнорировать танки в этой расцветке считается плохим тоном.",
+	"descriptionEN":"A paint used often for test samples and maintenance vehicles. The Gold color is considered incredibly eye-catching, even if it's just a paint. Ignoring tanks with this color scheme is considered bad manners."
+},
+{
 	"id":"grasslands",
 	"nameRU":"Луга",
 	"nameEN":"Grasslands",
@@ -140,6 +196,13 @@
 	"descriptionEN":"Due to its high resistance to prolonged contact with salty water, smart tankers use this colour to paint their tanks from the inside, using it as a large barrel for salting cucumbers during winter time."
 },
 {
+	"id":"red",
+	"nameRU":"Бордовый",
+	"nameEN":"Maroon",
+	"descriptionRU":"Воплощение ярости и отваги, обладает также природной практичностью, позволяя деликатно скрывать пятна вражеской крови, неизбежно появляющиеся на корпусе, как бы вы ни аккуратничали.",
+	"descriptionEN":"The embodiment of rage and courage. It also has the practical application of being able to hide any traces of enemy blood that inevitably appear on the hull, no matter how careful you are."
+},
+{
 	"id":"mars",
 	"nameRU":"Марс",
 	"nameEN":"Mars",
@@ -154,11 +217,25 @@
 	"descriptionEN":"There is the misconception that this paint is intended as a replacement for varnishing surfaces. In reality, the reflective nature of this paint is intended to interfere with tracking and radar devices."
 },
 {
+	"id":"metallic_old",
+	"nameRU":"Металлик (старый)",
+	"nameEN":"Metallic (old)",
+	"descriptionRU":"Существует ошибочное мнение, что данной расцветкой пользуются в условиях дефицита лакокрасочных материалов. На самом деле — это специальное покрытие, особым образом отражающее свет. Бликовый шум, создаваемый таким покрытием, вносит помехи в работу некоторых систем наведения.",
+	"descriptionEN":"There is the misconception that this paint is intended as a replacement for varnishing surfaces. In reality, the reflective nature of this paint is intended to interfere with tracking and radar devices."
+},
+{
 	"id":"moss",
 	"nameRU":"Мох",
 	"nameEN":"Moss",
 	"descriptionRU":"Нет лучше способа спрятаться в тайге, чем стать частью тайги. Это покрытие как нельзя лучше соответствует такому принципу. Стоит только не забывать, что мох обычно растёт на северной стороне камней и деревьев. Также мох не перемещается активно по лесу, отстреливаясь от преследователей.",
 	"descriptionEN":"Blend in with the forest environment when stalking your enemies. But remember, moss does not usually move, nor does it fire at tanks, so doing any of those things might draw attention on your presence."
+},
+{
+	"id":"orange",
+	"nameRU":"Горчичный",
+	"nameEN":"Mustard",
+	"descriptionRU":"Шутка, зашедшая слишком далеко. Это действительно просто горчица, которой покрыт весь танк. Удивительно, но такая расцветка показала более высокую эффективность в пустыне, чем стандартная оранжевая. В рекомендациях к работе с этим покрытием не указано, что его нельзя использовать не по назначению.",
+	"descriptionEN":"A joke that went too far. This is, indeed, just mustard that covers the entire tank. Surprisingly, this color scheme turned out to be more effective in a desert than standard orange. Recommendations for working with that paint do not indicate that it should not be used for other purposes."
 },
 {
 	"id":"needle",
@@ -168,9 +245,16 @@
 	"descriptionEN":"Using spruce from sustainable-only areas, the \"Needle\" paint is prepared using 25 square meters of spruce, cut down and shredded into miniature wooden needles, and bound together using a special type of resin."
 },
 {
-	"id":"orange",
-	"nameRU":"Оранж",
+	"id":"mono_orange",
+	"nameRU":"Оранжевый",
 	"nameEN":"Orange",
+	"descriptionRU":"Данную расцветку не планировалось включать в официальный перечень, так как она не представляла особой практической ценности, кроме, быть может, посредственной маскировки в пустынной местности. Но армейские мозгоправы доказали, что оранжевый цвет положительно влияет на психологическое здоровье «пушечного мяса».",
+	"descriptionEN":"Originally, there were no plans to include this color in the official list, as it lacked any practical value, except maybe a decent camouflage in desert areas. However, army psychologists have proved that this particular hue of orange has a positive, therapeutic effect on shell-shocked tanks."
+},
+{
+	"id":"orange_old",
+	"nameRU":"Оранж (старый)",
+	"nameEN":"Orange (old)",
 	"descriptionRU":"Данную расцветку не планировалось включать в официальный перечень, так как она не представляла особой практической ценности, кроме, быть может, посредственной маскировки в пустынной местности. Но армейские мозгоправы доказали, что оранжевый цвет положительно влияет на психологическое здоровье «пушечного мяса».",
 	"descriptionEN":"Originally, there were no plans to include this color in the official list, as it lacked any practical value, except maybe a decent camouflage in desert areas. However, army psychologists have proved that this particular hue of orange has a positive, therapeutic effect on shell-shocked tanks."
 },
@@ -196,11 +280,11 @@
 	"descriptionEN":"An enhanced digital paint with a pattern that is intended to distract and disorient your enemy, making them more likely to miss when firing at you."
 },
 {
-	"id":"red",
+	"id":"mono_red",
 	"nameRU":"Красный",
 	"nameEN":"Red",
-	"descriptionRU":"Красный цвет — воплощение ярости и отваги, обладает также природной практичностью, позволяя деликатно скрывать пятна вражеской крови, неизбежно появляющиеся на корпусе, как бы вы ни аккуратничали.",
-	"descriptionEN":"The red color- the embodiment of rage and courage. it also has the practical allpication of being able to hide any traces of enemy blood."
+	"descriptionRU":"Расцветка для по-настоящему командных танкистов. Лучший способ замаскировать своих союзников — это вызвать огонь на себя. Ярко-красная расцветка не оставляет противнику выбора и вводит его в бешенство.",
+	"descriptionEN":"A paint for tankers whose priority is teamwork. It's the best way to conceal your allies and attract all enemy fire to yourself. The bright red color doesn't leave enemies a choice and enrages them."
 },
 {
 	"id":"red_urban",
@@ -280,6 +364,13 @@
 	"descriptionEN":"The best paint for battle in urban environments. Works especially well with roadside bushes."
 },
 {
+	"id":"mono_violet",
+	"nameRU":"Индиго",
+	"nameEN":"Violet",
+	"descriptionRU":"Отличительная расцветка научно-исследовательских машин, собирающих информацию о погодных, радиационных и других изменениях в окружающем пространстве. Используется боевыми машинами во время сопровождения исследователей или для того, чтобы привлекать к себе меньше внимания на спорных территориях.",
+	"descriptionEN":"Great paint for scientific research vehicles that collect information about the weather, radiation, and other changes in the surrounding environment. It is used by combat vehicles when transporting researchers or to attract less attention in questionable territories."
+},
+{
 	"id":"vortex",
 	"nameRU":"Вихрь",
 	"nameEN":"Vortex",
@@ -299,6 +390,13 @@
 	"nameEN":"Winter",
 	"descriptionRU":"Эта краска разработана специально для боёв на заснеженных картах и в условиях повышенной видимости. Лопата для самооткапывания танка из снега в комплект не входит по экономическим причинам.",
 	"descriptionEN":"This paint was specially developed for battle on snow-covered land. It was originally intended to include a snow shovel, but the finance department didn't approve the extra cost."
+},
+{
+	"id":"mono_yellow",
+	"nameRU":"Жёлтый",
+	"nameEN":"Yellow",
+	"descriptionRU":"Специальная расцветка дивизий «воинов востока», которые всегда атакуют своего противника заходя со стороны солнца. Ослепительное солнце переливается в расцветке миллионами бликов на восходе, и действительно снижает число попаданий по танку. Но только на восходе солнца.",
+	"descriptionEN":"This paint is used by the «East Warriors» divisions that always attack enemies from the side of the sun. On sunrise, the blinding sun shimmers in the paint with millions of glares and reduces how often a tank is hit. But only during the sunrise."
 },
 {
 	"id":"gentleman",
@@ -3672,83 +3770,6 @@
 	"descriptionEN":"Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament."
 },
 {
-	"id":"mono_apple",
-	"nameRU":"Моно яблоко",
-	"nameEN":"Mono Apple",
-	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
-	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
-},
-{
-	"id":"mono_aquamarine",
-	"nameRU":"Моно морской",
-	"nameEN":"Mono Aquamarine",
-	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
-	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
-},
-{
-	"id":"mono_azure",
-	"nameRU":"Моно лазурный",
-	"nameEN":"Mono Azure",
-	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
-	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
-},
-{
-	"id":"mono_blue",
-	"nameRU":"Моно синий",
-	"nameEN":"Mono Blue",
-	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
-	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
-},
-{
-	"id":"mono_coral",
-	"nameRU":"Моно коралловый",
-	"nameEN":"Mono Coral",
-	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
-	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
-},
-{
-	"id":"mono_fuchsia",
-	"nameRU":"Моно фуксия",
-	"nameEN":"Mono Fuchsia",
-	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
-	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
-},
-{
-	"id":"mono_gold",
-	"nameRU":"Моно золотой",
-	"nameEN":"Mono Gold",
-	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
-	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
-},
-{
-	"id":"mono_orange",
-	"nameRU":"Моно оранж",
-	"nameEN":"Mono Orange",
-	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
-	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
-},
-{
-	"id":"mono_red",
-	"nameRU":"Моно красный",
-	"nameEN":"Mono Red",
-	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
-	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
-},
-{
-	"id":"mono_violet",
-	"nameRU":"Моно индиго",
-	"nameEN":"Mono Violet",
-	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
-	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
-},
-{
-	"id":"mono_yellow",
-	"nameRU":"Моно жёлтый",
-	"nameEN":"Mono Yellow",
-	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
-	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
-},
-{
 	"id":"mr_smiley",
 	"nameRU":"Мистер Смайлик",
 	"nameEN":"Mr. Smiley",
@@ -4476,6 +4497,49 @@
 	"nameEN":"Snowman",
 	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
 	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+
+{
+	"id":"iron_days_2011",
+	"nameRU":"День защитника Отечества",
+	"nameEN":"Defender of the Fatherland Day",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
+{
+	"id":"iron_days_2012",
+	"nameRU":"День защитника Отечества",
+	"nameEN":"Defender of the Fatherland Day",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
+{
+	"id":"iron_days_2013",
+	"nameRU":"День защитника Отечества",
+	"nameEN":"Defender of the Fatherland Day",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
+{
+	"id":"iron_days_2014",
+	"nameRU":"День защитника Отечества",
+	"nameEN":"Defender of the Fatherland Day",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
+{
+	"id":"iron_days_2015",
+	"nameRU":"День защитника Отечества",
+	"nameEN":"Defender of the Fatherland Day",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
+{
+	"id":"iron_days_2016",
+	"nameRU":"День защитника Отечества",
+	"nameEN":"Defender of the Fatherland Day",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
 },
 {
 	"id":"gooseberry",
