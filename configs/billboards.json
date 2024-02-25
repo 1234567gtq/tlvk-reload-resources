@@ -40,6 +40,11 @@
 		"nameEN":"TLVK: Reload"
 	},
 	{	
+		"id":"tlvk_reload_4_years",
+		"nameRU":"TLVK: Reload 4 года",
+		"nameEN":"TLVK: Reload 4 years"
+	},
+	{	
 		"id":"tanker's_day_2023",
 		"nameRU":"День танкиста 2023",
 		"nameEN":"Tanker's day 2023"
