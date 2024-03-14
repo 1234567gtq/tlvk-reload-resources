@@ -1,0 +1,97 @@
+[
+	{
+		"id":"hd_blue",
+		"nameRU":"HD (синяя)",
+		"nameEN":"HD (blue)"
+	},
+	{
+		"id":"hd_red",
+		"nameRU":"HD (красная)",
+		"nameEN":"HD (red)"
+	},
+	{
+		"id":"hd_green",
+		"nameRU":"HD (зелёная)",
+		"nameEN":"HD (green)"
+	},
+	{
+		"id":"new_year_2020_blue",
+		"nameRU":"Новый Год 2020 (синяя)",
+		"nameEN":"New Year 2020 (blue)"
+	},
+	{
+		"id":"new_year_2020_red",
+		"nameRU":"Новый Год 2020 (красная)",
+		"nameEN":"New Year 2020 (red)"
+	},
+	{
+		"id":"new_year_2020_green",
+		"nameRU":"Новый Год 2020 (зелёная)",
+		"nameEN":"New Year 2020 (green)"
+	},
+	{
+		"id":"new_year_2020_yellow",
+		"nameRU":"Новый Год 2020 (жёлтая)",
+		"nameEN":"New Year 2020 (yellow)"
+	},
+	{
+		"id":"release_284_blue",
+		"nameRU":"Релиз 284 (синяя)",
+		"nameEN":"Release 284 (blue)"
+	},
+	{
+		"id":"release_284_red",
+		"nameRU":"Релиз 284 (красная)",
+		"nameEN":"Release 284 (red)"
+	},
+	{
+		"id":"release_284_green",
+		"nameRU":"Релиз 284 (зелёная)",
+		"nameEN":"Release 284 (green)"
+	},
+	{
+		"id":"release_284_yellow",
+		"nameRU":"Релиз 284 (жёлтая)",
+		"nameEN":"Release 284 (yellow)"
+	},
+	{
+		"id":"release_1.100_blue",
+		"nameRU":"Релиз 1.100 (синяя)",
+		"nameEN":"Release 1.100 (blue)"
+	},
+	{
+		"id":"release_1.100_red",
+		"nameRU":"Релиз 1.100 (красная)",
+		"nameEN":"Release 1.100 (red)"
+	},
+	{
+		"id":"release_1.100_green",
+		"nameRU":"Релиз 1.100 (зелёная)",
+		"nameEN":"Release 1.100 (green)"
+	},
+	{
+		"id":"release_1.100_yellow",
+		"nameRU":"Релиз 1.100 (жёлтая)",
+		"nameEN":"Release 1.100 (yellow)"
+	},
+	{
+		"id":"very_first_blue",
+		"nameRU":"Самая первая (синяя)",
+		"nameEN":"Very first (blue)"
+	},
+	{
+		"id":"very_first_red",
+		"nameRU":"Самая первая (красная)",
+		"nameEN":"Very first (red)"
+	},
+	{
+		"id":"very_first_green",
+		"nameRU":"Самая первая (зелёная)",
+		"nameEN":"Very first (green)"
+	},
+	{
+		"id":"very_first_yellow",
+		"nameRU":"Самая первая (жёлтая)",
+		"nameEN":"Very first (yellow)"
+	}
+]

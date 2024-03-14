@@ -81,6 +81,20 @@
 	"HEADER_UPGRADES":"УЛУЧШЕНИЯ",
 	"SKIN":"Скин",
 	
+	"HEADER_MINES":"МИНЫ",
+	"MINE":"Мина",
+	"REMOVE_ALL_MINES":"Удалить все мины",
+	
+	"HEADER_BONUSES":"ПРИПАСЫ",
+	"BONUS":"Припас",
+	"SIREN":"Сирена",
+	"SIREN_STANDARD":"Стандартная",
+	"SIREN_NEW_YEAR":"Новогодняя",
+	"SIREN_HALLOWEEN":"Хэллоуинская",
+	"BONUS_USE_PARACHUTE":"Использовать парашют",
+	"BONUS_HEIGHT_TO_GROUND":"Высота до земли",
+	"BONUS_FALL_SPEED":"Скорость падения",
+	
 	"MASS":"Масса (усл. ед)",
 	"DAMPING":"Демпфирование (усл. ед)",
 	"MAX_SPEED":"Максимальная скорость (см/с)",
@@ -136,11 +150,13 @@
 	"VERTICAL_TARGETING_SPEED":"Скорость прицеливания по вертикали (рад/с)",
 	"TARGETING_ACCELERATION":"Ускорение поворота в прицельном состоянии (рад/с²)",
 	
+	"SHOW_DROP_ZONES":"Показывать зоны ящиков",
 	"ALTERNATE_CAMERA":"Альтернативное поведение камеры",
-	"DEBUG_MODE":"Режим отладки",
-	"AXIS_INDICATOR":"Индикатор осей",
 	"DEBUG_PANEL":"Панель отладки",
+	"DEBUG_MODE":"Режим отладки",
 	"SPAWN_ARROW":"Стрелка спавна",
+	"AXIS_INDICATOR":"Индикатор осей",
+	
 	"SOUND_VOLUME":"Громкость:",
 	"BACKGROUND_SOUND":"Фоновый звук",
 	"CLEAR_STORAGE":"Отчистить сохранение",
@@ -188,7 +204,7 @@
 	"GAME_ACTION_PREV_TANK":"Предыдущий танк",
 	"GAME_ACTION_KILL_TANK":"Уничтожить танк",
 	"GAME_ACTION_RANK_UP":"Получить звание",
-	"GAME_ACTION_RANK_UP_SETTINGS":"Настройки получения звания",
+	"GAME_ACTION_RANK_UP_WINDOW":"Настройки получения звания",
 	"GAME_ACTION_FLIP_TANK":"Перевернуть танк",
 	"GAME_ACTION_RESTORE_TANK_STATE":"Восстановить положение танка",
 	"GAME_ACTION_MOVE_TANK_TO_CURSOR_POSITION":"Телепорт по курсору мыши",
@@ -196,6 +212,9 @@
 	"GAME_ACTION_TOGGLE_VISIBLE_DRONE":"Показать/скрыть дрон",
 	
 	"GAME_ACTION_USE_MINE":"Использовать мину",
+	"GAME_ACTION_MINES_WINDOW":"Настройки мины",
+	"GAME_ACTION_USE_BONUS":"Сбросить ящик",
+	"GAME_ACTION_BONUSES_WINDOW":"Настройки ящика",
 	"GAME_ACTION_OVERDRIVE":"Овердрайв",
 	
 	"GAME_ACTION_SCREEN_SIZE_INCREASE":"Увеличить размер окна битвы",

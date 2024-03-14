@@ -76,6 +76,20 @@
 	"HEADER_DEVICES":"DEVICES",
 	"SKIN":"Skin",
 	
+	"HEADER_MINES":"MINES",
+	"MINE":"Mine",
+	"REMOVE_ALL_MINES":"Remove all mines",
+	
+	"HEADER_BONUSES":"SUPPLIES",
+	"BONUS":"Supply",
+	"SIREN":"Siren",
+	"SIREN_STANDARD":"Standard",
+	"SIREN_NEW_YEAR":"New Year",
+	"SIREN_HALLOWEEN":"Halloween",
+	"BONUS_USE_PARACHUTE":"Use parachute",
+	"BONUS_HEIGHT_TO_GROUND":"Height to ground",
+	"BONUS_FALL_SPEED":"Fall speed",
+	
 	"MASS":"Mass (cond. units)",
 	"DAMPING":"Damping (cond. units)",
 	"MAX_SPEED":"Max speed (cm/s)",
@@ -136,11 +150,14 @@
 	"EQUIPPED":"Equipped",
 	"UPGRADE":"Upgrade",
 	"HEADER_UPGRADES":"UPGRADES",
+	
+	"SHOW_DROP_ZONES":"Show drop zones",
 	"ALTERNATE_CAMERA":"Alternate camera behaviour",
-	"DEBUG_MODE":"Debug mode",
-	"AXIS_INDICATOR":"Axis indicator",
 	"DEBUG_PANEL":"Debug panel",
+	"DEBUG_MODE":"Debug mode",
 	"SPAWN_ARROW":"Spawn arrow",
+	"AXIS_INDICATOR":"Axis indicator",
+	
 	"SOUND_VOLUME":"Sound volume:",
 	"BACKGROUND_SOUND":"Background sound",
 	"CLEAR_STORAGE":"Clear save",
@@ -188,7 +205,7 @@
 	"GAME_ACTION_PREV_TANK":"Prev tank",
 	"GAME_ACTION_KILL_TANK":"Kill tank",
 	"GAME_ACTION_RANK_UP":"Rank up",
-	"GAME_ACTION_RANK_UP_SETTINGS":"Rank up settings",
+	"GAME_ACTION_RANK_UP_WINDOW":"Rank up settings",
 	"GAME_ACTION_FLIP_TANK":"Flip tank",
 	"GAME_ACTION_RESTORE_TANK_STATE":"Restore tank position",
 	"GAME_ACTION_MOVE_TANK_TO_CURSOR_POSITION":"Teleport by mouse cursor",
@@ -196,6 +213,9 @@
 	"GAME_ACTION_TOGGLE_VISIBLE_DRONE":"Show/hide drone",
 	
 	"GAME_ACTION_USE_MINE":"Drop Mine",
+	"GAME_ACTION_MINES_WINDOW":"Mine settings",
+	"GAME_ACTION_USE_BONUS":"Drop Box",
+	"GAME_ACTION_BONUSES_WINDOW":"Box settings",
 	"GAME_ACTION_OVERDRIVE":"Overdrive",
 	
 	"GAME_ACTION_SCREEN_SIZE_INCREASE":"Increase battle screen size",
