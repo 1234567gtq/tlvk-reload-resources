@@ -1,8 +1,8 @@
 [	
 	{	
-		"id":"valentine's_day_2024",
-		"nameRU":"День святого Валентина 2024",
-		"nameEN":"Valentine's Day 2024"
+		"id":"spring_fever_2024",
+		"nameRU":"Весеннее обострение 2024",
+		"nameEN":"Spring Fever 2024"
 	},
 	{	
 		"id":"standard",
@@ -148,6 +148,11 @@
 		"id":"halloween_2018",
 		"nameRU":"Хеллоуин 2018",
 		"nameEN":"Halloween 2018"
+	},
+	{	
+		"id":"valentine's_day_2024",
+		"nameRU":"День святого Валентина 2024",
+		"nameEN":"Valentine's Day 2024"
 	},
 	{	
 		"id":"valentine's_day_2022",
