@@ -2546,6 +2546,8 @@
 { "id":"paint_spots_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_destroyed_tank", "version":"1", "type":"textures" },
 { "id":"paint_destroyed_tank_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_jokerge", "version":"1", "type":"textures" },
+{ "id":"paint_jokerge_preview", "version":"1", "type":"images", "isLazy":true },
 
 { "id":"skybox_hills_day_top", "version":"1", "type":"textures" },
 { "id":"skybox_hills_day_bottom", "version":"1", "type":"textures" },

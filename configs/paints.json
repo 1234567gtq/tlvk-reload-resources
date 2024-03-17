@@ -4583,6 +4583,11 @@
 	"description":"TODO"
 },
 {
+	"id":"jokerge",
+	"name":"Jokerge",
+	"description":"Jokerge"
+},
+{
 	"id":"destroyed_tank",
 	"nameRU":"Уничтоженный танк",
 	"nameEN":"Destroyed tank",
