@@ -670,6 +670,16 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Это олицетворение современности и элегантности в мире танкостроения. Он воплощает в себе инновационный дизайн и стиль, позволяющий выделиться на поле боя. Созданный из самых передовых материалов, «Хантер GT» обеспечивает не только великолепный внешний вид, но и непревзойдённую защиту!",
+				"descriptionEN":"This is the embodiment of modernity and elegance in the world of tank-building. It stands for innovative design and style, letting the bearer stand out on the battlefield. Made from the most high-end materials, Hunter GT delivers not only a great look, but also an unrivaled performance!",
+				"icon":"gt",
+				"emissionColor":"15763456",
+				"emissionColorSecond":"196607",
+				"emissionColorThreshold":"0.6"
+			},
+			{
 				"id":"tx_xt",
 				"name":"XT (Tanki X)",
 				"descriptionRU":"«Хантер» — точка отсчета для всех танков «Х». Это первый корпус, который пошел в массовое производство. Он повсеместно применяется по сей день. Это корпус танков первой волны, попытка достигнуть эффективного компромисса между бронированностью и маневренностью. «Хантер» появляется там, где нужно сражаться, а не отстреливаться.",
