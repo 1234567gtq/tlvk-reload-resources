@@ -13,6 +13,10 @@
 { "id":"ultimate_skin_ares_standard_lightning", "version":"1", "type":"textures" },
 { "id":"shot_skin_smoky_standard_effects_sparks", "version":"1", "type":"effects" },
 
+
+
+{ "id":"expl", "version":"3", "type":"effects" },
+
 { "id":"ultimate_skin_crusader_standard_shell", "version":"1", "type":"models" },
 
 { "id":"mine_hd_blue", "version":"2", "type":"models" },
@@ -158,6 +162,21 @@
 { "id":"sound_ares_heal", "version":"1", "type":"sounds" },
 { "id":"sound_ares_damage", "version":"1", "type":"sounds" },
 { "id":"sound_ares_hit", "version":"1", "type":"sounds" },
+
+
+{ "id":"sound_scorpion_shot", "version":"1", "type":"sounds" },
+{ "id":"sound_scorpion_hit", "version":"1", "type":"sounds" },
+{ "id":"sound_scorpion_ready", "version":"1", "type":"sounds" },
+{ "id":"sound_scorpion_rocket_flight", "version":"1", "type":"sounds" },
+{ "id":"sound_scorpion_shot_1", "version":"1", "type":"sounds" },
+{ "id":"sound_scorpion_shot_2", "version":"1", "type":"sounds" },
+{ "id":"sound_scorpion_shot_3", "version":"1", "type":"sounds" },
+{ "id":"sound_scorpion_open", "version":"1", "type":"sounds" },
+{ "id":"sound_scorpion_close", "version":"1", "type":"sounds" },
+{ "id":"sound_scorpion_servo", "version":"1", "type":"sounds" },
+{ "id":"sound_scorpion_hit_1", "version":"1", "type":"sounds" },
+{ "id":"sound_scorpion_hit_2", "version":"1", "type":"sounds" },
+{ "id":"sound_scorpion_hit_3", "version":"1", "type":"sounds" },
 
 
 { "id":"sound_hunter_activation", "version":"1", "type":"sounds" },
@@ -406,9 +425,9 @@
 { "id":"hull_hunter_m3", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_hunter_m2", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_hunter_m1", "version":"1", "type":"models",  "isLazy":false },
-{ "id":"hull_hunter_m0", "version":"1", "type":"models",  "isLazy":false },
-{ "id":"hull_hunter_dc", "version":"1", "type":"models",  "isLazy":false },
-{ "id":"hull_hunter_gt", "version":"1", "type":"models",  "isLazy":false },
+{ "id":"hull_hunter_m0", "version":"1", "type":"models" },
+{ "id":"hull_hunter_dc", "version":"1", "type":"models" },
+{ "id":"hull_hunter_gt", "version":"1", "type":"models" },
 
 { "id":"hull_crusader_hd", "version":"1", "type":"models" },
 { "id":"hull_crusader_xt", "version":"1", "type":"models" },
@@ -2545,10 +2564,10 @@
 { "id":"paint_goldolov_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_spots", "version":"1", "type":"textures" },
 { "id":"paint_spots_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"paint_destroyed_tank", "version":"1", "type":"textures" },
-{ "id":"paint_destroyed_tank_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_jokerge", "version":"1", "type":"textures" },
 { "id":"paint_jokerge_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_destroyed_tank", "version":"1", "type":"textures" },
+{ "id":"paint_destroyed_tank_preview", "version":"1", "type":"images", "isLazy":true },
 
 { "id":"skybox_hills_day_top", "version":"1", "type":"textures" },
 { "id":"skybox_hills_day_bottom", "version":"1", "type":"textures" },

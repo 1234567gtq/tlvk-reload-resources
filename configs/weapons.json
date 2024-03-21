@@ -815,5 +815,24 @@
 			"shotLight":"shaft_magma_shot",
 			"hitLight":"shaft_magma_hit"
 		}
+	],
+	"scorpion":
+	[
+		{
+			"id":"standard",
+			"flame":"shot_skin_thunder_standard_fire",
+			"stream":"shot_skin_smoky_standard_fire",
+			"smoke":"shot_skin_magnum_standard_smoke",
+			"tracer":"shot_skin_thunder_standard_tracer",
+			"explosion":"shot_skin_thunder_standard_explosion",
+			"rocketFlame":"shot_skin_striker_standard_flame",
+			"rocketSmoke":"shot_skin_striker_standard_smoke",
+			"rocketExplosion":"shot_skin_striker_standard_explosion",
+			"shotLight":"magnum_standard_shot",
+			"hitLight":"scorpion_standard_hit",
+			"shellLight":"smoky_standard_shell",
+			"rocketLight":"striker_standard_rocket",
+			"explosionLight":"striker_standard_explosion"
+		}
 	]
 }
