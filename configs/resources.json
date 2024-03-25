@@ -3133,6 +3133,8 @@
 { "id":"map_luxembourg_winter_preview", "version":"1", "type":"images",  "isLazy":true },
 { "id":"map_domburg_winter_preview", "version":"1", "type":"images",  "isLazy":true },
 { "id":"map_domburg_summer_preview", "version":"1", "type":"images",  "isLazy":true },
+{ "id":"map_cryto_summer", "version":"1", "type":"maps",  "isLazy":true },
+{ "id":"map_cryto_summer_preview", "version":"1", "type":"images",  "isLazy":true },
 
 { "id":"map_abyss_old_summer", "version":"1", "type":"maps" },
 { "id":"map_abyss_old_summer_preview", "version":"1", "type":"images", "isLazy":true },

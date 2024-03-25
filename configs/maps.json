@@ -1,5 +1,13 @@
 [
 	{
+		"id":"cryto_summer",
+		"nameRU":"Круто",
+		"nameEN":"Cryto",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
 		"id":"3th_library_summer",
 		"nameRU":"3-я библиотека",
 		"nameEN":"3th library",
