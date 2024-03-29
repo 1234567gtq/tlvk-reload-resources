@@ -1,8 +1,8 @@
 [	
 	{	
-		"id":"spring_fever_2024",
-		"nameRU":"Весеннее обострение 2024",
-		"nameEN":"Spring Fever 2024"
+		"id":"1_april_2024",
+		"nameRU":"1 апреля 2024",
+		"nameEN":"1 April 2024"
 	},
 	{	
 		"id":"standard",
@@ -63,6 +63,11 @@
 		"id":"tanker's_day_2016",
 		"nameRU":"День танкиста 2016",
 		"nameEN":"Tanker's day 2016"
+	},
+	{	
+		"id":"spring_fever_2024",
+		"nameRU":"Весеннее обострение 2024",
+		"nameEN":"Spring Fever 2024"
 	},
 	{	
 		"id":"summer_sport_games_2023",
