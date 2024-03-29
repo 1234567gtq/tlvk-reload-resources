@@ -1,5 +1,13 @@
 [
 	{
+		"id":"meteorite_tail",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":1000, "color":16753920, "intensity":1, "time":0 },
+			{ "attenuationBegin":100, "attenuationEnd":400, "color":16753920, "intensity":0, "time":1000 }
+        ]
+	},
+	{
 		"id":"scorpion_standard_hit",
 		"light":
 		[

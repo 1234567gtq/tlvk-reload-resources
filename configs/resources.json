@@ -13,9 +13,12 @@
 { "id":"ultimate_skin_ares_standard_lightning", "version":"1", "type":"textures" },
 { "id":"shot_skin_smoky_standard_effects_sparks", "version":"1", "type":"effects" },
 
+{ "id":"meteorite_hd", "version":"1", "type":"models" },
+{ "id":"meteorite_christmas", "version":"1", "type":"models" },
+{ "id":"meteorite_rocket", "version":"1", "type":"models" },
 
-
-{ "id":"expl", "version":"3", "type":"effects" },
+{ "id":"sound_meteorite_arriving", "version":"1", "type":"sounds" },
+{ "id":"sound_meteorite_distant", "version":"1", "type":"sounds" },
 
 { "id":"ultimate_skin_crusader_standard_shell", "version":"1", "type":"models" },
 
@@ -2270,10 +2273,14 @@
 { "id":"paint_for_players_1_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_fragment", "version":"1", "type":"textures" },
 { "id":"paint_fragment_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_gagarin_mount", "version":"1", "type":"textures" },
+{ "id":"paint_gagarin_mount_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_galacticus", "version":"1", "type":"textures" },
 { "id":"paint_galacticus_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_gingerbread", "version":"1", "type":"textures" },
 { "id":"paint_gingerbread_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_gloom", "version":"1", "type":"textures" },
+{ "id":"paint_gloom_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_go_pro", "version":"1", "type":"textures" },
 { "id":"paint_go_pro_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_goliafffffff", "version":"1", "type":"textures" },
@@ -2537,6 +2544,17 @@
 { "id":"paint_snowman", "version":"1", "type":"textures" },
 { "id":"paint_snowman_preview", "version":"1", "type":"images", "isLazy":true },
 
+{ "id":"paint_new_year_2011", "version":"1", "type":"textures" },
+{ "id":"paint_new_year_2011_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_new_year_2013", "version":"1", "type":"textures" },
+{ "id":"paint_new_year_2013_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_new_year_2016", "version":"1", "type":"textures" },
+{ "id":"paint_new_year_2016_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_new_year_2019", "version":"1", "type":"textures" },
+{ "id":"paint_new_year_2019_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_new_year_2022", "version":"1", "type":"textures" },
+{ "id":"paint_new_year_2022_preview", "version":"1", "type":"images", "isLazy":true },
+
 { "id":"paint_iron_days_2011", "version":"1", "type":"textures" },
 { "id":"paint_iron_days_2011_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_iron_days_2012", "version":"1", "type":"textures" },
@@ -2549,6 +2567,20 @@
 { "id":"paint_iron_days_2015_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_iron_days_2016", "version":"1", "type":"textures" },
 { "id":"paint_iron_days_2016_preview", "version":"1", "type":"images", "isLazy":true },
+
+{ "id":"paint_runet_prize_2010", "version":"1", "type":"textures" },
+{ "id":"paint_runet_prize_2010_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_runet_prize_2011", "version":"1", "type":"textures" },
+{ "id":"paint_runet_prize_2011_preview", "version":"1", "type":"images", "isLazy":true },
+
+{ "id":"paint_halloween_2010", "version":"1", "type":"textures" },
+{ "id":"paint_halloween_2010_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_halloween_2011", "version":"1", "type":"textures" },
+{ "id":"paint_halloween_2011_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_halloween_2013", "version":"1", "type":"textures" },
+{ "id":"paint_halloween_2013_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_halloween_2015", "version":"1", "type":"textures" },
+{ "id":"paint_halloween_2015_preview", "version":"1", "type":"images", "isLazy":true },
 
 { "id":"paint_gooseberry", "version":"2", "type":"textures" },
 { "id":"paint_gooseberry_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3133,8 +3165,6 @@
 { "id":"map_luxembourg_winter_preview", "version":"1", "type":"images",  "isLazy":true },
 { "id":"map_domburg_winter_preview", "version":"1", "type":"images",  "isLazy":true },
 { "id":"map_domburg_summer_preview", "version":"1", "type":"images",  "isLazy":true },
-{ "id":"map_cryto_summer", "version":"1", "type":"maps",  "isLazy":true },
-{ "id":"map_cryto_summer_preview", "version":"1", "type":"images",  "isLazy":true },
 
 { "id":"map_abyss_old_summer", "version":"1", "type":"maps" },
 { "id":"map_abyss_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3607,6 +3637,9 @@
 { "id":"map_new_year_2018_winter", "version":"1", "type":"maps" },
 { "id":"map_new_year_2018_winter_preview", "version":"1", "type":"images", "isLazy":true },
 
+{ "id":"map_cryto_summer", "version":"1", "type":"maps" },
+{ "id":"map_cryto_summer_preview", "version":"1", "type":"images", "isLazy":true },
+
 { "id":"proplib_bush", "version":"1", "type":"proplibs",  "isLazy":true },
 { "id":"proplib_city_buildings", "version":"1", "type":"proplibs",  "isLazy":true },
 { "id":"proplib_city_builds", "version":"1", "type":"proplibs",  "isLazy":true },
@@ -3801,6 +3834,5 @@
 { "id":"billboard_lunar_new_year_2024", "version":"1", "type":"textures" },
 { "id":"billboard_valentine's_day_2024", "version":"1", "type":"textures" },
 { "id":"billboard_tlvk_reload_4_years", "version":"1", "type":"textures" },
-{ "id":"billboard_spring_fever_2024", "version":"1", "type":"textures" },
-{ "id":"billboard_1_april_2024", "version":"1", "type":"textures" }
+{ "id":"billboard_spring_fever_2024", "version":"1", "type":"textures" }
 ]

@@ -1,0 +1,16 @@
+[
+	{
+		"id":"hd",
+		"name":"HD"
+	},
+	{
+		"id":"christmas",
+		"name":"Рождественская ёлка",
+		"nameEN":"Christmas Tree"
+	},
+	{
+		"id":"rocket",
+		"name":"Ракета",
+		"nameEN":"Rocket"
+	}
+]

@@ -36,7 +36,7 @@
 },
 {
 	"id":"blue",
-	"nameRU":"Синий (старый)",
+	"nameRU":"Синий (старая)",
 	"nameEN":"Blue (old)",
 	"descriptionRU":"Эту расцветку оставили в официальном перечне, как память о провалившемся проекте разработки танка-амфибии «Сом». По задумке конструкторов, он должен был передвигаться по руслам неглубоких рек, и, благодаря синей расцветке, беспрепятственно проникать в глубокий вражеский тыл, оставаясь незамеченным.",
 	"descriptionEN":"This paint was added to the official list in memory of a failed project - the development of an amphibious tank codenamed \"Catfish\". Designers were planning on giving the \"Catfish\" the ability to move beneath the waters of shallow rivers, allowing it to take position behind enemy lines. The blue color would have been perfect for camouflage."
@@ -218,7 +218,7 @@
 },
 {
 	"id":"metallic_old",
-	"nameRU":"Металлик (старый)",
+	"nameRU":"Металлик (старая)",
 	"nameEN":"Metallic (old)",
 	"descriptionRU":"Существует ошибочное мнение, что данной расцветкой пользуются в условиях дефицита лакокрасочных материалов. На самом деле — это специальное покрытие, особым образом отражающее свет. Бликовый шум, создаваемый таким покрытием, вносит помехи в работу некоторых систем наведения.",
 	"descriptionEN":"There is the misconception that this paint is intended as a replacement for varnishing surfaces. In reality, the reflective nature of this paint is intended to interfere with tracking and radar devices."
@@ -253,7 +253,7 @@
 },
 {
 	"id":"orange_old",
-	"nameRU":"Оранж (старый)",
+	"nameRU":"Оранж (старая)",
 	"nameEN":"Orange (old)",
 	"descriptionRU":"Данную расцветку не планировалось включать в официальный перечень, так как она не представляла особой практической ценности, кроме, быть может, посредственной маскировки в пустынной местности. Но армейские мозгоправы доказали, что оранжевый цвет положительно влияет на психологическое здоровье «пушечного мяса».",
 	"descriptionEN":"Originally, there were no plans to include this color in the official list, as it lacked any practical value, except maybe a decent camouflage in desert areas. However, army psychologists have proved that this particular hue of orange has a positive, therapeutic effect on shell-shocked tanks."
@@ -3614,6 +3614,13 @@
 	"descriptionEN":"They say that real collectors are interested not in the things themselves, but rather in their essence and the idea. Likewise, the tankers participating in the \"Assemble a Tank\" event show their interest and riskiness in finding the necessary parts. Assembling a tank is not easy. but really, really hard!"
 },
 {
+	"id":"gagarin_mount",
+	"nameRU":"Аппарат Гагарина",
+	"nameEN":"Gagarin Mount‎",
+	"descriptionRU":"Это покрытие в точности повторяет внешнюю оболочку ракеты-носителя «Восток», которая отправила легендарного космонавта Юрия Гагарина в его исторический полет в космос.",
+	"descriptionEN":"The paint was issued to all the tanks in honour of the Cosmonautics Day celebration."
+},
+{
 	"id":"galacticus",
 	"nameRU":"Галактикус",
 	"nameEN":"Galacticus‎",
@@ -3624,6 +3631,13 @@
 	"id":"gingerbread",
 	"nameRU":"Имбирный пряник",
 	"nameEN":"Gingerbread‎",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"gloom",
+	"nameRU":"Мрак",
+	"nameEN":"Gloom‎",
 	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
 	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
 },
@@ -3759,7 +3773,8 @@
 },
 {
 	"id":"lucky_coin",
-	"name":"Lucky Coin",
+	"nameRU":"Счастливая монета",
+	"nameEN":"Lucky Coin",
 	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
 	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
 },
@@ -4498,7 +4513,41 @@
 	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
 	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
 },
-
+{
+	"id":"new_year_2011",
+	"nameRU":"Новый Год",
+	"nameEN":"New Year",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
+{
+	"id":"new_year_2013",
+	"nameRU":"Новый Год",
+	"nameEN":"New Year",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
+{
+	"id":"new_year_2016",
+	"nameRU":"Новый Год",
+	"nameEN":"New Year",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
+{
+	"id":"new_year_2019",
+	"nameRU":"Новый Год",
+	"nameEN":"New Year",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
+{
+	"id":"new_year_2022",
+	"nameRU":"Новый Год",
+	"nameEN":"New Year",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
 {
 	"id":"iron_days_2011",
 	"nameRU":"День защитника Отечества",
@@ -4538,6 +4587,48 @@
 	"id":"iron_days_2016",
 	"nameRU":"День защитника Отечества",
 	"nameEN":"Defender of the Fatherland Day",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
+{
+	"id":"runet_prize_2010",
+	"nameRU":"Премия Рунета",
+	"nameEN":"Runet Award",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
+{
+	"id":"runet_prize_2011",
+	"nameRU":"Премия Рунета",
+	"nameEN":"Runet Award",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
+{
+	"id":"halloween_2010",
+	"nameRU":"Хэллоуин",
+	"nameEN":"Halloween",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
+{
+	"id":"halloween_2011",
+	"nameRU":"Хэллоуин",
+	"nameEN":"Halloween",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
+{
+	"id":"halloween_2013",
+	"nameRU":"Хэллоуин",
+	"nameEN":"Halloween",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
+{
+	"id":"halloween_2015",
+	"nameRU":"Хэллоуин",
+	"nameEN":"Halloween",
 	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
 	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
 },
