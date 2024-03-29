@@ -3834,5 +3834,6 @@
 { "id":"billboard_lunar_new_year_2024", "version":"1", "type":"textures" },
 { "id":"billboard_valentine's_day_2024", "version":"1", "type":"textures" },
 { "id":"billboard_tlvk_reload_4_years", "version":"1", "type":"textures" },
-{ "id":"billboard_spring_fever_2024", "version":"1", "type":"textures" }
+{ "id":"billboard_spring_fever_2024", "version":"1", "type":"textures" },
+{ "id":"billboard_1_april_2024", "version":"1", "type":"textures" }
 ]
