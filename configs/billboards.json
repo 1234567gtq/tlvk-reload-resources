@@ -1,8 +1,8 @@
 [	
 	{	
-		"id":"1_april_2024",
-		"nameRU":"1 апреля 2024",
-		"nameEN":"1 April 2024"
+		"id":"cosmonautics_day_2023",
+		"nameRU":"День космонавтики 2024",
+		"nameEN":"Cosmonautics day 2024"
 	},
 	{	
 		"id":"standard",
@@ -268,6 +268,11 @@
 		"id":"1_april",
 		"nameRU":"День смеха",
 		"nameEN":"1 April"
+	},
+	{	
+		"id":"1_april_2024",
+		"nameRU":"1 апреля 2024",
+		"nameEN":"1 April 2024"
 	},
 	{	
 		"id":"1_april_2023",
