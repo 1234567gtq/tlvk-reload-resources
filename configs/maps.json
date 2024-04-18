@@ -1,11 +1,116 @@
 [
+	
+	
+	
+	
+	
+	
+	
+	
+	{
+		"id":"containers_summer",
+		"nameRU":"Контейнеры",
+		"nameEN":"Containers",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
+		"id":"moon_silence_summer",
+		"nameRU":"Лунная Тишина",
+		"nameEN":"Moon Silence",
+		"skyBox":"space_day",
+		"theme":"space",
+		"category":"summer"
+	},
+	{
+		"id":"sandbox_2.0_summer",
+		"nameRU":"Песочница 2.0",
+		"nameEN":"Sandbox 2.0",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
+		"id":"home_2_summer",
+		"nameRU":"Дом 2",
+		"nameEN":"Home 2",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
+		"id":"home_1_summer",
+		"nameRU":"Дом 1",
+		"nameEN":"Home 1",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
 	{
 		"id":"cryto_summer",
 		"nameRU":"Круто",
 		"nameEN":"Cryto",
 		"skyBox":"hills_day",
 		"theme":"summer_day",
-		"category":"summer"
+		"category":"unofficial"
+	},
+	{
+		"id":"luxembourg_summer",
+		"nameRU":"Люксембург",
+		"nameEN":"Luxembourg",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
+		"id":"luxembourg_mm_winter",
+		"nameRU":"Люксембург ММ (зима)",
+		"nameEN":"Luxembourg MM (winter)",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"unofficial"
+	},
+	{
+		"id":"luxembourg_mm_summer",
+		"nameRU":"Люксембург ММ (лето)",
+		"nameEN":"Luxembourg MM (summer)",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
+		"id":"domburg_winter",
+		"nameRU":"Домбург (зима)",
+		"nameEN":"Domburg (winter)",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"unofficial"
+	},
+	{
+		"id":"domburg_summer",
+		"nameRU":"Домбург (лето)",
+		"nameEN":"Domburg (summer)",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	
+	{
+		"id":"halloween_2014_summer",
+		"nameRU":"Хэллоуин 2014",
+		"nameEN":"Halloween 2014",
+		"skyBox":"halloween",
+		"theme":"halloween",
+		"category":"special"
+	},
+	{
+		"id":"halloween_2012_summer",
+		"nameRU":"Хэллоуин 2012",
+		"nameEN":"Halloween 2012",
+		"skyBox":"halloween",
+		"theme":"halloween",
+		"category":"special"
 	},
 	{
 		"id":"3th_library_summer",
@@ -2273,22 +2378,6 @@
 		"category":"winter"
 	},
 	{
-		"id":"domburg_winter",
-		"nameRU":"Домбург",
-		"nameEN":"Domburg",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"luxembourg_winter",
-		"nameRU":"Люксембург",
-		"nameEN":"Luxembourg",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
@@ -3192,22 +3281,8 @@
 		"theme":"summer_day",
 		"category":"summer"
 	},
-	{
-		"id":"luxembourg_summer",
-		"nameRU":"Люксембург",
-		"nameEN":"Luxembourg",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"luxembourg_mm_summer",
-		"nameRU":"Люксембург MM",
-		"nameEN":"Luxembourg MM",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
+	
+	
 	{
 		"id":"tutorial_summer",
 		"nameRU":"Обучение",
@@ -3215,13 +3290,5 @@
 		"skyBox":"hills_day",
 		"theme":"summer_day",
 		"category":"special"
-	},
-	{
-		"id":"domburg_summer",
-		"nameRU":"Домбург",
-		"nameEN":"Domburg",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
 	}
 ]

@@ -2,8 +2,8 @@
 
 { "id":"shot_skin_twins_blaster_effects_flash", "version":"1", "type":"effects" },
 { "id":"shot_skin_twins_blaster_effects_beam", "version":"1", "type":"effects" },
-{ "id":"shot_skin_ricochet_blaster_effects_flash", "version":"1", "type":"effects" },
-{ "id":"shot_skin_ricochet_blaster_effects_beam", "version":"1", "type":"effects" },
+{ "id":"shot_skin_ricochet_blaster_effects_flash", "version":"2", "type":"effects" },
+{ "id":"shot_skin_ricochet_blaster_effects_beam", "version":"2", "type":"effects" },
 { "id":"shot_skin_ricochet_blaster_effects_end", "version":"1", "type":"effects" },
 { "id":"ultimate_skin_crusader_standard_effects_prefire", "version":"1", "type":"effects" },
 { "id":"ultimate_skin_ares_standard_effects_prefire", "version":"1", "type":"effects" },
@@ -19,6 +19,17 @@
 
 { "id":"sound_meteorite_arriving", "version":"1", "type":"sounds" },
 { "id":"sound_meteorite_distant", "version":"1", "type":"sounds" },
+
+{ "id":"sound_titan_activation", "version":"1", "type":"sounds" },
+{ "id":"sound_titan_deactivation", "version":"1", "type":"sounds" },
+{ "id":"sound_titan_shield_on", "version":"1", "type":"sounds" },
+{ "id":"sound_titan_loop", "version":"1", "type":"sounds" },
+{ "id":"ultimate_skin_titan_standard_blue_cell", "version":"1", "type":"textures" },
+{ "id":"ultimate_skin_titan_standard_blue_ray", "version":"1", "type":"textures" },
+{ "id":"ultimate_skin_titan_standard_blue_ray_tip", "version":"1", "type":"textures" },
+{ "id":"ultimate_skin_titan_standard_geosphere", "version":"1", "type":"models" },
+{ "id":"ultimate_skin_titan_standard_blue_sphere", "version":"1", "type":"multiframe_textures" },
+{ "id":"ultimate_skin_titan_standard_blue_generator", "version":"1", "type":"models" },
 
 { "id":"ultimate_skin_crusader_standard_shell", "version":"1", "type":"models" },
 
@@ -91,6 +102,7 @@
 { "id":"sound_ambient_summer_night", "version":"1", "type":"sounds" },
 { "id":"sound_ambient_space", "version":"1", "type":"sounds" },
 { "id":"sound_ambient_new_year", "version":"1", "type":"sounds" },
+{ "id":"sound_ambient_halloween", "version":"1", "type":"sounds" },
 
 { "id":"sound_engine_idle", "version":"1", "type":"sounds" },
 { "id":"sound_engine_accelerate", "version":"1", "type":"sounds" },
@@ -2240,6 +2252,12 @@
 { "id":"paint_tanki_sport_2022_2_diamonds_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_tanki_sport_2022_1_diamonds", "version":"1", "type":"textures" },
 { "id":"paint_tanki_sport_2022_1_diamonds_preview", "version":"1", "type":"images", "isLazy":true },
+
+{ "id":"paint_devil", "version":"1", "type":"textures" },
+{ "id":"paint_devil_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_devil_old", "version":"1", "type":"textures" },
+{ "id":"paint_devil_old_preview", "version":"1", "type":"images", "isLazy":true },
+
 { "id":"paint_easter_egg", "version":"1", "type":"textures" },
 { "id":"paint_easter_egg_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_eternity_2", "version":"1", "type":"textures" },
@@ -3156,14 +3174,14 @@
 { "id":"map_yorkshire_mm_summer", "version":"1", "type":"maps",  "isLazy":true },
 { "id":"map_zone_summer", "version":"1", "type":"maps",  "isLazy":true },
 { "id":"map_luxembourg_summer", "version":"1", "type":"maps",  "isLazy":true },
-{ "id":"map_luxembourg_winter", "version":"1", "type":"maps",  "isLazy":true },
+{ "id":"map_luxembourg_mm_winter", "version":"1", "type":"maps" },
 { "id":"map_luxembourg_mm_summer", "version":"1", "type":"maps",  "isLazy":true },
 
 { "id":"map_gallery_summer", "version":"2", "type":"maps" },
 { "id":"map_tutorial_summer", "version":"1", "type":"maps",  "isLazy":true },
 { "id":"map_domburg_summer", "version":"1", "type":"maps",  "isLazy":true },
 { "id":"map_domburg_winter", "version":"1", "type":"maps",  "isLazy":true },
-{ "id":"map_luxembourg_winter_preview", "version":"1", "type":"images",  "isLazy":true },
+{ "id":"map_luxembourg_mm_winter_preview", "version":"1", "type":"images",  "isLazy":true },
 { "id":"map_domburg_winter_preview", "version":"1", "type":"images",  "isLazy":true },
 { "id":"map_domburg_summer_preview", "version":"1", "type":"images",  "isLazy":true },
 
@@ -3387,60 +3405,48 @@
 { "id":"map_monte_carlo_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_monte_carlo_old_winter", "version":"1", "type":"maps" },
 { "id":"map_monte_carlo_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"map_noise_old_summer", "version":"1", "type":"maps" },
 { "id":"map_noise_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_noise_old_winter", "version":"1", "type":"maps" },
 { "id":"map_noise_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"map_novel_old_summer", "version":"1", "type":"maps" },
 { "id":"map_novel_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_novel_old_winter", "version":"1", "type":"maps" },
 { "id":"map_novel_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"map_opposition_old_summer", "version":"1", "type":"maps" },
 { "id":"map_opposition_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_opposition_old_winter", "version":"1", "type":"maps" },
 { "id":"map_opposition_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"map_osa_old_summer", "version":"1", "type":"maps" },
 { "id":"map_osa_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_osa_old_winter", "version":"1", "type":"maps" },
 { "id":"map_osa_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"map_parma_old_summer", "version":"1", "type":"maps" },
 { "id":"map_parma_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_parma_old_winter", "version":"1", "type":"maps" },
 { "id":"map_parma_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"map_pass_old_summer", "version":"1", "type":"maps" },
 { "id":"map_pass_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_pass_old_winter", "version":"1", "type":"maps" },
 { "id":"map_pass_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"map_ping-pong_old_summer", "version":"1", "type":"maps" },
 { "id":"map_ping-pong_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_ping-pong_old_winter", "version":"1", "type":"maps" },
 { "id":"map_ping-pong_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"map_polygon_old_summer", "version":"1", "type":"maps" },
 { "id":"map_polygon_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_polygon_old_winter", "version":"1", "type":"maps" },
 { "id":"map_polygon_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"map_red_alert_old_summer", "version":"1", "type":"maps" },
 { "id":"map_red_alert_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_red_alert_old_winter", "version":"1", "type":"maps" },
 { "id":"map_red_alert_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"map_rift_old_summer", "version":"1", "type":"maps" },
 { "id":"map_rift_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"map_sandal_old_summer", "version":"1", "type":"maps" },
 { "id":"map_sandal_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_sandal_old_winter", "version":"1", "type":"maps" },
 { "id":"map_sandal_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"map_sandbox_old_summer", "version":"1", "type":"maps" },
 { "id":"map_sandbox_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_sandbox_old_winter", "version":"1", "type":"maps" },
@@ -3641,6 +3647,22 @@
 { "id":"map_cryto_summer", "version":"1", "type":"maps" },
 { "id":"map_cryto_summer_preview", "version":"1", "type":"images", "isLazy":true },
 
+{ "id":"map_halloween_2012_summer", "version":"1", "type":"maps" },
+{ "id":"map_halloween_2012_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_halloween_2014_summer", "version":"1", "type":"maps" },
+{ "id":"map_halloween_2014_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_home_1_summer", "version":"1", "type":"maps" },
+{ "id":"map_home_1_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_home_2_summer", "version":"1", "type":"maps" },
+{ "id":"map_home_2_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_sandbox_2.0_summer", "version":"1", "type":"maps" },
+{ "id":"map_sandbox_2.0_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_moon_silence_summer", "version":"1", "type":"maps" },
+{ "id":"map_moon_silence_summer_preview", "version":"1", "type":"images", "isLazy":true },
+
+{ "id":"map_containers_summer", "version":"1", "type":"maps" },
+{ "id":"map_containers_summer_preview", "version":"1", "type":"images", "isLazy":true },
+
 { "id":"proplib_bush", "version":"1", "type":"proplibs",  "isLazy":true },
 { "id":"proplib_city_buildings", "version":"1", "type":"proplibs",  "isLazy":true },
 { "id":"proplib_city_builds", "version":"1", "type":"proplibs",  "isLazy":true },
@@ -3747,6 +3769,16 @@
 { "id":"proplib_passage_old", "version":"1", "type":"proplibs",  "isLazy":true },
 { "id":"proplib_terrain_old", "version":"1", "type":"proplibs",  "isLazy":true },
 { "id":"proplib_tutorial_hangar", "version":"1", "type":"proplibs",  "isLazy":true },
+
+{ "id":"proplib_landscape", "version":"1", "type":"proplibs" },
+{ "id":"proplib_builds", "version":"1", "type":"proplibs" },
+{ "id":"proplib_castle", "version":"1", "type":"proplibs" },
+
+{ "id":"proplib_land_v1", "version":"1", "type":"proplibs" },
+{ "id":"proplib_buildings_v1", "version":"1", "type":"proplibs" },
+{ "id":"proplib_elements_v1", "version":"1", "type":"proplibs" },
+{ "id":"proplib_complex_build_v1", "version":"1", "type":"proplibs" },
+{ "id":"proplib_noob", "version":"1", "type":"proplibs" },
 
 { "id":"proplib_landscape_old", "version":"1", "type":"proplibs" },
 { "id":"proplib_landscape_winter_old", "version":"1", "type":"proplibs" },

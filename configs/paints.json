@@ -3683,6 +3683,24 @@
 	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
 	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
 },
+
+
+{
+	"id":"devil",
+	"nameRU":"Демон",
+	"nameEN":"Demon",
+	"descriptionRU":"Самая загадочная краска в игре!",
+	"descriptionEN":"The most mysterious paint in the game!"
+},
+{
+	"id":"devil_old",
+	"nameRU":"Демон (старая)",
+	"nameEN":"Demon (old)",
+	"descriptionRU":"Самая загадочная краска в игре!",
+	"descriptionEN":"The most mysterious paint in the game!"
+},
+
+
 {
 	"id":"tanki_sport_2023_1_frenzy",
 	"name":"Frenzy",
