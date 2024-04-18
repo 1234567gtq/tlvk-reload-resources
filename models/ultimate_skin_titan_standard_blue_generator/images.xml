@@ -1,0 +1,4 @@
+<images>
+	<image name="lightmap" new-name="generator.jpg"/>
+	<image name="details" new-name="generator.png"/>
+</images>
