@@ -30,7 +30,7 @@
 			"isSize3d": true,
 			"sizeX": {
 				"mode": "Constant",
-				"value": 0.7
+				"value": 1.2
 			},
 			"sizeY": {
 				"mode": "Constant",
@@ -38,7 +38,7 @@
 			},
 			"sizeZ": {
 				"mode": "Constant",
-				"value": 1.0
+				"value": 2.5
 			},
 			"isRotation3d": false,
 			"rotation": {
@@ -81,7 +81,7 @@
 			"alignment": "View",
 			"lengthScale": 1.0,
 			"speedScale": 0.0,
-			"softParticles": false,
+			"softParticles": true,
 			"invFade": 0.0,
 			"pivot": {
 				"x": 0.0,
@@ -100,7 +100,7 @@
 				"scalarParameters": [
 				{
 					"name": "_UseSoftParticles",
-					"value": 0.0
+					"value": 1.0
 				},
 				{
 					"name": "_InvFade",
@@ -121,7 +121,7 @@
 				}
 				]
 			},
-			"meshName": ""
+			"meshName": []
 		},
 		"emissionData": {
 			"durationSec": 1.0,
