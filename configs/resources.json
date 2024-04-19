@@ -2136,6 +2136,8 @@
 { "id":"paint_x_noir_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_war_en_winner", "version":"1", "type":"multiframe_textures" },
 { "id":"paint_war_en_winner_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_war_domination_winner", "version":"1", "type":"multiframe_textures" },
+{ "id":"paint_war_domination_winner_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_holiday", "version":"1", "type":"textures" },
 { "id":"paint_holiday_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_holiday_old", "version":"1", "type":"textures" },
@@ -2623,8 +2625,6 @@
 { "id":"paint_destroyed_tank_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_gloss", "version":"1", "type":"textures" },
 { "id":"paint_gloss_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"paint_war_domination_winner", "version":"1", "type":"textures" },
-{ "id":"paint_war_domination_winner_preview", "version":"1", "type":"images", "isLazy":true },
 
 { "id":"skybox_hills_day_top", "version":"1", "type":"textures" },
 { "id":"skybox_hills_day_bottom", "version":"1", "type":"textures" },
