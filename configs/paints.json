@@ -4148,6 +4148,13 @@
 	"descriptionEN":"This paint was made specifically for the global event «Tanki Online War». Purchase the paint of the German community and lead it to victory! Capture territories, devise strategies, and conquer the world!"
 },
 {
+	"id":"war_en_winner",
+	"nameRU":"Война. Победитель",
+	"nameEN":"War. The Winner",
+	"descriptionRU":"Эта краска — отличительный знак триумфаторов «Войны». Стальная воля обладателей этого покрытия и непреклонность в сражениях принесла им победу в глобальном событии.",
+	"descriptionEN":"The paint for the steel-bound and unyielding winners of the «War», whose triumph marks the first victory in the global event."
+},
+{
 	"id":"wolves",
 	"nameRU":"Волки",
 	"nameEN":"Wolves",
