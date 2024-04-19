@@ -3392,6 +3392,13 @@
 	"descriptionEN":"The paint is made specifically for the Bears faction in the global event \"War: Domination\". Players of this faction have gigantic strength and ferocity. They are honorable, proud, and can endure the hardest battles."
 },
 {
+	"id":"war_domination_winner",
+	"nameRU":"Победитель",
+	"nameEN":"The Winner",
+	"descriptionRU":"В знак героизма, проявленного во время ивента «Война. Превосходство», самые активные бойцы фракции Львов удостоены этой уникальной краски. Покрытие временное. С началом следующей Войны оно будет удалено с аккаунтов его обладателей.",
+	"descriptionEN":"To honour the heroism shown in the event «War: Domination», the most active fighters of the Lions faction were given this unique paint. The Winner's paint is temporary. With the start of the next War it will be removed from the owner's accounts."
+},
+{
 	"id":"bigtanks",
 	"name":"BigTanks‎",
 	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
