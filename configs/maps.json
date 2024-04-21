@@ -1,5 +1,13 @@
 [
 	{
+		"id":"peak_winter",
+		"nameRU":"Вершина (зима)",
+		"nameEN":"Peak (winter)",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"unofficial"
+	},
+	{
 		"id":"peak_summer",
 		"nameRU":"Вершина",
 		"nameEN":"Peak",
