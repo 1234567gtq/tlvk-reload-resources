@@ -1,12 +1,12 @@
 [
-	
-	
-	
-	
-	
-	
-	
-	
+	{
+		"id":"peak_summer",
+		"nameRU":"Вершина",
+		"nameEN":"Peak",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
 	{
 		"id":"containers_summer",
 		"nameRU":"Контейнеры",
