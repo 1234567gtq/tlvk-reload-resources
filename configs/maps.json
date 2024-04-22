@@ -80,6 +80,14 @@
 		"category":"unofficial"
 	},
 	{
+		"id":"bridge_mm_summer",
+		"nameRU":"Мостик ММ",
+		"nameEN":"Bridge MM",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
 		"id":"containers_summer",
 		"nameRU":"Контейнеры",
 		"nameEN":"Containers",
