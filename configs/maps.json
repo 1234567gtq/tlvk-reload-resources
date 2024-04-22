@@ -32,6 +32,14 @@
 		"category":"unofficial"
 	},
 	{
+		"id":"kurgan_summer",
+		"nameRU":"Курган",
+		"nameEN":"Kurgan",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
 		"id":"containers_summer",
 		"nameRU":"Контейнеры",
 		"nameEN":"Containers",

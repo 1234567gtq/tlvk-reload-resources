@@ -3676,6 +3676,8 @@
 { "id":"map_old_harbor_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_seiva_summer", "version":"1", "type":"maps" },
 { "id":"map_seiva_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_kurgan_summer", "version":"1", "type":"maps" },
+{ "id":"map_kurgan_summer_preview", "version":"1", "type":"images", "isLazy":true },
 
 { "id":"proplib_bush", "version":"1", "type":"proplibs",  "isLazy":true },
 { "id":"proplib_city_buildings", "version":"1", "type":"proplibs",  "isLazy":true },
