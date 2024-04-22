@@ -48,6 +48,14 @@
 		"category":"unofficial"
 	},
 	{
+		"id":"medyanka_summer",
+		"nameRU":"Медянка",
+		"nameEN":"Medyanka",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
 		"id":"containers_summer",
 		"nameRU":"Контейнеры",
 		"nameEN":"Containers",
