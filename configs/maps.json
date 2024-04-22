@@ -88,6 +88,14 @@
 		"category":"unofficial"
 	},
 	{
+		"id":"kungur_tx_summer",
+		"nameRU":"Кунгур из ТХ",
+		"nameEN":"Kungur TX",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
 		"id":"containers_summer",
 		"nameRU":"Контейнеры",
 		"nameEN":"Containers",
