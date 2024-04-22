@@ -40,6 +40,14 @@
 		"category":"unofficial"
 	},
 	{
+		"id":"harino_summer",
+		"nameRU":"Харино",
+		"nameEN":"Harino",
+		"skyBox":"urban_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
 		"id":"containers_summer",
 		"nameRU":"Контейнеры",
 		"nameEN":"Containers",
