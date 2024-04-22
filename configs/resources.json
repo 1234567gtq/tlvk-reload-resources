@@ -3682,6 +3682,8 @@
 { "id":"map_harino_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_medyanka_summer", "version":"1", "type":"maps" },
 { "id":"map_medyanka_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_westfield_summer", "version":"1", "type":"maps" },
+{ "id":"map_westfield_summer_preview", "version":"1", "type":"images", "isLazy":true },
 
 { "id":"proplib_bush", "version":"1", "type":"proplibs",  "isLazy":true },
 { "id":"proplib_city_buildings", "version":"1", "type":"proplibs",  "isLazy":true },
