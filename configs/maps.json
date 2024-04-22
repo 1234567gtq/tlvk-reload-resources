@@ -72,6 +72,14 @@
 		"category":"unofficial"
 	},
 	{
+		"id":"deck_10_summer",
+		"nameRU":"Палуба-10",
+		"nameEN":"Deck-10",
+		"skyBox":"mountains_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
 		"id":"containers_summer",
 		"nameRU":"Контейнеры",
 		"nameEN":"Containers",

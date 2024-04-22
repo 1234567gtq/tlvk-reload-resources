@@ -3686,6 +3686,8 @@
 { "id":"map_westfield_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_gigabarda_summer", "version":"1", "type":"maps" },
 { "id":"map_gigabarda_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_deck_10_summer", "version":"1", "type":"maps" },
+{ "id":"map_deck_10_summer_preview", "version":"1", "type":"images", "isLazy":true },
 
 { "id":"proplib_bush", "version":"1", "type":"proplibs",  "isLazy":true },
 { "id":"proplib_city_buildings", "version":"1", "type":"proplibs",  "isLazy":true },
