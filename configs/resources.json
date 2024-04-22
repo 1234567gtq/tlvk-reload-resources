@@ -3672,6 +3672,8 @@
 { "id":"map_peak_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_peak_winter", "version":"1", "type":"maps" },
 { "id":"map_peak_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_old_harbor_summer", "version":"1", "type":"maps" },
+{ "id":"map_old_harbor_summer_preview", "version":"1", "type":"images", "isLazy":true },
 
 { "id":"proplib_bush", "version":"1", "type":"proplibs",  "isLazy":true },
 { "id":"proplib_city_buildings", "version":"1", "type":"proplibs",  "isLazy":true },

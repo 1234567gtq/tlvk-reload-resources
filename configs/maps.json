@@ -16,6 +16,14 @@
 		"category":"unofficial"
 	},
 	{
+		"id":"old_harbor_summer",
+		"nameRU":"Старая Гавань",
+		"nameEN":"Old Harbor",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
 		"id":"containers_summer",
 		"nameRU":"Контейнеры",
 		"nameEN":"Containers",
