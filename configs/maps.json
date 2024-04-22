@@ -64,6 +64,14 @@
 		"category":"unofficial"
 	},
 	{
+		"id":"gigabarda_summer",
+		"nameRU":"Гигабарда",
+		"nameEN":"Gigabarda",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
 		"id":"containers_summer",
 		"nameRU":"Контейнеры",
 		"nameEN":"Containers",
