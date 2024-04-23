@@ -290,6 +290,11 @@
 		"nameEN":"TankiX Antaeus"
 	},
 	{	
+		"id":"tx_frontier",
+		"nameRU":"TankiX Фронтир",
+		"nameEN":"TankiX Frontier"
+	},
+	{	
 		"id":"runet_award",
 		"nameRU":"Премия Рунета",
 		"nameEN":"Runet award"
