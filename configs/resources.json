@@ -412,8 +412,8 @@
 { "id":"hull_hopper_hd", "version":"2", "type":"models",  "isLazy":false },
 { "id":"hull_hopper_xt", "version":"2", "type":"models",  "isLazy":false },
 
-{ "id":"hull_viking_hd", "version":"1", "type":"models" },
-{ "id":"hull_viking_hd_without_side_armor", "version":"1", "type":"models" },
+{ "id":"hull_viking_hd", "version":"2", "type":"models" },
+{ "id":"hull_viking_hd_without_side_armor", "version":"2", "type":"models" },
 { "id":"hull_viking_m3", "version":"1", "type":"models" },
 { "id":"hull_viking_m2", "version":"1", "type":"models" },
 { "id":"hull_viking_m1", "version":"1", "type":"models" },
