@@ -456,7 +456,7 @@
 { "id":"hull_dictator_xt", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_dictator_lc", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_dictator_pr_fake", "version":"1", "type":"models",  "isLazy":false },
-{ "id":"hull_dictator_gt", "version":"1", "type":"models",  "isLazy":false },
+{ "id":"hull_dictator_gt", "version":"2", "type":"models",  "isLazy":false },
 { "id":"hull_dictator_tx_dreadnought", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_dictator_m3", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_dictator_m2", "version":"1", "type":"models",  "isLazy":false },
