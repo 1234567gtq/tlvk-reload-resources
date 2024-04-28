@@ -396,7 +396,7 @@
 { "id":"hull_hornet_lc", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_hornet_pr", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_hornet_ut", "version":"1", "type":"models",  "isLazy":false },
-{ "id":"hull_hornet_gt", "version":"1", "type":"models",  "isLazy":false },
+{ "id":"hull_hornet_gt", "version":"2", "type":"models",  "isLazy":false },
 { "id":"hull_hornet_rl", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_hornet_tx_xt", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_hornet_tx_beta", "version":"1", "type":"models",  "isLazy":false },
