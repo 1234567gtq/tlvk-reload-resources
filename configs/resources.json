@@ -445,7 +445,7 @@
 { "id":"hull_hunter_gt", "version":"2", "type":"models" },
 
 { "id":"hull_crusader_hd", "version":"2", "type":"models" },
-{ "id":"hull_crusader_xt", "version":"1", "type":"models" },
+{ "id":"hull_crusader_xt", "version":"2", "type":"models" },
 { "id":"hull_crusader_rt", "version":"2", "type":"models" },
 
 { "id":"hull_paladin_hd", "version":"1", "type":"models",  "isLazy":false },
