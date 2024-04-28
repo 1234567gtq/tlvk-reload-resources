@@ -567,7 +567,7 @@
 { "id":"turret_twins_hd", "version":"2", "type":"models",  "isLazy":false },
 { "id":"turret_twins_xt", "version":"1", "type":"models",  "isLazy":false },
 { "id":"turret_twins_lc", "version":"1", "type":"models",  "isLazy":false },
-{ "id":"turret_twins_sp", "version":"1", "type":"models",  "isLazy":false },
+{ "id":"turret_twins_sp", "version":"2", "type":"models",  "isLazy":false },
 { "id":"turret_twins_tx_xt", "version":"1", "type":"models",  "isLazy":false },
 { "id":"turret_twins_tx_sp", "version":"1", "type":"models",  "isLazy":false },
 { "id":"turret_twins_rt", "version":"1", "type":"models",  "isLazy":false },
