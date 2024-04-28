@@ -3034,6 +3034,14 @@
 		"category":"summer"
 	},
 	{
+		"id":"osa_summer",
+		"nameRU":"Оса",
+		"nameEN":"Osa",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
 		"id":"osa_mm_summer",
 		"nameRU":"Оса MM",
 		"nameEN":"Osa MM",
