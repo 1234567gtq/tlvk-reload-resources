@@ -419,7 +419,7 @@
 { "id":"hull_viking_m1", "version":"1", "type":"models" },
 { "id":"hull_viking_m0", "version":"1", "type":"models" },
 { "id":"hull_viking_xt", "version":"1", "type":"models" },
-{ "id":"hull_viking_xt_hd", "version":"1", "type":"models" },
+{ "id":"hull_viking_xt_hd", "version":"2", "type":"models" },
 { "id":"hull_viking_lc", "version":"1", "type":"models" },
 { "id":"hull_viking_pr", "version":"1", "type":"models" },
 { "id":"hull_viking_ut", "version":"2", "type":"models" },
