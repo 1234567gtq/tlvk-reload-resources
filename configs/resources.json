@@ -480,7 +480,7 @@
 { "id":"hull_titan_m0", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_titan_sp", "version":"2", "type":"models" },
 { "id":"hull_mammoth_hd", "version":"2", "type":"models",  "isLazy":false },
-{ "id":"hull_mammoth_hd_without_side_armor", "version":"1", "type":"models",  "isLazy":false },
+{ "id":"hull_mammoth_hd_without_side_armor", "version":"2", "type":"models",  "isLazy":false },
 { "id":"hull_mammoth_xt", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_mammoth_lc", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_mammoth_ut", "version":"1", "type":"models",  "isLazy":false },
