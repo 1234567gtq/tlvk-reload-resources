@@ -435,7 +435,7 @@
 { "id":"hull_hunter_xt", "version":"2", "type":"models",  "isLazy":false },
 { "id":"hull_hunter_lc", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_hunter_pr", "version":"1", "type":"models",  "isLazy":false },
-{ "id":"hull_hunter_ut", "version":"1", "type":"models",  "isLazy":false },
+{ "id":"hull_hunter_ut", "version":"2", "type":"models",  "isLazy":false },
 { "id":"hull_hunter_tx_xt", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_hunter_m3", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_hunter_m2", "version":"1", "type":"models",  "isLazy":false },
