@@ -661,7 +661,7 @@
 { "id":"turret_gauss_m2", "version":"1", "type":"models" },
 { "id":"turret_gauss_m1", "version":"1", "type":"models" },
 { "id":"turret_gauss_m0", "version":"1", "type":"models" },
-{ "id":"turret_gauss_gt", "version":"1", "type":"models" },
+{ "id":"turret_gauss_gt", "version":"2", "type":"models" },
 { "id":"turret_gauss_ic", "version":"1", "type":"models" },
 { "id":"turret_shaft_m3", "version":"4", "type":"models",  "isLazy":false },
 { "id":"turret_shaft_xt", "version":"4", "type":"models",  "isLazy":false },
