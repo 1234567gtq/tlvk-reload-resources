@@ -484,7 +484,7 @@
 { "id":"hull_mammoth_xt", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_mammoth_lc", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_mammoth_ut", "version":"2", "type":"models",  "isLazy":false },
-{ "id":"hull_mammoth_sp", "version":"1", "type":"models",  "isLazy":false },
+{ "id":"hull_mammoth_sp", "version":"2", "type":"models",  "isLazy":false },
 { "id":"hull_mammoth_tx_sp", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_mammoth_2.0_m3", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_mammoth_tx_m2", "version":"1", "type":"models",  "isLazy":false },
