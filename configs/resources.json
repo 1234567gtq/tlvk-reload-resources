@@ -551,7 +551,7 @@
 { "id":"turret_isida_m1", "version":"1", "type":"models",  "isLazy":false },
 { "id":"turret_isida_m0", "version":"1", "type":"models",  "isLazy":false },
 { "id":"turret_tesla_hd", "version":"2", "type":"models",  "isLazy":false },
-{ "id":"turret_tesla_xt", "version":"1", "type":"models",  "isLazy":false },
+{ "id":"turret_tesla_xt", "version":"2", "type":"models",  "isLazy":false },
 { "id":"turret_tesla_lc", "version":"1", "type":"models",  "isLazy":false },
 
 { "id":"turret_hammer_hd", "version":"1", "type":"models" },
