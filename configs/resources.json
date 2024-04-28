@@ -528,7 +528,7 @@
 
 { "id":"turret_freeze_hd", "version":"2", "type":"models",  "isLazy":false },
 { "id":"turret_freeze_xt", "version":"1", "type":"models",  "isLazy":false },
-{ "id":"turret_freeze_xt_hd", "version":"1", "type":"models",  "isLazy":false },
+{ "id":"turret_freeze_xt_hd", "version":"2", "type":"models",  "isLazy":false },
 { "id":"turret_freeze_lc", "version":"1", "type":"models",  "isLazy":false },
 { "id":"turret_freeze_lc_old", "version":"1", "type":"models",  "isLazy":false },
 { "id":"turret_freeze_se", "version":"2", "type":"models",  "isLazy":false },
