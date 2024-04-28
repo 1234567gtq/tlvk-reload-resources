@@ -372,8 +372,8 @@
 { "id":"bush_2_winter", "version":"1", "type":"models" },
 { "id":"tree_1_winter", "version":"1", "type":"models" },
 
-{ "id":"hull_wasp_hd", "version":"1", "type":"models" },
-{ "id":"hull_wasp_hd_without_side_armor", "version":"1", "type":"models" },
+{ "id":"hull_wasp_hd", "version":"2", "type":"models" },
+{ "id":"hull_wasp_hd_without_side_armor", "version":"2", "type":"models" },
 { "id":"hull_wasp_xt", "version":"1", "type":"models" },
 { "id":"hull_wasp_dc", "version":"2", "type":"models" },
 { "id":"hull_wasp_lc", "version":"1", "type":"models" },
