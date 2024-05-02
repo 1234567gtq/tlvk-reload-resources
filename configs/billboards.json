@@ -1,10 +1,5 @@
 [	
 	{	
-		"id":"cosmonautics_day_2024",
-		"nameRU":"День космонавтики 2024",
-		"nameEN":"Cosmonautics day 2024"
-	},
-	{	
 		"id":"standard",
 		"nameRU":"Стандартный",
 		"nameEN":"Standard"
@@ -193,6 +188,11 @@
 		"id":"discount_weekend",
 		"nameRU":"Дисконт уикенд",
 		"nameEN":"Discount_weekend"
+	},
+	{	
+		"id":"cosmonautics_day_2024",
+		"nameRU":"День космонавтики 2024",
+		"nameEN":"Cosmonautics day 2024"
 	},
 	{	
 		"id":"cosmonautics_day_2023",
