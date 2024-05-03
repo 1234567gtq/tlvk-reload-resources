@@ -3694,6 +3694,8 @@
 { "id":"map_bridge_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_kungur_tx_summer", "version":"1", "type":"maps" },
 { "id":"map_kungur_tx_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_relay_race_summer", "version":"1", "type":"maps" },
+{ "id":"map_relay_race_summer_preview", "version":"1", "type":"images", "isLazy":true },
 
 { "id":"proplib_bush", "version":"1", "type":"proplibs",  "isLazy":true },
 { "id":"proplib_city_buildings", "version":"1", "type":"proplibs",  "isLazy":true },

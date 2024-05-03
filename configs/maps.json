@@ -183,7 +183,14 @@
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
-	
+	{
+		"id":"relay_race_summer",
+		"nameRU":"Эстафета",
+		"nameEN":"Relay Race",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"special"
+	},
 	{
 		"id":"halloween_2014_summer",
 		"nameRU":"Хэллоуин 2014",
