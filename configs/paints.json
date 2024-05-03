@@ -4718,6 +4718,11 @@
 	"description":"Jokerge"
 },
 {
+	"id":"araumi",
+	"name":"Araumi",
+	"description":"TODO"
+},
+{
 	"id":"destroyed_tank",
 	"nameRU":"Уничтоженный танк",
 	"nameEN":"Destroyed tank",
