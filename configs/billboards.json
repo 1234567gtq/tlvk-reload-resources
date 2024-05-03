@@ -1,5 +1,10 @@
 [	
 	{	
+		"id":"may_holidays_2024",
+		"nameRU":"Майские праздники 2024",
+		"nameEN":"May holidays 2024"
+	},
+	{	
 		"id":"standard",
 		"nameRU":"Стандартный",
 		"nameEN":"Standard"
