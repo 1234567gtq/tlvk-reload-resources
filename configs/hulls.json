@@ -190,6 +190,13 @@
 				"icon":"xt",
 				"emissionColor":"16729344",
 				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"rt",
+				"name":"RT",
+				"descriptionRU":"Существует легенда, что эти скины привёз на планету один из танкистов, чей космический корабль потерпел крушение. Ему удалось спастись, добравшись по обломкам корабля до спасательной капсулы. Во время полёта он хватал все артефакты, попадавшиеся на его пути, среди которых оказались эти скины. Они получили название «RetroFuture». Глаз не оторвать, правда?",
+				"descriptionEN":"There is a legend that was brought to the planet by a tanker whose spaceship crashed. He managed to survive by climbing over the wreckage to the escape pod. During his space journey, he collected all the artifacts that came across his way, and these skins were one of them. Named «RetroFuture», they're very good, aren't they?",
+				"icon":"rt"
 			}
 		]
 	},
