@@ -623,7 +623,7 @@
 { "id":"turret_thunder_gt", "version":"2", "type":"models",  "isLazy":false },
 { "id":"turret_thunder_2.0_m3", "version":"1", "type":"models",  "isLazy":false },
 { "id":"turret_thunder_tx_xt", "version":"1", "type":"models",  "isLazy":false },
-{ "id":"turret_thunder_tx_dreadnought", "version":"1", "type":"models",  "isLazy":false },
+{ "id":"turret_thunder_tx_dreadnought", "version":"2", "type":"models",  "isLazy":false },
 { "id":"turret_thunder_m3", "version":"1", "type":"models",  "isLazy":false },
 { "id":"turret_thunder_m2", "version":"1", "type":"models",  "isLazy":false },
 { "id":"turret_thunder_m1", "version":"1", "type":"models",  "isLazy":false },
