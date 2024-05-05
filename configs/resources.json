@@ -430,6 +430,7 @@
 { "id":"hull_viking_2.0_m1", "version":"1", "type":"models" },
 { "id":"hull_viking_tx_xt", "version":"1", "type":"models" },
 { "id":"hull_viking_tx_m2", "version":"1", "type":"models" },
+{ "id":"hull_viking_tx_victory_day", "version":"1", "type":"models" },
 
 { "id":"hull_hunter_hd", "version":"2", "type":"models",  "isLazy":false },
 { "id":"hull_hunter_hd_without_side_armor", "version":"2", "type":"models",  "isLazy":false },
