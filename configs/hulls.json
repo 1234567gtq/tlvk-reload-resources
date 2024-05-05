@@ -717,6 +717,15 @@
 				"isInvertTracksDirection":"true",
 				"emissionColor":"65535",
 				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"tx_victory_day",
+				"nameRU":"День Победы (Tanki X)",
+				"descriptionRU":"«Хантер» — точка отсчета для всех танков «Х». Это первый корпус, который пошел в массовое производство. Он повсеместно применяется по сей день. Это корпус танков первой волны, попытка достигнуть эффективного компромисса между бронированностью и маневренностью. «Хантер» появляется там, где нужно сражаться, а не отстреливаться.",
+				"descriptionEN":"The Hunter is the gold standard for all «X» Tanks. This was the first hull to go into mass production. It is widely used to this day. This is the first generation tank shell. It represents an attempt to reach an effective compromise between armor and maneuverability. The Hunter is good for when you need to fight and do not need to return fire.",
+				"icon":"tx",
+				"emissionColor":"4521983",
+				"emissionColorThreshold":"0.4"
 			}
 		]
 	},

@@ -446,6 +446,7 @@
 { "id":"hull_hunter_m0", "version":"1", "type":"models" },
 { "id":"hull_hunter_dc", "version":"1", "type":"models" },
 { "id":"hull_hunter_gt", "version":"2", "type":"models" },
+{ "id":"hull_hunter_tx_victory_day", "version":"1", "type":"models" },
 
 { "id":"hull_crusader_hd", "version":"2", "type":"models" },
 { "id":"hull_crusader_xt", "version":"2", "type":"models" },
