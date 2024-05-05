@@ -409,6 +409,7 @@
 { "id":"hull_hornet_xt_m0", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_hornet_xt_m1", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_hornet_xt_m2", "version":"1", "type":"models",  "isLazy":false },
+{ "id":"hull_hornet_tx_victory_day", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_hopper_hd", "version":"2", "type":"models",  "isLazy":false },
 { "id":"hull_hopper_xt", "version":"2", "type":"models",  "isLazy":false },
 { "id":"hull_hopper_rt", "version":"1", "type":"models",  "isLazy":false },
