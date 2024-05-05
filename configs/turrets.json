@@ -1042,6 +1042,16 @@
 				"icon":"tx",
 				"emissionColor":"4521983",
 				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"tx_victory_day",
+				"nameRU":"День Победы (Tanki X)",
+				"nameEN":"Victory Day (Tanki X)",
+				"descriptionRU":"Надёжность и простота. Автомат Калашникова от мира танкового оружия, «Смоки» хорошо показывает себя в любых типах сражений. Это орудие — не шедевр и не заявка на превосходство, но гарантия боеспособности танка в любых условиях.",
+				"descriptionEN":"It is a reliable and simple weapon. It is the AK-47 in the tank turrets world. Smoky has proven itself to be a useful weapon in all types of battles. This turret is not the most perfect weapon, but it will make your tank competitive under any conditions.",
+				"icon":"tx",
+				"emissionColor":"4521983",
+				"emissionColorThreshold":"0.4"
 			}
 		],
 		"shotSkins":
