@@ -80,7 +80,10 @@
 				"nameEN":"Demonic (old)",
 				"descriptionRU":"Давно искали повод выпустить внутреннего демона наружу? А вот и он. Какой демон с вами сегодня — хитрый чёрт, злая ведьма или таинственный вампир?",
 				"descriptionEN":"Have you been looking for a way to unleash your inner demon for a long time? Here it is. Which demon will it be today — a cunning imp, an evil witch or a mysterious vampire?",
-				"icon":"dc"
+				"icon":"dc",
+				"emissionColor":"16766507",
+				"emissionColorSecond":"16064276",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"ut_old",
@@ -210,7 +213,7 @@
 				"descriptionRU":"Более детально и масштабно прорисованная модель пушки придаёт ей мощный и эффектный вид. Учтены все, даже самые мелкие детали! Зоркий взгляд орла, в который встроен супер технологичный лазерный прицел, позволяет рассмотреть противника даже на самых длинных картах. Мощные бивни мамонта из плиоцена, найденного археологами на секретных раскопках, установлены по бокам пушки, что придаёт ей колоссальное преимущество при столкновении в ближнем бою! Образ получился очень грозным и опасным, соперникам будет точно не по себе, когда они встретят вас на карте.",
 				"descriptionEN":"A more detailed and elaborately-drawn model of this turret, giving it a powerful and spectacular look. All the smallest details were taken into account! The watchful eagle eye, which has a built-in laser sight, lets you examine the opponent even when playing on the largest maps. Strong tusks of mammoths of the Pliocene, found during excavations, are installed on the sides of the turret, giving it enormous advantage in close combat! The skin turned out to be very fearsome and dangerous. Your opponent will definitely feel nervous when they meet you in a battle.",
 				"icon":"xt",
-				"emissionColor":"16711680",
+				"emissionColor":"16726016",
 				"emissionColorThreshold":"0.4"
 			},
 			{
@@ -219,7 +222,7 @@
 				"descriptionRU":"Этот скин, разработанный давным-давно, обходится самыми простыми технологиями. Гладкая броня из толстых стальных пластин надёжно скреплена и обеспечивает наилучшую защиту для встроенных охлаждающих устройств. Хоть они и потребляют много энергии, это не останавливает любителей старой боевой техники.",
 				"descriptionEN":"Designed eons ago, this skin makes the most of primitive technology. Riveted steel plates provide excellent protection for the onboard cooling apparatus. The extra weight increases fuel consumption dramatically, but that won't stop collectors of old combat antiques.",
 				"icon":"lc",
-				"emissionColor":"57852",
+				"emissionColor":"577535",
 				"emissionColorThreshold":"0.6"
 			},
 			{
@@ -244,14 +247,18 @@
 				"name":"IC",
 				"descriptionRU":"Фриз IC является первооткрывателем новой линейки скинов! Покрытый толстым слоем антарктического льда он внушает леденящий страх и ужас. Выгравированный лучшими мастерами своего дела образ ледяного дракона, который смотрит прямо в душу, и лишь один его взгляд превращает сердца врагов в ледяную глыбу, лишая их возможности мыслить и чувствовать, делая их танки безжизненными роботами. Пусть соперники увидят всю морозную мощь этого ледяного зверя!",
 				"descriptionEN":"«Freeze IC» is the pioneer of a new line of skins! A thick top-layer of ice taken from a remote Antarctic glacier inspires enemies with a chilling fear and terror. Engraved by master craftsmen, the imposing figure of an ice wyvern penetrates into the very soul of opponents. A single glance renders their hearts blocks of ice - left without mind or reason to become an aimless, lifeless hulk. Let the enemy witness the full might of this icy beast!",
-				"icon":"ic"
+				"icon":"ic",
+				"emissionColor":"51455",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"gt",
 				"name":"GT",
 				"descriptionRU":"Специальная линейка GT скинов для пушек - это не только отличное дополнение для любого колёсного корпуса, но и проявление особой смелости. Не каждый танкист готов пожертвовать скрытностью и осторожностью на поле боя, ради того, чтобы продемонстрировать всю уникальность и особенность своего танка. Специальные засечки, напоминающие шрамы, оставленные хищником с большими когтями, и уникальные геометрические формы придают пушкам этой серии ещё более грозный и опасный вид. Новейшие разработки в области танкостроения и особый сплав белых металлов развязали руки конструкторам данного изделия, позволив впервые создать не только мощное, но и красивое оружие, которое никогда не будет просто так пылиться в гараже танкиста.",
 				"descriptionEN":"This special series of GT skins for turrets is not just a good addition to any wheeled hull but also a manifestation of extraordinary courage. Not every tanker is ready to sacrifice stealth and caution on the battlefield to flaunt the uniqueness and the peculiarity of his tank in their entirety. Special scars resembling claw marks left by a predator and unique geometric structure give turrets of these series an even more formidable and dangerous look. The latest developments in field tank construction and a special alloy of white metals «unshackled the hands» of designers of this product, allowing them for the first time in history to create not only powerful but also beautiful weapons that would otherwise just be gathering dust in a tanker's garage.",
-				"icon":"gt"
+				"icon":"gt",
+				"emissionColor":"577535",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"pr_fake",
@@ -843,7 +850,10 @@
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"standard",
+				"emissionColor":"16090642",
+				"emissionColorSecond":"6935339",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"xt",
@@ -857,7 +867,10 @@
 				"name":"Legacy",
 				"descriptionRU":"Мы вернулись в осень 2010 года, отыскали Рикошет и позаимствовали его внешний вид. Теперь Рик в старой графике бродит среди нас.",
 				"descriptionEN":"Ricochet gets a throwback to its very first skin from 2010. Take a trip down memory lane with Ricochet legacy.",
-				"icon":"lc"
+				"icon":"lc",
+				"emissionColor":"16429326",
+				"emissionColorSecond":"7004188",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"rt",
@@ -1018,8 +1031,8 @@
 				"descriptionRU":"Возьмите одну из самых популярных пушек в игре, добавьте передовые инженерные технологии и позвольте талантливым дизайнерам поколдовать над обликом. Это и есть рецепт неповторимого скина «Смоки GT».\n\nДля разработки этого скина использовался широкий спектр технологий моделирования и инновационных моделирующих комплексов. В результате появился уникальный скин, впечатляющий роскошными материалами отделки. Его корпус собирали вручную из-за сложной технологии производства. Это существенно подняло цену модели и повысило престижность скина.",
 				"descriptionEN":"Take one of the most popular turrets in the game, add some cutting-edge engineering technologies, and let the talented designers do their job.\n\nThat's the recipe for this unique Smoky GT skin.\n\nA wide range of modeling technologies and techniques were used to develop this skin. The result is a distinctive skin that catches the eye with its luxurious finishing. Its body was assembled by hand due to its difficult production technology. This significantly raised the price of this model, increasing the prestige associated with it.",
 				"icon":"gt",
-				"emissionColor":"65279",
-				"emissionColorThreshold":"0.6"
+				"emissionColor":"64767",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"release_1.100_1",
@@ -1125,7 +1138,10 @@
 				"name":"Prime",
 				"descriptionRU":"Вулкан в жарких сражениях всегда находится на стороне победителей. С этим скином вы будете не только доминировать в бою, но и потрясающе выглядеть.",
 				"descriptionEN":"The Vulcan turret is always on the winning side of a heated discussion. Now, your Vulcan can keep winning arguments, and look cool doing it.",
-				"icon":"pr"
+				"icon":"pr",
+				"emissionColor":"4481477",
+				"emissionColorSecond":"14839070",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"ut",
@@ -1133,8 +1149,8 @@
 				"descriptionRU":"Король скорострельности — теперь с новым скином Ультра. Он поможет вам уничтожать вражеские танки не только эффективно, но и грациозно.",
 				"descriptionEN":"The king of rapid-firing gets a cool Ultra skin. Rip your enemies to shreds and look good doing it.",
 				"icon":"ut",
-				"emissionColor":"3268055",
-				"emissionColorThreshold":"0.4"
+				"emissionColor":"65269",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"dc",
@@ -1226,8 +1242,9 @@
 				"descriptionRU":"Вам нравится свист и шипение набирающих скорость ракет Страйкера? С этим скином Ультра стрелять залпом станет вдвойне приятнее.",
 				"descriptionEN":"The \"whoooosh\" of a Striker's salvo is one of the coolest sounds in the game. Complete the picture by equipping this cool Ultra Skin.",
 				"icon":"ut",
-				"emissionColor":"16747264",
-				"emissionColorThreshold":"0.6"
+				"emissionColor":"14768643",
+				"emissionColorSecond":"1674186",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"demo",
@@ -1347,7 +1364,10 @@
 				"name":"Prime",
 				"descriptionRU":"Гром — первая пушка, получившая скин из новой серии Prime. Этот скин подчёркивает брутальность пушки и серьёзность намерений её владельца. Зачем красоваться, когда можно сильно ударить!",
 				"descriptionEN":"Thunder is the first turret to receive a skin from the new Prime series. This skin reflects Thunder's no-nonsense and impactful style. Because a turret doesn't need to show off when it can punch hard.",
-				"icon":"pr"
+				"icon":"pr",
+				"emissionColor":"16769857",
+				"emissionColorSecond":"907774",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"ut",
@@ -1355,9 +1375,9 @@
 				"descriptionRU":"В умелых руках Гром грациозен и смертоносен. А с новым скином Ультра он выглядит ещё круче!",
 				"descriptionEN":"In the right hands, Thunder is as graceful as it is deadly. And with this Ultra skin, it also looks downright cool.",
 				"icon":"ut",
-				"emissionColor":"516349",
-				"emissionColorSecond":"16762192",
-				"emissionColorThreshold":"0.4"
+				"emissionColor":"720890",
+				"emissionColorSecond":"15243011",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"gt",
@@ -1457,7 +1477,7 @@
 				"descriptionRU":"Скорпион XT — первый скин, оптимизированный с помощью аэродинамической трубы. Его обтекаемая облицовка из полированного золота способствует охлаждению ракетной установки и снижает вибрацию системы наведения. Крылья Гермеса, выгравированные на скине, передают с каждым снарядом следующее послание от владельца: «Я быстр, как ветер, и мучителен, как укус скорпиона».",
 				"descriptionEN":"Scorpion XT is the first skin optimized with the help of a wind tunnel. Its streamlined cladding made of polished gold helps cool the rocket launcher and reduces vibrations in the aiming system. Wings of Hermes engraved on the skin deliver the following message from its owner with each shot: «I am as swift as the wind and as excruciating as a scorpion sting».",
 				"icon":"xt",
-				"emissionColor":"16720403",
+				"emissionColor":"16726016",
 				"emissionColorThreshold":"0.4"
 			}
 		],
@@ -1560,7 +1580,10 @@
 				"name":"Prime",
 				"descriptionRU":"Этот скин был изготовлен из частей космического корабля, совершившего первую экспедицию на Плутон. По данным NASA, загадочный «синий глаз» способен точно отслеживать цели на расстоянии нескольких миллиардов километров. У ваших противников нет шансов.",
 				"descriptionEN":"This skin was crafted from parts of the space ship that made the first expedition to Pluto. According to NASA, the mysterious «blue eye» is able to keep a precise aim on targets even at a distance of several billion kilometers. Your enemies won't stand a chance against you. P.S. No signs of life were discovered on Pluto.",
-				"icon":"pr"
+				"icon":"pr",
+				"emissionColor":"16763136",
+				"emissionColorSecond":"2680831",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"ut",
@@ -1568,8 +1591,8 @@
 				"descriptionRU":"Рельса является одним из основных видов вооружения для чемпионов киберспорта. Теперь эта популярная пушка имеет скин Ультра, чтобы поддерживать свою уникальную репутацию.",
 				"descriptionEN":"Railgun is one of the main weapons of choice for eSports champions. Now, this popular turret has a cool Ultra skin to match its amazing reputation.",
 				"icon":"ut",
-				"emissionColor":"43673",
-				"emissionColorThreshold":"0.4"
+				"emissionColor":"643794",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"gt",
@@ -1834,7 +1857,9 @@
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"standard",
+				"emissionColor":"131071",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"xt",
@@ -1848,7 +1873,10 @@
 				"name":"Prime",
 				"descriptionRU":"Этот скин создан специально для снайперов-виртуозов, для тех, кто за короткое время смог приручить «ушастого дьявола». Выглядит круто и опасно.",
 				"descriptionEN":"This skin was crafted especially for virtuoso snipers who are skillful enough to tame the «big-eared devil». Looks cool and dangerous.",
-				"icon":"pr"
+				"icon":"pr",
+				"emissionColor":"16765966",
+				"emissionColorSecond":"56305",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"ut",
@@ -1874,7 +1902,9 @@
 				"name":"IC",
 				"descriptionRU":"Покрытые толстым слоем антарктического льда скины этой серии внушают леденящий страх и ужас. Они превращают сердца врагов в ледяную глыбу, лишая их возможности мыслить и чувствовать, делая их танки безжизненными роботами. Пусть соперники увидят всю морозную мощь этих ледяных зверей!",
 				"descriptionEN":"A thick top-layer of ice taken from a remote Antarctic glacier inspires enemies with a chilling fear and terror. These skins penetrates into the very soul of opponents. A single glance renders their hearts blocks of ice - left without mind or reason to become an aimless, lifeless hulk. Let the enemy witness the full might of this icy beasts!",
-				"icon":"ic"
+				"icon":"ic",
+				"emissionColor":"51455",
+				"emissionColorThreshold":"0.6"
 			}
 		],
 		"shotSkins":
@@ -2093,7 +2123,7 @@
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard",
 				"isStandard":"true",
-				"emissionColor":"65535",
+				"emissionColor":"47853",
 				"emissionColorThreshold":"0.6"
 			},
 			{
@@ -2104,8 +2134,8 @@
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard",
 				"isStandard":"true",
-				"emissionColor":"65535",
-				"emissionColorThreshold":"0.6"
+				"emissionColor":"3792365",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"biomorphic_claw",
@@ -2113,7 +2143,7 @@
 				"nameEN":"Claw",
 				"description":"TODO",
 				"icon":"xt",
-				"emissionColor":"16747520",
+				"emissionColor":"16640099",
 				"emissionColorThreshold":"0.4"
 			}
 		],
@@ -2155,8 +2185,8 @@
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard",
 				"isStandard":"true",
-				"emissionColor":"13434624",
-				"emissionColorThreshold":"0.4"
+				"emissionColor":"13041408",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"hd_blue",
@@ -2197,8 +2227,8 @@
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard",
 				"isStandard":"true",
-				"emissionColor":"4652800",
-				"emissionColorThreshold":"0.6"
+				"emissionColor":"65310",
+				"emissionColorThreshold":"0.4"
 			}
 		],
 		"shotSkins":
