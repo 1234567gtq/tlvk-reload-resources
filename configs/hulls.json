@@ -15,7 +15,7 @@
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard",
 				"isStandard":"true",
-				"emissionColor":"65535",
+				"emissionColor":"643071",
 				"emissionColorThreshold":"0.6"
 			},
 			{
@@ -26,7 +26,7 @@
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard",
 				"isStandard":"true",
-				"emissionColor":"65535",
+				"emissionColor":"643071",
 				"emissionColorThreshold":"0.6"
 			},
 			{
@@ -324,8 +324,8 @@
 				"descriptionRU":"Шины — всегда лучшее решение для дальних поездок. Хорнет GT — модифицированная версия танка для автострады, предназначенная для любых расстояний. Всё в этом корпусе указывает на динамичный бой. Сдвоенные шины обеспечивают идеальное сцепление на пересечённой местности и в то же время оптимальную управляемость при дрифте. Благодаря защитной балке на передней оси корпус остаётся манёвренным даже в самом тяжёлом бою. Передний радиатор отсутствует, поскольку за оптимальный воздухообмен в плотном моторном отсеке отвечает обтекаемый карбоновый воздухозаборник. Совершенно ненужной оказывается изящная система поворотников на задних фарах, ведь если ты обгоняешь всех, поворотники тебе не нужны!",
 				"descriptionEN":"It is always better to use wheels for long distance travels. Hornet GT is a tank customized for the highway and is not afraid of any journey.\n\nEverything about this hull screams dynamic combat. The twin tires provide perfect grip on rough terrain and optimal handling when drifting. Thanks to the bull bar over the front axle, the car remains maneuverable even in the fiercest of battles. The front radiator is omitted, for a streamlined carbon air scoop ensures optimum air exchange in the packed engine compartment. Completely unnecessary, however, is the dynamic turn signal system on the elegant rear lights — if you're outrunning everyone, you won't need to indicate anyway!",
 				"icon":"gt",
-				"emissionColor":"65535",
-				"emissionColorSecond":"16757760",
+				"emissionColor":"196607",
+				"emissionColorSecond":"16751360",
 				"emissionColorThreshold":"0.6"
 			},
 			{
@@ -477,7 +477,10 @@
 				"name":"Prime",
 				"descriptionRU":"Викинг — первый корпус, получивший скин из новой серии Prime. Этот скин отражает универсальность Викинга — его способность приспосабливаться к любым условиям битвы, и отлично выглядит с любой краской.",
 				"descriptionEN":"Viking is the first hull to receive a skin from the new Prime series. Viking is known for its adaptability in battle, and this Prime skin reflects this quality by looking great with any paint.",
-				"icon":"pr"
+				"icon":"pr",
+				"emissionColor":"8388605",
+				"emissionColorSecond": "14649088",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"ut",
@@ -494,9 +497,9 @@
 				"name":"GT",
 				"descriptionRU":"Для путешествий на большие расстояния всегда лучше использовать колёса. Викинг GT — это адаптированный под автодороги танк, которому не страшны путешествия на любые расстояния. За фюзеляжем данного корпуса скрывается салон необычайной комфортабельности и красоты. Стоимости материалов, из которых изготовлены внутренние стены танка, хватило бы на производство десятка боевых машин пониженного класса кофмортности. Описание внутренних удобств корпусов серии GT занимает десятки страниц инструкции по применению. Максимальная комплектация включает: ABS, круиз-контроль, кондиционер, мультимедийная система и ёлочку... на удачу! Раздвоенные передние колёсные пары, усиленные радиаторы охлаждения и высокая бронированность задней части танка делают его суперуниверсальной боевой машиной для оснастки практически любым видом вооружения, способной быстро и манёвренно покидать поле боя для возобновления боекомплекта.",
 				"descriptionEN":"It is always better to use wheels for long distance travels. Viking GT is a customized version of a tank for the highway and is not afraid of any distance.\n\nUnder the armor of this hull you will find an interior of extraordinary comfort and great beauty. The cost of materials from which interior walls of the tank are made would be enough to produce a dozen less comfy battle vehicles. The description of interior amenities of GT series skins takes up dozens of pages in the service manual. The ultimate configuration includes ABS, cruise control, air conditioning, multimedia system, and… a tree air freshener, for good luck!\n\nA pair of forked front wheels, enhanced cooling radiators, and boosted armor at the back of the tank make Viking GT a super versatile battle vehicle to be used with any type of equipment. It is capable of quickly and nimbly rushing back to base to restock on ammunition.",
-				"emissionColor":"16711680",
-				"emissionColorSecond":"65535",
-				"emissionColorThreshold":"0.4",
+				"emissionColor":"983039",
+				"emissionColorSecond":"11599872",
+				"emissionColorThreshold":"0.6",
 				"icon":"gt"
 			},
 			{
@@ -505,9 +508,9 @@
 				"nameEN":"GT (concept)",
 				"descriptionRU":"Для путешествий на большие расстояния всегда лучше использовать колёса. Викинг GT — это адаптированный под автодороги танк, которому не страшны путешествия на любые расстояния. За фюзеляжем данного корпуса скрывается салон необычайной комфортабельности и красоты. Стоимости материалов, из которых изготовлены внутренние стены танка, хватило бы на производство десятка боевых машин пониженного класса кофмортности. Описание внутренних удобств корпусов серии GT занимает десятки страниц инструкции по применению. Максимальная комплектация включает: ABS, круиз-контроль, кондиционер, мультимедийная система и ёлочку... на удачу! Раздвоенные передние колёсные пары, усиленные радиаторы охлаждения и высокая бронированность задней части танка делают его суперуниверсальной боевой машиной для оснастки практически любым видом вооружения, способной быстро и манёвренно покидать поле боя для возобновления боекомплекта.",
 				"descriptionEN":"It is always better to use wheels for long distance travels. Viking GT is a customized version of a tank for the highway and is not afraid of any distance.\n\nUnder the armor of this hull you will find an interior of extraordinary comfort and great beauty. The cost of materials from which interior walls of the tank are made would be enough to produce a dozen less comfy battle vehicles. The description of interior amenities of GT series skins takes up dozens of pages in the service manual. The ultimate configuration includes ABS, cruise control, air conditioning, multimedia system, and… a tree air freshener, for good luck!\n\nA pair of forked front wheels, enhanced cooling radiators, and boosted armor at the back of the tank make Viking GT a super versatile battle vehicle to be used with any type of equipment. It is capable of quickly and nimbly rushing back to base to restock on ammunition.",
-				"emissionColor":"16711680",
-				"emissionColorSecond":"65535",
-				"emissionColorThreshold":"0.4",
+				"emissionColor":"983039",
+				"emissionColorSecond":"11599872",
+				"emissionColorThreshold":"0.6",
 				"icon":"gt"
 			},
 			{
@@ -686,8 +689,9 @@
 				"descriptionRU":"Охотники носят камуфляж, чтобы подкрадываться к цели незаметно. Но не вы, ведь у вас есть победоносный скин Ультра для Хантера.",
 				"descriptionEN":"Hunters wear camouflage to sneak up on prey. Not this one. This one wears an Ultra skin that says, \"Be very afraid\".",
 				"icon":"ut",
-				"emissionColor":"65535",
-				"emissionColorThreshold":"0.6"
+				"emissionColor":"3075071",
+				"emissionColorSecond":"16486943",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"dc",
@@ -705,8 +709,8 @@
 				"descriptionRU":"Это олицетворение современности и элегантности в мире танкостроения. Он воплощает в себе инновационный дизайн и стиль, позволяющий выделиться на поле боя. Созданный из самых передовых материалов, «Хантер GT» обеспечивает не только великолепный внешний вид, но и непревзойдённую защиту!",
 				"descriptionEN":"This is the embodiment of modernity and elegance in the world of tank-building. It stands for innovative design and style, letting the bearer stand out on the battlefield. Made from the most high-end materials, Hunter GT delivers not only a great look, but also an unrivaled performance!",
 				"icon":"gt",
-				"emissionColor":"15763456",
-				"emissionColorSecond":"196607",
+				"emissionColor":"983039",
+				"emissionColorSecond":"15763456",
 				"emissionColorThreshold":"0.6"
 			},
 			{
