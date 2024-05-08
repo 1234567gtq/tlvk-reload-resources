@@ -4723,6 +4723,12 @@
 	"description":"TODO"
 },
 {
+	"id":"specular",
+	"nameRU":"Спекуляр",
+	"nameEN":"Specular",
+	"description":"TODO"
+},
+{
 	"id":"destroyed_tank",
 	"nameRU":"Уничтоженный танк",
 	"nameEN":"Destroyed tank",

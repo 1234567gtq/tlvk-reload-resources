@@ -2635,6 +2635,8 @@
 { "id":"paint_gloss_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_araumi", "version":"1", "type":"textures" },
 { "id":"paint_araumi_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_specular", "version":"1", "type":"textures" },
+{ "id":"paint_specular_preview", "version":"1", "type":"images", "isLazy":true },
 
 { "id":"skybox_hills_day_top", "version":"1", "type":"textures" },
 { "id":"skybox_hills_day_bottom", "version":"1", "type":"textures" },
