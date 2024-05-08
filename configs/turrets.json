@@ -471,6 +471,12 @@
 				"descriptionRU":"Этот скин Теслы отдает дань уважения началу эпохи электрических войн — классический электрошокер существует уже более 50 лет! Пусть старомодная оболочка этого оружия не пугает вас, внутри оно оснащено передовыми технологиями. Маст-хэв для всех, кто хочет противостоять духу времени и предпочитает четкие очертания.",
 				"descriptionEN":"This Tesla skin pays tribute to the beginning of the Electric Wars era - the classic stun gun that has been around for over 50 years! Don't let the old-fashioned look of this turret scare you, it's loaded with cutting-edge technology inside. This is a must-have for everyone who wants to resist the spirit of the times and prefer clear shapes.",
 				"icon":"lc"
+			},
+			{
+				"id":"rt",
+				"descriptionRU":"Существует легенда, что эти скины привёз на планету один из танкистов, чей космический корабль потерпел крушение. Ему удалось спастись, добравшись по обломкам корабля до спасательной капсулы. Во время полёта он хватал все артефакты, попадавшиеся на его пути, среди которых оказались эти скины. Они получили название «RetroFuture». Глаз не оторвать, правда?",
+				"descriptionEN":"There is a legend that was brought to the planet by a tanker whose spaceship crashed. He managed to survive by climbing over the wreckage to the escape pod. During his space journey, he collected all the artifacts that came across his way, and these skins were one of them. Named «RetroFuture», they're very good, aren't they?",
+				"icon":"rt"
 			}
 		],
 		"shotSkins":
