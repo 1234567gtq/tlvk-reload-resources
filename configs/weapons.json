@@ -834,5 +834,12 @@
 			"rocketLight":"striker_standard_rocket",
 			"explosionLight":"striker_standard_explosion"
 		}
+	],
+	"tesla":
+	[
+		{
+			"id":"standard",
+			"globeLightning":"shot_skin_twins_electric_shot"
+		}	
 	]
 }

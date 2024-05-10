@@ -172,6 +172,7 @@
 	"DEBUG_MODE":"Режим отладки",
 	"SPAWN_ARROW":"Стрелка спавна",
 	"AXIS_INDICATOR":"Индикатор осей",
+	"SHOW_TANK_PREVIEW_IN_GARAGE":"Показать предпросмотр танка в гараже",
 	
 	"SOUND_VOLUME":"Громкость:",
 	"BACKGROUND_SOUND":"Фоновый звук",

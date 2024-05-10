@@ -13,8 +13,8 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard",
-				"isStandard":"true",
 				"emissionColor":"643071",
 				"emissionColorThreshold":"0.6"
 			},
@@ -24,8 +24,8 @@
 				"nameEN":"Standard settings (without side armor)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard",
-				"isStandard":"true",
 				"emissionColor":"643071",
 				"emissionColorThreshold":"0.6"
 			},
@@ -55,9 +55,7 @@
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard",
-				"emissionColor":"65535",
-				"emissionColorThreshold":"0.6"
+				"icon":"standard"
 			},
 			{
 				"id":"xt",
@@ -69,6 +67,13 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"«Догнать и перегнать!» – этот девиз для владельцев Васпа остаётся неизменным, меняется только скин. Лаконичный дизайн подчёркивает естественность скина, в котором нет ничего лишнего.",
+				"descriptionEN":"«Catch up and overtake» — that's the constant motto for the owner of Wasp. The only thing to change is the skin. A minimalist design emphasises the naturalness of a skin with no superfluous features.",
+				"icon":"lc"
+			},
+			{
 				"id":"dc",
 				"name":"Demomic",
 				"descriptionRU":"Если ты любитель жутких вечеринок и ярких образов, то новая коллекция скинов в стиле Demonic — как раз то, что ты ищешь! Если начать рассматривать уникальное покрытие этих скинов, можно сильно удивиться используемым материалам. Глаз древней совы, рука злобного хейтера, и всё это под плащом летучей мыши. Конечно, это декорации, но обладатель таких скинов, несомненно, поразит всех на поле боя.",
@@ -77,13 +82,6 @@
 				"emissionColor":"15884800",
 				"emissionColorSecond":"16685824",
 				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"lc",
-				"name":"Legacy",
-				"descriptionRU":"«Догнать и перегнать!» – этот девиз для владельцев Васпа остаётся неизменным, меняется только скин. Лаконичный дизайн подчёркивает естественность скина, в котором нет ничего лишнего.",
-				"descriptionEN":"«Catch up and overtake» — that's the constant motto for the owner of Wasp. The only thing to change is the skin. A minimalist design emphasises the naturalness of a skin with no superfluous features.",
-				"icon":"lc"
 			},
 			{
 				"id":"release_1.100_1",
@@ -111,6 +109,15 @@
 				"name":"M2 (Tanki Online 2.0)",
 				"description":"TODO",
 				"icon":"2.0"
+			},
+			{
+				"id":"tx_m2",
+				"name":"M2 (Tanki X)",
+				"descriptionRU":"Этот корпус разрабатывался специально для продаж частным армиям по всему миру. «Васп» эффективно справлялся с танками старого образца, но и в современной войне ему легко найти применение. Быстро рвёт дистанцию, легко уходит из-под удара. Он предназначен для перехвата и вовлечения неповоротливого противника в маневренный бой. Этот корпус плохо держит удар и может даже перевернуться при попадании тяжелого мощного снаряда. Но верно служит тем, кто под удар не подставится.",
+				"descriptionEN":"This hull was specifically designed to cater to the needs of private armies around the world. The Wasp makes short work of old-style tanks, and it is also a valuable tool to fighting modern wars. It can quickly cover distances, and it is easily able to escape enemy fire. It is designed to intercept and engage a cornered enemy in a Blitzkrieg-style battle. This hull poorly resists blows and can even flip over when hit by heavy shells. But it will faithfully serve those that can avoid enemy fire.",
+				"icon":"tx",
+				"emissionColor":"4186194",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"tx_xt",
@@ -150,16 +157,7 @@
 				"icon":"tx",
 				"emissionColor":"65535",
 				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"tx_m2",
-				"name":"M2 (Tanki X)",
-				"descriptionRU":"Этот корпус разрабатывался специально для продаж частным армиям по всему миру. «Васп» эффективно справлялся с танками старого образца, но и в современной войне ему легко найти применение. Быстро рвёт дистанцию, легко уходит из-под удара. Он предназначен для перехвата и вовлечения неповоротливого противника в маневренный бой. Этот корпус плохо держит удар и может даже перевернуться при попадании тяжелого мощного снаряда. Но верно служит тем, кто под удар не подставится.",
-				"descriptionEN":"This hull was specifically designed to cater to the needs of private armies around the world. The Wasp makes short work of old-style tanks, and it is also a valuable tool to fighting modern wars. It can quickly cover distances, and it is easily able to escape enemy fire. It is designed to intercept and engage a cornered enemy in a Blitzkrieg-style battle. This hull poorly resists blows and can even flip over when hit by heavy shells. But it will faithfully serve those that can avoid enemy fire.",
-				"icon":"tx",
-				"emissionColor":"4186194",
-				"emissionColorThreshold":"0.6"
-			}
+			}	
 		]
 	},
 	{
@@ -168,7 +166,7 @@
 		"nameEN":"Hopper",
 		"descriptionRU":"Лёгкий парящий корпус. Очень быстрый, но не очень стабильный при движении над сложной поверхностью.\n\nОвердрайв запускает детонационный прыжковый двигатель, расположенный под корпусом. Он оглушает вражеские танки, а также подбрасывает «Хоппера» в воздух, позволяя перепрыгивать препятствия.\n\nХовертанк «Хоппер» использует максимум возможностей антигравитационных двигателей, чтобы делать то, о чём мечтает любой танкист — взлететь в небо подальше от опасностей. Дерзкий прорыв вражеской обороны или неожиданный побег с флагом? «Хопперу» это по плечу.",
 		"descriptionEN":"Light hovering hull. It is very fast but not very stable when moving above a complex surface.\n\nOverdrive launches the detonation jump engine placed below the hull. It stuns enemy tanks and throws «Hopper» into the air, allowing to jump over obstacles\n\nThe «Hopper» hover tank uses the maximum available anti-gravity engine resources to let the tanker pursue their dream — flying up to the sky far away from danger. Are you daring enough to break through the enemy's defenses? «Hopper» can help you.",
-		"isHover":"true",
+		"isHover":true,
 		"skins":
 		[
 			{
@@ -177,8 +175,8 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard",
-				"isStandard":"true",
 				"emissionColor":"52479",
 				"emissionColorThreshold":"0.6"
 			},
@@ -216,8 +214,8 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard",
-				"isStandard":"true",
 				"emissionColor":"61695",
 				"emissionColorThreshold":"0.6"
 			},
@@ -227,8 +225,8 @@
 				"nameEN":"Standard settings (without side armor)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard",
-				"isStandard":"true",
 				"emissionColor":"61695",
 				"emissionColorThreshold":"0.6"
 			},
@@ -258,9 +256,7 @@
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard",
-				"emissionColor":"61695",
-				"emissionColorThreshold":"0.6"
+				"icon":"standard"
 			},
 			{
 				"id":"xt_m0",
@@ -305,15 +301,14 @@
 				"icon":"pr",
 				"emissionColor":"15706377",
 				"emissionColorThreshold":"0.6"
-				
 			},
 			{
 				"id":"ut",
 				"name":"Ultra",
 				"descriptionRU":"Этот скин Ultra всем своим видом показывает: «Не связывайся со мной, а то будет хуже».",
 				"descriptionEN":"The appearance of this Ultra Skin really says: «You don’t want to mess with me».",
+				"isInvertTracksDirection":true,
 				"icon":"ut",
-				"isInvertTracksDirection":"true",
 				"emissionColor":"16753208",
 				"emissionColorSecond":"6085887",
 				"emissionColorThreshold":"0.4"
@@ -338,24 +333,6 @@
 				"emissionColorThreshold":"0.1"
 			},
 			{
-				"id":"tx_xt",
-				"name":"XT (Tanki X)",
-				"descriptionRU":"Разработан «Антеем» для эффектной рекламы танков «Х» на полях сражений по всему миру. «Хорнеты» на высоких скоростях появляются перед носом у врага и молниеносно громят его позиции. Этот корпус может получить по зубам и остаться на ходу, но эффективные маневры «на пятачке» — это не про него.",
-				"descriptionEN":"It was developed by Antaeus to effectively promote their «Х» Tanks on battlefields around the world. Hornets can appear right in front of the enemy's nose at lightning speed and smash their position. This hull can withstand direct hits and still stay on track, but it is not good for performing quick maneuvers on a dime.",
-				"icon":"tx",
-				"emissionColor":"6085887",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"tx_beta",
-				"name":"β (Tanki X)",
-				"descriptionRU":"Разработан «Антеем» для эффектной рекламы танков «Х» на полях сражений по всему миру. «Хорнеты» на высоких скоростях появляются перед носом у врага и молниеносно громят его позиции. Этот корпус может получить по зубам и остаться на ходу, но эффективные маневры «на пятачке» — это не про него.",
-				"descriptionEN":"It was developed by Antaeus to effectively promote their «Х» Tanks on battlefields around the world. Hornets can appear right in front of the enemy's nose at lightning speed and smash their position. This hull can withstand direct hits and still stay on track, but it is not good for performing quick maneuvers on a dime.",
-				"icon":"tx",
-				"emissionColor":"65280",
-				"emissionColorThreshold":"0.6"
-			},
-			{
 				"id":"tx_m0",
 				"name":"M0 (Tanki X)",
 				"descriptionRU":"Разработан «Антеем» для эффектной рекламы танков «Х» на полях сражений по всему миру. «Хорнеты» на высоких скоростях появляются перед носом у врага и молниеносно громят его позиции. Этот корпус может получить по зубам и остаться на ходу, но эффективные маневры «на пятачке» — это не про него.",
@@ -373,6 +350,24 @@
 				"emissionColor":"4186194",
 				"emissionColorThreshold":"0.6"
 			},
+			{
+				"id":"tx_xt",
+				"name":"XT (Tanki X)",
+				"descriptionRU":"Разработан «Антеем» для эффектной рекламы танков «Х» на полях сражений по всему миру. «Хорнеты» на высоких скоростях появляются перед носом у врага и молниеносно громят его позиции. Этот корпус может получить по зубам и остаться на ходу, но эффективные маневры «на пятачке» — это не про него.",
+				"descriptionEN":"It was developed by Antaeus to effectively promote their «Х» Tanks on battlefields around the world. Hornets can appear right in front of the enemy's nose at lightning speed and smash their position. This hull can withstand direct hits and still stay on track, but it is not good for performing quick maneuvers on a dime.",
+				"icon":"tx",
+				"emissionColor":"6085887",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"tx_beta",
+				"name":"β (Tanki X)",
+				"descriptionRU":"Разработан «Антеем» для эффектной рекламы танков «Х» на полях сражений по всему миру. «Хорнеты» на высоких скоростях появляются перед носом у врага и молниеносно громят его позиции. Этот корпус может получить по зубам и остаться на ходу, но эффективные маневры «на пятачке» — это не про него.",
+				"descriptionEN":"It was developed by Antaeus to effectively promote their «Х» Tanks on battlefields around the world. Hornets can appear right in front of the enemy's nose at lightning speed and smash their position. This hull can withstand direct hits and still stay on track, but it is not good for performing quick maneuvers on a dime.",
+				"icon":"tx",
+				"emissionColor":"65280",
+				"emissionColorThreshold":"0.6"
+			},	
 			{
 				"id":"tx_victory_day",
 				"nameRU":"День Победы (Tanki X)",
@@ -399,9 +394,9 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"isInvertTracksDirection":true,
 				"icon":"standard",
-				"isStandard":"true",
-				"isInvertTracksDirection":"true",
 				"emissionColor":"14649088",
 				"emissionColorSecond":"8388605",
 				"emissionColorThreshold":"0.4"
@@ -412,8 +407,9 @@
 				"nameEN":"Standard settings (without side armor)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"isInvertTracksDirection":true,
 				"icon":"standard",
-				"isStandard":"true",
 				"emissionColor":"14649088",
 				"emissionColorSecond":"8388605",
 				"emissionColorThreshold":"0.4"
@@ -444,9 +440,7 @@
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard",
-				"emissionColor":"58367",
-				"emissionColorThreshold":"0.6"
+				"icon":"standard"
 			},
 			{
 				"id":"xt",
@@ -460,8 +454,8 @@
 				"name":"XT HD",
 				"descriptionRU":"Космические исследователи нашли на Луне новый высокопрочный сплав золота, который заряжен лунной энергией. Наши конструкторы не стали терять время зря и сразу же разработали новые металлические пластины небывалой прочности для Викинга и добавили красное свечение от алмазного камня. Теперь этот скин не только привлекает к себе внимание блистательно-дорогим золотистым цветом, но и не оставляет соперникам шансов при столкновении.",
 				"descriptionEN":"Space explorers found a new highly durable gold alloy on the moon that is charged with moon energy. Our constructors did not waste time and immediately developed new metal plates of unprecedented strength for Viking and added red glow of the diamond stone. This skin attracts attention with its brilliantly-expensive golden color and leaves no chance of escape for opponents when confronted.",
+				"isInvertTracksDirection":true,
 				"icon":"xt",
-				"isInvertTracksDirection":"true",
 				"emissionColor":"16711680",
 				"emissionColorThreshold":"0.4"
 			},
@@ -493,27 +487,6 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
-				"id":"gt",
-				"name":"GT",
-				"descriptionRU":"Для путешествий на большие расстояния всегда лучше использовать колёса. Викинг GT — это адаптированный под автодороги танк, которому не страшны путешествия на любые расстояния. За фюзеляжем данного корпуса скрывается салон необычайной комфортабельности и красоты. Стоимости материалов, из которых изготовлены внутренние стены танка, хватило бы на производство десятка боевых машин пониженного класса кофмортности. Описание внутренних удобств корпусов серии GT занимает десятки страниц инструкции по применению. Максимальная комплектация включает: ABS, круиз-контроль, кондиционер, мультимедийная система и ёлочку... на удачу! Раздвоенные передние колёсные пары, усиленные радиаторы охлаждения и высокая бронированность задней части танка делают его суперуниверсальной боевой машиной для оснастки практически любым видом вооружения, способной быстро и манёвренно покидать поле боя для возобновления боекомплекта.",
-				"descriptionEN":"It is always better to use wheels for long distance travels. Viking GT is a customized version of a tank for the highway and is not afraid of any distance.\n\nUnder the armor of this hull you will find an interior of extraordinary comfort and great beauty. The cost of materials from which interior walls of the tank are made would be enough to produce a dozen less comfy battle vehicles. The description of interior amenities of GT series skins takes up dozens of pages in the service manual. The ultimate configuration includes ABS, cruise control, air conditioning, multimedia system, and… a tree air freshener, for good luck!\n\nA pair of forked front wheels, enhanced cooling radiators, and boosted armor at the back of the tank make Viking GT a super versatile battle vehicle to be used with any type of equipment. It is capable of quickly and nimbly rushing back to base to restock on ammunition.",
-				"emissionColor":"983039",
-				"emissionColorSecond":"11599872",
-				"emissionColorThreshold":"0.6",
-				"icon":"gt"
-			},
-			{
-				"id":"gt_concept",
-				"nameRU":"GT (концепт)",
-				"nameEN":"GT (concept)",
-				"descriptionRU":"Для путешествий на большие расстояния всегда лучше использовать колёса. Викинг GT — это адаптированный под автодороги танк, которому не страшны путешествия на любые расстояния. За фюзеляжем данного корпуса скрывается салон необычайной комфортабельности и красоты. Стоимости материалов, из которых изготовлены внутренние стены танка, хватило бы на производство десятка боевых машин пониженного класса кофмортности. Описание внутренних удобств корпусов серии GT занимает десятки страниц инструкции по применению. Максимальная комплектация включает: ABS, круиз-контроль, кондиционер, мультимедийная система и ёлочку... на удачу! Раздвоенные передние колёсные пары, усиленные радиаторы охлаждения и высокая бронированность задней части танка делают его суперуниверсальной боевой машиной для оснастки практически любым видом вооружения, способной быстро и манёвренно покидать поле боя для возобновления боекомплекта.",
-				"descriptionEN":"It is always better to use wheels for long distance travels. Viking GT is a customized version of a tank for the highway and is not afraid of any distance.\n\nUnder the armor of this hull you will find an interior of extraordinary comfort and great beauty. The cost of materials from which interior walls of the tank are made would be enough to produce a dozen less comfy battle vehicles. The description of interior amenities of GT series skins takes up dozens of pages in the service manual. The ultimate configuration includes ABS, cruise control, air conditioning, multimedia system, and… a tree air freshener, for good luck!\n\nA pair of forked front wheels, enhanced cooling radiators, and boosted armor at the back of the tank make Viking GT a super versatile battle vehicle to be used with any type of equipment. It is capable of quickly and nimbly rushing back to base to restock on ammunition.",
-				"emissionColor":"983039",
-				"emissionColorSecond":"11599872",
-				"emissionColorThreshold":"0.6",
-				"icon":"gt"
-			},
-			{
 				"id":"dc",
 				"name":"Demomic",
 				"descriptionRU":"Когда живые кости гремят на улицах, лучше оставаться дома. Опасность внезапного столкновения с этим монстром довольно высока. Тот, кто всё-таки осмелится сделать это, вернётся уже другим. Заправленный кипящей лавой, гусеницы из раскаленной стали, украшенные черепами своих жертв, острые клыки, скалящиеся свежим моторным маслом. Даже самому матёрому танкисту не удастся избежать этого взгляда. Так что даже не пытайтесь.",
@@ -522,6 +495,27 @@
 				"emissionColor":"15884800",
 				"emissionColorSecond":"16685824",
 				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Для путешествий на большие расстояния всегда лучше использовать колёса. Викинг GT — это адаптированный под автодороги танк, которому не страшны путешествия на любые расстояния. За фюзеляжем данного корпуса скрывается салон необычайной комфортабельности и красоты. Стоимости материалов, из которых изготовлены внутренние стены танка, хватило бы на производство десятка боевых машин пониженного класса кофмортности. Описание внутренних удобств корпусов серии GT занимает десятки страниц инструкции по применению. Максимальная комплектация включает: ABS, круиз-контроль, кондиционер, мультимедийная система и ёлочку... на удачу! Раздвоенные передние колёсные пары, усиленные радиаторы охлаждения и высокая бронированность задней части танка делают его суперуниверсальной боевой машиной для оснастки практически любым видом вооружения, способной быстро и манёвренно покидать поле боя для возобновления боекомплекта.",
+				"descriptionEN":"It is always better to use wheels for long distance travels. Viking GT is a customized version of a tank for the highway and is not afraid of any distance.\n\nUnder the armor of this hull you will find an interior of extraordinary comfort and great beauty. The cost of materials from which interior walls of the tank are made would be enough to produce a dozen less comfy battle vehicles. The description of interior amenities of GT series skins takes up dozens of pages in the service manual. The ultimate configuration includes ABS, cruise control, air conditioning, multimedia system, and… a tree air freshener, for good luck!\n\nA pair of forked front wheels, enhanced cooling radiators, and boosted armor at the back of the tank make Viking GT a super versatile battle vehicle to be used with any type of equipment. It is capable of quickly and nimbly rushing back to base to restock on ammunition.",
+				"icon":"gt",
+				"emissionColor":"983039",
+				"emissionColorSecond":"11599872",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"gt_concept",
+				"nameRU":"GT (концепт)",
+				"nameEN":"GT (concept)",
+				"descriptionRU":"Для путешествий на большие расстояния всегда лучше использовать колёса. Викинг GT — это адаптированный под автодороги танк, которому не страшны путешествия на любые расстояния. За фюзеляжем данного корпуса скрывается салон необычайной комфортабельности и красоты. Стоимости материалов, из которых изготовлены внутренние стены танка, хватило бы на производство десятка боевых машин пониженного класса кофмортности. Описание внутренних удобств корпусов серии GT занимает десятки страниц инструкции по применению. Максимальная комплектация включает: ABS, круиз-контроль, кондиционер, мультимедийная система и ёлочку... на удачу! Раздвоенные передние колёсные пары, усиленные радиаторы охлаждения и высокая бронированность задней части танка делают его суперуниверсальной боевой машиной для оснастки практически любым видом вооружения, способной быстро и манёвренно покидать поле боя для возобновления боекомплекта.",
+				"descriptionEN":"It is always better to use wheels for long distance travels. Viking GT is a customized version of a tank for the highway and is not afraid of any distance.\n\nUnder the armor of this hull you will find an interior of extraordinary comfort and great beauty. The cost of materials from which interior walls of the tank are made would be enough to produce a dozen less comfy battle vehicles. The description of interior amenities of GT series skins takes up dozens of pages in the service manual. The ultimate configuration includes ABS, cruise control, air conditioning, multimedia system, and… a tree air freshener, for good luck!\n\nA pair of forked front wheels, enhanced cooling radiators, and boosted armor at the back of the tank make Viking GT a super versatile battle vehicle to be used with any type of equipment. It is capable of quickly and nimbly rushing back to base to restock on ammunition.",
+				"icon":"gt",
+				"emissionColor":"983039",
+				"emissionColorSecond":"11599872",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"2.0_m1",
@@ -553,8 +547,8 @@
 				"nameEN":"Victory Day (Tanki X)",
 				"descriptionRU":"Создавался в условиях замершей без результатов войны. Необходимо было переламывать ситуацию на фронте, где требуется побеждать тактикой. Этот корпус — «универсальная тактическая единица», второе поколение танков «Х», инструмент успешной борьбы за выполнение любых задач на поле боя. «Викинг» надолго стал основой для элитных соединений профессионалов.",
 				"descriptionEN":"This hull was created during a war that was reaching a stalemate. A tank was needed that could break through the stagnating situation on the front, where winning tactics were needed. This hull is the «universal tactical unit», representing the second generation of «X» Tanks. It is tool that can be used to successfully achieve all tasks on the battlefield. For a long time the Viking formed the basis for bonds between elite professional tank operators.",
-				"icon":"tx",
-				"isInvertTracksDirection":"true",
+				"isInvertTracksDirection":true,
+				"icon":"tx",	
 				"emissionColor":"4521983",
 				"emissionColorThreshold":"0.4"
 			}
@@ -566,7 +560,7 @@
 		"nameEN":"Crusader",
 		"descriptionRU":"Средний парящий корпус. Отличается хорошей проходимостью и компактным силуэтом.\n\nОвердрайв «Криобластер» формирует снаряд буквально из ничего, охлаждая воздушную влагу, и стреляет огромной бронебойной сосулькой. Попадание такой глыбы льда если и не уничтожает противника сразу, то замораживает по самую башню, превращая его в лёгкую мишень для добивания.\n\nКорпус «Крусейдер» принадлежит к ховертанкам второго поколения. Для создания небольшого, но мощного корпуса с атакующими возможностями была использована масса хитроумных решений. Компактность антиграва второго поколения позволила установить на танк достаточно брони, сохранив приличную скорость.",
 		"descriptionEN":"Medium hovering hull. It is characterized by good passability and a compact silhouette.\n\nIts «Cryo Blaster» overdrive makes a shell from almost nothing by cooling moisture and then shoots a big armor-piercing icicle. After being hit by this chunk of ice, the opponent's tank freezes, making it easy to finish off the tank, if not destroy it.\n\nThe «Crusader» hull belongs to the second generation of hovertanks. To create a compact but powerful hull with attacking possibilities, a lot of ingenious solutions were used. Compactness of the second generation anti-grav allowed engineers to equip enough armor to the tank for it to be a medium hull without decreasing its speed.",
-		"isHover":"true",
+		"isHover":true,
 		"skins":
 		[
 			{
@@ -575,8 +569,8 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard",
-				"isStandard":"true",
 				"emissionColor":"65535",
 				"emissionColorThreshold":"0.6"
 			},
@@ -614,8 +608,8 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard",
-				"isStandard":"true",
 				"emissionColor":"54754",
 				"emissionColorThreshold":"0.6"
 			},
@@ -625,8 +619,8 @@
 				"nameEN":"Standard settings (without side armor)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard",
-				"isStandard":"true",
 				"emissionColor":"54754",
 				"emissionColorThreshold":"0.6"
 			},
@@ -656,9 +650,7 @@
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard",
-				"emissionColor":"54754",
-				"emissionColorThreshold":"0.6"
+				"icon":"standard"
 			},
 			{
 				"id":"xt",
@@ -694,16 +686,6 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
-				"id":"dc",
-				"name":"Demomic",
-				"descriptionRU":"Видели когда-нибудь жерло вулкана? С данным скином это будет последнее, что увидят ваши враги перед неминуемой гибелью. Тысячи шестерёнок находятся прямо в лаве и обеспечивают бесперебойное движение вестника смерти. Шипы по всему периметру корпуса и зловещие морды сзади отпугнут всех, кто осмелится бросить вам вызов.",
-				"descriptionEN":"Have you ever seen the vent of a volcano? With this skin, it will be the last thing your enemies see before their inevitable death. Thousands of gears are located directly in the lava and ensure the uninterrupted movement of the messenger of death. Spikes along the entire perimeter of the body and ominous faces at the back will scare off anyone who dares to challenge you.",
-				"icon":"dc",
-				"emissionColor":"15884800",
-				"emissionColorSecond":"16685824",
-				"emissionColorThreshold":"0.4"
-			},
-			{
 				"id":"gt",
 				"name":"GT",
 				"descriptionRU":"Это олицетворение современности и элегантности в мире танкостроения. Он воплощает в себе инновационный дизайн и стиль, позволяющий выделиться на поле боя. Созданный из самых передовых материалов, «Хантер GT» обеспечивает не только великолепный внешний вид, но и непревзойдённую защиту!",
@@ -714,18 +696,29 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"dc",
+				"name":"Demomic",
+				"descriptionRU":"Видели когда-нибудь жерло вулкана? С данным скином это будет последнее, что увидят ваши враги перед неминуемой гибелью. Тысячи шестерёнок находятся прямо в лаве и обеспечивают бесперебойное движение вестника смерти. Шипы по всему периметру корпуса и зловещие морды сзади отпугнут всех, кто осмелится бросить вам вызов.",
+				"descriptionEN":"Have you ever seen the vent of a volcano? With this skin, it will be the last thing your enemies see before their inevitable death. Thousands of gears are located directly in the lava and ensure the uninterrupted movement of the messenger of death. Spikes along the entire perimeter of the body and ominous faces at the back will scare off anyone who dares to challenge you.",
+				"icon":"dc",
+				"emissionColor":"15884800",
+				"emissionColorSecond":"16685824",
+				"emissionColorThreshold":"0.4"
+			},
+			{
 				"id":"tx_xt",
 				"name":"XT (Tanki X)",
 				"descriptionRU":"«Хантер» — точка отсчета для всех танков «Х». Это первый корпус, который пошел в массовое производство. Он повсеместно применяется по сей день. Это корпус танков первой волны, попытка достигнуть эффективного компромисса между бронированностью и маневренностью. «Хантер» появляется там, где нужно сражаться, а не отстреливаться.",
 				"descriptionEN":"The Hunter is the gold standard for all «X» Tanks. This was the first hull to go into mass production. It is widely used to this day. This is the first generation tank shell. It represents an attempt to reach an effective compromise between armor and maneuverability. The Hunter is good for when you need to fight and do not need to return fire.",
+				"isInvertTracksDirection":true,
 				"icon":"tx",
-				"isInvertTracksDirection":"true",
 				"emissionColor":"65535",
 				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"tx_victory_day",
 				"nameRU":"День Победы (Tanki X)",
+				"nameEN":"Victory Day (Tanki X)",
 				"descriptionRU":"«Хантер» — точка отсчета для всех танков «Х». Это первый корпус, который пошел в массовое производство. Он повсеместно применяется по сей день. Это корпус танков первой волны, попытка достигнуть эффективного компромисса между бронированностью и маневренностью. «Хантер» появляется там, где нужно сражаться, а не отстреливаться.",
 				"descriptionEN":"The Hunter is the gold standard for all «X» Tanks. This was the first hull to go into mass production. It is widely used to this day. This is the first generation tank shell. It represents an attempt to reach an effective compromise between armor and maneuverability. The Hunter is good for when you need to fight and do not need to return fire.",
 				"icon":"tx",
@@ -740,7 +733,7 @@
 		"nameEN":"Paladin",
 		"descriptionRU":"Средний парящий корпус. Отличается лучшей манёвренностью среди ховертанков.\n\nОвердрайв действует в некотором радиусе вокруг корпуса, поляризуя броню танков. Союзные танки получают иммунитет от определённых статусов и постоянный ремонт. Вражеские танки подавляются негативными статусами.\n\nХовертанк «Паладин» создавался как танк поддержки штурмовых подразделений, в которых критически важно сохранять скорость движения всей боевой группы. В отличие от тяжёлых танков, «Паладин» обладает средним бронированием и использует антигравы второго поколения. Это позволяет ему поспевать даже за лёгкими танками.",
 		"descriptionEN":"Medium hovering hull. It has the most maneuverability among all hovering hulls.\n\nIts overdrive effect is applied in a range around the hull, polarizing ally tanks' armor. Nearby allies get immunity from some status effects and get continuously healed, while negative status effects get applied to enemy tanks.\n\nThe «Paladin» hovertank was created as a support tank to assist assault groups, for which maintaining the speed of the group is essential. Unlike heavy tanks, Paladin has medium armor and uses second-generation anti-grav engines, allowing it to keep up even with light tanks.",
-		"isHover":"true",
+		"isHover":true,
 		"skins":
 		[
 			{
@@ -749,8 +742,8 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard",
-				"isStandard":"true",
 				"emissionColor":"50943",
 				"emissionColorThreshold":"0.6"
 			},
@@ -788,9 +781,9 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"isInvertTracksDirection":true,
 				"icon":"standard",
-				"isStandard":"true",
-				"isInvertTracksDirection":"true",
 				"emissionColor":"131071",
 				"emissionColorThreshold":"0.6"
 			},
@@ -800,9 +793,9 @@
 				"nameEN":"Standard settings (without side armor)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"isInvertTracksDirection":true,
 				"icon":"standard",
-				"isStandard":"true",
-				"isInvertTracksDirection":"true",
 				"emissionColor":"131071",
 				"emissionColorThreshold":"0.6"
 			},
@@ -832,9 +825,7 @@
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard",
-				"emissionColor":"131071",
-				"emissionColorThreshold":"0.6"
+				"icon":"standard"
 			},
 			{
 				"id":"xt",
@@ -851,15 +842,6 @@
 				"icon":"lc"
 			},
 			{
-				"id":"pr_fake",
-				"nameRU":"Prime (неофициальный)",
-				"nameEN":"Prime (unofficial)",
-				"description":"TODO",
-				"icon":"pr",
-				"emissionColor":"14910519",
-				"emissionColorThreshold":"0.4"
-			},
-			{
 				"id":"gt",
 				"name":"GT",
 				"descriptionRU":"Этот колёсный вездеход поможет покорить вам все танковые просторы! Двухосевые передние колёса добавляют танку устойчивости и манёвренности, карбоновые дуги — прочности, при любом столкновении вы окажетесь в выигрыше. Задний спойлер сделан по чертежам гоночных болидов, поэтому скорости этому скину тоже не занимать. Мало того, что внешний вид не оставит никого равнодушным, так ещё и технические характеристики самого корпуса сделают танк грозой всех битв!",
@@ -870,13 +852,22 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"pr_fake",
+				"nameRU":"Prime (неофициальный)",
+				"nameEN":"Prime (unofficial)",
+				"description":"TODO",
+				"icon":"pr",
+				"emissionColor":"14910519",
+				"emissionColorThreshold":"0.4"
+			},
+			{
 				"id":"tx_dreadnought",
 				"nameRU":"Дредноут (Tanki X)",
 				"nameEN":"Dreadnought (Tanki X)",
 				"descriptionRU":"Когда «Антей» перевел войну в стадию доминирования и удержания территорий, на заводах стал производиться «Диктатор». Многослойное покрытие кристаллическими сплавами и солидные габариты дают себя заметить. Танку с таким корпусом нужно только одно — вызвать удар на себя и ответить.",
 				"descriptionEN":"When Antaeus transformed the war into a struggle to dominate and hold territory, its plants began to produce the Dictator. Its multi-layer armor made of crystalline alloys and solid dimensions make Dictator noticed. A tank with this kind of hull needs only one thing: the ability to sustain impacts and return fire.",
+				"isInvertTracksDirection":true,
 				"icon":"tx",
-				"isInvertTracksDirection":"true",
 				"emissionColor":"4521983",
 				"emissionColorThreshold":"0.4"
 			}
@@ -896,9 +887,9 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"isInvertTracksDirection":true,
 				"icon":"standard",
-				"isStandard":"true",
-				"isInvertTracksDirection":"true",
 				"emissionColor":"913906",
 				"emissionColorThreshold":"0.6"
 			},
@@ -908,9 +899,9 @@
 				"nameEN":"Standard settings (without side armor)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"isInvertTracksDirection":true,
 				"icon":"standard",
-				"isStandard":"true",
-				"isInvertTracksDirection":"true",
 				"emissionColor":"913906",
 				"emissionColorThreshold":"0.6"
 			},
@@ -940,9 +931,7 @@
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard",
-				"emissionColor":"913906",
-				"emissionColorThreshold":"0.6"
+				"icon":"standard"
 			},
 			{
 				"id":"xt",
@@ -973,8 +962,8 @@
 				"name":"SP",
 				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным. \n\nУчёные со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберёте на себе тысячи восхищённых взглядов. \n\nБронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид. \n\nСочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
 				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artefacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. \n\nBronze plates made of the rarest alloy will make your tank look powerful and fearsome. \n\nThe combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
+				"isInvertTracksDirection":true,
 				"icon":"sp",
-				"isInvertTracksDirection":"true",
 				"emissionColor":"913906",
 				"emissionColorThreshold":"0.6"
 			},
@@ -995,7 +984,7 @@
 		"nameEN":"Ares",
 		"descriptionRU":"Тяжёлый парящий корпус. Сохраняет устойчивость даже при движении под обстрелом.\n\nМощнейшая BFG-пушка вмонтирована прямо в корпус «Ареса». Овердрайв стреляет особым энергетическим снарядом, который атакует молниями вражеские танки и восстанавливает союзников.\n\nХовертанк «Арес» стал первым корпусом с антигравитационной установкой. Внушительная масса и габариты антигравов первого поколения предопределили попадание «Ареса» в категорию «тяжеловесов». Чтобы перевернуть этот ховертанк в бою, нужно ну очень постараться.",
 		"descriptionEN":"Heavy hovering hull. It remains stable even while driving under fire.\n\nThe most powerful «BFG Cannon» is built directly into the «Ares» hull. This overdrive shoots a special ball of plasma that attacks enemy tanks with lightning and heals allies.\n\nThe hovertank «Ares» became the first hull with an anti-gravity feature. Its impressive weight and proportions of the first-generation anti-gravs led to the entry of «Ares» into the heavy hulls category. To flip this hovertank in a battle, you need to try really hard.",
-		"isHover":"true",
+		"isHover":true,
 		"skins":
 		[
 			{
@@ -1004,11 +993,18 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard",
-				"isStandard":"true",
 				"emissionColor":"16643843",
 				"emissionColorSecond":"16776970",
 				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Легендарный парящий корпус в особом облике! При создании элитного XT-скина для Ареса были применены новейшие технологии, неизвестный сплав с засекреченным химическим составом и очень много чистейшего золота — всё ради эксклюзивности и элегантности. Как правило, обладатели элитного Ареса XT — очень занятые танкисты, которые не любят, когда их тревожат. Так что если посчастливится встретить их в бою — фотографируйте издали и не забудьте отключить вспышку.",
+				"descriptionEN":"A legendary hovering hull in a very special appearance! In the creation of this elite XT skin for Ares, the latest technology, an unknown alloy with classified chemical composition, and a lot of pure gold were used in order to make this skin even more exclusive and elegant. As a general rule, owners of this elite Ares XT skin are busy tankers who don't like being disturbed. If you see one of them in a battle, take a picture from a distance and don't use flash!",
+				"icon":"xt"
 			},
 			{
 				"id":"m0_prototype",
@@ -1043,13 +1039,6 @@
 				"icon":"standard",
 				"emissionColor":"65535",
 				"emissionColorThreshold":"0.6"
-			},
-			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Легендарный парящий корпус в особом облике! При создании элитного XT-скина для Ареса были применены новейшие технологии, неизвестный сплав с засекреченным химическим составом и очень много чистейшего золота — всё ради эксклюзивности и элегантности. Как правило, обладатели элитного Ареса XT — очень занятые танкисты, которые не любят, когда их тревожат. Так что если посчастливится встретить их в бою — фотографируйте издали и не забудьте отключить вспышку.",
-				"descriptionEN":"A legendary hovering hull in a very special appearance! In the creation of this elite XT skin for Ares, the latest technology, an unknown alloy with classified chemical composition, and a lot of pure gold were used in order to make this skin even more exclusive and elegant. As a general rule, owners of this elite Ares XT skin are busy tankers who don't like being disturbed. If you see one of them in a battle, take a picture from a distance and don't use flash!",
-				"icon":"xt"
 			}
 		]
 	},
@@ -1067,8 +1056,8 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard",
-				"isStandard":"true",
 				"emissionColor":"913648",
 				"emissionColorThreshold":"0.6"
 			},
@@ -1078,8 +1067,8 @@
 				"nameEN":"Standard settings (without side armor)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard",
-				"isStandard":"true",
 				"emissionColor":"913648",
 				"emissionColorThreshold":"0.6"
 			},
@@ -1109,9 +1098,7 @@
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard",
-				"emissionColor":"913648",
-				"emissionColorThreshold":"0.6"
+				"icon":"standard"
 			},
 			{
 				"id":"xt",
@@ -1156,6 +1143,15 @@
 				"icon":"2.0"
 			},
 			{
+				"id":"tx_m2",
+				"name":"M2 (Tanki X)",
+				"descriptionRU":"«Мамонт» — дитя новой войны и эпохи катастроф. Это ответ на разрушительность стихии и новых видов вооружения. «Мамонт» становится краеугольным камнем любой обороны и точкой отсчета каждого крупного наступления. Ему не нужна скорость или маневренность. Ему нужно держать удар и не уходить с занятых позиций. С этим он всегда справляется.",
+				"descriptionEN":"The Mammoth is the product of a new era of war and disasters. This is the answer to the devastating destructive power of the elements and the new types of weapons that have been introduced. The Mammoth is the cornerstone of any defense and the starting point of every major offensive. It does not need speed or agility. It can take a punch while holding its ground. It will always prevail.",
+				"icon":"tx",
+				"emissionColor":"4186194",
+				"emissionColorThreshold":"0.6"
+			},
+			{
 				"id":"tx_sp",
 				"nameRU":"Стимпанк (Tanki X)",
 				"nameEN":"Steampunk (Tanki X)",
@@ -1165,15 +1161,6 @@
 				"emissionColor":"4186194",
 				"emissionColorSecond":"7581738",
 				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"tx_m2",
-				"name":"M2 (Tanki X)",
-				"descriptionRU":"«Мамонт» — дитя новой войны и эпохи катастроф. Это ответ на разрушительность стихии и новых видов вооружения. «Мамонт» становится краеугольным камнем любой обороны и точкой отсчета каждого крупного наступления. Ему не нужна скорость или маневренность. Ему нужно держать удар и не уходить с занятых позиций. С этим он всегда справляется.",
-				"descriptionEN":"The Mammoth is the product of a new era of war and disasters. This is the answer to the devastating destructive power of the elements and the new types of weapons that have been introduced. The Mammoth is the cornerstone of any defense and the starting point of every major offensive. It does not need speed or agility. It can take a punch while holding its ground. It will always prevail.",
-				"icon":"tx",
-				"emissionColor":"4186194",
-				"emissionColorThreshold":"0.6"
 			}
 		]
 	},
@@ -1190,8 +1177,8 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard",
-				"isStandard":"true"
+				"isStandard":true,
+				"icon":"standard"
 			},
 			{
 				"id":"xt_fake",
@@ -1216,8 +1203,8 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard",
-				"isStandard":"true",
 				"emissionColor":"3399390",
 				"emissionColorSecond":"15430990",
 				"emissionColorThreshold":"0.4"
@@ -1251,7 +1238,7 @@
 		"nameRU":"НЛО",
 		"nameEN":"UFO",
 		"description":"TODO",
-		"isHover":"true",
+		"isHover":true,
 		"skins":
 		[
 			{
@@ -1260,8 +1247,8 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard",
-				"isStandard":"true",
 				"emissionColor":"16711697",
 				"emissionColorThreshold":"0.8"
 			}
@@ -1380,5 +1367,4 @@
 			}
 		]
 	}
-	
 ]

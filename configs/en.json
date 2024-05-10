@@ -173,6 +173,7 @@
 	"DEBUG_MODE":"Debug mode",
 	"SPAWN_ARROW":"Spawn arrow",
 	"AXIS_INDICATOR":"Axis indicator",
+	"SHOW_TANK_PREVIEW_IN_GARAGE":"Show tank preview in garage",
 	
 	"SOUND_VOLUME":"Sound volume:",
 	"BACKGROUND_SOUND":"Background sound",
