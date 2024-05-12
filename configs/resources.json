@@ -2655,6 +2655,8 @@
 { "id":"paint_specular_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_tlvkr", "version":"1", "type":"textures" },
 { "id":"paint_tlvkr_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_vint", "version":"1", "type":"textures" },
+{ "id":"paint_vint_preview", "version":"1", "type":"images", "isLazy":true },
 
 { "id":"skybox_hills_day_top", "version":"1", "type":"textures" },
 { "id":"skybox_hills_day_bottom", "version":"1", "type":"textures" },

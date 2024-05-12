@@ -4728,6 +4728,11 @@
 	"description":"TODO"
 },
 {
+	"id":"vint",
+	"name":"Vint",
+	"description":"TODO"
+},
+{
 	"id":"specular",
 	"nameRU":"Спекуляр",
 	"nameEN":"Specular",
