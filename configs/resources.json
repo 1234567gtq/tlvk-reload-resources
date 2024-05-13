@@ -3873,6 +3873,7 @@
 { "id":"billboard_13_years", "version":"1", "type":"textures",  "isLazy":true },
 { "id":"billboard_14_years", "version":"1", "type":"textures",  "isLazy":true },
 { "id":"billboard_reloaded", "version":"1", "type":"textures",  "isLazy":true },
+{ "id":"billboard_tlvk_reload_old", "version":"1", "type":"textures",  "isLazy":true },
 { "id":"billboard_tlvk_reload", "version":"1", "type":"textures",  "isLazy":true },
 { "id":"billboard_standard", "version":"1", "type":"textures",  "isLazy":true },
 { "id":"billboard_standard_new_logo", "version":"1", "type":"textures",  "isLazy":true },

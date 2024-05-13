@@ -36,8 +36,12 @@
 	},
 	{	
 		"id":"tlvk_reload",
-		"nameRU":"TLVK: Reload",
-		"nameEN":"TLVK: Reload"
+		"name":"TLVK: RELOAD"
+	},
+	{	
+		"id":"tlvk_reload_old",
+		"nameRU":"TLVK: RELOAD (старый)",
+		"nameEN":"TLVK: RELOAD (old)"
 	},
 	{	
 		"id":"tlvk_reload_4_years",
