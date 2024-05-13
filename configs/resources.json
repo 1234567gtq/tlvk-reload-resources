@@ -3732,6 +3732,8 @@
 { "id":"map_headspinners_race_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_yekaterinburg_summer", "version":"1", "type":"maps" },
 { "id":"map_yekaterinburg_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_relay_race_winter", "version":"1", "type":"maps" },
+{ "id":"map_relay_race_winter_preview", "version":"1", "type":"images", "isLazy":true },
 
 { "id":"proplib_bush", "version":"1", "type":"proplibs",  "isLazy":true },
 { "id":"proplib_city_buildings", "version":"1", "type":"proplibs",  "isLazy":true },

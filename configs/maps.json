@@ -208,6 +208,14 @@
 		"category":"special"
 	},
 	{
+		"id":"relay_race_winter",
+		"nameRU":"Эстафета (зима)",
+		"nameEN":"Relay Race (winter)",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"special"
+	},
+	{
 		"id":"halloween_2014_summer",
 		"nameRU":"Хэллоуин 2014",
 		"nameEN":"Halloween 2014",
