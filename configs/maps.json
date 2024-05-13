@@ -192,6 +192,14 @@
 		"category":"special"
 	},
 	{
+		"id":"headspinners_race_summer",
+		"nameRU":"Гонка головокрутов",
+		"nameEN":"Headspinners Race",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	{
 		"id":"halloween_2014_summer",
 		"nameRU":"Хэллоуин 2014",
 		"nameEN":"Halloween 2014",
