@@ -200,6 +200,14 @@
 		"category":"special"
 	},
 	{
+		"id":"yekaterinburg_summer",
+		"nameRU":"Екатеринбург",
+		"nameEN":"Yekaterinburg",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	{
 		"id":"halloween_2014_summer",
 		"nameRU":"Хэллоуин 2014",
 		"nameEN":"Halloween 2014",
