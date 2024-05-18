@@ -839,7 +839,12 @@
 	[
 		{
 			"id":"standard",
-			"globeLightning":"shot_skin_twins_electric_shot"
+			"lightning":"ultimate_skin_hunter_standard_lightning",
+			"globeLightning":"shot_skin_twins_electric_shot",
+			"muzzleLightningLight":"tesla_standard_muzzle_lightning",
+			"lightningLight":"tesla_standard_lightning",
+			"ballPrepareLight":"tesla_standard_ball_prepare",
+			"ballLoopLight":"tesla_standard_ball_loop"
 		}	
 	]
 }

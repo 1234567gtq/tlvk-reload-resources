@@ -165,6 +165,9 @@
 	"HORIZONTAL_TARGETING_SPEED":"Скорость прицеливания по горизонтали (рад/с)",
 	"VERTICAL_TARGETING_SPEED":"Скорость прицеливания по вертикали (рад/с)",
 	"TARGETING_ACCELERATION":"Ускорение поворота в прицельном состоянии (рад/с²)",
+	"LIGHTNING_PERIOD":"Частота молний (мс)",
+	"SHELL_PREPARING_TIME":"Время подготовки снаряда (мс)",
+	"RADIUS_OF_ADDING_AN_OBJECT_TO_THE_CHAIN":"Радиус добавления объекта в цепочку (см)",
 	
 	"SHOW_DROP_ZONES":"Показывать зоны ящиков",
 	"ALTERNATE_CAMERA":"Альтернативное поведение камеры",

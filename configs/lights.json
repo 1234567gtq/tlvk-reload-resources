@@ -1,5 +1,67 @@
 [
 	{
+		"id":"tesla_standard_muzzle_lightning",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":500, "color":8255999, "intensity":1, "time":0 },
+			{ "attenuationBegin":70, "attenuationEnd":300, "color":8255999, "intensity":0, "time":120 }
+        ]
+	},
+	{
+		"id":"tesla_standard_lightning",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":500, "color":8255999, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":8255999, "intensity":0, "time":1800 }
+        ]
+	},
+	{
+		"id":"tesla_standard_ball_prepare",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":8255999, "intensity":0, "time":0 },
+			{ "attenuationBegin":250, "attenuationEnd":700, "color":8255999, "intensity":1.1, "time":300 }
+        ]
+	},
+	{
+		"id":"tesla_standard_ball_loop",
+		"light":
+		[
+			{ "attenuationBegin":250, "attenuationEnd":700, "color":8255999, "intensity":1.2, "time":0 },
+			{ "attenuationBegin":100, "attenuationEnd":600, "color":8255999, "intensity":1.14, "time":200 },
+			{ "attenuationBegin":250, "attenuationEnd":700, "color":8255999, "intensity":1.2, "time":400 }
+        ]
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	{
 		"id":"meteorite_tail",
 		"light":
 		[

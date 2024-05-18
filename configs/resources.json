@@ -26,6 +26,9 @@
 { "id":"sound_tesla_shot_3", "version":"1", "type":"sounds" },
 { "id":"sound_tesla_shot_4", "version":"1", "type":"sounds" },
 { "id":"sound_tesla_ball_charging", "version":"1", "type":"sounds" },
+{ "id":"sound_tesla_shell_flight", "version":"1", "type":"sounds" },
+{ "id":"sound_tesla_hit", "version":"1", "type":"sounds" },
+{ "id":"sound_tesla_shot", "version":"1", "type":"sounds" },
 
 { "id":"ultimate_skin_viking_standard_flame", "version":"1", "type":"textures" },
 { "id":"ultimate_skin_viking_standard_smoke", "version":"1", "type":"textures" },

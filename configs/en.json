@@ -160,6 +160,9 @@
 	"HORIZONTAL_TARGETING_SPEED":"Horizontal aiming speed (rad/s)",
 	"VERTICAL_TARGETING_SPEED":"Vertical aiming speed (rad/s)",
 	"TARGETING_ACCELERATION":"Turning acceleration in sniping mode (rad/s²)",
+	"LIGHTNING_PERIOD":"Lightning period (ms)",
+	"SHELL_PREPARING_TIME":"Shell preparing time (ms)",
+	"RADIUS_OF_ADDING_AN_OBJECT_TO_THE_CHAIN":"Radius of adding an object to the chain (cm)",
 	
 	"CLOSE":"Close",
 	"EQUIP":"Equip",
