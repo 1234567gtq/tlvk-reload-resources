@@ -103,5 +103,10 @@
 		"id":"space_day",
 		"nameRU":"Космос",
 		"nameEN":"Space"
+	},
+	{
+		"id":"tx_moon_night",
+		"nameRU":"Луна (TankiX)",
+		"nameEN":"Moon (TankiX)"
 	}
 ]

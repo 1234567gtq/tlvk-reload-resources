@@ -2788,6 +2788,12 @@
 { "id":"skybox_space_day_right", "version":"1", "type":"textures" },
 { "id":"skybox_space_day_top", "version":"1", "type":"textures" },
 { "id":"skybox_garage_front_side", "version":"1", "type":"textures",  "isLazy":true },
+{ "id":"skybox_tx_moon_night_top", "version":"1", "type":"textures" },
+{ "id":"skybox_tx_moon_night_bottom", "version":"1", "type":"textures" },
+{ "id":"skybox_tx_moon_night_left", "version":"1", "type":"textures" },
+{ "id":"skybox_tx_moon_night_back", "version":"1", "type":"textures" },
+{ "id":"skybox_tx_moon_night_front", "version":"1", "type":"textures" },
+{ "id":"skybox_tx_moon_night_right", "version":"1", "type":"textures" },
 
 { "id":"map_aleksandrovsk_summer_preview", "version":"1", "type":"images",  "isLazy":true },
 { "id":"map_aleksandrovsk_mm_summer_preview", "version":"1", "type":"images",  "isLazy":true },
