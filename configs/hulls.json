@@ -1168,7 +1168,8 @@
 		"id":"juggernaut",
 		"nameRU":"Джаггернаут",
 		"nameEN":"Juggernaut",
-		"description":"He'll live.",
+		"descriptionRU":"Сверхтяжёлый корпус. Имеет специальную изоляцию для работы в особо опасных зонах.\n\nОвердрайв отбрасывает вражеские танки и восстанавливает броню корпуса. Из-за огромного запаса прочности, другие способы ремонта этого корпуса оказываются малоэффективны.\n\nСверхмощная экспериментальная машина. Допуск строго ограничен.",
+		"descriptionEN":"Super-heavy hull. It has special insulation to work in particularly dangerous zones.\n\nIts overdrive launches nearby enemies away and fully restores the hull's health. Due to the huge safety margin, other ways of repairing the tank are ineffective.\n\nHeavy duty experimental machine. Admission is strictly limited.",
 		"skins":
 		[
 			{

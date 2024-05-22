@@ -2071,7 +2071,8 @@
 		"id":"terminator",
 		"nameRU":"Терминатор",
 		"nameEN":"Terminator",
-		"description":"Hasta la vista, baby!",
+		"descriptionRU":"Пушка большой дальности. При удержании кнопки стрельбы может атаковать цель самонаводящимися ракетами.\n\nСверхтяжёлая башня, разработанная специально под корпус Джаггернаут. Две рельсовые пушки с повышенной скорострельностью дополнены тяжёлыми ракетными установками для ближнего боя.\n\nПрименение с другими корпусами не предусмотрено. По слухам, выстрел может сорвать башню с танка.",
+		"descriptionEN":"Long range turret. Holding down the firing button will launch a barrage of guided missiles to attack the target.\n\nSuper heavy turret designed specifically for the «Juggernaut» hull. The two Railgun turrets with increased rate of fire are accompanied by heavy close-range rocket launchers.\n\nt is not possible to use it with other hulls. According to rumors, a shot can blow the turret off the tank.",
 		"skins":
 		[
 			{
