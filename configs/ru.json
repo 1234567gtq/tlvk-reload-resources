@@ -1,4 +1,15 @@
 {
+	"DISCORD_RPC_IN_MAIN_MENU":"В главном меню",
+	"DISCORD_RPC_IN_BATTLE":"В битве",
+	"DISCORD_RPC_IN_GARAGE":"В гараже",
+	"DISCORD_RPC_SELECTING_MAP":"Выбирает карту...",
+	"DISCORD_RPC_MAP":"Карта: ",
+	"DISCORD_RPC_SELECTING_HULL":"Выбирает корпус...",
+	"DISCORD_RPC_SELECTING_TURRET":"Выбирает пушку...",
+	"DISCORD_RPC_SELECTING_DRONE":"Выбирает дрон...",
+	"DISCORD_RPC_SELECTING_PAINT":"Выбирает краску...",
+	"ULTIMATE_CHARACTERISTICS":"Характеристики овердрайва",
+	
 	"LOADING":"Загрузка...",
 	"TIP_1":"Раньше проект назывался «TLVK TOP» и не получал новый функционал из «Танков Онлайн».",
 	"TIP_2":"Проект был основан в 2020 году и включал в себя очень мало контента.",
@@ -114,6 +125,16 @@
 	"TURN_REVERSE_ACCELERATION":"Противоинерционное ускорение поворота (рад/с²)",
 	"OPTIMAL_SURFACE_DISTANCE":"Оптимальное расстояние до поверхности (см)",
 	"TILT_STABILITY_SCALE":"Масштаб стабилизации наклона (усл. ед.)",
+	
+	"DELAY_BEFORE_EXPLOSION":"Задержка перед взрывом (мс)",
+	"DAMAGE_RADIUS":"Радиус поражения (см)",
+	"DURATION":"Время действия (мс)",
+	"JUMP_FORCE":"Сила прыжка (усл. ед.)",
+	"DELAY_BEFORE_ACTIVATION":"Задержка перед активацией (мс)",
+	"DURATION_OF_CALM":"Время действия оглушения (мс)",
+	"RADIUS_OF_ACTION":"Радиус действия (см)",
+	"INCREASE":"Прибавка к максимальной скорости (%)",
+	"COLOR":"Цвет (дес. число)",
 	
 	"RANGE":"Дальность (см)",
 	"CONE_ANGLE":"Угол конуса (рад)",

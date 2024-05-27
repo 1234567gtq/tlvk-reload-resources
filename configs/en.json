@@ -1,4 +1,15 @@
 {
+	"DISCORD_RPC_IN_MAIN_MENU":"In main menu",
+	"DISCORD_RPC_IN_BATTLE":"In battle",
+	"DISCORD_RPC_IN_GARAGE":"In garage",
+	"DISCORD_RPC_SELECTING_MAP":"Selecting map...",
+	"DISCORD_RPC_MAP":"Map: ",
+	"DISCORD_RPC_SELECTING_HULL":"Selecting hull...",
+	"DISCORD_RPC_SELECTING_TURRET":"Selecting turret...",
+	"DISCORD_RPC_SELECTING_DRONE":"Selecting drone...",
+	"DISCORD_RPC_SELECTING_PAINT":"Selecting paint...",
+	"ULTIMATE_CHARACTERISTICS":"Ultimate characteristics",
+	
 	"LOADING":"Loading...",
 	"TIP_1":"Previously, the project was called «TLVK TOP» and didn't receive new functionality from «Tanki Online».",
 	"TIP_2":"The project was founded in 2020 and included very little content.",
@@ -109,6 +120,16 @@
 	"TURN_REVERSE_ACCELERATION":"Turn reverse acceleration (rad/s²)",
 	"OPTIMAL_SURFACE_DISTANCE":"Optimal surface distance (cm)",
 	"TILT_STABILITY_SCALE":"Tilt stability scale (cond. units)",
+	
+	"DELAY_BEFORE_EXPLOSION":"Delay before explosion (ms)",
+	"DAMAGE_RADIUS":"Damage radius (cm)",
+	"DURATION":"Duration (ms)",
+	"JUMP_FORCE":"Jump force (cond. units)",
+	"DELAY_BEFORE_ACTIVATION":"Delay before activation (ms)",
+	"DURATION_OF_CALM":"Duration of calm (ms)",
+	"RADIUS_OF_ACTION":"Range (cm)",
+	"INCREASE":"Increase to max speed (%)",
+	"COLOR":"Color (decimal)",
 	
 	"RANGE":"Range (cm)",
 	"CONE_ANGLE":"Cone angle (rad)",
