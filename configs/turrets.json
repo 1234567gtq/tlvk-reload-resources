@@ -1350,6 +1350,15 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"xt_hd",
+				"name":"XT HD",
+				"descriptionRU":"Серия XT скинов представляет собой коллекцию эксклюзивных обликов для различных танков, каждый из которых обладает уникальными внешним видом. Более детально и масштабно прорисованная модель пушки придаёт ей мощный и эффектный вид. Учтены все, даже самые мелкие детали! Обладатель этого редкого скина всегда находится в центре внимания.",
+				"descriptionEN":"The XT series of skins is a collection of exclusive skins for various tanks, each with its own unique appearance. The model of the turret is more detailed and large-scale, which gives it a powerful and spectacular look. Even the smallest details are taken into account! The owners of these rare skins are always in the spotlight.",
+				"icon":"xt",
+				"emissionColor":"16476172",
+				"emissionColorThreshold":"0.4"
+			},
+			{
 				"id":"lc",
 				"name":"Legacy",
 				"descriptionRU":"Legacy-скин для Грома поможет вам окунуться в атмосферу «старых Танков». А если вы старожил игры — сможете вспомнить ваши ощущения от первых боёв.",
