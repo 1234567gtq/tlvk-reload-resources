@@ -4713,6 +4713,12 @@
 	"description":"TODO"
 },
 {
+	"id":"winter_games",
+	"nameRU":"Зимние игры",
+	"nameEN":"Winter games",
+	"description":"TODO"
+},
+{
 	"id":"jokerge",
 	"name":"Jokerge",
 	"description":"Jokerge"
