@@ -1,8 +1,8 @@
 [	
-	{	
-		"id":"may_holidays_2024",
-		"nameRU":"Майские праздники 2024",
-		"nameEN":"May holidays 2024"
+{	
+		"id":"15_years",
+		"nameRU":"15 лет",
+		"nameEN":"15 years"
 	},
 	{	
 		"id":"standard",
@@ -177,6 +177,11 @@
 		"id":"iron_days_2022",
 		"nameRU":"День защитника Отечества 2022",
 		"nameEN":"Iron days 2022"
+	},
+	{	
+		"id":"may_holidays_2024",
+		"nameRU":"Майские праздники 2024",
+		"nameEN":"May holidays 2024"
 	},
 	{	
 		"id":"may_holidays_2022",

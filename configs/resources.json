@@ -3955,5 +3955,6 @@
 { "id":"billboard_tx_antaeus", "version":"1", "type":"textures" },
 { "id":"billboard_tx_frontier", "version":"1", "type":"textures" },
 { "id":"billboard_araumi", "version":"1", "type":"textures" },
-{ "id":"billboard_may_holidays_2024", "version":"1", "type":"textures" }
+{ "id":"billboard_may_holidays_2024", "version":"1", "type":"textures" },
+{ "id":"billboard_15_years", "version":"1", "type":"textures" }
 ]
