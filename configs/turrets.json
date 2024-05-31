@@ -1356,7 +1356,7 @@
 				"descriptionEN":"The XT series of skins is a collection of exclusive skins for various tanks, each with its own unique appearance. The model of the turret is more detailed and large-scale, which gives it a powerful and spectacular look. Even the smallest details are taken into account! The owners of these rare skins are always in the spotlight.",
 				"icon":"xt",
 				"emissionColor":"16476172",
-				"emissionColorThreshold":"0.4"
+				"emissionColorThreshold":"0.3"
 			},
 			{
 				"id":"lc",
