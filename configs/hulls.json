@@ -157,7 +157,17 @@
 				"icon":"tx",
 				"emissionColor":"65535",
 				"emissionColorThreshold":"0.4"
-			}	
+			},
+			{
+				"id":"tx_steel",
+				"nameRU":"Сталь (Tanki X)",
+				"nameEN":"Steel (Tanki X)",
+				"descriptionRU":"Этот корпус разрабатывался специально для продаж частным армиям по всему миру. «Васп» эффективно справлялся с танками старого образца, но и в современной войне ему легко найти применение. Быстро рвёт дистанцию, легко уходит из-под удара. Он предназначен для перехвата и вовлечения неповоротливого противника в маневренный бой. Этот корпус плохо держит удар и может даже перевернуться при попадании тяжелого мощного снаряда. Но верно служит тем, кто под удар не подставится.",
+				"descriptionEN":"This hull was specifically designed to cater to the needs of private armies around the world. The Wasp makes short work of old-style tanks, and it is also a valuable tool to fighting modern wars. It can quickly cover distances, and it is easily able to escape enemy fire. It is designed to intercept and engage a cornered enemy in a Blitzkrieg-style battle. This hull poorly resists blows and can even flip over when hit by heavy shells. But it will faithfully serve those that can avoid enemy fire.",
+				"icon":"tx",
+				"emissionColor":"4186194",
+				"emissionColorThreshold":"0.4"
+			}			
 		]
 	},
 	{
@@ -376,6 +386,16 @@
 				"descriptionEN":"It was developed by Antaeus to effectively promote their «Х» Tanks on battlefields around the world. Hornets can appear right in front of the enemy's nose at lightning speed and smash their position. This hull can withstand direct hits and still stay on track, but it is not good for performing quick maneuvers on a dime.",
 				"icon":"tx",
 				"emissionColor":"4521983",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"tx_steel",
+				"nameRU":"Сталь (Tanki X)",
+				"nameEN":"Steel (Tanki X)",
+				"descriptionRU":"Разработан «Антеем» для эффектной рекламы танков «Х» на полях сражений по всему миру. «Хорнеты» на высоких скоростях появляются перед носом у врага и молниеносно громят его позиции. Этот корпус может получить по зубам и остаться на ходу, но эффективные маневры «на пятачке» — это не про него.",
+				"descriptionEN":"It was developed by Antaeus to effectively promote their «Х» Tanks on battlefields around the world. Hornets can appear right in front of the enemy's nose at lightning speed and smash their position. This hull can withstand direct hits and still stay on track, but it is not good for performing quick maneuvers on a dime.",
+				"icon":"tx",
+				"emissionColor":"4186194",
 				"emissionColorThreshold":"0.4"
 			}
 		]

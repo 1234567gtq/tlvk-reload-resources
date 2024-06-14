@@ -580,6 +580,16 @@
 				"icon":"tx",
 				"emissionColor":"4186194",
 				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"tx_steel",
+				"nameRU":"Сталь (Tanki X)",
+				"nameEN":"Steel (Tanki X)",
+				"descriptionRU":"Когда «Молот» появился на поле боя под Кунгуром, казалось, что он был в танковых сражениях всегда. В ближнем бою «Молот» — гарантия снести одну башню. На средней дистанции «Молот» — обещание снести несколько. Дробовик танкового типа. И этим всё сказано.",
+				"descriptionEN":"When the Hammer first appeared during the Battle of Kungur, the opposing sides wondered how they could have conducted tank war without it. When you're in the thick of battle, the Hammer is your ticket to demolishing at least one enemy. When used at medium range, the Hammer can take out a few. Think of it like a tank-mounted shotgun. Enough said.",
+				"icon":"tx",
+				"emissionColor":"4186194",
+				"emissionColorThreshold":"0.4"
 			}
 		],
 		"shotSkins":
@@ -1654,6 +1664,16 @@
 				"descriptionEN":"A kinetic weapon and the «X» Tank are the ideal combination for waging battle in circumstances where any other weapon could fail. Huge open spaces proved to be excellent testing grounds for honing the performance properties of the Railgun. It is able to cut through several enemy tanks at once before they are even in range to offer counter fire.",
 				"icon":"tx",
 				"emissionColor":"4521983",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"tx_steel",
+				"nameRU":"Сталь (Tanki X)",
+				"nameEN":"Steel (Tanki X)",
+				"descriptionRU":"Кинетическое оружие и танк «Х» — идеальная комбинация для ведения сражений в условиях, когда любое другое оружие может дать сбой. Огромные открытые пространства стали прекрасным полигоном для формирования характеристик «Рельсы», способной прошить сразу несколько вражеских танков, когда они еще даже не вышли на дистанцию эффективной стрельбы.",
+				"descriptionEN":"A kinetic weapon and the «X» Tank are the ideal combination for waging battle in circumstances where any other weapon could fail. Huge open spaces proved to be excellent testing grounds for honing the performance properties of the Railgun. It is able to cut through several enemy tanks at once before they are even in range to offer counter fire.",
+				"icon":"tx",
+				"emissionColor":"4186194",
 				"emissionColorThreshold":"0.4"
 			}
 		],

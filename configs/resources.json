@@ -409,6 +409,7 @@
 { "id":"hull_wasp_release_1.100_1", "version":"1", "type":"models" },
 { "id":"hull_wasp_release_1.100_2", "version":"1", "type":"models" },
 { "id":"hull_wasp_release_1.100_3", "version":"1", "type":"models" },
+{ "id":"hull_wasp_tx_steel", "version":"2", "type":"models" },
 { "id":"hull_hornet_hd", "version":"2", "type":"models",  "isLazy":false },
 { "id":"hull_hornet_hd_without_side_armor", "version":"2", "type":"models",  "isLazy":false },
 { "id":"hull_hornet_xt_m3", "version":"1", "type":"models",  "isLazy":false },
@@ -429,6 +430,7 @@
 { "id":"hull_hornet_xt_m1", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_hornet_xt_m2", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_hornet_tx_victory_day", "version":"2", "type":"models",  "isLazy":false },
+{ "id":"hull_hornet_tx_steel", "version":"1", "type":"models",  "isLazy":false },
 { "id":"hull_hopper_hd", "version":"2", "type":"models",  "isLazy":false },
 { "id":"hull_hopper_xt", "version":"2", "type":"models",  "isLazy":false },
 { "id":"hull_hopper_rt", "version":"1", "type":"models",  "isLazy":false },
@@ -587,6 +589,7 @@
 { "id":"turret_hammer_lc", "version":"1", "type":"models" },
 { "id":"turret_hammer_dc", "version":"3", "type":"models" },
 { "id":"turret_hammer_tx_m0", "version":"3", "type":"models" },
+{ "id":"turret_hammer_tx_steel", "version":"1", "type":"models" },
 
 { "id":"turret_twins_hd", "version":"2", "type":"models",  "isLazy":false },
 { "id":"turret_twins_xt", "version":"1", "type":"models",  "isLazy":false },
@@ -675,6 +678,7 @@
 { "id":"turret_railgun_xt_m1", "version":"1", "type":"models",  "isLazy":false },
 { "id":"turret_railgun_xt_m2", "version":"1", "type":"models",  "isLazy":false },
 { "id":"turret_railgun_tx_victory_day", "version":"2", "type":"models",  "isLazy":false },
+{ "id":"turret_railgun_tx_steel", "version":"1", "type":"models",  "isLazy":false },
 { "id":"turret_magnum_m3", "version":"1", "type":"models",  "isLazy":false },
 { "id":"turret_magnum_xt", "version":"1", "type":"models",  "isLazy":false },
 { "id":"turret_magnum_m2", "version":"1", "type":"models",  "isLazy":false },
@@ -2663,6 +2667,8 @@
 { "id":"paint_vint_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_winter_games", "version":"1", "type":"textures" },
 { "id":"paint_winter_games_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_to15", "version":"1", "type":"textures" },
+{ "id":"paint_to15_preview", "version":"1", "type":"images", "isLazy":true },
 
 { "id":"skybox_hills_day_top", "version":"1", "type":"textures" },
 { "id":"skybox_hills_day_bottom", "version":"1", "type":"textures" },
@@ -2999,7 +3005,7 @@
 { "id":"map_polygon_mm_summer", "version":"1", "type":"maps",  "isLazy":true },
 { "id":"map_red_alert_summer", "version":"1", "type":"maps",  "isLazy":true },
 { "id":"map_red_alert_mm_summer", "version":"2", "type":"maps",  "isLazy":true },
-{ "id":"map_rift_summer_summer", "version":"1", "type":"maps",  "isLazy":true },
+{ "id":"map_rift_summer", "version":"1", "type":"maps",  "isLazy":true },
 { "id":"map_rio_summer", "version":"1", "type":"maps",  "isLazy":true },
 { "id":"map_rio_mm_summer", "version":"1", "type":"maps",  "isLazy":true },
 { "id":"map_sandal_summer", "version":"1", "type":"maps",  "isLazy":true },
@@ -3959,5 +3965,6 @@
 { "id":"billboard_tx_frontier", "version":"1", "type":"textures" },
 { "id":"billboard_araumi", "version":"1", "type":"textures" },
 { "id":"billboard_may_holidays_2024", "version":"1", "type":"textures" },
-{ "id":"billboard_15_years", "version":"1", "type":"textures" }
+{ "id":"billboard_15_years", "version":"1", "type":"textures" },
+{ "id":"billboard_vint", "version":"1", "type":"textures" }
 ]
