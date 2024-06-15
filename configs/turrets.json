@@ -734,6 +734,15 @@
 				"icon":"rt"
 			},
 			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Специальная линейка GT скинов для пушек - это не только отличное дополнение для любого колёсного корпуса, но и проявление особой смелости. Не каждый танкист готов пожертвовать скрытностью и осторожностью на поле боя, ради того, чтобы продемонстрировать всю уникальность и особенность своего танка. Серия GT скинов для пушек это мощное и красивое оружие, которое создано для самых решительных и смелых игроков. Пушки GT отличаются уникальным дизайном, который делает их узнаваемыми на поле боя, оснащены передовыми технологиями и материалами и имеют стильный дизайн, который подчеркивает их мощь и элегантность.",
+				"descriptionEN":"This special series of GT skins for turrets is not just a good addition to any wheeled hull but also a manifestation of extraordinary courage. Not every tanker is ready to sacrifice stealth and caution on the battlefield to flaunt the uniqueness and the peculiarity of their tank in its entirety. The GT series of skins for turrets are powerful and beautiful weapons designed for the most determined and daring players. GT turrets stand out with their unique design, making them recognizable on the battlefield. They are equipped with advanced technologies and materials, and have a stylish design that emphasizes their power and elegance.",
+				"icon":"gt",
+				"emissionColor":"65525",
+				"emissionColorThreshold":"0.6"
+			},
+			{
 				"id":"tx_xt",
 				"name":"XT (Tanki X)",
 				"descriptionRU":"«Твинс» стала одной из первых пушек будущего корпорации «Антей». Появилась она благодаря упавшим с неба кристаллам. Двуствольный плазмомёт — оружие маневренного боя, идеальное для подавления противника огнем. Не даёт врагу возможности сориентироваться и прицелиться под шквальным обстрелом, незаменима в маневренном сражении.",
