@@ -111,6 +111,16 @@
 				"emissionColorThreshold":"0.4"
 			}
 		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			}
+		],
 		"shotSkins":
 		[
 			{
@@ -148,6 +158,34 @@
 				"nameEN":"Pink",
 				"descriptionRU":"Розовый — цвет сочного стейка. Так поджарьте же врагов своими выстрелами!",
 				"descriptionEN":"Pink... to leave your enemies roasted just like a medium-cooked steak."
+			},
+			{
+				"id":"m0_old",
+				"name":"M0 (Legacy)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true
+			},
+			{
+				"id":"m1_old",
+				"name":"M1 (Legacy)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true
+			},
+			{
+				"id":"m2_old",
+				"name":"M2 (Legacy)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true
+			},
+			{
+				"id":"m3_old",
+				"name":"M3 (Legacy)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true
 			}
 		]
 	},
@@ -261,6 +299,20 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"xt_fake_red",
+				"nameRU":"XT (неофициальный, красный)",
+				"nameEN":"XT (unofficial, red)",
+				"description":"TODO",
+				"icon":"xt"
+			},
+			{
+				"id":"xt_fake_blue",
+				"nameRU":"XT (неофициальный, синий)",
+				"nameEN":"XT (unofficial, blue)",
+				"description":"TODO",
+				"icon":"xt"
+			},
+			{
 				"id":"pr_fake",
 				"nameRU":"Prime (неофициальный)",
 				"nameEN":"Prime (unofficial)",
@@ -288,6 +340,16 @@
 				"icon":"tx",
 				"emissionColor":"65535",
 				"emissionColorThreshold":"0.4"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
 			}
 		],
 		"shotSkins":
@@ -405,6 +467,13 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"xt_fake",
+				"nameRU":"XT (неофициальный)",
+				"nameEN":"XT (unofficial)",
+				"description":"TODO",
+				"icon":"xt"
+			},
+			{
 				"id":"tx_bumblebee-83",
 				"nameRU":"Шмель-83 (Tanki X)",
 				"nameEN":"Bumblebee-83 (Tanki X)",
@@ -413,6 +482,16 @@
 				"icon":"tx",
 				"emissionColor":"4186194",
 				"emissionColorThreshold":"0.6"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
 			}
 		],
 		"shotSkins":
@@ -487,6 +566,16 @@
 				"icon":"rt"
 			}
 		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			}
+		],
 		"shotSkins":
 		[
 			{
@@ -547,6 +636,14 @@
 				"icon":"standard"
 			},
 			{
+				"id":"m3_test",
+				"nameRU":"M3 (тестовый)",
+				"nameEN":"M3 (test)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
 				"id":"xt",
 				"name":"XT",
 				"descriptionRU":"Грозный Молот XT своим видом напоминает голову носорога. С этим скином в поединке вам не будет равных — нацельте рог на вашего врага и сокрушите его мощным ударом.\n\nP.S. При создании этого скина ни один носорог не пострадал.",
@@ -573,6 +670,13 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"xt_test_fake",
+				"nameRU":"XT (тестовый, неофициальный)",
+				"nameEN":"XT (test, unofficial)",
+				"description":"TODO",
+				"icon":"xt"
+			},
+			{
 				"id":"tx_m0",
 				"name":"M0 (Tanki X)",
 				"descriptionRU":"Когда «Молот» появился на поле боя под Кунгуром, казалось, что он был в танковых сражениях всегда. В ближнем бою «Молот» — гарантия снести одну башню. На средней дистанции «Молот» — обещание снести несколько. Дробовик танкового типа. И этим всё сказано.",
@@ -590,6 +694,16 @@
 				"icon":"tx",
 				"emissionColor":"4186194",
 				"emissionColorThreshold":"0.4"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
 			}
 		],
 		"shotSkins":
@@ -743,6 +857,13 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"xt_fake",
+				"nameRU":"XT (неофициальный)",
+				"nameEN":"XT (unofficial)",
+				"description":"TODO",
+				"icon":"xt"
+			},
+			{
 				"id":"tx_xt",
 				"name":"XT (Tanki X)",
 				"descriptionRU":"«Твинс» стала одной из первых пушек будущего корпорации «Антей». Появилась она благодаря упавшим с неба кристаллам. Двуствольный плазмомёт — оружие маневренного боя, идеальное для подавления противника огнем. Не даёт врагу возможности сориентироваться и прицелиться под шквальным обстрелом, незаменима в маневренном сражении.",
@@ -761,6 +882,16 @@
 				"emissionColor":"4186194",
 				"emissionColorSecond":"7581738",
 				"emissionColorThreshold":"0.4"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
 			}
 		],
 		"shotSkins":
@@ -896,6 +1027,13 @@
 				"icon":"rt"
 			},
 			{
+				"id":"xt_fake",
+				"nameRU":"XT (неофициальный)",
+				"nameEN":"XT (unofficial)",
+				"description":"TODO",
+				"icon":"xt"
+			},
+			{
 				"id":"tx_m2",
 				"name":"M2 (Tanki X)",
 				"descriptionRU":"Ответом на «Твинс» стало новое изобретение красной корпорации — «Рикошет». Запертые в магнитное поле плазменные сгустки отскакивают от препятствий, а орудийные датчики безошибочно определяют контакт с корпусом вражеского танка. Когда в замкнутых городских пространствах не спрятаться от снаряда даже за изгибом улицы или тоннеля, у маневренных танков противника резко снижаются шансы на выживание.",
@@ -903,6 +1041,16 @@
 				"icon":"tx",
 				"emissionColor":"4186194",
 				"emissionColorThreshold":"0.4"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
 			}
 		],
 		"shotSkins":
@@ -1065,6 +1213,13 @@
 				"icon":"standard"
 			},
 			{
+				"id":"xt_fake",
+				"nameRU":"XT (неофициальный)",
+				"nameEN":"XT (unofficial)",
+				"description":"TODO",
+				"icon":"xt"
+			},
+			{
 				"id":"2.0_m2",
 				"name":"M2 (Tanki Online 2.0)",
 				"description":"TODO",
@@ -1090,6 +1245,16 @@
 				"emissionColorThreshold":"0.4"
 			}
 		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			}
+		],
 		"shotSkins":
 		[
 			{
@@ -1099,6 +1264,121 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true
+			}
+		]
+	},
+	{
+		"id":"striker",
+		"nameRU":"Страйкер",
+		"nameEN":"Striker",
+		"descriptionRU":"Ракетная установка средней дальности. При удержании кнопки стрельбы может запустить несколько самонаводящихся ракет.\n\nПротивотанковой ракетной установке «Страйкер» требуется значительное время для захвата цели. С другой стороны, увернуться от запущенных самонаводящихся ракет у цели нет никаких шансов. Для динамичного боя предусмотрена возможность запускать ракеты прямой наводкой. Немного расточительно, но в ближнем бою это даёт решающее преимущество в скорострельности.\n\nС незапамятных времён самой большой угрозой танку была противотанковая ракета. Маленькая зверюга могла бережно донести заряд взрывчатки до цели на очень большом расстоянии. Противотанковый комплекс «Страйкер» продолжает многолетнюю традицию по экспресс-доставке концентрированного ада до брони противника.",
+		"descriptionEN":"Medium range missile launcher. Holding down the firing button will lock onto a target and launch a barrage of guided missiles.\n\nAnti-tank missile launcher «Striker» requires significant time to lock onto a target. On the other hand, there is no chance of the target dodging the launched guided missiles. For dynamic battles, an option to directly shoot the rockets is also included. It’s a bit wasteful, but in close combat, it can give you a decisive advantage in firing rate.\n\nSince the dawn of warfare, the biggest threat to a tank was the anti-tank missile. That beastie could carefully deliver an explosive package to its target from a very long distance. Anti-tank turret «Striker» continues a century-old tradition of express explosion delivery to the tank and its armor.",
+		"skins":
+		[
+			{
+				"id":"m3",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard"
+			},
+			{
+				"id":"m0",
+				"name":"M0",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1",
+				"name":"M1",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2",
+				"name":"M2",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"demo",
+				"nameRU":"Тестовая версия",
+				"nameEN":"Test version",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard"
+			},
+			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Создатели этого скина были вдохновлены подводным миром, полным опасностей, и его загадочными обитателями. Пронзительный взгляд морского демона словно держит врагов на прицеле, а хищная мурена готова вцепиться своими острыми зубами в любую мишень.",
+				"descriptionEN":"The designers of this skin were inspired by the marine underworld, full of dangers and mysterious inhabitants. The intimidating stare of a goliath as it muscles its way through thick schools of fish, and the rapacious moray eel as it prepares to sink its sharp teeth into its prey.",
+				"icon":"xt"
+			},
+			{
+				"id":"ut",
+				"name":"Ultra",
+				"descriptionRU":"Вам нравится свист и шипение набирающих скорость ракет Страйкера? С этим скином Ультра стрелять залпом станет вдвойне приятнее.",
+				"descriptionEN":"The \"whoooosh\" of a Striker's salvo is one of the coolest sounds in the game. Complete the picture by equipping this cool Ultra Skin.",
+				"icon":"ut",
+				"emissionColor":"14768643",
+				"emissionColorSecond":"1674186",
+				"emissionColorThreshold":"0.4"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			}
+		],
+		"shotSkins":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true
+			},
+			{
+				"id":"toxic",
+				"nameRU":"Ядовитый",
+				"nameEN":"Toxic",
+				"descriptionRU":"Ядовитые вещества очень опасны, но вам это только на руку. Превратите поле битвы в токсичный полигон, отравляя врагов своими выстрелами.",
+				"descriptionEN":"A toxic attitude will get you banned. But it's perfectly fine for your tank to spread toxicity. So have fun with it."
+			},
+			{
+				"id":"crimson",
+				"nameRU":"Багровый",
+				"nameEN":"Crimson",
+				"descriptionRU":"Выстрелы багрового цвета несут в себе гнев, который падёт на ваших врагов, словно раскат грома.",
+				"descriptionEN":"This one is crimson, like the color of your wrath in battle."
+			},
+			{
+				"id":"blue",
+				"nameRU":"Синий",
+				"nameEN":"Blue",
+				"descriptionRU":"Синий — это цвет синяков, которые останутся на самолюбии врагов после ваших попаданий.",
+				"descriptionEN":"This one is blue, like the bruises you will leave on your enemy's ego."
+			},
+			{
+				"id":"violet",
+				"nameRU":"Лиловый",
+				"nameEN":"Violet",
+				"descriptionRU":"Этот угрожающий цвет ваших выстрелов без слов расскажет противникам, что вы не собираетесь с ними шутить.",
+				"descriptionEN":"The ominous color of your shots should be a clear message to your enemies that you're not messing around."
 			}
 		]
 	},
@@ -1188,6 +1468,16 @@
 				"emissionColorThreshold":"0.6"
 			}
 		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			}
+		],
 		"shotSkins":
 		[
 			{
@@ -1204,111 +1494,6 @@
 				"nameEN":"Mysterious red",
 				"descriptionRU":"Почему «Таинственный»? Потому что это один из тех трудноуловимых, неземных, ошеломляющих оттенков красного, которые поражают воображение. И потому что это звучит круто.",
 				"descriptionEN":"Why \"mysterious\"? Because it's one of those undefinable, ethereal, confounding shades of red that boggles the mind. And because it sounds cool."
-			}
-		]
-	},
-	{
-		"id":"striker",
-		"nameRU":"Страйкер",
-		"nameEN":"Striker",
-		"descriptionRU":"Ракетная установка средней дальности. При удержании кнопки стрельбы может запустить несколько самонаводящихся ракет.\n\nПротивотанковой ракетной установке «Страйкер» требуется значительное время для захвата цели. С другой стороны, увернуться от запущенных самонаводящихся ракет у цели нет никаких шансов. Для динамичного боя предусмотрена возможность запускать ракеты прямой наводкой. Немного расточительно, но в ближнем бою это даёт решающее преимущество в скорострельности.\n\nС незапамятных времён самой большой угрозой танку была противотанковая ракета. Маленькая зверюга могла бережно донести заряд взрывчатки до цели на очень большом расстоянии. Противотанковый комплекс «Страйкер» продолжает многолетнюю традицию по экспресс-доставке концентрированного ада до брони противника.",
-		"descriptionEN":"Medium range missile launcher. Holding down the firing button will lock onto a target and launch a barrage of guided missiles.\n\nAnti-tank missile launcher «Striker» requires significant time to lock onto a target. On the other hand, there is no chance of the target dodging the launched guided missiles. For dynamic battles, an option to directly shoot the rockets is also included. It’s a bit wasteful, but in close combat, it can give you a decisive advantage in firing rate.\n\nSince the dawn of warfare, the biggest threat to a tank was the anti-tank missile. That beastie could carefully deliver an explosive package to its target from a very long distance. Anti-tank turret «Striker» continues a century-old tradition of express explosion delivery to the tank and its armor.",
-		"skins":
-		[
-			{
-				"id":"m3",
-				"nameRU":"Стандартные настройки",
-				"nameEN":"Standard settings",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"isStandard":true,
-				"icon":"standard"
-			},
-			{
-				"id":"m0",
-				"name":"M0",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m1",
-				"name":"M1",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m2",
-				"name":"M2",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Создатели этого скина были вдохновлены подводным миром, полным опасностей, и его загадочными обитателями. Пронзительный взгляд морского демона словно держит врагов на прицеле, а хищная мурена готова вцепиться своими острыми зубами в любую мишень.",
-				"descriptionEN":"The designers of this skin were inspired by the marine underworld, full of dangers and mysterious inhabitants. The intimidating stare of a goliath as it muscles its way through thick schools of fish, and the rapacious moray eel as it prepares to sink its sharp teeth into its prey.",
-				"icon":"xt"
-			},
-			{
-				"id":"ut",
-				"name":"Ultra",
-				"descriptionRU":"Вам нравится свист и шипение набирающих скорость ракет Страйкера? С этим скином Ультра стрелять залпом станет вдвойне приятнее.",
-				"descriptionEN":"The \"whoooosh\" of a Striker's salvo is one of the coolest sounds in the game. Complete the picture by equipping this cool Ultra Skin.",
-				"icon":"ut",
-				"emissionColor":"14768643",
-				"emissionColorSecond":"1674186",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"demo",
-				"nameRU":"Тестовая версия",
-				"nameEN":"Test version",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"isStandard":true,
-				"icon":"standard"
-			}
-		],
-		"shotSkins":
-		[
-			{
-				"id":"standard",
-				"nameRU":"Стандартные настройки",
-				"nameEN":"Standard settings",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"isStandard":true
-			},
-			{
-				"id":"toxic",
-				"nameRU":"Ядовитый",
-				"nameEN":"Toxic",
-				"descriptionRU":"Ядовитые вещества очень опасны, но вам это только на руку. Превратите поле битвы в токсичный полигон, отравляя врагов своими выстрелами.",
-				"descriptionEN":"A toxic attitude will get you banned. But it's perfectly fine for your tank to spread toxicity. So have fun with it."
-			},
-			{
-				"id":"crimson",
-				"nameRU":"Багровый",
-				"nameEN":"Crimson",
-				"descriptionRU":"Выстрелы багрового цвета несут в себе гнев, который падёт на ваших врагов, словно раскат грома.",
-				"descriptionEN":"This one is crimson, like the color of your wrath in battle."
-			},
-			{
-				"id":"blue",
-				"nameRU":"Синий",
-				"nameEN":"Blue",
-				"descriptionRU":"Синий — это цвет синяков, которые останутся на самолюбии врагов после ваших попаданий.",
-				"descriptionEN":"This one is blue, like the bruises you will leave on your enemy's ego."
-			},
-			{
-				"id":"violet",
-				"nameRU":"Лиловый",
-				"nameEN":"Violet",
-				"descriptionRU":"Этот угрожающий цвет ваших выстрелов без слов расскажет противникам, что вы не собираетесь с ними шутить.",
-				"descriptionEN":"The ominous color of your shots should be a clear message to your enemies that you're not messing around."
 			}
 		]
 	},
@@ -1458,6 +1643,16 @@
 				"emissionColorThreshold":"0.4"
 			}
 		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			}
+		],
 		"shotSkins":
 		[
 			{
@@ -1504,6 +1699,16 @@
 				"icon":"xt",
 				"emissionColor":"16726016",
 				"emissionColorThreshold":"0.4"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
 			}
 		],
 		"shotSkins":
@@ -1647,6 +1852,16 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"tx_steel",
+				"nameRU":"Сталь (Tanki X)",
+				"nameEN":"Steel (Tanki X)",
+				"descriptionRU":"Кинетическое оружие и танк «Х» — идеальная комбинация для ведения сражений в условиях, когда любое другое оружие может дать сбой. Огромные открытые пространства стали прекрасным полигоном для формирования характеристик «Рельсы», способной прошить сразу несколько вражеских танков, когда они еще даже не вышли на дистанцию эффективной стрельбы.",
+				"descriptionEN":"A kinetic weapon and the «X» Tank are the ideal combination for waging battle in circumstances where any other weapon could fail. Huge open spaces proved to be excellent testing grounds for honing the performance properties of the Railgun. It is able to cut through several enemy tanks at once before they are even in range to offer counter fire.",
+				"icon":"tx",
+				"emissionColor":"4186194",
+				"emissionColorThreshold":"0.4"
+			},
+			{
 				"id":"tx_xt",
 				"name":"XT (Tanki X)",
 				"descriptionRU":"Кинетическое оружие и танк «Х» — идеальная комбинация для ведения сражений в условиях, когда любое другое оружие может дать сбой. Огромные открытые пространства стали прекрасным полигоном для формирования характеристик «Рельсы», способной прошить сразу несколько вражеских танков, когда они еще даже не вышли на дистанцию эффективной стрельбы.",
@@ -1674,16 +1889,16 @@
 				"icon":"tx",
 				"emissionColor":"4521983",
 				"emissionColorThreshold":"0.4"
-			},
+			}
+		],
+		"devices":
+		[
 			{
-				"id":"tx_steel",
-				"nameRU":"Сталь (Tanki X)",
-				"nameEN":"Steel (Tanki X)",
-				"descriptionRU":"Кинетическое оружие и танк «Х» — идеальная комбинация для ведения сражений в условиях, когда любое другое оружие может дать сбой. Огромные открытые пространства стали прекрасным полигоном для формирования характеристик «Рельсы», способной прошить сразу несколько вражеских танков, когда они еще даже не вышли на дистанцию эффективной стрельбы.",
-				"descriptionEN":"A kinetic weapon and the «X» Tank are the ideal combination for waging battle in circumstances where any other weapon could fail. Huge open spaces proved to be excellent testing grounds for honing the performance properties of the Railgun. It is able to cut through several enemy tanks at once before they are even in range to offer counter fire.",
-				"icon":"tx",
-				"emissionColor":"4186194",
-				"emissionColorThreshold":"0.4"
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
 			}
 		],
 		"shotSkins":
@@ -1798,6 +2013,23 @@
 				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным. \n\nУчёные со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберёте на себе тысячи восхищённых взглядов. \n\nБронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид. \n\nСочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
 				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artefacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. \n\nBronze plates made of the rarest alloy will make your tank look powerful and fearsome. \n\nThe combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
 				"icon":"sp"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"automated_gunpowder_loading_mechanism",
+				"nameRU":"Усиленный лафет",
+				"nameEN":"Automated gunpowder loading mechanism",
+				"descriptionRU":"Конвертация механизма поворота башни в механизм управления наклоном ствола. Позволяет накрывать противника огнём сверху, но менять горизонтальное направление выстрела можно только поворотом всего корпуса.",
+				"descriptionEN":"Converts the turret rotation mechanism to the mechanism of changing the elevation angle and makes power accumulation faster. At the same time it becomes harder to avoid overshooting or undershooting due to not having the required level of power."
 			}
 		],
 		"shotSkins":
@@ -1940,6 +2172,16 @@
 				"emissionColorThreshold":"0.6"
 			}
 		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			}
+		],
 		"shotSkins":
 		[
 			{
@@ -2021,6 +2263,13 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"xt_fake",
+				"nameRU":"XT (неофициальный)",
+				"nameEN":"XT (unofficial)",
+				"description":"TODO",
+				"icon":"xt"
+			},
+			{
 				"id":"tx_m2",
 				"name":"M2 (Tanki X)",
 				"descriptionRU":"Сверхточное орудие «Шафт» было создано «Фронтиром» для ведения позиционных боёв за горные перевалы в Латинской Америке. Режим снайперского огня и возможность ведения эффективного боя на коротких дистанциях сделали «Шафт» надеждой на «победу качеством». Продолжалось это до тех пор, пока инженеры «Антея» не скопировали новинку, демонтировав её с одного из подбитых танков.",
@@ -2028,6 +2277,16 @@
 				"icon":"tx",
 				"emissionColor":"4186194",
 				"emissionColorThreshold":"0.6"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
 			}
 		],
 		"shotSkins":
@@ -2128,6 +2387,23 @@
 				"nameEN":"XT (unofficial)",
 				"description":"TODO",
 				"icon":"xt"
+			},
+			{
+				"id":"xt_fake_ilya_star",
+				"nameRU":"XT (неофициальный, работа Ilya Star)",
+				"nameEN":"XT (unofficial, Ilya Star's work)",
+				"description":"TODO",
+				"icon":"xt"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
 			}
 		],
 		"shotSkins":
@@ -2162,7 +2438,7 @@
 			},
 			{
 				"id":"hd_old",
-				"nameRU":"Стандартные настройки (старый)",
+				"nameRU":"Стандартные настройки (старые)",
 				"nameEN":"Standard settings (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
@@ -2180,6 +2456,16 @@
 				"icon":"xt",
 				"emissionColor":"16640099",
 				"emissionColorThreshold":"0.4"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
 			}
 		],
 		"shotSkins":
@@ -2235,6 +2521,16 @@
 				"emissionColorThreshold":"0.4"
 			}
 		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			}
+		],
 		"shotSkins":
 		[
 			{
@@ -2264,6 +2560,16 @@
 				"icon":"standard",
 				"emissionColor":"65310",
 				"emissionColorThreshold":"0.4"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
 			}
 		],
 		"shotSkins":

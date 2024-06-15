@@ -487,6 +487,34 @@
 			"muzzle":"shot_skin_flamethrower_pink_muzzle",
 			"startLight":"flamethrower_pink_start",
 			"loopLight":"flamethrower_pink_loop"
+		},
+		{
+			"id":"m0_old",
+			"isLegacy":true,
+			"particle":"shot_skin_flamethrower_m0_legacy_particle",
+			"startLight":"flamethrower_standard_start",
+			"loopLight":"flamethrower_standard_loop"
+		},
+		{
+			"id":"m1_old",
+			"isLegacy":true,
+			"particle":"shot_skin_flamethrower_m1_legacy_particle",
+			"startLight":"flamethrower_standard_start",
+			"loopLight":"flamethrower_standard_loop"
+		},
+		{
+			"id":"m2_old",
+			"isLegacy":true,
+			"particle":"shot_skin_flamethrower_m2_legacy_particle",
+			"startLight":"flamethrower_pink_start",
+			"loopLight":"flamethrower_pink_loop"
+		},
+		{
+			"id":"m3_old",
+			"isLegacy":true,
+			"particle":"shot_skin_flamethrower_m3_legacy_particle",
+			"startLight":"freeze_standard_start",
+			"loopLight":"freeze_standard_loop"
 		}
 	],
 	"freeze":
