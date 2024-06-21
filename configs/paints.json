@@ -4440,6 +4440,13 @@
 	"descriptionEN":"This paint is the prize for the «Masters of Parkour» contest that took place in 2023."
 },
 {
+	"id":"master_of_parkour_2023_old",
+	"nameRU":"Мастер паркура 2023 (старая)",
+	"nameEN":"Master of Parkour 2023 (old)",
+	"descriptionRU":"Эта краска для призёров конкурса «Мастера паркура 2023».",
+	"descriptionEN":"This paint is the prize for the «Masters of Parkour» contest that took place in 2023."
+},
+{
 	"id":"onyx",
 	"nameRU":"Оникс",
 	"nameEN":"Onyx",

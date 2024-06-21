@@ -2101,6 +2101,8 @@
 { "id":"paint_master_of_parkour_2020", "version":"1", "type":"textures" },
 { "id":"paint_master_of_parkour_2023_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_master_of_parkour_2023", "version":"1", "type":"textures" },
+{ "id":"paint_master_of_parkour_2023_old_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_master_of_parkour_2023_old", "version":"1", "type":"textures" },
 { "id":"paint_onyx_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_onyx", "version":"1", "type":"textures" },
 { "id":"paint_pegasus_preview", "version":"1", "type":"images", "isLazy":true },
