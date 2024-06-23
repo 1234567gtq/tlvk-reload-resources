@@ -77,6 +77,13 @@
 	"descriptionEN":"Rumor has it that this camouflage is a replica of the cover of an alien ship that was knocked down in the last century by the forces of <WARNING: This information is classified — Further inquiries on the matter will be met with deadly force.>"
 },
 {
+	"id":"alien_old",
+	"nameRU":"Чужой (старая)",
+	"nameEN":"Alien (old)",
+	"descriptionRU":"Существует легенда, что этот камуфляж копирует окраску летающей тарелки, в прошлом веке сбитой ПВО сами-знаете-кого сами-знаете-где.",
+	"descriptionEN":"Rumor has it that this camouflage is a replica of the cover of an alien ship that was knocked down in the last century by the forces of <WARNING: This information is classified — Further inquiries on the matter will be met with deadly force.>"
+},
+{
 	"id":"amber",
 	"nameRU":"Янтарь",
 	"nameEN":"Amber",
@@ -1782,6 +1789,12 @@
 	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
 },
 {
+	"id":"tanki_sport_2024_1_aurora",
+	"name":"Aurora",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
 	"id":"avant-garde",
 	"nameRU":"Авангард",
 	"nameEN":"Avant-garde",
@@ -2069,6 +2082,12 @@
 },
 {
 	"id":"tanki_sport_2023_2_deviants",
+	"name":"Deviants",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2024_1_deviants",
 	"name":"Deviants",
 	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
 	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
@@ -2447,6 +2466,12 @@
 	"descriptionEN":"A paint for fans of KALASH86RUS during the competition \"Battle of the Consultants\""
 },
 {
+	"id":"tanki_sport_2024_1_kan",
+	"name":"KAN",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
 	"id":"kasim_vs_sun_kasim",
 	"name":"Kasim",
 	"descriptionRU":"Покрытие болельщиков Kasim'а.",
@@ -2504,6 +2529,12 @@
 	"nameRU":"Сруб",
 	"nameEN":"Log cabin",
 	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2024_1_lovesick",
+	"name":"Lovesick",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
 	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
 },
 {
@@ -2669,6 +2700,12 @@
 	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
 },
 {
+	"id":"tanki_sport_2024_1_pepega",
+	"name":"Pepega",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
 	"id":"peppers",
 	"nameRU":"Перцы",
 	"nameEN":"Peppers",
@@ -2708,6 +2745,12 @@
 	"nameEN":"Pumpkins",
 	"descriptionRU":"Взошла луна, и мёртвые поднимаются из могил. Повсюду жутко скалящиеся тыквы, источающие инфернальный свет. Хэллоуин настал!",
 	"descriptionEN":"The moon is full and bright, the dead are seen, it's the pumpkin season - it's Halloween! Available only during the holiday celebrations for Halloween 2017."
+},
+{
+	"id":"tanki_sport_2024_1_punishment",
+	"name":"Punishment",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
 },
 {
 	"id":"question",
@@ -2763,6 +2806,12 @@
 },
 {
 	"id":"tanki_sport_2023_1_red_notice",
+	"name":"Red Notice",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2024_1_red_notice",
 	"name":"Red Notice",
 	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
 	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
@@ -3185,6 +3234,12 @@
 	"id":"to15",
 	"name":"TO15",
 	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
+	"id":"tanki_sport_2024_1_top25ornothing",
+	"name":"Top25OrNothing",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
 	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
 },
 {

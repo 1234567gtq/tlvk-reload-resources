@@ -3,8 +3,8 @@
 		"id":"flamethrower",
 		"nameRU":"Огнемёт",
 		"nameEN":"Firebird",
-		"descriptionRU":"Пушка ближнего боя. Поджигает противников, нанося дополнительный урон.\n\nВ тесных городских кварталах, когда картина боя напоминает скорее муравейник, нет лучшего оружия, чем пушка «Огнемёт». Идеальная штука в условиях ограниченного пространства. Одинаково красиво сжигает как тяжёлые неповоротливые, так и юркие лёгкие танки.\n\nТеоретически, противника может потушить струя фреона пушки «Фриз». На практике, стоит зазеваться на секунду и танк уже сгорел как спичка.",
-		"descriptionEN":"Close range turret. Sets enemies on fire, dealing additional damage.\n\nOn the narrow city streets, when the battle looks more like an ant farm, there is no better weapon than the «Firebird» turret. The ideal turret for limited areas with no space to maneuver. Equally wonderful at putting slow heavy tanks on fire and crisping up fast light hulls.\n\nTheoretically, a freon stream of the «Freeze» turret can extinguish the fire. In practice, you just yawn for a second and your tank has already burnt like a match.",
+		"descriptionRU":"Пушка ближнего боя. Поджигает противников, нанося дополнительный урон.\n\nВ тесных городских кварталах, когда картина боя напоминает скорее муравейник, нет лучшего оружия, чем пушка «Огнемёт». Идеальная штука в условиях ограниченного пространства. Одинаково красиво сжигает как тяжёлые неповоротливые, так и юркие лёгкие танки.\n\nТеоретически, противника может потушить струя фреона пушки «Фриз». На практике, стоит зазеваться на секунду и танк уже сгорел как спичка.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%9E%D0%B3%D0%BD%D0%B5%D0%BC%D1%91%D1%82\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Close range turret. Sets enemies on fire, dealing additional damage.\n\nOn the narrow city streets, when the battle looks more like an ant farm, there is no better weapon than the «Firebird» turret. The ideal turret for limited areas with no space to maneuver. Equally wonderful at putting slow heavy tanks on fire and crisping up fast light hulls.\n\nTheoretically, a freon stream of the «Freeze» turret can extinguish the fire. In practice, you just yawn for a second and your tank has already burnt like a match.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/Firebird\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
@@ -42,6 +42,38 @@
 			{
 				"id":"m3",
 				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
@@ -193,8 +225,8 @@
 		"id":"freeze",
 		"nameRU":"Фриз",
 		"nameEN":"Freeze",
-		"descriptionRU":"Пушка ближнего боя. Замораживает противников, замедляя корпус и башню.\n\nЗаливая противника химическим составом на основе фреона, пушка «Фриз» наносит урон и замораживает объект, замедляя все его движения. Возможность наглухо заморозить противника и уйти с линии ответного огня позволяет легко противостоять более грозным танкам.\n\nГлавное — не расходовать баллон впустую, играя в снежки с союзниками. Это, конечно, весело, но у боевого танка всегда есть более важные дела.",
-		"descriptionEN":"Close range turret. Freezes enemies, slowing down hulls and turrets.\n\nCovering the opponent with a chemical compound based on freon, the «Freeze» turret damages and freezes the target, slowing all of its movement. The ability to fully freeze the enemy and escape its firing range allows fighting more powerful tanks.\n\nThe most important thing to remember - don’t waste your fuel supply on snowball games with your allies. It’s totally fun, of course, but battle tanks have more important things to do.",
+		"descriptionRU":"Пушка ближнего боя. Замораживает противников, замедляя корпус и башню.\n\nЗаливая противника химическим составом на основе фреона, пушка «Фриз» наносит урон и замораживает объект, замедляя все его движения. Возможность наглухо заморозить противника и уйти с линии ответного огня позволяет легко противостоять более грозным танкам.\n\nГлавное — не расходовать баллон впустую, играя в снежки с союзниками. Это, конечно, весело, но у боевого танка всегда есть более важные дела.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%A4%D1%80%D0%B8%D0%B7\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Close range turret. Freezes enemies, slowing down hulls and turrets.\n\nCovering the opponent with a chemical compound based on freon, the «Freeze» turret damages and freezes the target, slowing all of its movement. The ability to fully freeze the enemy and escape its firing range allows fighting more powerful tanks.\n\nThe most important thing to remember - don’t waste your fuel supply on snowball games with your allies. It’s totally fun, of course, but battle tanks have more important things to do.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/Freeze\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
@@ -232,6 +264,38 @@
 			{
 				"id":"m3",
 				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
@@ -396,8 +460,8 @@
 		"id":"isida",
 		"nameRU":"Изида",
 		"nameEN":"Isida",
-		"descriptionRU":"Излучатель ближнего боя. Может ремонтировать союзные танки.\n\nПушка «Изида» использует магнитный луч для передачи нанороботов на расстояние в пару десятков метров. Нанороботы легко распознают цель и либо быстро разбирают броню на молекулы, либо постепенно ремонтируют её. Таким образом, это оружие наносит урон врагам и восстанавливает союзников, что особенно важно при командной игре.\n\nРазвитие квантовой физики и нанотехнологий подарило удивительные возможности простой промышленной сварочной установке. Если бы только её можно было использовать для ремонта собственного танка.",
-		"descriptionEN":"Close range emitter. Can repair allied tanks.\n\nThe «Isida» turret uses a magnetic beam to transport nanobots over a distance of several dozen meters. Nanobots can easily recognize the target and either quickly dismantle the armor into molecules or gradually repair it. This way, the weapon deals damage to enemies and repairs allies, which is especially important in team battles.\n\nThe research in quantum physics and nanotechnology has gifted an impressive set of abilities to a simple welding machine straight from the factory. If only it could be used to repair your own tank.",
+		"descriptionRU":"Излучатель ближнего боя. Может ремонтировать союзные танки.\n\nПушка «Изида» использует магнитный луч для передачи нанороботов на расстояние в пару десятков метров. Нанороботы легко распознают цель и либо быстро разбирают броню на молекулы, либо постепенно ремонтируют её. Таким образом, это оружие наносит урон врагам и восстанавливает союзников, что особенно важно при командной игре.\n\nРазвитие квантовой физики и нанотехнологий подарило удивительные возможности простой промышленной сварочной установке. Если бы только её можно было использовать для ремонта собственного танка.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%98%D0%B7%D0%B8%D0%B4%D0%B0\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Close range emitter. Can repair allied tanks.\n\nThe «Isida» turret uses a magnetic beam to transport nanobots over a distance of several dozen meters. Nanobots can easily recognize the target and either quickly dismantle the armor into molecules or gradually repair it. This way, the weapon deals damage to enemies and repairs allies, which is especially important in team battles.\n\nThe research in quantum physics and nanotechnology has gifted an impressive set of abilities to a simple welding machine straight from the factory. If only it could be used to repair your own tank.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/Isida\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
@@ -436,6 +500,38 @@
 			{
 				"id":"m3",
 				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
@@ -531,8 +627,8 @@
 		"id":"tesla",
 		"nameRU":"Тесла",
 		"nameEN":"Tesla",
-		"descriptionRU":"Излучатель ближнего боя. Атакует несколько противников цепной молнией.\n\nПушка «Тесла» может использовать любой танк в качестве проводника своей цепной молнии. В том числе и союзные танки, за которыми можно прятаться и всё равно доставать противника электричеством. Чем меньше целей одновременно поражено цепной молнией, тем выше урон каждой отдельной цели.\n\nСлучайное короткое замыкание на испытательном стенде породило редчайший феномен ― шаровую молнию. Пренебрегая всеми правилами безопасности, в шаровую молнию был направлен повторный разряд тока. Молния ударила в шар и по цепочке достала до ближайшего ангара, где сгорела целая дюжина новеньких танков.",
-		"descriptionEN":"Close range emitter. Attacks multiple enemies with chain lightning.\n\nThe «Tesla» turret can use any tank as a conductor for its chain lightning, including allied tanks that you can hide behind, and still reach the enemy with electricity. The fewer the targets hit by chain lightning simultaneously, the greater the damage to each individual target is.\n\nAn unforeseen short circuit on the test bench showed the rarest phenomenon ― a ball of lightning. Ignoring all the safety regulations, engineers shot a chain of lightning straight in the direction of the ball lightning. Lightning struck the ball and continued, reaching the nearest hangar, hitting a whole battalion of brand new tanks inside.",
+		"descriptionRU":"Излучатель ближнего боя. Атакует несколько противников цепной молнией.\n\nПушка «Тесла» может использовать любой танк в качестве проводника своей цепной молнии. В том числе и союзные танки, за которыми можно прятаться и всё равно доставать противника электричеством. Чем меньше целей одновременно поражено цепной молнией, тем выше урон каждой отдельной цели.\n\nСлучайное короткое замыкание на испытательном стенде породило редчайший феномен ― шаровую молнию. Пренебрегая всеми правилами безопасности, в шаровую молнию был направлен повторный разряд тока. Молния ударила в шар и по цепочке достала до ближайшего ангара, где сгорела целая дюжина новеньких танков.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%A2%D0%B5%D1%81%D0%BB%D0%B0\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Close range emitter. Attacks multiple enemies with chain lightning.\n\nThe «Tesla» turret can use any tank as a conductor for its chain lightning, including allied tanks that you can hide behind, and still reach the enemy with electricity. The fewer the targets hit by chain lightning simultaneously, the greater the damage to each individual target is.\n\nAn unforeseen short circuit on the test bench showed the rarest phenomenon ― a ball of lightning. Ignoring all the safety regulations, engineers shot a chain of lightning straight in the direction of the ball lightning. Lightning struck the ball and continued, reaching the nearest hangar, hitting a whole battalion of brand new tanks inside.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/Tesla\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
@@ -592,8 +688,8 @@
 		"id":"hammer",
 		"nameRU":"Молот",
 		"nameEN":"Hammer",
-		"descriptionRU":"Пушка малой дальности. Использует дробь, которая рикошетит и может поразить несколько противников.\n\nПушка «Молот» использует шрапнельный снаряд с вольфрамовыми стрелами, которые рикошетят от стен и могут поразить несколько противников. Стрелы имеют невысокую кучность при стрельбе на большие дистанции, нужно подобраться к противнику поближе. Также пушка имеет барабан заряжания с кассетой на три быстрых выстрела. Перезарядка возможна только после полного отстрела кассеты.\n\nИз-за низкой массы каждая вольфрамовая стрела может отрикошетить не более одного раза. Как правило, этого достаточно, чтобы достать противника за углом или сбить ему прицел, засадив рикошетом сбоку. Или засадить рикошетом в себя, тут уже как повезёт.",
-		"descriptionEN":"Close range turret. Uses shrapnel, which ricochets and damages several enemies at once.\n\nThe «Hammer» turret uses a shrapnel projectile with tungsten arrows that ricochet off surfaces and can hit several enemies at once. The arrows have low accuracy when firing at long distances, so you need to get closer to the opponent. The turret also has a loading drum magazine for three fast shots. Reloading is available only after the magazine is completely fired.\n\nDue to its low mass, each tungsten arrow can ricochet only once. Usually, it’s enough to get the enemy hiding behind a corner or to kick off its aim by firing at the enemy from the side. Though, you can also ricochet the shot back into yourself, depending on how lucky you are.",
+		"descriptionRU":"Пушка малой дальности. Использует дробь, которая рикошетит и может поразить несколько противников.\n\nПушка «Молот» использует шрапнельный снаряд с вольфрамовыми стрелами, которые рикошетят от стен и могут поразить несколько противников. Стрелы имеют невысокую кучность при стрельбе на большие дистанции, нужно подобраться к противнику поближе. Также пушка имеет барабан заряжания с кассетой на три быстрых выстрела. Перезарядка возможна только после полного отстрела кассеты.\n\nИз-за низкой массы каждая вольфрамовая стрела может отрикошетить не более одного раза. Как правило, этого достаточно, чтобы достать противника за углом или сбить ему прицел, засадив рикошетом сбоку. Или засадить рикошетом в себя, тут уже как повезёт.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%9C%D0%BE%D0%BB%D0%BE%D1%82\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Close range turret. Uses shrapnel, which ricochets and damages several enemies at once.\n\nThe «Hammer» turret uses a shrapnel projectile with tungsten arrows that ricochet off surfaces and can hit several enemies at once. The arrows have low accuracy when firing at long distances, so you need to get closer to the opponent. The turret also has a loading drum magazine for three fast shots. Reloading is available only after the magazine is completely fired.\n\nDue to its low mass, each tungsten arrow can ricochet only once. Usually, it’s enough to get the enemy hiding behind a corner or to kick off its aim by firing at the enemy from the side. Though, you can also ricochet the shot back into yourself, depending on how lucky you are.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/Hammer\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
@@ -631,6 +727,38 @@
 			{
 				"id":"m3",
 				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
@@ -771,8 +899,8 @@
 		"id":"twins",
 		"nameRU":"Твинс",
 		"nameEN":"Twins",
-		"descriptionRU":"Двуствольная пушка малой дальности. Имеет очень высокую скорострельность, но медленные снаряды.\n\nСкорострельный двуствольный плазмомёт идеально подходит для динамичного боя на средней и малой дистанциях. Взрыв от плазмы вмиг превратит врагов в кучу расплавленного железа. Необходимо соблюдать технику безопасности и избегать ближнего боя, иначе можно случайно спалить собственный танк.\n\nСистема охлаждения плазменных ускорителей и перезарядки конденсаторов спроектирована настолько надёжно, что некоторые танкисты подпирают гашетку любым подручным барахлом, например кирпичом, и никогда не прекращают огонь. Из-за этого злые языки часто называют назойливый звук выстрелов дополнительным поражающим фактором, раздражающим не только противников, но и союзников.",
-		"descriptionEN":"Double-barreled small range turret. Has a very rapid firing speed, but slow-flying rounds.\n\nThe rapid-fire double-barreled plasmagun is ideal for dynamic fights at medium and short ranges. A plasma explosion will turn the enemy into a pile of molten iron in no time. It is necessary to observe safety measures and avoid close fights or you can easily melt down your own tank.\n\nThe cooling system of plasma chargers and capacitor recharge are designed to be so fail-proof, that some tankers manage to put different questionable objects (e.g. a brick) on the firing trigger to fire it non-stop. Thanks to that, evil rumors describe the sound of this turret shooting as an additional damaging factor, which annoys not only the enemies but allies as well.",
+		"descriptionRU":"Двуствольная пушка малой дальности. Имеет очень высокую скорострельность, но медленные снаряды.\n\nСкорострельный двуствольный плазмомёт идеально подходит для динамичного боя на средней и малой дистанциях. Взрыв от плазмы вмиг превратит врагов в кучу расплавленного железа. Необходимо соблюдать технику безопасности и избегать ближнего боя, иначе можно случайно спалить собственный танк.\n\nСистема охлаждения плазменных ускорителей и перезарядки конденсаторов спроектирована настолько надёжно, что некоторые танкисты подпирают гашетку любым подручным барахлом, например кирпичом, и никогда не прекращают огонь. Из-за этого злые языки часто называют назойливый звук выстрелов дополнительным поражающим фактором, раздражающим не только противников, но и союзников.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%A2%D0%B2%D0%B8%D0%BD%D1%81\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Double-barreled small range turret. Has a very rapid firing speed, but slow-flying rounds.\n\nThe rapid-fire double-barreled plasmagun is ideal for dynamic fights at medium and short ranges. A plasma explosion will turn the enemy into a pile of molten iron in no time. It is necessary to observe safety measures and avoid close fights or you can easily melt down your own tank.\n\nThe cooling system of plasma chargers and capacitor recharge are designed to be so fail-proof, that some tankers manage to put different questionable objects (e.g. a brick) on the firing trigger to fire it non-stop. Thanks to that, evil rumors describe the sound of this turret shooting as an additional damaging factor, which annoys not only the enemies but allies as well.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/Twins\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
@@ -810,6 +938,38 @@
 			{
 				"id":"m3",
 				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
@@ -959,8 +1119,8 @@
 		"id":"ricochet",
 		"nameRU":"Рикошет",
 		"nameEN":"Ricochet",
-		"descriptionRU":"Пушка малой дальности. Плазменные снаряды рикошетят и могут поразить противника за пределами прямой видимости.\n\nПлазмомёт «Рикошет» выпускает плазменные заряды, окутанные «умным» минус-полем. При попадании в танк заряд взрывается, но от других поверхностей отскакивает и продолжает полёт. Таким образом, из «Рикошета» можно поразить цель за укрытиями, даже не видя её.\n\nЧтобы поставить пушку на вооружение, команда из 22 специалистов три года работала в подземном бункере без права выхода на поверхность. К сожалению, решить проблемы с безопасностью применения не удалось. Заряд плазмы может элементарно прилететь обратно после рикошета. «Умное» минус-поле всё же недостаточно умное, чтобы отличить собственный танк от вражеского.",
-		"descriptionEN":"Small range turret. Plasma projectiles ricochet and can damage enemies even out of your field of vision.\n\nThe «Ricochet» plasmagun fires plasma projectiles coated with a “smart” minus-field. The projectile will explode when it hits a tank, but if it hits a solid obstacle, it will bounce off and continue its flight. This way, you can hit targets even if you can’t see them.\n\nTo mass-produce this turret, a team of 22 specialists worked for 3 years straight in an underground bunker without permission to see the sky. Unfortunately, it was impossible to solve one safety issue completely: plasma rounds can easily bounce back after ricocheting. The “smart” minus-field is clever, but not clever enough to distinguish enemy tanks from the user.",
+		"descriptionRU":"Пушка малой дальности. Плазменные снаряды рикошетят и могут поразить противника за пределами прямой видимости.\n\nПлазмомёт «Рикошет» выпускает плазменные заряды, окутанные «умным» минус-полем. При попадании в танк заряд взрывается, но от других поверхностей отскакивает и продолжает полёт. Таким образом, из «Рикошета» можно поразить цель за укрытиями, даже не видя её.\n\nЧтобы поставить пушку на вооружение, команда из 22 специалистов три года работала в подземном бункере без права выхода на поверхность. К сожалению, решить проблемы с безопасностью применения не удалось. Заряд плазмы может элементарно прилететь обратно после рикошета. «Умное» минус-поле всё же недостаточно умное, чтобы отличить собственный танк от вражеского.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%A0%D0%B8%D0%BA%D0%BE%D1%88%D0%B5%D1%82\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Small range turret. Plasma projectiles ricochet and can damage enemies even out of your field of vision.\n\nThe «Ricochet» plasmagun fires plasma projectiles coated with a “smart” minus-field. The projectile will explode when it hits a tank, but if it hits a solid obstacle, it will bounce off and continue its flight. This way, you can hit targets even if you can’t see them.\n\nTo mass-produce this turret, a team of 22 specialists worked for 3 years straight in an underground bunker without permission to see the sky. Unfortunately, it was impossible to solve one safety issue completely: plasma rounds can easily bounce back after ricocheting. The “smart” minus-field is clever, but not clever enough to distinguish enemy tanks from the user.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/Ricochet\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
@@ -998,6 +1158,38 @@
 			{
 				"id":"m3",
 				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
@@ -1132,8 +1324,8 @@
 		"id":"smoky",
 		"nameRU":"Смоки",
 		"nameEN":"Smoky",
-		"descriptionRU":"Пушка средней дальности. Универсальное орудие с быстрой перезарядкой.\n\nСтандартная танковая пушка без особых изысков и усложнений. Снабжена скоростным автоматом заряжания. Требует умелого удержания противника в прицеле и отсутствие промахов для максимальной эффективности.\n\nЛегендарная танковая пушка получила распространение из-за дешевизны и простоты обслуживания. Установите её на быстрый корпус и, шныряя между ошарашенными врагами, берите тяжёлые неповоротливые танки на измор.",
-		"descriptionEN":"Medium range turret. A universal weapon with fast reload.\n\nStandard turret without much frills or complexity. It is equipped with a high-speed charging machine. This turret requires the skill to hold the enemy in sight and no misses for maximum efficiency.\n\n«Smoky» is a legendary turret, made widely popular by how affordable and simple to maintain it is. Install it on a fast hull, and while sliding between shocked enemies, destroy each unwieldy heavy tank one by one.",
+		"descriptionRU":"Пушка средней дальности. Универсальное орудие с быстрой перезарядкой.\n\nСтандартная танковая пушка без особых изысков и усложнений. Снабжена скоростным автоматом заряжания. Требует умелого удержания противника в прицеле и отсутствие промахов для максимальной эффективности.\n\nЛегендарная танковая пушка получила распространение из-за дешевизны и простоты обслуживания. Установите её на быстрый корпус и, шныряя между ошарашенными врагами, берите тяжёлые неповоротливые танки на измор.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%A1%D0%BC%D0%BE%D0%BA%D0%B8\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Medium range turret. A universal weapon with fast reload.\n\nStandard turret without much frills or complexity. It is equipped with a high-speed charging machine. This turret requires the skill to hold the enemy in sight and no misses for maximum efficiency.\n\n«Smoky» is a legendary turret, made widely popular by how affordable and simple to maintain it is. Install it on a fast hull, and while sliding between shocked enemies, destroy each unwieldy heavy tank one by one.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/Smoky\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
@@ -1174,6 +1366,60 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"xt_old",
+				"nameRU":"XT (старый)",
+				"nameEN":"XT (old)",
+				"descriptionRU":"Усовершенствованная версия классической «Смоки» превосходит по мощи все её рядовые модификации, включая M3. Экспериментальная партия пушек была похищена с завода и появилась на чёрном рынке в обход всех легальных каналов. Однако спецагенты уже вышли на след похителей и скоро доберутся до покупателей, чтобы конфисковать Смоки XT. Торопитесь!\n\nПользоваться пушкой можно до 24 февраля 2011 года. В этот день в 08:00 по московскому времени орудие будет изъято.",
+				"descriptionEN":"Special version of classic Smoky gun exceeds in power all its ordinary modifications, including M3. Experimental series of this guns was stolen from the factory and leaked to black market. But special agents already tailed the thieves and soon agents will come to buyers to confiscate illegally bought item. You have 7 days only!\n\nYou can use Smoky XT till February, 22. On that day in 05:00 (UTC +3) the gun will be confiscated.",
+				"icon":"xt"
+			},
+			{
+				"id":"pumpkin_old",
+				"nameRU":"Тыква (старый)",
+				"nameEN":"Pumpkin (old)",
+				"description":"TODO",
+				"icon":"xt"
+			},
+			{
+				"id":"snowman_old",
+				"nameRU":"Снеговик (старый)",
+				"nameEN":"Snowman (old)",
+				"description":"TODO",
+				"icon":"xt"
 			},
 			{
 				"id":"xt",
@@ -1271,8 +1517,8 @@
 		"id":"striker",
 		"nameRU":"Страйкер",
 		"nameEN":"Striker",
-		"descriptionRU":"Ракетная установка средней дальности. При удержании кнопки стрельбы может запустить несколько самонаводящихся ракет.\n\nПротивотанковой ракетной установке «Страйкер» требуется значительное время для захвата цели. С другой стороны, увернуться от запущенных самонаводящихся ракет у цели нет никаких шансов. Для динамичного боя предусмотрена возможность запускать ракеты прямой наводкой. Немного расточительно, но в ближнем бою это даёт решающее преимущество в скорострельности.\n\nС незапамятных времён самой большой угрозой танку была противотанковая ракета. Маленькая зверюга могла бережно донести заряд взрывчатки до цели на очень большом расстоянии. Противотанковый комплекс «Страйкер» продолжает многолетнюю традицию по экспресс-доставке концентрированного ада до брони противника.",
-		"descriptionEN":"Medium range missile launcher. Holding down the firing button will lock onto a target and launch a barrage of guided missiles.\n\nAnti-tank missile launcher «Striker» requires significant time to lock onto a target. On the other hand, there is no chance of the target dodging the launched guided missiles. For dynamic battles, an option to directly shoot the rockets is also included. It’s a bit wasteful, but in close combat, it can give you a decisive advantage in firing rate.\n\nSince the dawn of warfare, the biggest threat to a tank was the anti-tank missile. That beastie could carefully deliver an explosive package to its target from a very long distance. Anti-tank turret «Striker» continues a century-old tradition of express explosion delivery to the tank and its armor.",
+		"descriptionRU":"Ракетная установка средней дальности. При удержании кнопки стрельбы может запустить несколько самонаводящихся ракет.\n\nПротивотанковой ракетной установке «Страйкер» требуется значительное время для захвата цели. С другой стороны, увернуться от запущенных самонаводящихся ракет у цели нет никаких шансов. Для динамичного боя предусмотрена возможность запускать ракеты прямой наводкой. Немного расточительно, но в ближнем бою это даёт решающее преимущество в скорострельности.\n\nС незапамятных времён самой большой угрозой танку была противотанковая ракета. Маленькая зверюга могла бережно донести заряд взрывчатки до цели на очень большом расстоянии. Противотанковый комплекс «Страйкер» продолжает многолетнюю традицию по экспресс-доставке концентрированного ада до брони противника.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%A1%D1%82%D1%80%D0%B0%D0%B9%D0%BA%D0%B5%D1%80\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Medium range missile launcher. Holding down the firing button will lock onto a target and launch a barrage of guided missiles.\n\nAnti-tank missile launcher «Striker» requires significant time to lock onto a target. On the other hand, there is no chance of the target dodging the launched guided missiles. For dynamic battles, an option to directly shoot the rockets is also included. It’s a bit wasteful, but in close combat, it can give you a decisive advantage in firing rate.\n\nSince the dawn of warfare, the biggest threat to a tank was the anti-tank missile. That beastie could carefully deliver an explosive package to its target from a very long distance. Anti-tank turret «Striker» continues a century-old tradition of express explosion delivery to the tank and its armor.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/Striker\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
@@ -1386,8 +1632,8 @@
 		"id":"vulcan",
 		"nameRU":"Вулкан",
 		"nameEN":"Vulcan",
-		"descriptionRU":"Скорострельная пушка средней дальности. Шесть стволов обеспечивают огромную скорострельность.\n\nАвтоматическая многоствольная скорострельная пушка, способная распиливать противников бронебойными очередями. Требует некоторое время для разгона вращения блока стволов. Неповоротлива при стрельбе. При продолжительной непрерывной стрельбе перегревается и поджигает собственный танк.\n\nТанковые пушки — это, конечно, круто, но иногда хочется крошить противника в винегрет, не задумываясь о таких сложных материях, как, скажем, перезарядка. Перед вами решение всех ваших проблем. Блок из шести стволов, умопомрачительная скорострельность и бронебойные патроны. Бесконечные бронебойные патроны.",
-		"descriptionEN":"Medium range rapid-fire turret. A stack of six barrels allows an incredibly fast rate of fire.\n\nThis automatic multibarrel rapid-fire turret is capable of peppering enemies with armor-piercing bursts. It takes some time to accelerate the rotation of the barrel block. It is clumsy while shooting. While firing continuously, the tank can overheat and light itself on fire.\n\nTurrets are cool — but sometimes, you want to shred the enemy into tiny pieces without thinking about such tactical nuances as reloading. This turret right here is the solution to all of your problems: A stack of six barrels, unbelievable firing speed, and an automated stabilizing system with armor-piercing rounds. Unlimited armor-piercing rounds.",
+		"descriptionRU":"Скорострельная пушка средней дальности. Шесть стволов обеспечивают огромную скорострельность.\n\nАвтоматическая многоствольная скорострельная пушка, способная распиливать противников бронебойными очередями. Требует некоторое время для разгона вращения блока стволов. Неповоротлива при стрельбе. При продолжительной непрерывной стрельбе перегревается и поджигает собственный танк.\n\nТанковые пушки — это, конечно, круто, но иногда хочется крошить противника в винегрет, не задумываясь о таких сложных материях, как, скажем, перезарядка. Перед вами решение всех ваших проблем. Блок из шести стволов, умопомрачительная скорострельность и бронебойные патроны. Бесконечные бронебойные патроны.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Medium range rapid-fire turret. A stack of six barrels allows an incredibly fast rate of fire.\n\nThis automatic multibarrel rapid-fire turret is capable of peppering enemies with armor-piercing bursts. It takes some time to accelerate the rotation of the barrel block. It is clumsy while shooting. While firing continuously, the tank can overheat and light itself on fire.\n\nTurrets are cool — but sometimes, you want to shred the enemy into tiny pieces without thinking about such tactical nuances as reloading. This turret right here is the solution to all of your problems: A stack of six barrels, unbelievable firing speed, and an automated stabilizing system with armor-piercing rounds. Unlimited armor-piercing rounds.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/Vulcan\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
@@ -1418,6 +1664,38 @@
 			{
 				"id":"m2",
 				"name":"M2",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
@@ -1501,8 +1779,8 @@
 		"id":"thunder",
 		"nameRU":"Гром",
 		"nameEN":"Thunder",
-		"descriptionRU":"Пушка средней дальности. Разрывные снаряды могут поразить несколько танков одновременно.\n\nБоекомплект пушки «Гром» полностью состоит из универсальных бронебойно-фугасных снарядов нового поколения. Такие снаряды позволяют атаковать группу соперников, а относительно быстрая перезарядка пушки поможет получить неоспоримое преимущество перед тяжёлыми танками противника. Но нужно быть осторожным — в ближнем бою очень легко повредить собственный танк.\n\nЭта среднекалиберная пушка была разработана с учётом богатого опыта применения легендарной «Смоки». В сочетании с быстрым корпусом «Гром» становится грозным оружием в руках умелого танкиста. Неумелых танкистов с «Громом» не бывает. Как правило, они быстро взрывают собственные танки и сразу перестают считаться танкистами.",
-		"descriptionEN":"Medium range turret. Highly explosive projectiles can hit several tanks at the same time.\n\nThe payload of the «Thunder» turret consists entirely of new-generation armor-piercing shells. Such rounds can hit a group of enemies, and the relatively fast reload of this turret will grant you an advantage over heavy enemy tanks. But be careful — in close quarters, it is very easy to damage your own tank.\n\nThis mid-caliber turret was designed with a rich history of using the legendary Smoky turret in mind. When combined with a fast hull, Thunder can turn into a deadly weapon in the hands of a seasoned tanker. Not-so-seasoned tankers do not exist. As a rule, they tend to blow themselves up very quickly and immediately cease to be considered tankers.",
+		"descriptionRU":"Пушка средней дальности. Разрывные снаряды могут поразить несколько танков одновременно.\n\nБоекомплект пушки «Гром» полностью состоит из универсальных бронебойно-фугасных снарядов нового поколения. Такие снаряды позволяют атаковать группу соперников, а относительно быстрая перезарядка пушки поможет получить неоспоримое преимущество перед тяжёлыми танками противника. Но нужно быть осторожным — в ближнем бою очень легко повредить собственный танк.\n\nЭта среднекалиберная пушка была разработана с учётом богатого опыта применения легендарной «Смоки». В сочетании с быстрым корпусом «Гром» становится грозным оружием в руках умелого танкиста. Неумелых танкистов с «Громом» не бывает. Как правило, они быстро взрывают собственные танки и сразу перестают считаться танкистами.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%93%D1%80%D0%BE%D0%BC\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Medium range turret. Highly explosive projectiles can hit several tanks at the same time.\n\nThe payload of the «Thunder» turret consists entirely of new-generation armor-piercing shells. Such rounds can hit a group of enemies, and the relatively fast reload of this turret will grant you an advantage over heavy enemy tanks. But be careful — in close quarters, it is very easy to damage your own tank.\n\nThis mid-caliber turret was designed with a rich history of using the legendary Smoky turret in mind. When combined with a fast hull, Thunder can turn into a deadly weapon in the hands of a seasoned tanker. Not-so-seasoned tankers do not exist. As a rule, they tend to blow themselves up very quickly and immediately cease to be considered tankers.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/Thunder\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
@@ -1540,6 +1818,38 @@
 			{
 				"id":"m3",
 				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
@@ -1676,8 +1986,8 @@
 		"id":"scorpion",
 		"nameRU":"Скорпион",
 		"nameEN":"Scorpion",
-		"descriptionRU":"Пушка дальнего боя. При удержании кнопки стрельбы наводит рой артиллерийских ракет.\n\nПушка «Скорпион» имеет два режима стрельбы с независимой перезарядкой. В стандартном режиме цель атакуется скоростными снарядами из дальнобойной основной пушки. При удержании кнопки стрельбы «Скорпион» наводит ракетный залп, даже если цель пытается скрыться за препятствием. Ракеты атакуют цель сверху, вынуждая покидать укрытие.\n\nЭто сейчас пушка «Скорпион» высокопарно называется противотанковым артиллерийским комплексом. У прототипа даже ствол был ненастоящий — вместо него прикрутили ржавую трубу для маскировки. После испытаний хлопушка превратилась в пушку, затем пушка превратилась в огромный дрын. Калибр рос до тех пор, пока противник не перестал прикидываться умным и начал прикидываться мёртвым.",
-		"descriptionEN":"Long range turret. Holding down the firing button aims a swarm of artillery rockets.\n\nThe «Scorpion» turret has two firing modes, each with independent reloading system. In standard mode, the target is attacked by hypervelocity projectiles from the main long-range barrel. Holding down the firing button aims rocket salvo even if the target tries to hide behind an obstacle. Rockets attack the target from above, forcing it to leave shelter.\n\nNow, the Scorpion turret is called an anti-tank artillery system. It wasn’t always like that, the prototype didn’t even have a real barrel — instead, engineers screwed on a rusty tube for camouflage. After the tests, the firecracker was replaced with a real barrel and later the barrel was replaced with a more frightening one! The caliber size kept increasing until the enemy stopped pretending to be smart and started pretending to be dead.",
+		"descriptionRU":"Пушка дальнего боя. При удержании кнопки стрельбы наводит рой артиллерийских ракет.\n\nПушка «Скорпион» имеет два режима стрельбы с независимой перезарядкой. В стандартном режиме цель атакуется скоростными снарядами из дальнобойной основной пушки. При удержании кнопки стрельбы «Скорпион» наводит ракетный залп, даже если цель пытается скрыться за препятствием. Ракеты атакуют цель сверху, вынуждая покидать укрытие.\n\nЭто сейчас пушка «Скорпион» высокопарно называется противотанковым артиллерийским комплексом. У прототипа даже ствол был ненастоящий — вместо него прикрутили ржавую трубу для маскировки. После испытаний хлопушка превратилась в пушку, затем пушка превратилась в огромный дрын. Калибр рос до тех пор, пока противник не перестал прикидываться умным и начал прикидываться мёртвым.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%A1%D0%BA%D0%BE%D1%80%D0%BF%D0%B8%D0%BE%D0%BD\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Long range turret. Holding down the firing button aims a swarm of artillery rockets.\n\nThe «Scorpion» turret has two firing modes, each with independent reloading system. In standard mode, the target is attacked by hypervelocity projectiles from the main long-range barrel. Holding down the firing button aims rocket salvo even if the target tries to hide behind an obstacle. Rockets attack the target from above, forcing it to leave shelter.\n\nNow, the Scorpion turret is called an anti-tank artillery system. It wasn’t always like that, the prototype didn’t even have a real barrel — instead, engineers screwed on a rusty tube for camouflage. After the tests, the firecracker was replaced with a real barrel and later the barrel was replaced with a more frightening one! The caliber size kept increasing until the enemy stopped pretending to be smart and started pretending to be dead.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/Scorpion\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
@@ -1727,8 +2037,8 @@
 		"id":"railgun",
 		"nameRU":"Рельса",
 		"nameEN":"Railgun",
-		"descriptionRU":"Пушка большой дальности. Может пробивать танки насквозь, поражая несколько целей на одной линии.\n\nКрупнокалиберная пушка, обладающая огромной дульной скоростью. Сверхмощный и сверхточный кинетический снаряд способен пробить танк насквозь, поразив несколько целей, стоящих на одной прямой. Следует помнить, что рельсотрон довольно долго перезаряжается и требует заметного разогрева перед каждым выстрелом.\n\nЕсли среднекалиберные пушки уже не утоляют вашу жажду самовыражения, то эта игрушка специально для вас. Требует хороших навыков не только меткой стрельбы, но и позиционирования танка. Заряженный ствол горит ярче рождественской ёлки, выдавая ваши намерения опытному противнику.",
-		"descriptionEN":"Long range turret. Can pierce through tanks by hitting multiple targets in one line.\n\nA big caliber turret with a lightning fast barrel speed. Incredibly powerful and overwhelmingly precise kinetic projectile can make a hole in any tank, hitting several targets standing in the same line. Don’t forget that «Railgun» also takes a long time to reload and needs a short preparation before firing every shot.\n\nIf medium caliber turrets can no longer satisfy your thirst for creativity, then this toy is just perfect for you. It requires good skills not only in marksmanship, but also in tank positioning. Ready-to-fire barrel will burn brighter than a holiday tree, which can be detected and used as an advantage by experienced enemies.",
+		"descriptionRU":"Пушка большой дальности. Может пробивать танки насквозь, поражая несколько целей на одной линии.\n\nКрупнокалиберная пушка, обладающая огромной дульной скоростью. Сверхмощный и сверхточный кинетический снаряд способен пробить танк насквозь, поразив несколько целей, стоящих на одной прямой. Следует помнить, что рельсотрон довольно долго перезаряжается и требует заметного разогрева перед каждым выстрелом.\n\nЕсли среднекалиберные пушки уже не утоляют вашу жажду самовыражения, то эта игрушка специально для вас. Требует хороших навыков не только меткой стрельбы, но и позиционирования танка. Заряженный ствол горит ярче рождественской ёлки, выдавая ваши намерения опытному противнику.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%A0%D0%B5%D0%BB%D1%8C%D1%81%D0%B0\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Long range turret. Can pierce through tanks by hitting multiple targets in one line.\n\nA big caliber turret with a lightning fast barrel speed. Incredibly powerful and overwhelmingly precise kinetic projectile can make a hole in any tank, hitting several targets standing in the same line. Don’t forget that «Railgun» also takes a long time to reload and needs a short preparation before firing every shot.\n\nIf medium caliber turrets can no longer satisfy your thirst for creativity, then this toy is just perfect for you. It requires good skills not only in marksmanship, but also in tank positioning. Ready-to-fire barrel will burn brighter than a holiday tree, which can be detected and used as an advantage by experienced enemies.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/Railgun\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
@@ -1766,6 +2076,38 @@
 			{
 				"id":"m3",
 				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
@@ -1966,8 +2308,8 @@
 		"id":"magnum",
 		"nameRU":"Магнум",
 		"nameEN":"Magnum",
-		"descriptionRU":"Гаубица большой дальности. Стреляет мощными разрывными снарядами по баллистической траектории.\n\nПушка «Магнум» стреляет снарядами по ярко выраженной баллистической траектории. В стандартных настройках угол ствола фиксирован, но некоторые устройства позволяют обменять поворот башни на управление углом возвышения пушки. При удержании кнопки стрельбы система наведения рисует ожидаемую траекторию и точку попадания снаряда. Каждый снаряд имеет огромный радиус поражения.\n\nНастоящий magnum opus танкостроительного искусства. Самый большой калибр, который смог поместиться на танковый корпус. Самый мощный фугасный снаряд, который удалось найти. Самый длинный ствол с самым большим дульным тормозом. Приловчившись, можно доставать противника за любым укрытием и на любом расстоянии.",
-		"descriptionEN":"Long range howitzer. Fires powerful explosive shells on a ballistic trajectory.\n\nThe «Magnum» turret fires shells in a pronounced ballistic trajectory. In standard settings, the barrel angle is fixed, but some augments allow you to exchange the turret rotation ability for the ability to control the vertical angle. When holding down the firing button, the guidance system draws the expected trajectory and the shell’s impact point. Each shell has a large blast radius.\n\nA true magnum opus of artistic tank construction. The biggest caliber, which can fit onto a tank hull. The most destructive high-explosive shell, from what we could find. The longest barrel with the biggest barrel brake. With enough skill, though, you can hit enemies behind any cover and at any distance.",
+		"descriptionRU":"Гаубица большой дальности. Стреляет мощными разрывными снарядами по баллистической траектории.\n\nПушка «Магнум» стреляет снарядами по ярко выраженной баллистической траектории. В стандартных настройках угол ствола фиксирован, но некоторые устройства позволяют обменять поворот башни на управление углом возвышения пушки. При удержании кнопки стрельбы система наведения рисует ожидаемую траекторию и точку попадания снаряда. Каждый снаряд имеет огромный радиус поражения.\n\nНастоящий magnum opus танкостроительного искусства. Самый большой калибр, который смог поместиться на танковый корпус. Самый мощный фугасный снаряд, который удалось найти. Самый длинный ствол с самым большим дульным тормозом. Приловчившись, можно доставать противника за любым укрытием и на любом расстоянии.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%9C%D0%B0%D0%B3%D0%BD%D1%83%D0%BC\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Long range howitzer. Fires powerful explosive shells on a ballistic trajectory.\n\nThe «Magnum» turret fires shells in a pronounced ballistic trajectory. In standard settings, the barrel angle is fixed, but some augments allow you to exchange the turret rotation ability for the ability to control the vertical angle. When holding down the firing button, the guidance system draws the expected trajectory and the shell’s impact point. Each shell has a large blast radius.\n\nA true magnum opus of artistic tank construction. The biggest caliber, which can fit onto a tank hull. The most destructive high-explosive shell, from what we could find. The longest barrel with the biggest barrel brake. With enough skill, though, you can hit enemies behind any cover and at any distance.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/Magnum\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
@@ -2083,8 +2425,8 @@
 		"id":"gauss",
 		"nameRU":"Гаусс",
 		"nameEN":"Gauss",
-		"descriptionRU":"Снайперская пушка большой дальности. Удержание кнопки стрельбы некоторое время задействует электромагнитный ускоритель.\n\nСамый мобильный снайпер на поле боя. Комплектуется разрывными выстрелами, которые могут поразить несколько танков одновременно. Удерживая противника в прицеле некоторое время, можно задействовать встроенный в ствол пушки электромагнитный ускоритель. Разогнанный таким способом снаряд наносит повышенный урон, поражая группу целей на любом расстоянии.\n\nПушка «Гаусс» родилась в гаражах танкистов, пытавшихся подручными средствами повысить эффективность пушки «Гром» в борьбе со снайперами. Отличительной чертой пушки являются антенны, поднимаемые при подготовке электромагнитного ускорителя к выстрелу. За своеобразный внешний вид пушку прозвали «ушастым снайпером».",
-		"descriptionEN":"Long range sniper turret. Holding down the firing button for some time activates the electromagnetic accelerator.\n\nThe most mobile sniper on the battlefield. It is equipped with exploding shots that can hit multiple tanks simultaneously. Keeping the enemy in sight for a while, you can activate the electromagnetic accelerator which is built in the barrel. A projectile fired in this way deals increased damage, hitting a group of targets at any distance.\n\nThe «Gauss» turret was born in the garages of tankers who were looking for ways to increase the effectiveness of Thunder against snipers. A distinctive feature of this turret is the antennas, which extend while the electromagnetic accelerator is preparing for the shot. This turret has been nicknamed «big-eared sniper» due to its peculiar appearance.",
+		"descriptionRU":"Снайперская пушка большой дальности. Удержание кнопки стрельбы некоторое время задействует электромагнитный ускоритель.\n\nСамый мобильный снайпер на поле боя. Комплектуется разрывными выстрелами, которые могут поразить несколько танков одновременно. Удерживая противника в прицеле некоторое время, можно задействовать встроенный в ствол пушки электромагнитный ускоритель. Разогнанный таким способом снаряд наносит повышенный урон, поражая группу целей на любом расстоянии.\n\nПушка «Гаусс» родилась в гаражах танкистов, пытавшихся подручными средствами повысить эффективность пушки «Гром» в борьбе со снайперами. Отличительной чертой пушки являются антенны, поднимаемые при подготовке электромагнитного ускорителя к выстрелу. За своеобразный внешний вид пушку прозвали «ушастым снайпером».\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%93%D0%B0%D1%83%D1%81%D1%81\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Long range sniper turret. Holding down the firing button for some time activates the electromagnetic accelerator.\n\nThe most mobile sniper on the battlefield. It is equipped with exploding shots that can hit multiple tanks simultaneously. Keeping the enemy in sight for a while, you can activate the electromagnetic accelerator which is built in the barrel. A projectile fired in this way deals increased damage, hitting a group of targets at any distance.\n\nThe «Gauss» turret was born in the garages of tankers who were looking for ways to increase the effectiveness of Thunder against snipers. A distinctive feature of this turret is the antennas, which extend while the electromagnetic accelerator is preparing for the shot. This turret has been nicknamed «big-eared sniper» due to its peculiar appearance.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/Gauss\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
@@ -2212,8 +2554,8 @@
 		"id":"shaft",
 		"nameRU":"Шафт",
 		"nameEN":"Shaft",
-		"descriptionRU":"Снайперская пушка большой дальности. Может переходить в снайперский режим при удержании кнопки стрельбы.\n\nЛазерная пушка с уникальным режимом стрельбы. Остановив танк на месте, можно направить всю энергию реактора на накачку мощности лазерного выстрела. Урон в этом режиме зависит от времени накопления заряда, но танк должен оставаться полностью неподвижным. Фокусировка прицела использует вспомогательный лазер наведения, который легко засекают системы наблюдения любого современного танка.\n\nОтличный выбор для любителей снайперской стрельбы. Пушка представляет из себя современный многофункциональный комплекс вооружения с огромным количеством функций. Она может варить кофе, заказывать пиццу, оплачивать счета, но главной особенностью является снайперский прицел. Бывалые танкисты не рекомендуют находиться в снайперском режиме слишком долго, иначе подкравшийся сзади противник может вас сильно напугать.",
-		"descriptionEN":"Long range sniper turret. Can enter sniper mode by holding down the firing button.\n\nA laser turret with a unique firing mode. By halting the tank in place, you can direct all the energy of the reactor to pump up the power of the laser shot. Damage in this mode will depend on how long you charge up the shot, and your tank will also become completely immobile. Focusing your shot on the enemy will also use an additional laser pointer, which can be detected by most modern tanks’ optical systems.\n\nA great choice for fans of sniper battles. The turret works as a modern multifunctional weapon system, with an astounding number of uses. It can brew coffee, order pizza, pay bills — but its main feature is the sniper scope. Seasoned tankers recommend never being in the sniper mode for long, or you risk opening your backside for a surprise enemy attack.",
+		"descriptionRU":"Снайперская пушка большой дальности. Может переходить в снайперский режим при удержании кнопки стрельбы.\n\nЛазерная пушка с уникальным режимом стрельбы. Остановив танк на месте, можно направить всю энергию реактора на накачку мощности лазерного выстрела. Урон в этом режиме зависит от времени накопления заряда, но танк должен оставаться полностью неподвижным. Фокусировка прицела использует вспомогательный лазер наведения, который легко засекают системы наблюдения любого современного танка.\n\nОтличный выбор для любителей снайперской стрельбы. Пушка представляет из себя современный многофункциональный комплекс вооружения с огромным количеством функций. Она может варить кофе, заказывать пиццу, оплачивать счета, но главной особенностью является снайперский прицел. Бывалые танкисты не рекомендуют находиться в снайперском режиме слишком долго, иначе подкравшийся сзади противник может вас сильно напугать.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%A8%D0%B0%D1%84%D1%82\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Long range sniper turret. Can enter sniper mode by holding down the firing button.\n\nA laser turret with a unique firing mode. By halting the tank in place, you can direct all the energy of the reactor to pump up the power of the laser shot. Damage in this mode will depend on how long you charge up the shot, and your tank will also become completely immobile. Focusing your shot on the enemy will also use an additional laser pointer, which can be detected by most modern tanks’ optical systems.\n\nA great choice for fans of sniper battles. The turret works as a modern multifunctional weapon system, with an astounding number of uses. It can brew coffee, order pizza, pay bills — but its main feature is the sniper scope. Seasoned tankers recommend never being in the sniper mode for long, or you risk opening your backside for a surprise enemy attack.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/Shaft\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
@@ -2242,6 +2584,38 @@
 			{
 				"id":"m2",
 				"name":"M2",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
@@ -2368,8 +2742,8 @@
 		"id":"terminator",
 		"nameRU":"Терминатор",
 		"nameEN":"Terminator",
-		"descriptionRU":"Пушка большой дальности. При удержании кнопки стрельбы может атаковать цель самонаводящимися ракетами.\n\nСверхтяжёлая башня, разработанная специально под корпус Джаггернаут. Две рельсовые пушки с повышенной скорострельностью дополнены тяжёлыми ракетными установками для ближнего боя.\n\nПрименение с другими корпусами не предусмотрено. По слухам, выстрел может сорвать башню с танка.",
-		"descriptionEN":"Long range turret. Holding down the firing button will launch a barrage of guided missiles to attack the target.\n\nSuper heavy turret designed specifically for the «Juggernaut» hull. The two Railgun turrets with increased rate of fire are accompanied by heavy close-range rocket launchers.\n\nt is not possible to use it with other hulls. According to rumors, a shot can blow the turret off the tank.",
+		"descriptionRU":"Пушка большой дальности. При удержании кнопки стрельбы может атаковать цель самонаводящимися ракетами.\n\nСверхтяжёлая башня, разработанная специально под корпус Джаггернаут. Две рельсовые пушки с повышенной скорострельностью дополнены тяжёлыми ракетными установками для ближнего боя.\n\nПрименение с другими корпусами не предусмотрено. По слухам, выстрел может сорвать башню с танка.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%A2%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Long range turret. Holding down the firing button will launch a barrage of guided missiles to attack the target.\n\nSuper heavy turret designed specifically for the «Juggernaut» hull. The two Railgun turrets with increased rate of fire are accompanied by heavy close-range rocket launchers.\n\nt is not possible to use it with other hulls. According to rumors, a shot can blow the turret off the tank.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/Terminator\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
@@ -2420,9 +2794,10 @@
 	},
 	{
 		"id":"bonk",
-		"nameRU":"B0-NK «Кувалда»",
-		"nameEN":"B0-NK «Sledgehammer»",
-		"description":"B0-NK Sledgehammer",
+		"nameRU":"Кувалда",
+		"nameEN":"B0-NK",
+		"descriptionRU":"Пневматический молот ближнего боя. Наносит чудовищный урон, но действует только на предельно малой дистанции.\n\nB0-NK «Кувалда» — отличный инструмент для промышленных строительных работ. Массивное зубило предназначено для разрушения бетонных и кирпичных стен, фундаментов, вскрытия дорожного полотна и демонтажа твёрдых покрытий. В конструкцию встроен реактивный разгонный элемент для повышения пробивающей способности зубила.\n\nПожалуйста, используйте инструмент только по назначению. Нестандартное применение может привести к непредвиденным последствиям и автоматически отменяет возможность гарантийного ремонта оборудования.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%9A%D1%83%D0%B2%D0%B0%D0%BB%D0%B4%D0%B0\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Close range pneumatic hammer. Deals monstrous damage but only works at extremely low distances.\n\nB0-NK «Sledgehammer» is a great tool for industrial construction work. This massive chisel was designed for breaking concrete, brick walls, foundations, as well as ripping up asphalt and dismantling hard surfaces. The accelerating reactive element was embedded to increase the penetrating power of the chisel.\n\nBe careful to only use this tool as intended. Non-standardized use may result in unforeseeable consequences and voids the possibility of a warranty service.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/B0-NK\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
@@ -2484,7 +2859,8 @@
 		"id":"snowman",
 		"nameRU":"Глебыч",
 		"nameEN":"Snowman",
-		"description":"Snowman",
+		"descriptionRU":"Глебыч — это особая пушка, которая запускает смертоносные снежки во врагов поблизости. Он был создан случайно во время ужасной метели перед Рождеством. Один из старых прототипов Магнума был выброшен и оставлен на свалке. При попытке очистить ствол от снега выяснилось, что снежки, которые уже были снаряжены в прототипе, еще можно было использовать в качестве боеприпасов. В итоге было решено установить его на корпус и украсить снеговиком с морковкой, зажжёнными ветками и ведром.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%93%D0%BB%D0%B5%D0%B1%D1%8B%D1%87\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Snowman is a special turret that fires deadly snowballs into nearby enemies. It was accidentally created during a strong blizzard before Christmas. One of the old Magnum prototypes was thrown away and left on the junkyard. Attempt to clear the barrel from snow lead to realization that snow that was loaded into the prototype could be used as ammunition. As a result it was decided to place it on a hull and decorate it with a snowman with a carrot, lighted branches and a bucket.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/Snowman\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
@@ -2547,7 +2923,8 @@
 		"id":"tomato_gun",
 		"nameRU":"Томатыч",
 		"nameEN":"Tomato Gun",
-		"description":"Tomato Gun",
+		"descriptionRU":"Томатыч — это модифицированная версия Магнума, представляющая собой пушку Глебыч с изменённым внешним видом. Ствол немного выше, чем у Магнума, а скорость снарядов снижена. Это приводит к тому, что Томатыч является пушкой средней дальности. При критических попаданиях он наносит на противника сразу несколько статус-эффектов.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%A2%D0%BE%D0%BC%D0%B0%D1%82%D1%8B%D1%87\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Tomato Gun is a modified version of Magnum, that is the Snowman turret with changed appearance. Barrel is a little higher than Magnum’s one, and the projectile speed is lower. This makes Tomato Gun a medium range turret. Critical hits inflict several status-effects on enemies.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/Tomato_Gun\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
 		[
 			{
