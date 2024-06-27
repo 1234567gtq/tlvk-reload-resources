@@ -1,9 +1,4 @@
 [	
-{	
-		"id":"15_years",
-		"nameRU":"15 лет",
-		"nameEN":"15 years"
-	},
 	{	
 		"id":"standard",
 		"nameRU":"Стандартный",
@@ -13,6 +8,11 @@
 		"id":"standard_new_logo",
 		"nameRU":"Стандартный (новое лого)",
 		"nameEN":"Standard (new logo)"
+	},
+	{	
+		"id":"15_years",
+		"nameRU":"15 лет",
+		"nameEN":"15 years"
 	},
 	{	
 		"id":"14_years",
