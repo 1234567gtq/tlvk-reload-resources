@@ -1,5 +1,10 @@
 [	
 	{	
+		"id":"ufo_day_2024",
+		"nameRU":"День НЛО 2024",
+		"nameEN":"UFO day 2024"
+	},
+	{	
 		"id":"standard",
 		"nameRU":"Стандартный",
 		"nameEN":"Standard"
