@@ -12,5 +12,10 @@
 		"id":"rocket",
 		"name":"Ракета",
 		"nameEN":"Rocket"
+	},
+	{
+		"id":"ufo",
+		"name":"НЛО",
+		"nameEN":"UFO"
 	}
 ]

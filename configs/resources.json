@@ -14,6 +14,7 @@
 { "id":"meteorite_hd", "version":"1", "type":"models" },
 { "id":"meteorite_christmas", "version":"1", "type":"models" },
 { "id":"meteorite_rocket", "version":"1", "type":"models" },
+{ "id":"meteorite_ufo", "version":"1", "type":"models" },
 { "id":"sound_tesla_idle_1", "version":"1", "type":"sounds" },
 { "id":"sound_tesla_idle_2", "version":"1", "type":"sounds" },
 { "id":"sound_tesla_idle_3", "version":"1", "type":"sounds" },
