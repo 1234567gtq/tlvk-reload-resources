@@ -4177,5 +4177,6 @@
 { "id":"billboard_vint", "version":"1", "type":"textures" },
 { "id":"billboard_ufo_day_2024", "version":"1", "type":"textures" },
 { "id":"billboard_iron_days_2018", "version":"1", "type":"textures" },
-{ "id":"billboard_tanker's_day_2017-2020", "version":"1", "type":"textures" }
+{ "id":"billboard_tanker's_day_2017-2020", "version":"1", "type":"textures" },
+{ "id":"billboard_halloween_2022", "version":"1", "type":"textures" }
 ]

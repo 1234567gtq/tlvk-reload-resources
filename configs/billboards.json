@@ -154,6 +154,11 @@
 		"nameEN":"Halloween 2023"
 	},
 	{	
+		"id":"halloween_2022",
+		"nameRU":"Хеллоуин 2022",
+		"nameEN":"Halloween 2022"
+	},
+	{	
 		"id":"halloween_2021",
 		"nameRU":"Хеллоуин 2021",
 		"nameEN":"Halloween 2021"
