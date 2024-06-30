@@ -4134,7 +4134,7 @@
 { "id":"billboard_summer_sport_games_2021", "version":"1", "type":"textures" },
 { "id":"billboard_ufo_day_2021", "version":"1", "type":"textures" },
 { "id":"billboard_12_years", "version":"1", "type":"textures" },
-{ "id":"billboard_halloween_2019", "version":"1", "type":"textures", "isLazy":true },
+{ "id":"billboard_halloween_2019-2020", "version":"1", "type":"textures", "isLazy":true },
 { "id":"billboard_valentine's_day_2020", "version":"1", "type":"textures", "isLazy":true },
 { "id":"billboard_alternativaplatform", "version":"1", "type":"textures", "isLazy":true },
 { "id":"billboard_alternativa", "version":"1", "type":"textures", "isLazy":true },
@@ -4176,5 +4176,6 @@
 { "id":"billboard_15_years", "version":"1", "type":"textures" },
 { "id":"billboard_vint", "version":"1", "type":"textures" },
 { "id":"billboard_ufo_day_2024", "version":"1", "type":"textures" },
-{ "id":"billboard_iron_days_2018", "version":"1", "type":"textures" }
+{ "id":"billboard_iron_days_2018", "version":"1", "type":"textures" },
+{ "id":"billboard_tanker's_day_2017-2020", "version":"1", "type":"textures" }
 ]
