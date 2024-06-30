@@ -184,6 +184,11 @@
 		"nameEN":"Iron days 2022"
 	},
 	{	
+		"id":"iron_days_2018",
+		"nameRU":"День защитника Отечества 2018",
+		"nameEN":"Iron days 2018"
+	},
+	{	
 		"id":"may_holidays_2024",
 		"nameRU":"Майские праздники 2024",
 		"nameEN":"May holidays 2024"

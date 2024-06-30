@@ -4175,5 +4175,6 @@
 { "id":"billboard_may_holidays_2024", "version":"1", "type":"textures" },
 { "id":"billboard_15_years", "version":"1", "type":"textures" },
 { "id":"billboard_vint", "version":"1", "type":"textures" },
-{ "id":"billboard_ufo_day_2024", "version":"1", "type":"textures" }
+{ "id":"billboard_ufo_day_2024", "version":"1", "type":"textures" },
+{ "id":"billboard_iron_days_2018", "version":"1", "type":"textures" }
 ]
