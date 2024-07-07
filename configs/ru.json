@@ -8,7 +8,10 @@
 	"DISCORD_RPC_SELECTING_TURRET":"Выбирает пушку...",
 	"DISCORD_RPC_SELECTING_DRONE":"Выбирает дрон...",
 	"DISCORD_RPC_SELECTING_PAINT":"Выбирает краску...",
+	"DISCORD_RPC_SELECTING_KIT":"Выбирает комплект...",
+	
 	"ULTIMATE_CHARACTERISTICS":"Характеристики овердрайва",
+	"WEAPON_CHARACTERISTICS":"Характеристики выстрела",
 	
 	"LOADING":"Загрузка...",
 	"TIP_0":"Проект был основан в 2020 году и включал в себя очень мало контента",
@@ -94,6 +97,10 @@
 	"HULLS":"Корпуса",
 	"DRONES":"Дроны",
 	"PAINTS":"Краски",
+	"KITS":"Комплекты",
+	"ITEMS_IN_KIT":"Состав комплекта",
+	"RANDOM_TANK":"Случайный танк",
+	"RANDOM_ITEMS":"Случайные предметы",
 	"DEVICES":"Устройства",
 	"DESCRIPTION":"Описание",
 	"HEADER_DEVICES":"УСТРОЙСТВА",
@@ -147,6 +154,9 @@
 	"RADIUS_OF_ACTION":"Радиус действия (см)",
 	"INCREASE":"Прибавка к максимальной скорости (%)",
 	"COLOR":"Цвет (дес. число)",
+	
+	"MIN_BARREL_ANGLE":"Минимальный угол ствола (рад)",
+	"MAX_BARREL_ANGLE":"Максимальный угол ствола (рад)",
 	
 	"RANGE":"Дальность (см)",
 	"CONE_ANGLE":"Угол конуса (рад)",

@@ -8,7 +8,10 @@
 	"DISCORD_RPC_SELECTING_TURRET":"Selecting turret...",
 	"DISCORD_RPC_SELECTING_DRONE":"Selecting drone...",
 	"DISCORD_RPC_SELECTING_PAINT":"Selecting paint...",
+	"DISCORD_RPC_SELECTING_KIT":"Selecting kit...",
+	
 	"ULTIMATE_CHARACTERISTICS":"Ultimate characteristics",
+	"WEAPON_CHARACTERISTICS":"Weapon characteristics",
 	
 	"LOADING":"Loading...",
 	"TIP_0":"The project was founded in 2020 and included very little content",
@@ -94,6 +97,10 @@
 	"HULLS":"Hulls",
 	"DRONES":"Drones",
 	"PAINTS":"Paints",
+	"KITS":"Kits",
+	"ITEMS_IN_KIT":"Items in Kit",
+	"RANDOM_TANK":"Random tank",
+	"RANDOM_ITEMS":"Random items",
 	"DEVICES":"Devices",
 	"DESCRIPTION":"Description",
 	"HEADER_DEVICES":"DEVICES",
@@ -142,6 +149,9 @@
 	"RADIUS_OF_ACTION":"Range (cm)",
 	"INCREASE":"Increase to max speed (%)",
 	"COLOR":"Color (decimal)",
+	
+	"MIN_BARREL_ANGLE":"Minimal barrel degree (rad)",
+	"MAX_BARREL_ANGLE":"Maximum barrel degree (rad)",
 	
 	"RANGE":"Range (cm)",
 	"CONE_ANGLE":"Cone angle (rad)",

@@ -1,0 +1,2858 @@
+[
+	{
+		"id":"wasp",
+		"nameRU":"Васп",
+		"nameEN":"Wasp",
+		"descriptionRU":"Лёгкий гусеничный корпус. Имеет поразительную манёвренность и сцепление с поверхностью.\n\nОвердрайв устанавливает компактную термоядерную бомбу с таймером. Кроме хорошего урона, такая бомба оставляет после себя кучу неприятных последствий. Противник вынужден будет реагировать и бежать в укрытие.\n\nМаленький лёгкий корпус «Васп» только для новичка кажется чем-то незначительным. Небольшие габариты и высокая скорость дают свободу действий на поле боя.\n\nСтраница корпуса в <a href=\"https://ru.tankiwiki.com/%D0%92%D0%B0%D1%81%D0%BF\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Light tracked hull. It has amazing maneuverability and grip on the surface.\n\nOverdrive plants a compact thermonuclear bomb with a timer. In addition to good damage, such a bomb leaves behind a great number of unfortunate consequences. The enemy will be forced to respond and run for cover.\n\nThe small light «Wasp» hull can look dismissable only to beginners. Small size and high speed grant true freedom on the battlefield.\n\nMore information about this hull can be found in the <a href=\"https://en.tankiwiki.com/Wasp\" target=\"_blank\"><u>Wiki</u></a>.",
+		"engineType":"light",
+		"skins":
+		[
+			{
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard",
+				"emissionColor":"643071",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"hd_without_side_armor",
+				"nameRU":"Стандартные настройки (без боковой защиты)",
+				"nameEN":"Standard settings (without side armor)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard",
+				"emissionColor":"643071",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"m0",
+				"name":"M0",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1",
+				"name":"M1",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2",
+				"name":"M2",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3",
+				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Элитный Васп XT отличается уникальным боковым рисунком, напоминающим сложенные крылья древнего дракона.",
+				"descriptionEN":"The elite Wasp XT is special due to its unique side ornament, resembling the wings of an ancient dragon.",
+				"icon":"xt",
+				"emissionColor":"16729344",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"«Догнать и перегнать!» – этот девиз для владельцев Васпа остаётся неизменным, меняется только скин. Лаконичный дизайн подчёркивает естественность скина, в котором нет ничего лишнего.",
+				"descriptionEN":"«Catch up and overtake» — that's the constant motto for the owner of Wasp. The only thing to change is the skin. A minimalist design emphasises the naturalness of a skin with no superfluous features.",
+				"icon":"lc"
+			},
+			{
+				"id":"dc",
+				"name":"Demomic",
+				"descriptionRU":"Если ты любитель жутких вечеринок и ярких образов, то новая коллекция скинов в стиле Demonic — как раз то, что ты ищешь! Если начать рассматривать уникальное покрытие этих скинов, можно сильно удивиться используемым материалам. Глаз древней совы, рука злобного хейтера, и всё это под плащом летучей мыши. Конечно, это декорации, но обладатель таких скинов, несомненно, поразит всех на поле боя.",
+				"descriptionEN":"If you are a fan of spooky parties and vivid images, the new Demonic skin collection is exactly what you've been looking for! Take a closer look at the unique coating of these skins, you might be surprised by the materials used. Ancient owl's eye and evil hand hidden under a bat wing. While these may just be decorations, the owner of these skins will undoubtedly amaze everyone on the battlefield.",
+				"icon":"dc",
+				"emissionColor":"15884800",
+				"emissionColorSecond":"16685824",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"release_1.100_1",
+				"nameRU":"Релиз 1.100 (1)",
+				"nameEN":"Release 1.100 (1)",
+				"description":"TODO",
+				"icon":"standard"
+			},
+			{
+				"id":"release_1.100_2",
+				"nameRU":"Релиз 1.100 (2)",
+				"nameEN":"Release 1.100 (2)",
+				"description":"TODO",
+				"icon":"standard"
+			},
+			{
+				"id":"release_1.100_3",
+				"nameRU":"Релиз 1.100 (3)",
+				"nameEN":"Release 1.100 (3)",
+				"description":"TODO",
+				"icon":"standard"
+			},
+			{
+				"id":"pr_fake",
+				"nameRU":"Prime (неофициальный)",
+				"nameEN":"Prime (unofficial)",
+				"description":"TODO",
+				"icon":"pr",
+				"emissionColor":"10352889",
+				"emissionColorSecond":"16150278",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"2.0_m2",
+				"name":"M2 (Tanki Online 2.0)",
+				"description":"TODO",
+				"icon":"2.0"
+			},
+			{
+				"id":"tx_m2",
+				"name":"M2 (Tanki X)",
+				"descriptionRU":"Этот корпус разрабатывался специально для продаж частным армиям по всему миру. «Васп» эффективно справлялся с танками старого образца, но и в современной войне ему легко найти применение. Быстро рвёт дистанцию, легко уходит из-под удара. Он предназначен для перехвата и вовлечения неповоротливого противника в маневренный бой. Этот корпус плохо держит удар и может даже перевернуться при попадании тяжелого мощного снаряда. Но верно служит тем, кто под удар не подставится.",
+				"descriptionEN":"This hull was specifically designed to cater to the needs of private armies around the world. The Wasp makes short work of old-style tanks, and it is also a valuable tool to fighting modern wars. It can quickly cover distances, and it is easily able to escape enemy fire. It is designed to intercept and engage a cornered enemy in a Blitzkrieg-style battle. This hull poorly resists blows and can even flip over when hit by heavy shells. But it will faithfully serve those that can avoid enemy fire.",
+				"icon":"tx",
+				"emissionColor":"4186194",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"tx_steel",
+				"nameRU":"Сталь (Tanki X)",
+				"nameEN":"Steel (Tanki X)",
+				"descriptionRU":"Этот корпус разрабатывался специально для продаж частным армиям по всему миру. «Васп» эффективно справлялся с танками старого образца, но и в современной войне ему легко найти применение. Быстро рвёт дистанцию, легко уходит из-под удара. Он предназначен для перехвата и вовлечения неповоротливого противника в маневренный бой. Этот корпус плохо держит удар и может даже перевернуться при попадании тяжелого мощного снаряда. Но верно служит тем, кто под удар не подставится.",
+				"descriptionEN":"This hull was specifically designed to cater to the needs of private armies around the world. The Wasp makes short work of old-style tanks, and it is also a valuable tool to fighting modern wars. It can quickly cover distances, and it is easily able to escape enemy fire. It is designed to intercept and engage a cornered enemy in a Blitzkrieg-style battle. This hull poorly resists blows and can even flip over when hit by heavy shells. But it will faithfully serve those that can avoid enemy fire.",
+				"icon":"tx",
+				"emissionColor":"4186194",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"tx_xt",
+				"name":"XT (Tanki X)",
+				"descriptionRU":"Этот корпус разрабатывался специально для продаж частным армиям по всему миру. «Васп» эффективно справлялся с танками старого образца, но и в современной войне ему легко найти применение. Быстро рвёт дистанцию, легко уходит из-под удара. Он предназначен для перехвата и вовлечения неповоротливого противника в маневренный бой. Этот корпус плохо держит удар и может даже перевернуться при попадании тяжелого мощного снаряда. Но верно служит тем, кто под удар не подставится.",
+				"descriptionEN":"This hull was specifically designed to cater to the needs of private armies around the world. The Wasp makes short work of old-style tanks, and it is also a valuable tool to fighting modern wars. It can quickly cover distances, and it is easily able to escape enemy fire. It is designed to intercept and engage a cornered enemy in a Blitzkrieg-style battle. This hull poorly resists blows and can even flip over when hit by heavy shells. But it will faithfully serve those that can avoid enemy fire.",
+				"icon":"tx",
+				"emissionColor":"4521983",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"tx_bumblebee-83",
+				"nameRU":"Шмель-83 (Tanki X)",
+				"nameEN":"Bumblebee-83 (Tanki X)",
+				"descriptionRU":"Этот корпус разрабатывался специально для продаж частным армиям по всему миру. «Васп» эффективно справлялся с танками старого образца, но и в современной войне ему легко найти применение. Быстро рвёт дистанцию, легко уходит из-под удара. Он предназначен для перехвата и вовлечения неповоротливого противника в маневренный бой. Этот корпус плохо держит удар и может даже перевернуться при попадании тяжелого мощного снаряда. Но верно служит тем, кто под удар не подставится.",
+				"descriptionEN":"This hull was specifically designed to cater to the needs of private armies around the world. The Wasp makes short work of old-style tanks, and it is also a valuable tool to fighting modern wars. It can quickly cover distances, and it is easily able to escape enemy fire. It is designed to intercept and engage a cornered enemy in a Blitzkrieg-style battle. This hull poorly resists blows and can even flip over when hit by heavy shells. But it will faithfully serve those that can avoid enemy fire.",
+				"icon":"tx",
+				"emissionColor":"65280",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"tx_dreadnought",
+				"nameRU":"Дредноут (Tanki X)",
+				"nameEN":"Dreadnought (Tanki X)",
+				"descriptionRU":"Этот корпус разрабатывался специально для продаж частным армиям по всему миру. «Васп» эффективно справлялся с танками старого образца, но и в современной войне ему легко найти применение. Быстро рвёт дистанцию, легко уходит из-под удара. Он предназначен для перехвата и вовлечения неповоротливого противника в маневренный бой. Этот корпус плохо держит удар и может даже перевернуться при попадании тяжелого мощного снаряда. Но верно служит тем, кто под удар не подставится.",
+				"descriptionEN":"This hull was specifically designed to cater to the needs of private armies around the world. The Wasp makes short work of old-style tanks, and it is also a valuable tool to fighting modern wars. It can quickly cover distances, and it is easily able to escape enemy fire. It is designed to intercept and engage a cornered enemy in a Blitzkrieg-style battle. This hull poorly resists blows and can even flip over when hit by heavy shells. But it will faithfully serve those that can avoid enemy fire.",
+				"icon":"tx",
+				"emissionColor":"4521983",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"tx_frost",
+				"nameRU":"Фрост (Tanki X)",
+				"nameEN":"Frost (Tanki X)",
+				"descriptionRU":"Этот корпус разрабатывался специально для продаж частным армиям по всему миру. «Васп» эффективно справлялся с танками старого образца, но и в современной войне ему легко найти применение. Быстро рвёт дистанцию, легко уходит из-под удара. Он предназначен для перехвата и вовлечения неповоротливого противника в маневренный бой. Этот корпус плохо держит удар и может даже перевернуться при попадании тяжелого мощного снаряда. Но верно служит тем, кто под удар не подставится.",
+				"descriptionEN":"This hull was specifically designed to cater to the needs of private armies around the world. The Wasp makes short work of old-style tanks, and it is also a valuable tool to fighting modern wars. It can quickly cover distances, and it is easily able to escape enemy fire. It is designed to intercept and engage a cornered enemy in a Blitzkrieg-style battle. This hull poorly resists blows and can even flip over when hit by heavy shells. But it will faithfully serve those that can avoid enemy fire.",
+				"icon":"tx",
+				"emissionColor":"65535",
+				"emissionColorThreshold":"0.4"
+			}	
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"heat_resistance",
+				"nameRU":"Защита от поджога",
+				"nameEN":"Heat Resistance",
+				"descriptionRU":"Устройство﻿ частично защищает от поджога. Танк с этим устройством ﻿тяжелее поджечь и он получает сниженный урон от горения. Однако прямой урон Огнемёта не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the damage and effect of heat, making it harder to burn. Does not affect direct damage from Firebird."
+			},
+			{
+				"id":"cold_resistance",
+				"nameRU":"Защита от заморозки",
+				"nameEN":"Cold Resistance",
+				"descriptionRU":"Устройство﻿ ﻿частично защищает от заморозки. Танк с этим устройством тяжелее заморозить. Однако урон Фриза не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the effect of cold, making it harder to slow down. Does not affect direct damage from Freeze."
+			},
+			{
+				"id":"lightweight_construction",
+				"nameRU":"Облегчение конструкции",
+				"nameEN":"Lightweight Construction",
+				"descriptionRU":"Устройство﻿﻿ значительно снижает массу корпуса. Никакого практического применения в бою это устройство не имеет, но, возможно, взлетать в воздух от каждой мины по-﻿своему﻿ интересно.",
+				"descriptionEN":"Significantly decreases your hull's weight. While not particularly useful in a combat scenario, creative tankers might want to take advantage of this feature for \"unconventional\" tank stunts."
+			},
+			{
+				"id":"heavyweight_construction",
+				"nameRU":"Утяжеление конструкции",
+				"nameEN":"Heavyweight Construction",
+				"descriptionRU":"Устройство﻿ значительно повышает массу корпуса. Любое попадание или толчок будут меньше сбивать танк с курса. Разгонные характеристики﻿ заметно ослабевают, но толкать другие танки становится проще.",
+				"descriptionEN":"Significantly increases your hull's weight, making it more resistant to pushback. Acceleration may be affected, but the added momentum has useful applications for ramming tanks."
+			},
+			{
+				"id":"heat_immunity",
+				"nameRU":"Иммунитет от поджога",
+				"nameEN":"Heat Immunity",
+				"descriptionRU":"Устройство﻿﻿﻿﻿ полностью защищает от горения. Танк с этим устройством не получает урон от горения.﻿ Однако Огнемёт всё ещё может наносить прямой урон танку с таким ﻿устройством.",
+				"descriptionEN":"Makes your tank immune to heat damage, such as that inflicted by Vulcan's overheating, or the persistent burn after-effect from Firebird. However, Firebird will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"cold_immunity",
+				"nameRU":"Иммунитет от заморозки",
+				"nameEN":"Cold Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает﻿ от заморозки. Танк с этим устройством не замедляется. Однако Фриз всё ещё может наносить урон танку с таким устройством.",
+				"descriptionEN":"Makes your tank immune to the slow-down effects of cold, such as that inflicted by the Freeze turret. However, Freeze will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"stun_immunity",
+				"nameRU":"Иммунитет от оглушения",
+				"nameEN":"Stun Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает от оглушения. Танк с этим устройством невозможно временно обездвижить. Оглушение редко встречается в битвах﻿﻿, но иногда защита от него может оказаться решающей.",
+				"descriptionEN":"Makes your tank immune to stun effects, preventing your enemies from immobilizing you. While stuns are rare, protection from them could be decisive at a crucial moment."
+			},
+			{
+				"id":"extreme_lightweight_construction",
+				"nameRU":"Экстремальное облегчение",
+				"nameEN":"Extreme Lightweight Construction",
+				"descriptionRU":"Внимание! Это устройство экстремально снижает массу корпуса, делая его максимально восприимчивым к любому физическому воздействию. В боевых условиях не эффективно. Применять с осторожностью на свой страх и риск!",
+				"descriptionEN":"Caution! This augment tremendously decreases the hull's weight, making it maximally susceptible to any physical impact. Not effective in combat. Use with caution and at your own risk!"
+			},
+			{
+				"id":"phoenix",
+				"nameRU":"Феникс",
+				"nameEN":"Phoenix",
+				"descriptionRU":"Этого оружия достоин только тот, кто подобно фениксу восставал из пепла вновь и вновь ради достижения своей цели. Секретное устройство. Для его получения нужно заработать 5 000 000 очков репутации на корпусе Васп.",
+				"descriptionEN":"Only tankers who keep rising like a phoenix from the ashes again and again to achieve their goal deserves this weapon. A secret augment. Earn 5 000 000 reputation points using the Wasp hull to get it."
+			},
+			{
+				"id":"special_protection",
+				"nameRU":"Специальная защита",
+				"nameEN":"Special Protection",
+				"descriptionRU":"Уникальная защита, разработанная для различных мероприятий. Не может быть получена обычными игроками. Благодаря данному устройству, его владелец получает полную защиту от заморозки и горения, а также иммунитет от всех статус-эффектов. Однако это устройство не влияет на прямой урон от пушек.",
+				"descriptionEN":"A special kind of protection that is to be exclusively used in special scenarios... hence the name.\n\nThis augment cannot be purchased and is only used for a limited time during special events. In the TAB menu, the icon is hidden; the wearer will appear to be using no hull augment at all."
+			}
+		]
+	},
+	{
+		"id":"hornet",
+		"nameRU":"Хорнет",
+		"nameEN":"Hornet",
+		"descriptionRU":"Лёгкий гусеничный корпус. Очень компактный, в поворотах уходит в небольшой занос.\n\nОвердрайв позволяет обнаруживать противников за любыми препятствиями за счёт тепловизора и передавать данные о координатах союзникам с помощью многоканальной системы связи. Также при запуске овердрайва корпус «Хорнет» временно получает эффект «Суперзаряд» для нанесения противнику критического урона.\n\nЛёгкий быстрый корпус с обтекаемыми формами. Двигается плавно и красиво, аккуратно маневрируя между препятствиями. Отличные динамические характеристики жизненно необходимы, чтобы выполнять задачи разведки при совершении самых дерзких десантных операций.\n\nСтраница корпуса в <a href=\"https://ru.tankiwiki.com/%D0%A5%D0%BE%D1%80%D0%BD%D0%B5%D1%82\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Light tracked hull. Highly compact. Can enter a brief drift while turning.\n\nOverdrive allows the tanker to detect all enemy tanks behind any obstacles using a thermal visor and send orders to allies using the multichannel system of communication. Overdrive activation also applies the «Supercharge» status effect to your tank, letting it deal critical damage to opponents.\n\n«Hornet» is a light hull with aerodynamic curves. It moves beautifully and smoothly, carefully sliding between obstacles. Top-notch dynamic attributes are required for recon operations leading to lightning-quick attacks.\n\nMore information about this hull can be found in the <a href=\"https://en.tankiwiki.com/Hornet\" target=\"_blank\"><u>Wiki</u></a>.",
+		"engineType":"light",
+		"skins":
+		[
+			{
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard",
+				"emissionColor":"61695",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"hd_without_side_armor",
+				"nameRU":"Стандартные настройки (без боковой защиты)",
+				"nameEN":"Standard settings (without side armor)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard",
+				"emissionColor":"61695",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"m0",
+				"name":"M0",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1",
+				"name":"M1",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2",
+				"name":"M2",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3",
+				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"xt_m0",
+				"name":"XT M0",
+				"descriptionRU":"Элитный Хорнет XT отличается уникальным внешним видом. Эффектные бронепластины, стилизованные под крылья, подчёркивают его стремительность и элегантность.",
+				"descriptionEN":"The elite Hornet XT is unique in terms of its looks. Its staggering armor plates resemble the wings of a bird of prey, stressing the hull's dynamic and elegant looks.",
+				"icon":"xt"
+			},
+			{
+				"id":"xt_m1",
+				"name":"XT M1",
+				"descriptionRU":"Элитный Хорнет XT отличается уникальным внешним видом. Эффектные бронепластины, стилизованные под крылья, подчёркивают его стремительность и элегантность.",
+				"descriptionEN":"The elite Hornet XT is unique in terms of its looks. Its staggering armor plates resemble the wings of a bird of prey, stressing the hull's dynamic and elegant looks.",
+				"icon":"xt"
+			},
+			{
+				"id":"xt_m2",
+				"name":"XT M2",
+				"descriptionRU":"Элитный Хорнет XT отличается уникальным внешним видом. Эффектные бронепластины, стилизованные под крылья, подчёркивают его стремительность и элегантность.",
+				"descriptionEN":"The elite Hornet XT is unique in terms of its looks. Its staggering armor plates resemble the wings of a bird of prey, stressing the hull's dynamic and elegant looks.",
+				"icon":"xt"
+			},
+			{
+				"id":"xt_m3",
+				"name":"XT M3",
+				"descriptionRU":"Элитный Хорнет XT отличается уникальным внешним видом. Эффектные бронепластины, стилизованные под крылья, подчёркивают его стремительность и элегантность.",
+				"descriptionEN":"The elite Hornet XT is unique in terms of its looks. Its staggering armor plates resemble the wings of a bird of prey, stressing the hull's dynamic and elegant looks.",
+				"icon":"xt"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Легендарный «Хорёк» для любителей олдскула. Это корпус «Хорнет» в старой графике!",
+				"descriptionEN":"The legendary Hornet hull gets a blast from the past with a brand new legacy skin for a touch of nostalgia.",
+				"icon":"lc"
+			},
+			{
+				"id":"pr",
+				"name":"Prime",
+				"descriptionRU":"Легендарный корпус в новом облике — для любителей строгой классики. Ничего лишнего, только скорость, манёвренность и выносливость. Подчёркивает тонкий вкус и статус его владельца.",
+				"descriptionEN":"The legendary hull has just received a fresh, new look — elegant and classic combined for a timeless design. No fluff. Just speed, maneuverability, and endurance. Now, more than ever, this hull symbolizes the fine taste and status of its owner.",
+				"icon":"pr",
+				"emissionColor":"15706377",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"ut",
+				"name":"Ultra",
+				"descriptionRU":"Этот скин Ultra всем своим видом показывает: «Не связывайся со мной, а то будет хуже».",
+				"descriptionEN":"The appearance of this Ultra Skin really says: «You don’t want to mess with me».",
+				"isInvertTracksDirection":true,
+				"icon":"ut",
+				"emissionColor":"16753208",
+				"emissionColorSecond":"6085887",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Шины — всегда лучшее решение для дальних поездок. Хорнет GT — модифицированная версия танка для автострады, предназначенная для любых расстояний. Всё в этом корпусе указывает на динамичный бой. Сдвоенные шины обеспечивают идеальное сцепление на пересечённой местности и в то же время оптимальную управляемость при дрифте. Благодаря защитной балке на передней оси корпус остаётся манёвренным даже в самом тяжёлом бою. Передний радиатор отсутствует, поскольку за оптимальный воздухообмен в плотном моторном отсеке отвечает обтекаемый карбоновый воздухозаборник. Совершенно ненужной оказывается изящная система поворотников на задних фарах, ведь если ты обгоняешь всех, поворотники тебе не нужны!",
+				"descriptionEN":"It is always better to use wheels for long distance travels. Hornet GT is a tank customized for the highway and is not afraid of any journey.\n\nEverything about this hull screams dynamic combat. The twin tires provide perfect grip on rough terrain and optimal handling when drifting. Thanks to the bull bar over the front axle, the car remains maneuverable even in the fiercest of battles. The front radiator is omitted, for a streamlined carbon air scoop ensures optimum air exchange in the packed engine compartment. Completely unnecessary, however, is the dynamic turn signal system on the elegant rear lights — if you're outrunning everyone, you won't need to indicate anyway!",
+				"icon":"gt",
+				"emissionColor":"196607",
+				"emissionColorSecond":"16751360",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"rl",
+				"name":"Realgar",
+				"descriptionRU":"По данным Всемирной Организации по Контролю Оружия данной модификации танка не существует. Принадлежавший некогда легендарному наёмнику этот танк побывал в самых коварных и безвыходных передрягах, как никто другой служивший своему владельцу ёмким словом в перепалке. Теперь чертежи этого танка выставлены в награду за турнир и только самые достойные получат право им обладать!",
+				"descriptionEN":"According to the World Organization for Weapons Control, this modification of the tank does not exist. Once owned by a legendary mercenary, this tank has been in the most insidious and hopeless troubles, like no other that served its owner with a capacious word in a skirmish. Now the blueprints of this tank are presented as a reward for the tournament, and only the most worthy will get the right to own it!",
+				"icon":"rl",
+				"emissionColor":"16777215",
+				"emissionColorThreshold":"0.1"
+			},
+			{
+				"id":"tx_m0",
+				"name":"M0 (Tanki X)",
+				"descriptionRU":"Разработан «Антеем» для эффектной рекламы танков «Х» на полях сражений по всему миру. «Хорнеты» на высоких скоростях появляются перед носом у врага и молниеносно громят его позиции. Этот корпус может получить по зубам и остаться на ходу, но эффективные маневры «на пятачке» — это не про него.",
+				"descriptionEN":"It was developed by Antaeus to effectively promote their «Х» Tanks on battlefields around the world. Hornets can appear right in front of the enemy's nose at lightning speed and smash their position. This hull can withstand direct hits and still stay on track, but it is not good for performing quick maneuvers on a dime.",
+				"icon":"tx",
+				"emissionColor":"65280",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"tx_m2",
+				"name":"M2 (Tanki X)",
+				"descriptionRU":"Разработан «Антеем» для эффектной рекламы танков «Х» на полях сражений по всему миру. «Хорнеты» на высоких скоростях появляются перед носом у врага и молниеносно громят его позиции. Этот корпус может получить по зубам и остаться на ходу, но эффективные маневры «на пятачке» — это не про него.",
+				"descriptionEN":"It was developed by Antaeus to effectively promote their «Х» Tanks on battlefields around the world. Hornets can appear right in front of the enemy's nose at lightning speed and smash their position. This hull can withstand direct hits and still stay on track, but it is not good for performing quick maneuvers on a dime.",
+				"icon":"tx",
+				"emissionColor":"4186194",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"tx_steel",
+				"nameRU":"Сталь (Tanki X)",
+				"nameEN":"Steel (Tanki X)",
+				"descriptionRU":"Этот корпус разрабатывался специально для продаж частным армиям по всему миру. «Васп» эффективно справлялся с танками старого образца, но и в современной войне ему легко найти применение. Быстро рвёт дистанцию, легко уходит из-под удара. Он предназначен для перехвата и вовлечения неповоротливого противника в маневренный бой. Этот корпус плохо держит удар и может даже перевернуться при попадании тяжелого мощного снаряда. Но верно служит тем, кто под удар не подставится.",
+				"descriptionEN":"This hull was specifically designed to cater to the needs of private armies around the world. The Wasp makes short work of old-style tanks, and it is also a valuable tool to fighting modern wars. It can quickly cover distances, and it is easily able to escape enemy fire. It is designed to intercept and engage a cornered enemy in a Blitzkrieg-style battle. This hull poorly resists blows and can even flip over when hit by heavy shells. But it will faithfully serve those that can avoid enemy fire.",
+				"icon":"tx",
+				"emissionColor":"4186194",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"tx_xt",
+				"name":"XT (Tanki X)",
+				"descriptionRU":"Разработан «Антеем» для эффектной рекламы танков «Х» на полях сражений по всему миру. «Хорнеты» на высоких скоростях появляются перед носом у врага и молниеносно громят его позиции. Этот корпус может получить по зубам и остаться на ходу, но эффективные маневры «на пятачке» — это не про него.",
+				"descriptionEN":"It was developed by Antaeus to effectively promote their «Х» Tanks on battlefields around the world. Hornets can appear right in front of the enemy's nose at lightning speed and smash their position. This hull can withstand direct hits and still stay on track, but it is not good for performing quick maneuvers on a dime.",
+				"icon":"tx",
+				"emissionColor":"6085887",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"tx_beta",
+				"name":"β (Tanki X)",
+				"descriptionRU":"Разработан «Антеем» для эффектной рекламы танков «Х» на полях сражений по всему миру. «Хорнеты» на высоких скоростях появляются перед носом у врага и молниеносно громят его позиции. Этот корпус может получить по зубам и остаться на ходу, но эффективные маневры «на пятачке» — это не про него.",
+				"descriptionEN":"It was developed by Antaeus to effectively promote their «Х» Tanks on battlefields around the world. Hornets can appear right in front of the enemy's nose at lightning speed and smash their position. This hull can withstand direct hits and still stay on track, but it is not good for performing quick maneuvers on a dime.",
+				"icon":"tx",
+				"emissionColor":"65280",
+				"emissionColorThreshold":"0.6"
+			},	
+			{
+				"id":"tx_victory_day",
+				"nameRU":"День Победы (Tanki X)",
+				"nameEN":"Victory Day (Tanki X)",
+				"descriptionRU":"Разработан «Антеем» для эффектной рекламы танков «Х» на полях сражений по всему миру. «Хорнеты» на высоких скоростях появляются перед носом у врага и молниеносно громят его позиции. Этот корпус может получить по зубам и остаться на ходу, но эффективные маневры «на пятачке» — это не про него.",
+				"descriptionEN":"It was developed by Antaeus to effectively promote their «Х» Tanks on battlefields around the world. Hornets can appear right in front of the enemy's nose at lightning speed and smash their position. This hull can withstand direct hits and still stay on track, but it is not good for performing quick maneuvers on a dime.",
+				"icon":"tx",
+				"emissionColor":"4521983",
+				"emissionColorThreshold":"0.4"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"heat_resistance",
+				"nameRU":"Защита от поджога",
+				"nameEN":"Heat Resistance",
+				"descriptionRU":"Устройство﻿ частично защищает от поджога. Танк с этим устройством ﻿тяжелее поджечь и он получает сниженный урон от горения. Однако прямой урон Огнемёта не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the damage and effect of heat, making it harder to burn. Does not affect direct damage from Firebird."
+			},
+			{
+				"id":"cold_resistance",
+				"nameRU":"Защита от заморозки",
+				"nameEN":"Cold Resistance",
+				"descriptionRU":"Устройство﻿ ﻿частично защищает от заморозки. Танк с этим устройством тяжелее заморозить. Однако урон Фриза не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the effect of cold, making it harder to slow down. Does not affect direct damage from Freeze."
+			},
+			{
+				"id":"lightweight_construction",
+				"nameRU":"Облегчение конструкции",
+				"nameEN":"Lightweight Construction",
+				"descriptionRU":"Устройство﻿﻿ значительно снижает массу корпуса. Никакого практического применения в бою это устройство не имеет, но, возможно, взлетать в воздух от каждой мины по-﻿своему﻿ интересно.",
+				"descriptionEN":"Significantly decreases your hull's weight. While not particularly useful in a combat scenario, creative tankers might want to take advantage of this feature for \"unconventional\" tank stunts."
+			},
+			{
+				"id":"heavyweight_construction",
+				"nameRU":"Утяжеление конструкции",
+				"nameEN":"Heavyweight Construction",
+				"descriptionRU":"Устройство﻿ значительно повышает массу корпуса. Любое попадание или толчок будут меньше сбивать танк с курса. Разгонные характеристики﻿ заметно ослабевают, но толкать другие танки становится проще.",
+				"descriptionEN":"Significantly increases your hull's weight, making it more resistant to pushback. Acceleration may be affected, but the added momentum has useful applications for ramming tanks."
+			},
+			{
+				"id":"heat_immunity",
+				"nameRU":"Иммунитет от поджога",
+				"nameEN":"Heat Immunity",
+				"descriptionRU":"Устройство﻿﻿﻿﻿ полностью защищает от горения. Танк с этим устройством не получает урон от горения.﻿ Однако Огнемёт всё ещё может наносить прямой урон танку с таким ﻿устройством.",
+				"descriptionEN":"Makes your tank immune to heat damage, such as that inflicted by Vulcan's overheating, or the persistent burn after-effect from Firebird. However, Firebird will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"cold_immunity",
+				"nameRU":"Иммунитет от заморозки",
+				"nameEN":"Cold Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает﻿ от заморозки. Танк с этим устройством не замедляется. Однако Фриз всё ещё может наносить урон танку с таким устройством.",
+				"descriptionEN":"Makes your tank immune to the slow-down effects of cold, such as that inflicted by the Freeze turret. However, Freeze will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"stun_immunity",
+				"nameRU":"Иммунитет от оглушения",
+				"nameEN":"Stun Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает от оглушения. Танк с этим устройством невозможно временно обездвижить. Оглушение редко встречается в битвах﻿﻿, но иногда защита от него может оказаться решающей.",
+				"descriptionEN":"Makes your tank immune to stun effects, preventing your enemies from immobilizing you. While stuns are rare, protection from them could be decisive at a crucial moment."
+			},
+			{
+				"id":"extreme_lightweight_construction",
+				"nameRU":"Экстремальное облегчение",
+				"nameEN":"Extreme Lightweight Construction",
+				"descriptionRU":"Внимание! Это устройство экстремально снижает массу корпуса, делая его максимально восприимчивым к любому физическому воздействию. В боевых условиях не эффективно. Применять с осторожностью на свой страх и риск!",
+				"descriptionEN":"Caution! This augment tremendously decreases the hull's weight, making it maximally susceptible to any physical impact. Not effective in combat. Use with caution and at your own risk!"
+			},
+			{
+				"id":"phoenix",
+				"nameRU":"Феникс",
+				"nameEN":"Phoenix",
+				"descriptionRU":"Этого оружия достоин только тот, кто подобно фениксу восставал из пепла вновь и вновь ради достижения своей цели. Секретное устройство. Для его получения нужно заработать 5 000 000 очков репутации на корпусе Хорнет.",
+				"descriptionEN":"Only tankers who keep rising like a phoenix from the ashes again and again to achieve their goal deserves this weapon. A secret augment. Earn 5 000 000 reputation points using the Hornet hull to get it."
+			},
+			{
+				"id":"special_protection",
+				"nameRU":"Специальная защита",
+				"nameEN":"Special Protection",
+				"descriptionRU":"Уникальная защита, разработанная для различных мероприятий. Не может быть получена обычными игроками. Благодаря данному устройству, его владелец получает полную защиту от заморозки и горения, а также иммунитет от всех статус-эффектов. Однако это устройство не влияет на прямой урон от пушек.",
+				"descriptionEN":"A special kind of protection that is to be exclusively used in special scenarios... hence the name.\n\nThis augment cannot be purchased and is only used for a limited time during special events. In the TAB menu, the icon is hidden; the wearer will appear to be using no hull augment at all."
+			}
+		]
+	},
+	{
+		"id":"hopper",
+		"nameRU":"Хоппер",
+		"nameEN":"Hopper",
+		"descriptionRU":"Лёгкий парящий корпус. Очень быстрый, но не очень стабильный при движении над сложной поверхностью.\n\nОвердрайв запускает детонационный прыжковый двигатель, расположенный под корпусом. Он оглушает вражеские танки, а также подбрасывает «Хоппера» в воздух, позволяя перепрыгивать препятствия.\n\nХовертанк «Хоппер» использует максимум возможностей антигравитационных двигателей, чтобы делать то, о чём мечтает любой танкист — взлететь в небо подальше от опасностей. Дерзкий прорыв вражеской обороны или неожиданный побег с флагом? «Хопперу» это по плечу.\n\nСтраница корпуса в <a href=\"https://ru.tankiwiki.com/%D0%A5%D0%BE%D0%BF%D0%BF%D0%B5%D1%80\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Light hovering hull. It is very fast but not very stable when moving above a complex surface.\n\nOverdrive launches the detonation jump engine placed below the hull. It stuns enemy tanks and throws «Hopper» into the air, allowing to jump over obstacles\n\nThe «Hopper» hover tank uses the maximum available anti-gravity engine resources to let the tanker pursue their dream — flying up to the sky far away from danger. Are you daring enough to break through the enemy's defenses? «Hopper» can help you.\n\nMore information about this hull can be found in the <a href=\"https://en.tankiwiki.com/Hopper\" target=\"_blank\"><u>Wiki</u></a>.",
+		"isHover":true,
+		"engineType":"light_hover",
+		"skins":
+		[
+			{
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard",
+				"emissionColor":"52479",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Новые эмоции. Новый опыт. Новые ощущения. Каждый раз, когда вы вступаете в бой. Хоппер XT — это воплощение индивидуальности и технологичности. Скин напоминает своим видом ящерицу геккон и подчёркивает непревзойдённую манёвренность «Хоппера». Бронепластины покрыты специальным материалом, который обеспечивает защиту от электроразрядов и радиолокационного обнаружения.",
+				"descriptionEN":"New emotions. New experience. New feelings. Each time you enter a battle. Hopper XT is the embodiment of individuality and advanced technologies. This skin looks like a gecko lizard and shows off Hopper's maneuverability. Armour plates are covered with a special material which protects the hull from electricity and radars. Hopper XT, brilliant in every way.",
+				"icon":"xt",
+				"emissionColor":"16729344",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"rt",
+				"name":"RT",
+				"descriptionRU":"Существует легенда, что эти скины привёз на планету один из танкистов, чей космический корабль потерпел крушение. Ему удалось спастись, добравшись по обломкам корабля до спасательной капсулы. Во время полёта он хватал все артефакты, попадавшиеся на его пути, среди которых оказались эти скины. Они получили название «RetroFuture». Глаз не оторвать, правда?",
+				"descriptionEN":"There is a legend that was brought to the planet by a tanker whose spaceship crashed. He managed to survive by climbing over the wreckage to the escape pod. During his space journey, he collected all the artifacts that came across his way, and these skins were one of them. Named «RetroFuture», they're very good, aren't they?",
+				"icon":"rt",
+				"emissionColor":"2340607",
+				"emissionColorThreshold":"0.4"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"heat_resistance",
+				"nameRU":"Защита от поджога",
+				"nameEN":"Heat Resistance",
+				"descriptionRU":"Устройство﻿ частично защищает от поджога. Танк с этим устройством ﻿тяжелее поджечь и он получает сниженный урон от горения. Однако прямой урон Огнемёта не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the damage and effect of heat, making it harder to burn. Does not affect direct damage from Firebird."
+			},
+			{
+				"id":"cold_resistance",
+				"nameRU":"Защита от заморозки",
+				"nameEN":"Cold Resistance",
+				"descriptionRU":"Устройство﻿ ﻿частично защищает от заморозки. Танк с этим устройством тяжелее заморозить. Однако урон Фриза не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the effect of cold, making it harder to slow down. Does not affect direct damage from Freeze."
+			},
+			{
+				"id":"lightweight_construction",
+				"nameRU":"Облегчение конструкции",
+				"nameEN":"Lightweight Construction",
+				"descriptionRU":"Устройство﻿﻿ значительно снижает массу корпуса. Никакого практического применения в бою это устройство не имеет, но, возможно, взлетать в воздух от каждой мины по-﻿своему﻿ интересно.",
+				"descriptionEN":"Significantly decreases your hull's weight. While not particularly useful in a combat scenario, creative tankers might want to take advantage of this feature for \"unconventional\" tank stunts."
+			},
+			{
+				"id":"heavyweight_construction",
+				"nameRU":"Утяжеление конструкции",
+				"nameEN":"Heavyweight Construction",
+				"descriptionRU":"Устройство﻿ значительно повышает массу корпуса. Любое попадание или толчок будут меньше сбивать танк с курса. Разгонные характеристики﻿ заметно ослабевают, но толкать другие танки становится проще.",
+				"descriptionEN":"Significantly increases your hull's weight, making it more resistant to pushback. Acceleration may be affected, but the added momentum has useful applications for ramming tanks."
+			},
+			{
+				"id":"heat_immunity",
+				"nameRU":"Иммунитет от поджога",
+				"nameEN":"Heat Immunity",
+				"descriptionRU":"Устройство﻿﻿﻿﻿ полностью защищает от горения. Танк с этим устройством не получает урон от горения.﻿ Однако Огнемёт всё ещё может наносить прямой урон танку с таким ﻿устройством.",
+				"descriptionEN":"Makes your tank immune to heat damage, such as that inflicted by Vulcan's overheating, or the persistent burn after-effect from Firebird. However, Firebird will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"cold_immunity",
+				"nameRU":"Иммунитет от заморозки",
+				"nameEN":"Cold Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает﻿ от заморозки. Танк с этим устройством не замедляется. Однако Фриз всё ещё может наносить урон танку с таким устройством.",
+				"descriptionEN":"Makes your tank immune to the slow-down effects of cold, such as that inflicted by the Freeze turret. However, Freeze will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"stun_immunity",
+				"nameRU":"Иммунитет от оглушения",
+				"nameEN":"Stun Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает от оглушения. Танк с этим устройством невозможно временно обездвижить. Оглушение редко встречается в битвах﻿﻿, но иногда защита от него может оказаться решающей.",
+				"descriptionEN":"Makes your tank immune to stun effects, preventing your enemies from immobilizing you. While stuns are rare, protection from them could be decisive at a crucial moment."
+			},
+			{
+				"id":"extreme_lightweight_construction",
+				"nameRU":"Экстремальное облегчение",
+				"nameEN":"Extreme Lightweight Construction",
+				"descriptionRU":"Внимание! Это устройство экстремально снижает массу корпуса, делая его максимально восприимчивым к любому физическому воздействию. В боевых условиях не эффективно. Применять с осторожностью на свой страх и риск!",
+				"descriptionEN":"Caution! This augment tremendously decreases the hull's weight, making it maximally susceptible to any physical impact. Not effective in combat. Use with caution and at your own risk!"
+			},
+			{
+				"id":"phoenix",
+				"nameRU":"Феникс",
+				"nameEN":"Phoenix",
+				"descriptionRU":"Этого оружия достоин только тот, кто подобно фениксу восставал из пепла вновь и вновь ради достижения своей цели. Секретное устройство. Для его получения нужно заработать 5 000 000 очков репутации на корпусе Хоппер.",
+				"descriptionEN":"Only tankers who keep rising like a phoenix from the ashes again and again to achieve their goal deserves this weapon. A secret augment. Earn 5 000 000 reputation points using the Hopper hull to get it."
+			},
+			{
+				"id":"special_protection",
+				"nameRU":"Специальная защита",
+				"nameEN":"Special Protection",
+				"descriptionRU":"Уникальная защита, разработанная для различных мероприятий. Не может быть получена обычными игроками. Благодаря данному устройству, его владелец получает полную защиту от заморозки и горения, а также иммунитет от всех статус-эффектов. Однако это устройство не влияет на прямой урон от пушек.",
+				"descriptionEN":"A special kind of protection that is to be exclusively used in special scenarios... hence the name.\n\nThis augment cannot be purchased and is only used for a limited time during special events. In the TAB menu, the icon is hidden; the wearer will appear to be using no hull augment at all."
+			}
+		]
+	},	
+	{
+		"id":"viking",
+		"nameRU":"Викинг",
+		"nameEN":"Viking",
+		"descriptionRU":"Средний гусеничный корпус. Имеет небольшую массу для среднего корпуса и низкий силуэт.\n\nОвердрайв «Берсерк» значительно увеличивает урон и скорострельность любой установленной пушки. Атакуя противника во фланг, можно уничтожить множество целей до того, как они поймут, насколько опасный противник оказался рядом. Атакуя противника в лоб, легко потратить заряд овердрайва впустую.\n\nЭтот корпус воплощает в себе все самые современные наработки военной инженерии. Усиленная броня и гусеничная система второго поколения делают его великолепным универсалом. Корпус прекрасно подходит для решения любых боевых задач — от удержания высоты до лобовой атаки.\n\nСтраница корпуса в <a href=\"https://ru.tankiwiki.com/%D0%92%D0%B8%D0%BA%D0%B8%D0%BD%D0%B3\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Medium tracked hull. It has a quite small mass for a middle hull and a low profile.\n\nIts «Berserk Reactor» overdrive significantly increases the damage of its turret, thanks to the increased rate of fire. You can destroy multiple targets by attacking the enemy team from the flanks before they realize how dangerous their opponent is. You might end up wasting the charge of your overdrive if you attack the enemy head on.\n\nThis hull encompasses all of the latest military technologies combined in a single piece of engineering art. Enhanced armor and second-generation tracks-system make this hull an outstanding universal tank. The hull can be used for any type of battle missions: from strategic defense to a full-frontal assault.\n\nMore information about this hull can be found in the <a href=\"https://en.tankiwiki.com/Viking\" target=\"_blank\"><u>Wiki</u></a>.",
+		"engineType":"medium",
+		"skins":
+		[
+			{
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"isInvertTracksDirection":true,
+				"icon":"standard",
+				"emissionColor":"14649088",
+				"emissionColorSecond":"8388605",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"hd_without_side_armor",
+				"nameRU":"Стандартные настройки (без боковой защиты)",
+				"nameEN":"Standard settings (without side armor)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"isInvertTracksDirection":true,
+				"icon":"standard",
+				"emissionColor":"14649088",
+				"emissionColorSecond":"8388605",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"m0",
+				"name":"M0",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1",
+				"name":"M1",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2",
+				"name":"M2",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3",
+				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Эксклюзивный Викинг XT примечателен своим необычным внешним видом. Характерный рисунок брони выполнен в суровом скандинавском стиле.",
+				"descriptionEN":"The exclusive Viking XT is memorable thanks to its exterior, featuring a distinct armor pattern that conveys northern strength and stability.",
+				"icon":"xt"
+			},
+			{
+				"id":"xt_hd",
+				"name":"XT HD",
+				"descriptionRU":"Космические исследователи нашли на Луне новый высокопрочный сплав золота, который заряжен лунной энергией. Наши конструкторы не стали терять время зря и сразу же разработали новые металлические пластины небывалой прочности для Викинга и добавили красное свечение от алмазного камня. Теперь этот скин не только привлекает к себе внимание блистательно-дорогим золотистым цветом, но и не оставляет соперникам шансов при столкновении.",
+				"descriptionEN":"Space explorers found a new highly durable gold alloy on the moon that is charged with moon energy. Our constructors did not waste time and immediately developed new metal plates of unprecedented strength for Viking and added red glow of the diamond stone. This skin attracts attention with its brilliantly-expensive golden color and leaves no chance of escape for opponents when confronted.",
+				"isInvertTracksDirection":true,
+				"icon":"xt",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Готовьтесь ловить на себе удивлённые взгляды! Ведь все игроки в битве подумают, что к ним явился призрак из прошлого. Так и есть — это корпус Викинг в старой графике.",
+				"descriptionEN":"Get ready to gather surprised stares on the battlefield! All players will think they saw a ghost from the past, as you roll by with a Viking hull from the old game graphics.",
+				"icon":"lc"
+			},
+			{
+				"id":"pr",
+				"name":"Prime",
+				"descriptionRU":"Викинг — первый корпус, получивший скин из новой серии Prime. Этот скин отражает универсальность Викинга — его способность приспосабливаться к любым условиям битвы, и отлично выглядит с любой краской.",
+				"descriptionEN":"Viking is the first hull to receive a skin from the new Prime series. Viking is known for its adaptability in battle, and this Prime skin reflects this quality by looking great with any paint.",
+				"icon":"pr",
+				"emissionColor":"8388605",
+				"emissionColorSecond": "14649088",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"ut",
+				"name":"Ultra",
+				"descriptionRU":"Один из самых универсальных корпусов в игре теперь станет ещё и одним из самых ярких с новым скином Ультра. Благородный воин, верный своему имени.",
+				"descriptionEN":"One of the most versatile hulls in the game now also becomes one of the hottest-looking with this Ultra skin. A noble warrior true to its name.",
+				"icon":"ut",
+				"emissionColor":"516349",
+				"emissionColorSecond":"16762192",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"dc",
+				"name":"Demomic",
+				"descriptionRU":"Когда живые кости гремят на улицах, лучше оставаться дома. Опасность внезапного столкновения с этим монстром довольно высока. Тот, кто всё-таки осмелится сделать это, вернётся уже другим. Заправленный кипящей лавой, гусеницы из раскаленной стали, украшенные черепами своих жертв, острые клыки, скалящиеся свежим моторным маслом. Даже самому матёрому танкисту не удастся избежать этого взгляда. Так что даже не пытайтесь.",
+				"descriptionEN":"When living bones rattle in the streets, the best option for you is to stay at home. The danger of a sudden encounter with this monster is extremely high. Anyone who still dares to leave shelter will return a completely different person. It's fueled with boiling lava, has tracks made of hot steel and decorated with skulls of their victims, and sharp fangs covered with fresh engine oil. Even the most seasoned tanker won't manage to avoid this beast. Don't even try.",
+				"icon":"dc",
+				"emissionColor":"15884800",
+				"emissionColorSecond":"16685824",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Для путешествий на большие расстояния всегда лучше использовать колёса. Викинг GT — это адаптированный под автодороги танк, которому не страшны путешествия на любые расстояния. За фюзеляжем данного корпуса скрывается салон необычайной комфортабельности и красоты. Стоимости материалов, из которых изготовлены внутренние стены танка, хватило бы на производство десятка боевых машин пониженного класса кофмортности. Описание внутренних удобств корпусов серии GT занимает десятки страниц инструкции по применению. Максимальная комплектация включает: ABS, круиз-контроль, кондиционер, мультимедийная система и ёлочку... на удачу! Раздвоенные передние колёсные пары, усиленные радиаторы охлаждения и высокая бронированность задней части танка делают его суперуниверсальной боевой машиной для оснастки практически любым видом вооружения, способной быстро и манёвренно покидать поле боя для возобновления боекомплекта.",
+				"descriptionEN":"It is always better to use wheels for long distance travels. Viking GT is a customized version of a tank for the highway and is not afraid of any distance.\n\nUnder the armor of this hull you will find an interior of extraordinary comfort and great beauty. The cost of materials from which interior walls of the tank are made would be enough to produce a dozen less comfy battle vehicles. The description of interior amenities of GT series skins takes up dozens of pages in the service manual. The ultimate configuration includes ABS, cruise control, air conditioning, multimedia system, and… a tree air freshener, for good luck!\n\nA pair of forked front wheels, enhanced cooling radiators, and boosted armor at the back of the tank make Viking GT a super versatile battle vehicle to be used with any type of equipment. It is capable of quickly and nimbly rushing back to base to restock on ammunition.",
+				"icon":"gt",
+				"emissionColor":"983039",
+				"emissionColorSecond":"11599872",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"gt_concept",
+				"nameRU":"GT (концепт)",
+				"nameEN":"GT (concept)",
+				"descriptionRU":"Для путешествий на большие расстояния всегда лучше использовать колёса. Викинг GT — это адаптированный под автодороги танк, которому не страшны путешествия на любые расстояния. За фюзеляжем данного корпуса скрывается салон необычайной комфортабельности и красоты. Стоимости материалов, из которых изготовлены внутренние стены танка, хватило бы на производство десятка боевых машин пониженного класса кофмортности. Описание внутренних удобств корпусов серии GT занимает десятки страниц инструкции по применению. Максимальная комплектация включает: ABS, круиз-контроль, кондиционер, мультимедийная система и ёлочку... на удачу! Раздвоенные передние колёсные пары, усиленные радиаторы охлаждения и высокая бронированность задней части танка делают его суперуниверсальной боевой машиной для оснастки практически любым видом вооружения, способной быстро и манёвренно покидать поле боя для возобновления боекомплекта.",
+				"descriptionEN":"It is always better to use wheels for long distance travels. Viking GT is a customized version of a tank for the highway and is not afraid of any distance.\n\nUnder the armor of this hull you will find an interior of extraordinary comfort and great beauty. The cost of materials from which interior walls of the tank are made would be enough to produce a dozen less comfy battle vehicles. The description of interior amenities of GT series skins takes up dozens of pages in the service manual. The ultimate configuration includes ABS, cruise control, air conditioning, multimedia system, and… a tree air freshener, for good luck!\n\nA pair of forked front wheels, enhanced cooling radiators, and boosted armor at the back of the tank make Viking GT a super versatile battle vehicle to be used with any type of equipment. It is capable of quickly and nimbly rushing back to base to restock on ammunition.",
+				"icon":"gt",
+				"emissionColor":"983039",
+				"emissionColorSecond":"11599872",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"2.0_m1",
+				"name":"M1 (Tanki Online 2.0)",
+				"description":"TODO",
+				"icon":"2.0"
+			},
+			{
+				"id":"tx_m2",
+				"name":"M2 (Tanki X)",
+				"descriptionRU":"Создавался в условиях замершей без результатов войны. Необходимо было переламывать ситуацию на фронте, где требуется побеждать тактикой. Этот корпус — «универсальная тактическая единица», второе поколение танков «Х», инструмент успешной борьбы за выполнение любых задач на поле боя. «Викинг» надолго стал основой для элитных соединений профессионалов.",
+				"descriptionEN":"This hull was created during a war that was reaching a stalemate. A tank was needed that could break through the stagnating situation on the front, where winning tactics were needed. This hull is the «universal tactical unit», representing the second generation of «X» Tanks. It is tool that can be used to successfully achieve all tasks on the battlefield. For a long time the Viking formed the basis for bonds between elite professional tank operators.",
+				"icon":"tx",
+				"emissionColor":"65280",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"tx_xt",
+				"name":"XT (Tanki X)",
+				"descriptionRU":"Создавался в условиях замершей без результатов войны. Необходимо было переламывать ситуацию на фронте, где требуется побеждать тактикой. Этот корпус — «универсальная тактическая единица», второе поколение танков «Х», инструмент успешной борьбы за выполнение любых задач на поле боя. «Викинг» надолго стал основой для элитных соединений профессионалов.",
+				"descriptionEN":"This hull was created during a war that was reaching a stalemate. A tank was needed that could break through the stagnating situation on the front, where winning tactics were needed. This hull is the «universal tactical unit», representing the second generation of «X» Tanks. It is tool that can be used to successfully achieve all tasks on the battlefield. For a long time the Viking formed the basis for bonds between elite professional tank operators.",
+				"icon":"tx",
+				"emissionColor":"65535",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"tx_victory_day",
+				"nameRU":"День Победы (Tanki X)",
+				"nameEN":"Victory Day (Tanki X)",
+				"descriptionRU":"Создавался в условиях замершей без результатов войны. Необходимо было переламывать ситуацию на фронте, где требуется побеждать тактикой. Этот корпус — «универсальная тактическая единица», второе поколение танков «Х», инструмент успешной борьбы за выполнение любых задач на поле боя. «Викинг» надолго стал основой для элитных соединений профессионалов.",
+				"descriptionEN":"This hull was created during a war that was reaching a stalemate. A tank was needed that could break through the stagnating situation on the front, where winning tactics were needed. This hull is the «universal tactical unit», representing the second generation of «X» Tanks. It is tool that can be used to successfully achieve all tasks on the battlefield. For a long time the Viking formed the basis for bonds between elite professional tank operators.",
+				"isInvertTracksDirection":true,
+				"icon":"tx",	
+				"emissionColor":"4521983",
+				"emissionColorThreshold":"0.4"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"heat_resistance",
+				"nameRU":"Защита от поджога",
+				"nameEN":"Heat Resistance",
+				"descriptionRU":"Устройство﻿ частично защищает от поджога. Танк с этим устройством ﻿тяжелее поджечь и он получает сниженный урон от горения. Однако прямой урон Огнемёта не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the damage and effect of heat, making it harder to burn. Does not affect direct damage from Firebird."
+			},
+			{
+				"id":"cold_resistance",
+				"nameRU":"Защита от заморозки",
+				"nameEN":"Cold Resistance",
+				"descriptionRU":"Устройство﻿ ﻿частично защищает от заморозки. Танк с этим устройством тяжелее заморозить. Однако урон Фриза не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the effect of cold, making it harder to slow down. Does not affect direct damage from Freeze."
+			},
+			{
+				"id":"lightweight_construction",
+				"nameRU":"Облегчение конструкции",
+				"nameEN":"Lightweight Construction",
+				"descriptionRU":"Устройство﻿﻿ значительно снижает массу корпуса. Никакого практического применения в бою это устройство не имеет, но, возможно, взлетать в воздух от каждой мины по-﻿своему﻿ интересно.",
+				"descriptionEN":"Significantly decreases your hull's weight. While not particularly useful in a combat scenario, creative tankers might want to take advantage of this feature for \"unconventional\" tank stunts."
+			},
+			{
+				"id":"heavyweight_construction",
+				"nameRU":"Утяжеление конструкции",
+				"nameEN":"Heavyweight Construction",
+				"descriptionRU":"Устройство﻿ значительно повышает массу корпуса. Любое попадание или толчок будут меньше сбивать танк с курса. Разгонные характеристики﻿ заметно ослабевают, но толкать другие танки становится проще.",
+				"descriptionEN":"Significantly increases your hull's weight, making it more resistant to pushback. Acceleration may be affected, but the added momentum has useful applications for ramming tanks."
+			},
+			{
+				"id":"heat_immunity",
+				"nameRU":"Иммунитет от поджога",
+				"nameEN":"Heat Immunity",
+				"descriptionRU":"Устройство﻿﻿﻿﻿ полностью защищает от горения. Танк с этим устройством не получает урон от горения.﻿ Однако Огнемёт всё ещё может наносить прямой урон танку с таким ﻿устройством.",
+				"descriptionEN":"Makes your tank immune to heat damage, such as that inflicted by Vulcan's overheating, or the persistent burn after-effect from Firebird. However, Firebird will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"cold_immunity",
+				"nameRU":"Иммунитет от заморозки",
+				"nameEN":"Cold Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает﻿ от заморозки. Танк с этим устройством не замедляется. Однако Фриз всё ещё может наносить урон танку с таким устройством.",
+				"descriptionEN":"Makes your tank immune to the slow-down effects of cold, such as that inflicted by the Freeze turret. However, Freeze will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"stun_immunity",
+				"nameRU":"Иммунитет от оглушения",
+				"nameEN":"Stun Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает от оглушения. Танк с этим устройством невозможно временно обездвижить. Оглушение редко встречается в битвах﻿﻿, но иногда защита от него может оказаться решающей.",
+				"descriptionEN":"Makes your tank immune to stun effects, preventing your enemies from immobilizing you. While stuns are rare, protection from them could be decisive at a crucial moment."
+			},
+			{
+				"id":"extreme_lightweight_construction",
+				"nameRU":"Экстремальное облегчение",
+				"nameEN":"Extreme Lightweight Construction",
+				"descriptionRU":"Внимание! Это устройство экстремально снижает массу корпуса, делая его максимально восприимчивым к любому физическому воздействию. В боевых условиях не эффективно. Применять с осторожностью на свой страх и риск!",
+				"descriptionEN":"Caution! This augment tremendously decreases the hull's weight, making it maximally susceptible to any physical impact. Not effective in combat. Use with caution and at your own risk!"
+			},
+			{
+				"id":"phoenix",
+				"nameRU":"Феникс",
+				"nameEN":"Phoenix",
+				"descriptionRU":"Этого оружия достоин только тот, кто подобно фениксу восставал из пепла вновь и вновь ради достижения своей цели. Секретное устройство. Для его получения нужно заработать 5 000 000 очков репутации на корпусе Викинг.",
+				"descriptionEN":"Only tankers who keep rising like a phoenix from the ashes again and again to achieve their goal deserves this weapon. A secret augment. Earn 5 000 000 reputation points using the Viking hull to get it."
+			},
+			{
+				"id":"special_protection",
+				"nameRU":"Специальная защита",
+				"nameEN":"Special Protection",
+				"descriptionRU":"Уникальная защита, разработанная для различных мероприятий. Не может быть получена обычными игроками. Благодаря данному устройству, его владелец получает полную защиту от заморозки и горения, а также иммунитет от всех статус-эффектов. Однако это устройство не влияет на прямой урон от пушек.",
+				"descriptionEN":"A special kind of protection that is to be exclusively used in special scenarios... hence the name.\n\nThis augment cannot be purchased and is only used for a limited time during special events. In the TAB menu, the icon is hidden; the wearer will appear to be using no hull augment at all."
+			}
+		]
+	},
+	{
+		"id":"hunter",
+		"nameRU":"Хантер",
+		"nameEN":"Hunter",
+		"descriptionRU":"Средний гусеничный корпус. Среди средних корпусов имеет самую высокую манёвренность.\n\nОвердрайв генерирует электромагнитный импульс, повреждающий, а главное — обездвиживающий вражеские танки на короткое время. Без специальной защиты противник оказывается абсолютно беззащитным к добиванию.\n\nЭтот корпус, обшитый бронёй из армированной стали, является наиболее универсальным. Он хорошо подойдёт как поклонникам активного, динамичного боя, так и танкистам, предпочитающим позиционный стиль игры. Вы никогда не останетесь без работы, будь то удержание высоты или жестокая битва за квартал разрушенного города.\n\nСтраница корпуса в <a href=\"https://ru.tankiwiki.com/%D0%A5%D0%B0%D0%BD%D1%82%D0%B5%D1%80\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Medium tracked hull. It has the most maneuverability among all medium hulls.\n\nIts overdrive generates an electromagnetic pulse, damaging and, more importantly, immobilizing enemy tanks for a short time. Without special protection, the enemy is completely defenseless to finish off.\n\nThis hull, covered in strengthened armored steel, is the most universal. It will perfectly suit the fans of active, dynamic battles and also tankers who like to play positionally. You will never be out of work, be it protecting a point or an intense battle for a city block in ruins.\n\nMore information about this hull can be found in the <a href=\"https://en.tankiwiki.com/Hunter\" target=\"_blank\"><u>Wiki</u></a>.",
+		"engineType":"medium",
+		"skins":
+		[
+			{
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard",
+				"emissionColor":"54754",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"hd_without_side_armor",
+				"nameRU":"Стандартные настройки (без боковой защиты)",
+				"nameEN":"Standard settings (without side armor)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard",
+				"emissionColor":"54754",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"m0",
+				"name":"M0",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1",
+				"name":"M1",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2",
+				"name":"M2",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3",
+				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Боковые пластины Хантера XT напоминают перья хищной птицы, готовой в любой момент отправиться на охоту, и при этом придают танку роскошный внешний вид.",
+				"descriptionEN":"The side panels of the Hunter XT are a stylized representation of the feathers on a bird of prey as it dives with sharp talons to make the kill. This skin embodies its owner's predatory skills.",
+				"icon":"xt"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Брутальный вид Хантера из прошлого. Лёгкие потёртости, подчёркивающие опытность обладателя скина, вызывают уважение как у друзей, так и у врагов.",
+				"descriptionEN":"A brutal version of Hunter from the past. Slight scrapes emphasise the professionalism of the skin owner and command respect from both friends and enemies.",
+				"icon":"lc"
+			},
+			{
+				"id":"pr",
+				"name":"Prime",
+				"descriptionRU":"С этим скином Prime корпус Хантер обретает новый стильный вид. В умелых руках Хантер достойно проявляет себя в любых битвах, а высокотехнологичный облик позволит ему и вовсе доминировать.",
+				"descriptionEN":"Next in line for the Prime series is Hunter - known for its swift acceleration and agile structure. Now, more than ever, using this skin in battle will reflect the owner's grasp over key game mechanics and near-perfect aim.",
+				"icon":"pr",
+				"emissionColor":"624580",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"ut",
+				"name":"Ultra",
+				"descriptionRU":"Охотники носят камуфляж, чтобы подкрадываться к цели незаметно. Но не вы, ведь у вас есть победоносный скин Ультра для Хантера.",
+				"descriptionEN":"Hunters wear camouflage to sneak up on prey. Not this one. This one wears an Ultra skin that says, \"Be very afraid\".",
+				"icon":"ut",
+				"emissionColor":"3075071",
+				"emissionColorSecond":"16486943",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Это олицетворение современности и элегантности в мире танкостроения. Он воплощает в себе инновационный дизайн и стиль, позволяющий выделиться на поле боя. Созданный из самых передовых материалов, «Хантер GT» обеспечивает не только великолепный внешний вид, но и непревзойдённую защиту!",
+				"descriptionEN":"This is the embodiment of modernity and elegance in the world of tank-building. It stands for innovative design and style, letting the bearer stand out on the battlefield. Made from the most high-end materials, Hunter GT delivers not only a great look, but also an unrivaled performance!",
+				"icon":"gt",
+				"emissionColor":"983039",
+				"emissionColorSecond":"15763456",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"dc",
+				"name":"Demomic",
+				"descriptionRU":"Видели когда-нибудь жерло вулкана? С данным скином это будет последнее, что увидят ваши враги перед неминуемой гибелью. Тысячи шестерёнок находятся прямо в лаве и обеспечивают бесперебойное движение вестника смерти. Шипы по всему периметру корпуса и зловещие морды сзади отпугнут всех, кто осмелится бросить вам вызов.",
+				"descriptionEN":"Have you ever seen the vent of a volcano? With this skin, it will be the last thing your enemies see before their inevitable death. Thousands of gears are located directly in the lava and ensure the uninterrupted movement of the messenger of death. Spikes along the entire perimeter of the body and ominous faces at the back will scare off anyone who dares to challenge you.",
+				"icon":"dc",
+				"emissionColor":"15884800",
+				"emissionColorSecond":"16685824",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"xt_fake",
+				"nameRU":"XT (неофициальный)",
+				"nameEN":"XT (unofficial)",
+				"description":"TODO",
+				"icon":"xt"
+			},
+			{
+				"id":"tx_xt",
+				"name":"XT (Tanki X)",
+				"descriptionRU":"«Хантер» — точка отсчета для всех танков «Х». Это первый корпус, который пошел в массовое производство. Он повсеместно применяется по сей день. Это корпус танков первой волны, попытка достигнуть эффективного компромисса между бронированностью и маневренностью. «Хантер» появляется там, где нужно сражаться, а не отстреливаться.",
+				"descriptionEN":"The Hunter is the gold standard for all «X» Tanks. This was the first hull to go into mass production. It is widely used to this day. This is the first generation tank shell. It represents an attempt to reach an effective compromise between armor and maneuverability. The Hunter is good for when you need to fight and do not need to return fire.",
+				"isInvertTracksDirection":true,
+				"icon":"tx",
+				"emissionColor":"65535",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"tx_victory_day",
+				"nameRU":"День Победы (Tanki X)",
+				"nameEN":"Victory Day (Tanki X)",
+				"descriptionRU":"«Хантер» — точка отсчета для всех танков «Х». Это первый корпус, который пошел в массовое производство. Он повсеместно применяется по сей день. Это корпус танков первой волны, попытка достигнуть эффективного компромисса между бронированностью и маневренностью. «Хантер» появляется там, где нужно сражаться, а не отстреливаться.",
+				"descriptionEN":"The Hunter is the gold standard for all «X» Tanks. This was the first hull to go into mass production. It is widely used to this day. This is the first generation tank shell. It represents an attempt to reach an effective compromise between armor and maneuverability. The Hunter is good for when you need to fight and do not need to return fire.",
+				"icon":"tx",
+				"emissionColor":"4521983",
+				"emissionColorThreshold":"0.4"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"heat_resistance",
+				"nameRU":"Защита от поджога",
+				"nameEN":"Heat Resistance",
+				"descriptionRU":"Устройство﻿ частично защищает от поджога. Танк с этим устройством ﻿тяжелее поджечь и он получает сниженный урон от горения. Однако прямой урон Огнемёта не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the damage and effect of heat, making it harder to burn. Does not affect direct damage from Firebird."
+			},
+			{
+				"id":"cold_resistance",
+				"nameRU":"Защита от заморозки",
+				"nameEN":"Cold Resistance",
+				"descriptionRU":"Устройство﻿ ﻿частично защищает от заморозки. Танк с этим устройством тяжелее заморозить. Однако урон Фриза не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the effect of cold, making it harder to slow down. Does not affect direct damage from Freeze."
+			},
+			{
+				"id":"lightweight_construction",
+				"nameRU":"Облегчение конструкции",
+				"nameEN":"Lightweight Construction",
+				"descriptionRU":"Устройство﻿﻿ значительно снижает массу корпуса. Никакого практического применения в бою это устройство не имеет, но, возможно, взлетать в воздух от каждой мины по-﻿своему﻿ интересно.",
+				"descriptionEN":"Significantly decreases your hull's weight. While not particularly useful in a combat scenario, creative tankers might want to take advantage of this feature for \"unconventional\" tank stunts."
+			},
+			{
+				"id":"heavyweight_construction",
+				"nameRU":"Утяжеление конструкции",
+				"nameEN":"Heavyweight Construction",
+				"descriptionRU":"Устройство﻿ значительно повышает массу корпуса. Любое попадание или толчок будут меньше сбивать танк с курса. Разгонные характеристики﻿ заметно ослабевают, но толкать другие танки становится проще.",
+				"descriptionEN":"Significantly increases your hull's weight, making it more resistant to pushback. Acceleration may be affected, but the added momentum has useful applications for ramming tanks."
+			},
+			{
+				"id":"heat_immunity",
+				"nameRU":"Иммунитет от поджога",
+				"nameEN":"Heat Immunity",
+				"descriptionRU":"Устройство﻿﻿﻿﻿ полностью защищает от горения. Танк с этим устройством не получает урон от горения.﻿ Однако Огнемёт всё ещё может наносить прямой урон танку с таким ﻿устройством.",
+				"descriptionEN":"Makes your tank immune to heat damage, such as that inflicted by Vulcan's overheating, or the persistent burn after-effect from Firebird. However, Firebird will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"cold_immunity",
+				"nameRU":"Иммунитет от заморозки",
+				"nameEN":"Cold Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает﻿ от заморозки. Танк с этим устройством не замедляется. Однако Фриз всё ещё может наносить урон танку с таким устройством.",
+				"descriptionEN":"Makes your tank immune to the slow-down effects of cold, such as that inflicted by the Freeze turret. However, Freeze will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"stun_immunity",
+				"nameRU":"Иммунитет от оглушения",
+				"nameEN":"Stun Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает от оглушения. Танк с этим устройством невозможно временно обездвижить. Оглушение редко встречается в битвах﻿﻿, но иногда защита от него может оказаться решающей.",
+				"descriptionEN":"Makes your tank immune to stun effects, preventing your enemies from immobilizing you. While stuns are rare, protection from them could be decisive at a crucial moment."
+			},
+			{
+				"id":"extreme_lightweight_construction",
+				"nameRU":"Экстремальное облегчение",
+				"nameEN":"Extreme Lightweight Construction",
+				"descriptionRU":"Внимание! Это устройство экстремально снижает массу корпуса, делая его максимально восприимчивым к любому физическому воздействию. В боевых условиях не эффективно. Применять с осторожностью на свой страх и риск!",
+				"descriptionEN":"Caution! This augment tremendously decreases the hull's weight, making it maximally susceptible to any physical impact. Not effective in combat. Use with caution and at your own risk!"
+			},
+			{
+				"id":"phoenix",
+				"nameRU":"Феникс",
+				"nameEN":"Phoenix",
+				"descriptionRU":"Этого оружия достоин только тот, кто подобно фениксу восставал из пепла вновь и вновь ради достижения своей цели. Секретное устройство. Для его получения нужно заработать 5 000 000 очков репутации на корпусе Хантер.",
+				"descriptionEN":"Only tankers who keep rising like a phoenix from the ashes again and again to achieve their goal deserves this weapon. A secret augment. Earn 5 000 000 reputation points using the Hunter hull to get it."
+			},
+			{
+				"id":"special_protection",
+				"nameRU":"Специальная защита",
+				"nameEN":"Special Protection",
+				"descriptionRU":"Уникальная защита, разработанная для различных мероприятий. Не может быть получена обычными игроками. Благодаря данному устройству, его владелец получает полную защиту от заморозки и горения, а также иммунитет от всех статус-эффектов. Однако это устройство не влияет на прямой урон от пушек.",
+				"descriptionEN":"A special kind of protection that is to be exclusively used in special scenarios... hence the name.\n\nThis augment cannot be purchased and is only used for a limited time during special events. In the TAB menu, the icon is hidden; the wearer will appear to be using no hull augment at all."
+			}
+		]
+	},
+	{
+		"id":"crusader",
+		"nameRU":"Крусейдер",
+		"nameEN":"Crusader",
+		"descriptionRU":"Средний парящий корпус. Отличается хорошей проходимостью и компактным силуэтом.\n\nОвердрайв «Криобластер» формирует снаряд буквально из ничего, охлаждая воздушную влагу, и стреляет огромной бронебойной сосулькой. Попадание такой глыбы льда если и не уничтожает противника сразу, то замораживает по самую башню, превращая его в лёгкую мишень для добивания.\n\nКорпус «Крусейдер» принадлежит к ховертанкам второго поколения. Для создания небольшого, но мощного корпуса с атакующими возможностями была использована масса хитроумных решений. Компактность антиграва второго поколения позволила установить на танк достаточно брони, сохранив приличную скорость.\n\nСтраница корпуса в <a href=\"https://ru.tankiwiki.com/%D0%9A%D1%80%D1%83%D1%81%D0%B5%D0%B9%D0%B4%D0%B5%D1%80\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Medium hovering hull. It is characterized by good passability and a compact silhouette.\n\nIts «Cryo Blaster» overdrive makes a shell from almost nothing by cooling moisture and then shoots a big armor-piercing icicle. After being hit by this chunk of ice, the opponent's tank freezes, making it easy to finish off the tank, if not destroy it.\n\nThe «Crusader» hull belongs to the second generation of hovertanks. To create a compact but powerful hull with attacking possibilities, a lot of ingenious solutions were used. Compactness of the second generation anti-grav allowed engineers to equip enough armor to the tank for it to be a medium hull without decreasing its speed.\n\nMore information about this hull can be found in the <a href=\"https://en.tankiwiki.com/Crusader\" target=\"_blank\"><u>Wiki</u></a>.",
+		"isHover":true,
+		"engineType":"medium_hover",
+		"skins":
+		[
+			{
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard",
+				"emissionColor":"65535",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Уникальный облик ховертанка второго поколения. Тот самый эксклюзивный внешний вид, который отражает бескомпромиссный характер своего владельца. Крусейдер XT открыл новую страницу в истории танкостроения благодаря своим новаторским конструкторским решениям и небывалому уровню качества. Скин изготовлен из особого сплава золота, которое добывается на засекреченных рудниках. Этот сплав придаёт конструкции беспрецедентную долговечность и обеспечивает безупречную управляющую связь с боевой машиной.",
+				"descriptionEN":"Unique appearance of the second generation hovering tank. Reveals a new perspective of tanks.\n\nCrusader XT has opened a new page of history for tank manufacturing by its unique design solutions and unprecedented production quality. That's what it is, an exclusive skin for owners of the exclusive hull.\n\nMade of the special gold alloy extracted from top-secret mines, this elite skin provides longevity and aesthetics to your tank.",
+				"icon":"xt",
+				"emissionColor":"16729344",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"rt",
+				"name":"RT",
+				"descriptionRU":"Этот скин вдохновлён космической тематикой и смело описывает представления людей прошлого о танкостроении будущего. Это идеальный выбор для тех, кто ценит красоту и функциональность. Дугообразные линии не только подчёркивают изящество танка, но и придают ему неповторимый вид. Специальная система подачи криогена через хромированные трубы обеспечит бесперебойную функциональность огромной пушки спереди корпуса. А улучшенные реактивные турбины сделают перемещение корпуса по карте ещё более плавным. Не упустите свой шанс поразить мир своим красивым и мощным танком! Данный скин заставит врага забыть обо всём, что происходит вокруг, сосредоточив его внимание только на внешнем виде танка. Сделайте боевую машину по-настоящему уникальной и победите всех на поле боя.",
+				"descriptionEN":"This skin is inspired by the space theme and boldly depicts beliefs people of the past had about tank building of the future. It is the perfect choice for those who appreciate beauty and functionality.\n\nArced lines not only emphasize the elegance of your tank but also give it a unique look. The special system for supplying cryogen through chrome pipes ensures uninterrupted functionality of the massive gun in front of the hull, and enhanced jet turbines make moving the hull across a map even smoother.\n\nDon't miss your chance to impress the world with your beautiful and powerful tank! This skin will make your enemy forget about everything around them and focus only on your tank's appearance. Make your war machine be truly unique and defeat everyone else on the battlefield.",
+				"icon":"rt",
+				"emissionColor":"65535",
+				"emissionColorThreshold":"0.6"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"heat_resistance",
+				"nameRU":"Защита от поджога",
+				"nameEN":"Heat Resistance",
+				"descriptionRU":"Устройство﻿ частично защищает от поджога. Танк с этим устройством ﻿тяжелее поджечь и он получает сниженный урон от горения. Однако прямой урон Огнемёта не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the damage and effect of heat, making it harder to burn. Does not affect direct damage from Firebird."
+			},
+			{
+				"id":"cold_resistance",
+				"nameRU":"Защита от заморозки",
+				"nameEN":"Cold Resistance",
+				"descriptionRU":"Устройство﻿ ﻿частично защищает от заморозки. Танк с этим устройством тяжелее заморозить. Однако урон Фриза не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the effect of cold, making it harder to slow down. Does not affect direct damage from Freeze."
+			},
+			{
+				"id":"lightweight_construction",
+				"nameRU":"Облегчение конструкции",
+				"nameEN":"Lightweight Construction",
+				"descriptionRU":"Устройство﻿﻿ значительно снижает массу корпуса. Никакого практического применения в бою это устройство не имеет, но, возможно, взлетать в воздух от каждой мины по-﻿своему﻿ интересно.",
+				"descriptionEN":"Significantly decreases your hull's weight. While not particularly useful in a combat scenario, creative tankers might want to take advantage of this feature for \"unconventional\" tank stunts."
+			},
+			{
+				"id":"heavyweight_construction",
+				"nameRU":"Утяжеление конструкции",
+				"nameEN":"Heavyweight Construction",
+				"descriptionRU":"Устройство﻿ значительно повышает массу корпуса. Любое попадание или толчок будут меньше сбивать танк с курса. Разгонные характеристики﻿ заметно ослабевают, но толкать другие танки становится проще.",
+				"descriptionEN":"Significantly increases your hull's weight, making it more resistant to pushback. Acceleration may be affected, but the added momentum has useful applications for ramming tanks."
+			},
+			{
+				"id":"heat_immunity",
+				"nameRU":"Иммунитет от поджога",
+				"nameEN":"Heat Immunity",
+				"descriptionRU":"Устройство﻿﻿﻿﻿ полностью защищает от горения. Танк с этим устройством не получает урон от горения.﻿ Однако Огнемёт всё ещё может наносить прямой урон танку с таким ﻿устройством.",
+				"descriptionEN":"Makes your tank immune to heat damage, such as that inflicted by Vulcan's overheating, or the persistent burn after-effect from Firebird. However, Firebird will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"cold_immunity",
+				"nameRU":"Иммунитет от заморозки",
+				"nameEN":"Cold Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает﻿ от заморозки. Танк с этим устройством не замедляется. Однако Фриз всё ещё может наносить урон танку с таким устройством.",
+				"descriptionEN":"Makes your tank immune to the slow-down effects of cold, such as that inflicted by the Freeze turret. However, Freeze will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"stun_immunity",
+				"nameRU":"Иммунитет от оглушения",
+				"nameEN":"Stun Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает от оглушения. Танк с этим устройством невозможно временно обездвижить. Оглушение редко встречается в битвах﻿﻿, но иногда защита от него может оказаться решающей.",
+				"descriptionEN":"Makes your tank immune to stun effects, preventing your enemies from immobilizing you. While stuns are rare, protection from them could be decisive at a crucial moment."
+			},
+			{
+				"id":"extreme_lightweight_construction",
+				"nameRU":"Экстремальное облегчение",
+				"nameEN":"Extreme Lightweight Construction",
+				"descriptionRU":"Внимание! Это устройство экстремально снижает массу корпуса, делая его максимально восприимчивым к любому физическому воздействию. В боевых условиях не эффективно. Применять с осторожностью на свой страх и риск!",
+				"descriptionEN":"Caution! This augment tremendously decreases the hull's weight, making it maximally susceptible to any physical impact. Not effective in combat. Use with caution and at your own risk!"
+			},
+			{
+				"id":"phoenix",
+				"nameRU":"Феникс",
+				"nameEN":"Phoenix",
+				"descriptionRU":"Этого оружия достоин только тот, кто подобно фениксу восставал из пепла вновь и вновь ради достижения своей цели. Секретное устройство. Для его получения нужно заработать 5 000 000 очков репутации на корпусе Крусейдер.",
+				"descriptionEN":"Only tankers who keep rising like a phoenix from the ashes again and again to achieve their goal deserves this weapon. A secret augment. Earn 5 000 000 reputation points using the Crusader hull to get it."
+			},
+			{
+				"id":"special_protection",
+				"nameRU":"Специальная защита",
+				"nameEN":"Special Protection",
+				"descriptionRU":"Уникальная защита, разработанная для различных мероприятий. Не может быть получена обычными игроками. Благодаря данному устройству, его владелец получает полную защиту от заморозки и горения, а также иммунитет от всех статус-эффектов. Однако это устройство не влияет на прямой урон от пушек.",
+				"descriptionEN":"A special kind of protection that is to be exclusively used in special scenarios... hence the name.\n\nThis augment cannot be purchased and is only used for a limited time during special events. In the TAB menu, the icon is hidden; the wearer will appear to be using no hull augment at all."
+			}
+		]
+	},
+	{
+		"id":"paladin",
+		"nameRU":"Паладин",
+		"nameEN":"Paladin",
+		"descriptionRU":"Средний парящий корпус. Отличается лучшей манёвренностью среди ховертанков.\n\nОвердрайв действует в некотором радиусе вокруг корпуса, поляризуя броню танков. Союзные танки получают иммунитет от определённых статусов и постоянный ремонт. Вражеские танки подавляются негативными статусами.\n\nХовертанк «Паладин» создавался как танк поддержки штурмовых подразделений, в которых критически важно сохранять скорость движения всей боевой группы. В отличие от тяжёлых танков, «Паладин» обладает средним бронированием и использует антигравы второго поколения. Это позволяет ему поспевать даже за лёгкими танками.\n\nСтраница корпуса в <a href=\"https://ru.tankiwiki.com/%D0%9F%D0%B0%D0%BB%D0%B0%D0%B4%D0%B8%D0%BD\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Medium hovering hull. It has the most maneuverability among all hovering hulls.\n\nIts overdrive effect is applied in a range around the hull, polarizing ally tanks' armor. Nearby allies get immunity from some status effects and get continuously healed, while negative status effects get applied to enemy tanks.\n\nThe «Paladin» hovertank was created as a support tank to assist assault groups, for which maintaining the speed of the group is essential. Unlike heavy tanks, Paladin has medium armor and uses second-generation anti-grav engines, allowing it to keep up even with light tanks.\n\nMore information about this hull can be found in the <a href=\"https://en.tankiwiki.com/Paladin\" target=\"_blank\"><u>Wiki</u></a>.",
+		"isHover":true,
+		"engineType":"medium_hover",
+		"skins":
+		[
+			{
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard",
+				"emissionColor":"50943",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Паладин XT — эксклюзивная версия многоцелевого ховертанка. Обладатель этого редкого скина всегда находится в центре внимания. Золотой силуэт рыцаря в передней части танка напоминает о воинственном нраве этого корпуса, ведь, несмотря на внешнюю роскошь, Паладин — это боец.",
+				"descriptionEN":"Paladin XT is an exclusive version of the multipurpose hover tank. Owners of this rare skin are always the focus of attention. The golden knight silhouette in the front of the tank reminds of the warlike status of this hull. Despite the external luxury, Paladin is a special forces fighter.",
+				"icon":"xt",
+				"emissionColor":"16729344",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"name":"RT",
+				"id":"rt",
+				"descriptionRU":"Существует легенда, что эти скины привёз на планету один из танкистов, чей космический корабль потерпел крушение. Ему удалось спастись, добравшись по обломкам корабля до спасательной капсулы. Во время полёта он хватал все артефакты, попадавшиеся на его пути, среди которых оказались эти скины. Они получили название «RetroFuture». Глаз не оторвать, правда?",
+				"descriptionEN":"There is a legend that was brought to the planet by a tanker whose spaceship crashed. He managed to survive by climbing over the spaceship's remains to the escape pod. During his space journey, he was collecting all the artifacts on his way, and these skins were one of them. They were named «RetroFuture». They're very good, aren't they?",
+				"icon":"rt",
+				"emissionColor":"65535",
+				"emissionColorThreshold":"0.6"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"heat_resistance",
+				"nameRU":"Защита от поджога",
+				"nameEN":"Heat Resistance",
+				"descriptionRU":"Устройство﻿ частично защищает от поджога. Танк с этим устройством ﻿тяжелее поджечь и он получает сниженный урон от горения. Однако прямой урон Огнемёта не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the damage and effect of heat, making it harder to burn. Does not affect direct damage from Firebird."
+			},
+			{
+				"id":"cold_resistance",
+				"nameRU":"Защита от заморозки",
+				"nameEN":"Cold Resistance",
+				"descriptionRU":"Устройство﻿ ﻿частично защищает от заморозки. Танк с этим устройством тяжелее заморозить. Однако урон Фриза не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the effect of cold, making it harder to slow down. Does not affect direct damage from Freeze."
+			},
+			{
+				"id":"lightweight_construction",
+				"nameRU":"Облегчение конструкции",
+				"nameEN":"Lightweight Construction",
+				"descriptionRU":"Устройство﻿﻿ значительно снижает массу корпуса. Никакого практического применения в бою это устройство не имеет, но, возможно, взлетать в воздух от каждой мины по-﻿своему﻿ интересно.",
+				"descriptionEN":"Significantly decreases your hull's weight. While not particularly useful in a combat scenario, creative tankers might want to take advantage of this feature for \"unconventional\" tank stunts."
+			},
+			{
+				"id":"heavyweight_construction",
+				"nameRU":"Утяжеление конструкции",
+				"nameEN":"Heavyweight Construction",
+				"descriptionRU":"Устройство﻿ значительно повышает массу корпуса. Любое попадание или толчок будут меньше сбивать танк с курса. Разгонные характеристики﻿ заметно ослабевают, но толкать другие танки становится проще.",
+				"descriptionEN":"Significantly increases your hull's weight, making it more resistant to pushback. Acceleration may be affected, but the added momentum has useful applications for ramming tanks."
+			},
+			{
+				"id":"heat_immunity",
+				"nameRU":"Иммунитет от поджога",
+				"nameEN":"Heat Immunity",
+				"descriptionRU":"Устройство﻿﻿﻿﻿ полностью защищает от горения. Танк с этим устройством не получает урон от горения.﻿ Однако Огнемёт всё ещё может наносить прямой урон танку с таким ﻿устройством.",
+				"descriptionEN":"Makes your tank immune to heat damage, such as that inflicted by Vulcan's overheating, or the persistent burn after-effect from Firebird. However, Firebird will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"cold_immunity",
+				"nameRU":"Иммунитет от заморозки",
+				"nameEN":"Cold Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает﻿ от заморозки. Танк с этим устройством не замедляется. Однако Фриз всё ещё может наносить урон танку с таким устройством.",
+				"descriptionEN":"Makes your tank immune to the slow-down effects of cold, such as that inflicted by the Freeze turret. However, Freeze will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"stun_immunity",
+				"nameRU":"Иммунитет от оглушения",
+				"nameEN":"Stun Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает от оглушения. Танк с этим устройством невозможно временно обездвижить. Оглушение редко встречается в битвах﻿﻿, но иногда защита от него может оказаться решающей.",
+				"descriptionEN":"Makes your tank immune to stun effects, preventing your enemies from immobilizing you. While stuns are rare, protection from them could be decisive at a crucial moment."
+			},
+			{
+				"id":"extreme_lightweight_construction",
+				"nameRU":"Экстремальное облегчение",
+				"nameEN":"Extreme Lightweight Construction",
+				"descriptionRU":"Внимание! Это устройство экстремально снижает массу корпуса, делая его максимально восприимчивым к любому физическому воздействию. В боевых условиях не эффективно. Применять с осторожностью на свой страх и риск!",
+				"descriptionEN":"Caution! This augment tremendously decreases the hull's weight, making it maximally susceptible to any physical impact. Not effective in combat. Use with caution and at your own risk!"
+			},
+			{
+				"id":"phoenix",
+				"nameRU":"Феникс",
+				"nameEN":"Phoenix",
+				"descriptionRU":"Этого оружия достоин только тот, кто подобно фениксу восставал из пепла вновь и вновь ради достижения своей цели. Секретное устройство. Для его получения нужно заработать 5 000 000 очков репутации на корпусе Паладин.",
+				"descriptionEN":"Only tankers who keep rising like a phoenix from the ashes again and again to achieve their goal deserves this weapon. A secret augment. Earn 5 000 000 reputation points using the Paladin hull to get it."
+			},
+			{
+				"id":"special_protection",
+				"nameRU":"Специальная защита",
+				"nameEN":"Special Protection",
+				"descriptionRU":"Уникальная защита, разработанная для различных мероприятий. Не может быть получена обычными игроками. Благодаря данному устройству, его владелец получает полную защиту от заморозки и горения, а также иммунитет от всех статус-эффектов. Однако это устройство не влияет на прямой урон от пушек.",
+				"descriptionEN":"A special kind of protection that is to be exclusively used in special scenarios... hence the name.\n\nThis augment cannot be purchased and is only used for a limited time during special events. In the TAB menu, the icon is hidden; the wearer will appear to be using no hull augment at all."
+			}
+		]
+	},
+	{
+		"id":"dictator",
+		"nameRU":"Диктатор",
+		"nameEN":"Dictator",
+		"descriptionRU":"Средний гусеничный корпус. Очень тяжёлый и устойчивый для среднего танка. Отличается увеличенными габаритами.\n\nОвердрайв активирует эффекты всех припасов для собственного танка и ближайших союзников, даёт временный эффект «Суперзаряд», а также замораживает противников поблизости.\n\nБлагодаря усовершенствованной системе активной защиты и применению новейших композитных материалов, данный корпус эффективно поглощает энергию взрыва снаряда любого калибра, оставаясь при этом в классе средних танков. Обладатель такого корпуса может смело вести товарищей в атаку, принимая основной удар на себя.\n\nСтраница корпуса в <a href=\"https://ru.tankiwiki.com/%D0%94%D0%B8%D0%BA%D1%82%D0%B0%D1%82%D0%BE%D1%80\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Medium tracked hull. It is very heavy and strong for a medium tank and is also known for its increased dimensions.\n\nIts overdrive activates the effect of all supplies for itself and all nearby allies, applies the «Supercharge» status effect, and freezes enemies around.\n\nThanks to an improved system of active protection and the latest composite material used in its construction, this hull successfully absorbs the energy of explosions from rounds of any caliber, while still remaining a medium hull. The owner of such a hull can easily lead the team into a full assault, taking the brunt of the attack.\n\nMore information about this hull can be found in the <a href=\"https://en.tankiwiki.com/Dictator\" target=\"_blank\"><u>Wiki</u></a>.",
+		"engineType":"medium",
+		"skins":
+		[
+			{
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"isInvertTracksDirection":true,
+				"icon":"standard",
+				"emissionColor":"131071",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"hd_without_side_armor",
+				"nameRU":"Стандартные настройки (без боковой защиты)",
+				"nameEN":"Standard settings (without side armor)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"isInvertTracksDirection":true,
+				"icon":"standard",
+				"emissionColor":"131071",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"m0",
+				"name":"M0",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1",
+				"name":"M1",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2",
+				"name":"M2",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3",
+				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Экипируйте элитный Диктатор XT, и вы легко сможете повести за собой команду, прикрыть союзников, и ничто не ускользнёт от вашего зоркого взгляда. Сияние золотых крыльев по бокам корпуса заметно за километр.",
+				"descriptionEN":"Equip the elite Dictator XT and you will easily lead the charge for your team, cover your allies, and nothing will hide from your keen sight. The shine of golden wings on the sides of the hull can be seen from a mile away!",
+				"icon":"xt"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Кто из олдов не любит этот корпус? Легендарные ДикоРельсы до сих пор остаются в памяти тысяч игроков. А новички, увидев идеальное сочетание пропорций, с удовольствием примерят этот скин на себя. Ведь он заряжен скиллом на 100%!",
+				"descriptionEN":"Who among the old players doesn't like this hull? The legendary Dictator Railgun combo is still fondly remembered by thousands of players. When newcomers see this perfect combination of proportions, they are happy to try this skin on themselves because it is 100% loaded with skill!",
+				"icon":"lc"
+			},
+			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Этот колёсный вездеход поможет покорить вам все танковые просторы! Двухосевые передние колёса добавляют танку устойчивости и манёвренности, карбоновые дуги — прочности, при любом столкновении вы окажетесь в выигрыше. Задний спойлер сделан по чертежам гоночных болидов, поэтому скорости этому скину тоже не занимать. Мало того, что внешний вид не оставит никого равнодушным, так ещё и технические характеристики самого корпуса сделают танк грозой всех битв!",
+				"descriptionEN":"This wheel rover will help you to conqeur all Tanki expanses! Biaxial front wheels add sustainability and maneuverability to your tank, while carbon arcs add strength. Thus in any collision you will probably win. The back spoiler is inspired by schematics of racing cars, making your tank a beast of speed. Not only will the appearance not leave anyone indifferent, but also the technical characteristics of this hull will make the tank a thunderstorm in battle!",
+				"icon":"gt",
+				"emissionColor":"15763456",
+				"emissionColorSecond":"196607",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"xt_fake",
+				"nameRU":"XT (неофициальный)",
+				"nameEN":"XT (unofficial)",
+				"description":"TODO",
+				"icon":"xt"
+			},
+			{
+				"id":"pr_fake",
+				"nameRU":"Prime (неофициальный)",
+				"nameEN":"Prime (unofficial)",
+				"description":"TODO",
+				"icon":"pr",
+				"emissionColor":"14910519",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"tx_dreadnought",
+				"nameRU":"Дредноут (Tanki X)",
+				"nameEN":"Dreadnought (Tanki X)",
+				"descriptionRU":"Когда «Антей» перевел войну в стадию доминирования и удержания территорий, на заводах стал производиться «Диктатор». Многослойное покрытие кристаллическими сплавами и солидные габариты дают себя заметить. Танку с таким корпусом нужно только одно — вызвать удар на себя и ответить.",
+				"descriptionEN":"When Antaeus transformed the war into a struggle to dominate and hold territory, its plants began to produce the Dictator. Its multi-layer armor made of crystalline alloys and solid dimensions make Dictator noticed. A tank with this kind of hull needs only one thing: the ability to sustain impacts and return fire.",
+				"isInvertTracksDirection":true,
+				"icon":"tx",
+				"emissionColor":"4521983",
+				"emissionColorThreshold":"0.4"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"heat_resistance",
+				"nameRU":"Защита от поджога",
+				"nameEN":"Heat Resistance",
+				"descriptionRU":"Устройство﻿ частично защищает от поджога. Танк с этим устройством ﻿тяжелее поджечь и он получает сниженный урон от горения. Однако прямой урон Огнемёта не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the damage and effect of heat, making it harder to burn. Does not affect direct damage from Firebird."
+			},
+			{
+				"id":"cold_resistance",
+				"nameRU":"Защита от заморозки",
+				"nameEN":"Cold Resistance",
+				"descriptionRU":"Устройство﻿ ﻿частично защищает от заморозки. Танк с этим устройством тяжелее заморозить. Однако урон Фриза не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the effect of cold, making it harder to slow down. Does not affect direct damage from Freeze."
+			},
+			{
+				"id":"lightweight_construction",
+				"nameRU":"Облегчение конструкции",
+				"nameEN":"Lightweight Construction",
+				"descriptionRU":"Устройство﻿﻿ значительно снижает массу корпуса. Никакого практического применения в бою это устройство не имеет, но, возможно, взлетать в воздух от каждой мины по-﻿своему﻿ интересно.",
+				"descriptionEN":"Significantly decreases your hull's weight. While not particularly useful in a combat scenario, creative tankers might want to take advantage of this feature for \"unconventional\" tank stunts."
+			},
+			{
+				"id":"heavyweight_construction",
+				"nameRU":"Утяжеление конструкции",
+				"nameEN":"Heavyweight Construction",
+				"descriptionRU":"Устройство﻿ значительно повышает массу корпуса. Любое попадание или толчок будут меньше сбивать танк с курса. Разгонные характеристики﻿ заметно ослабевают, но толкать другие танки становится проще.",
+				"descriptionEN":"Significantly increases your hull's weight, making it more resistant to pushback. Acceleration may be affected, but the added momentum has useful applications for ramming tanks."
+			},
+			{
+				"id":"heat_immunity",
+				"nameRU":"Иммунитет от поджога",
+				"nameEN":"Heat Immunity",
+				"descriptionRU":"Устройство﻿﻿﻿﻿ полностью защищает от горения. Танк с этим устройством не получает урон от горения.﻿ Однако Огнемёт всё ещё может наносить прямой урон танку с таким ﻿устройством.",
+				"descriptionEN":"Makes your tank immune to heat damage, such as that inflicted by Vulcan's overheating, or the persistent burn after-effect from Firebird. However, Firebird will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"cold_immunity",
+				"nameRU":"Иммунитет от заморозки",
+				"nameEN":"Cold Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает﻿ от заморозки. Танк с этим устройством не замедляется. Однако Фриз всё ещё может наносить урон танку с таким устройством.",
+				"descriptionEN":"Makes your tank immune to the slow-down effects of cold, such as that inflicted by the Freeze turret. However, Freeze will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"stun_immunity",
+				"nameRU":"Иммунитет от оглушения",
+				"nameEN":"Stun Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает от оглушения. Танк с этим устройством невозможно временно обездвижить. Оглушение редко встречается в битвах﻿﻿, но иногда защита от него может оказаться решающей.",
+				"descriptionEN":"Makes your tank immune to stun effects, preventing your enemies from immobilizing you. While stuns are rare, protection from them could be decisive at a crucial moment."
+			},
+			{
+				"id":"extreme_lightweight_construction",
+				"nameRU":"Экстремальное облегчение",
+				"nameEN":"Extreme Lightweight Construction",
+				"descriptionRU":"Внимание! Это устройство экстремально снижает массу корпуса, делая его максимально восприимчивым к любому физическому воздействию. В боевых условиях не эффективно. Применять с осторожностью на свой страх и риск!",
+				"descriptionEN":"Caution! This augment tremendously decreases the hull's weight, making it maximally susceptible to any physical impact. Not effective in combat. Use with caution and at your own risk!"
+			},
+			{
+				"id":"phoenix",
+				"nameRU":"Феникс",
+				"nameEN":"Phoenix",
+				"descriptionRU":"Этого оружия достоин только тот, кто подобно фениксу восставал из пепла вновь и вновь ради достижения своей цели. Секретное устройство. Для его получения нужно заработать 5 000 000 очков репутации на корпусе Диктатор.",
+				"descriptionEN":"Only tankers who keep rising like a phoenix from the ashes again and again to achieve their goal deserves this weapon. A secret augment. Earn 5 000 000 reputation points using the Dictator hull to get it."
+			},
+			{
+				"id":"special_protection",
+				"nameRU":"Специальная защита",
+				"nameEN":"Special Protection",
+				"descriptionRU":"Уникальная защита, разработанная для различных мероприятий. Не может быть получена обычными игроками. Благодаря данному устройству, его владелец получает полную защиту от заморозки и горения, а также иммунитет от всех статус-эффектов. Однако это устройство не влияет на прямой урон от пушек.",
+				"descriptionEN":"A special kind of protection that is to be exclusively used in special scenarios... hence the name.\n\nThis augment cannot be purchased and is only used for a limited time during special events. In the TAB menu, the icon is hidden; the wearer will appear to be using no hull augment at all."
+			}
+		]
+	},
+	{
+		"id":"ares",
+		"nameRU":"Арес",
+		"nameEN":"Ares",
+		"descriptionRU":"Тяжёлый парящий корпус. Сохраняет устойчивость даже при движении под обстрелом.\n\nМощнейшая BFG-пушка вмонтирована прямо в корпус «Ареса». Овердрайв стреляет особым энергетическим снарядом, который атакует молниями вражеские танки и восстанавливает союзников.\n\nХовертанк «Арес» стал первым корпусом с антигравитационной установкой. Внушительная масса и габариты антигравов первого поколения предопределили попадание «Ареса» в категорию «тяжеловесов». Чтобы перевернуть этот ховертанк в бою, нужно ну очень постараться.\n\nСтраница корпуса в <a href=\"https://ru.tankiwiki.com/%D0%90%D1%80%D0%B5%D1%81\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Heavy hovering hull. It remains stable even while driving under fire.\n\nThe most powerful «BFG Cannon» is built directly into the «Ares» hull. This overdrive shoots a special ball of plasma that attacks enemy tanks with lightning and heals allies.\n\nThe hovertank «Ares» became the first hull with an anti-gravity feature. Its impressive weight and proportions of the first-generation anti-gravs led to the entry of «Ares» into the heavy hulls category. To flip this hovertank in a battle, you need to try really hard.\n\nMore information about this hull can be found in the <a href=\"https://en.tankiwiki.com/Ares\" target=\"_blank\"><u>Wiki</u></a>.",
+		"isHover":true,
+		"engineType":"heavy_hover",
+		"skins":
+		[
+			{
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard",
+				"emissionColor":"16643843",
+				"emissionColorSecond":"16776970",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"m0_prototype",
+				"nameRU":"M0 (прототип)",
+				"nameEN":"M0 (prototype)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_prototype",
+				"nameRU":"M1 (прототип)",
+				"nameEN":"M1 (prototype)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_prototype",
+				"nameRU":"M2 (прототип)",
+				"nameEN":"M2 (prototype)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_prototype",
+				"nameRU":"M3 (прототип)",
+				"nameEN":"M3 (prototype)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"emissionColor":"65535",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"prototype",
+				"nameRU":"(прототип)",
+				"nameEN":"(prototype)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Легендарный парящий корпус в особом облике! При создании элитного XT-скина для Ареса были применены новейшие технологии, неизвестный сплав с засекреченным химическим составом и очень много чистейшего золота — всё ради эксклюзивности и элегантности. Как правило, обладатели элитного Ареса XT — очень занятые танкисты, которые не любят, когда их тревожат. Так что если посчастливится встретить их в бою — фотографируйте издали и не забудьте отключить вспышку.",
+				"descriptionEN":"A legendary hovering hull in a very special appearance! In the creation of this elite XT skin for Ares, the latest technology, an unknown alloy with classified chemical composition, and a lot of pure gold were used in order to make this skin even more exclusive and elegant. As a general rule, owners of this elite Ares XT skin are busy tankers who don't like being disturbed. If you see one of them in a battle, take a picture from a distance and don't use flash!",
+				"icon":"xt"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"heat_resistance",
+				"nameRU":"Защита от поджога",
+				"nameEN":"Heat Resistance",
+				"descriptionRU":"Устройство﻿ частично защищает от поджога. Танк с этим устройством ﻿тяжелее поджечь и он получает сниженный урон от горения. Однако прямой урон Огнемёта не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the damage and effect of heat, making it harder to burn. Does not affect direct damage from Firebird."
+			},
+			{
+				"id":"cold_resistance",
+				"nameRU":"Защита от заморозки",
+				"nameEN":"Cold Resistance",
+				"descriptionRU":"Устройство﻿ ﻿частично защищает от заморозки. Танк с этим устройством тяжелее заморозить. Однако урон Фриза не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the effect of cold, making it harder to slow down. Does not affect direct damage from Freeze."
+			},
+			{
+				"id":"lightweight_construction",
+				"nameRU":"Облегчение конструкции",
+				"nameEN":"Lightweight Construction",
+				"descriptionRU":"Устройство﻿﻿ значительно снижает массу корпуса. Никакого практического применения в бою это устройство не имеет, но, возможно, взлетать в воздух от каждой мины по-﻿своему﻿ интересно.",
+				"descriptionEN":"Significantly decreases your hull's weight. While not particularly useful in a combat scenario, creative tankers might want to take advantage of this feature for \"unconventional\" tank stunts."
+			},
+			{
+				"id":"heavyweight_construction",
+				"nameRU":"Утяжеление конструкции",
+				"nameEN":"Heavyweight Construction",
+				"descriptionRU":"Устройство﻿ значительно повышает массу корпуса. Любое попадание или толчок будут меньше сбивать танк с курса. Разгонные характеристики﻿ заметно ослабевают, но толкать другие танки становится проще.",
+				"descriptionEN":"Significantly increases your hull's weight, making it more resistant to pushback. Acceleration may be affected, but the added momentum has useful applications for ramming tanks."
+			},
+			{
+				"id":"heat_immunity",
+				"nameRU":"Иммунитет от поджога",
+				"nameEN":"Heat Immunity",
+				"descriptionRU":"Устройство﻿﻿﻿﻿ полностью защищает от горения. Танк с этим устройством не получает урон от горения.﻿ Однако Огнемёт всё ещё может наносить прямой урон танку с таким ﻿устройством.",
+				"descriptionEN":"Makes your tank immune to heat damage, such as that inflicted by Vulcan's overheating, or the persistent burn after-effect from Firebird. However, Firebird will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"cold_immunity",
+				"nameRU":"Иммунитет от заморозки",
+				"nameEN":"Cold Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает﻿ от заморозки. Танк с этим устройством не замедляется. Однако Фриз всё ещё может наносить урон танку с таким устройством.",
+				"descriptionEN":"Makes your tank immune to the slow-down effects of cold, such as that inflicted by the Freeze turret. However, Freeze will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"stun_immunity",
+				"nameRU":"Иммунитет от оглушения",
+				"nameEN":"Stun Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает от оглушения. Танк с этим устройством невозможно временно обездвижить. Оглушение редко встречается в битвах﻿﻿, но иногда защита от него может оказаться решающей.",
+				"descriptionEN":"Makes your tank immune to stun effects, preventing your enemies from immobilizing you. While stuns are rare, protection from them could be decisive at a crucial moment."
+			},
+			{
+				"id":"extreme_lightweight_construction",
+				"nameRU":"Экстремальное облегчение",
+				"nameEN":"Extreme Lightweight Construction",
+				"descriptionRU":"Внимание! Это устройство экстремально снижает массу корпуса, делая его максимально восприимчивым к любому физическому воздействию. В боевых условиях не эффективно. Применять с осторожностью на свой страх и риск!",
+				"descriptionEN":"Caution! This augment tremendously decreases the hull's weight, making it maximally susceptible to any physical impact. Not effective in combat. Use with caution and at your own risk!"
+			},
+			{
+				"id":"phoenix",
+				"nameRU":"Феникс",
+				"nameEN":"Phoenix",
+				"descriptionRU":"Этого оружия достоин только тот, кто подобно фениксу восставал из пепла вновь и вновь ради достижения своей цели. Секретное устройство. Для его получения нужно заработать 5 000 000 очков репутации на корпусе Арес.",
+				"descriptionEN":"Only tankers who keep rising like a phoenix from the ashes again and again to achieve their goal deserves this weapon. A secret augment. Earn 5 000 000 reputation points using the Ares hull to get it."
+			},
+			{
+				"id":"special_protection",
+				"nameRU":"Специальная защита",
+				"nameEN":"Special Protection",
+				"descriptionRU":"Уникальная защита, разработанная для различных мероприятий. Не может быть получена обычными игроками. Благодаря данному устройству, его владелец получает полную защиту от заморозки и горения, а также иммунитет от всех статус-эффектов. Однако это устройство не влияет на прямой урон от пушек.",
+				"descriptionEN":"A special kind of protection that is to be exclusively used in special scenarios... hence the name.\n\nThis augment cannot be purchased and is only used for a limited time during special events. In the TAB menu, the icon is hidden; the wearer will appear to be using no hull augment at all."
+			}
+		]
+	},
+	{
+		"id":"titan",
+		"nameRU":"Титан",
+		"nameEN":"Titan",
+		"descriptionRU":"Тяжёлый гусеничный корпус. От других тяжёлых танков отличается компактными габаритами и улучшенной динамикой разгона.\n\nКорпус «Титан» устанавливает генератор защитного купола при запуске овердрайва. Купол значительно снижает урон всех союзных танков и обеспечивает постепенный ремонт. Противник может выключить купол, атакуя генератор специальными атаками, например, другими овердрайвами.\n\nТяжёлый корпус для самых нелёгких задач обороны. Броня из сверхпрочного титанового сплава вкупе с грамотно спроектированной геометрией позволяет «Титану» отлично противостоять даже крупнокалиберным пушкам. Танкист на этом корпусе может без раздумий отправляться в самое пекло.\n\nСтраница корпуса в <a href=\"https://ru.tankiwiki.com/%D0%A2%D0%B8%D1%82%D0%B0%D0%BD\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Heavy tracked hull. Its compact dimensions and improved acceleration dynamics distinguish it from other heavy tanks.\n\nThe «Titan» hull places a protective dome generator on overdrive activation. The dome significantly reduces incoming damage for all allied tanks and gradually repairs them. An opponent can deactivate the dome by attacking the generator using special attacks like other overdrives.\n\nHeavy hull for the hardest defense duties. Armor from the strongest titanium alloy combined with a perfect structure and geometry make «Titan» a perfect shield from even big caliber turrets. Tankers with this hull can drive straight into hell.\n\nMore information about this hull can be found in the <a href=\"https://en.tankiwiki.com/Titan\" target=\"_blank\"><u>Wiki</u></a>.",
+		"engineType":"heavy",
+		"skins":
+		[
+			{
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"isInvertTracksDirection":true,
+				"icon":"standard",
+				"emissionColor":"913906",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"hd_without_side_armor",
+				"nameRU":"Стандартные настройки (без боковой защиты)",
+				"nameEN":"Standard settings (without side armor)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"isInvertTracksDirection":true,
+				"icon":"standard",
+				"emissionColor":"913906",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"m0",
+				"name":"M0",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1",
+				"name":"M1",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2",
+				"name":"M2",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3",
+				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Мифический XT-скин для Титана олицетворяет выносливость и несокрушимость этого корпуса. Скин придаёт своему обладателю по-настоящему титаническую силу. Враги, трепещите!",
+				"descriptionEN":"Mythical XT-skin for Titan that personifies tenacity and the unbreakable will of the hull. This skin also grants its owner a truly titanic strength. Enemies, you better watch out!",
+				"icon":"xt"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Мощный, не замечающий преград на своём пути Титан Legacy проторит своему владельцу путь в ТОП команды. А старая графика придаёт ему особый шарм!",
+				"descriptionEN":"A powerful skin for those who see no obstacles on their path to victory. Titan Legacy will pave the way to the top teams for its owner. In addition, the old graphics give it a special charm.",
+				"icon":"lc"
+			},
+			{
+				"id":"pr",
+				"name":"Prime",
+				"descriptionRU":"Скин Prime отражает устойчивость и силу Титана в бою.",
+				"descriptionEN":"Titan by name and reputation, this hull now has its very own Prime skin, reflecting its resilience and power in battle.",
+				"icon":"pr",
+				"emissionColor":"3308733",
+				"emissionColorSecond":"12676397",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"sp",
+				"name":"SP",
+				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным. \n\nУчёные со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберёте на себе тысячи восхищённых взглядов. \n\nБронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид. \n\nСочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
+				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artefacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. \n\nBronze plates made of the rarest alloy will make your tank look powerful and fearsome. \n\nThe combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
+				"isInvertTracksDirection":true,
+				"icon":"sp",
+				"emissionColor":"913906",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"xt_fake",
+				"nameRU":"XT (неофициальный)",
+				"nameEN":"XT (unofficial)",
+				"description":"TODO",
+				"icon":"xt"
+			},
+			{
+				"id":"tx_xt",
+				"name":"XT (Tanki X)",
+				"descriptionRU":"Технологический прорыв родом из лабораторий «Фронтира». Служит главным компонентом танков для вторжения. «Титаны» приходят в раскрученную мясорубку боя, чтобы стать той костью, которая её остановит. Обогащённый кристаллами титановый сплав — гарантия того, что этот корпус остудит пекло сражения и выживет сам.",
+				"descriptionEN":"This technological breakthrough comes from the Frontier laboratories. It can serve as the main component outfitting an invasion force of tanks. Titans are sent into the meat-grinding mayhem of conflicts in order to turn the tide of battle. The titanium alloy enriched with crystals guarantees that the hull can remain cool through the scorching heat of battle and survive.",
+				"icon":"tx",
+				"emissionColor":"65535",
+				"emissionColorThreshold":"0.6"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"heat_resistance",
+				"nameRU":"Защита от поджога",
+				"nameEN":"Heat Resistance",
+				"descriptionRU":"Устройство﻿ частично защищает от поджога. Танк с этим устройством ﻿тяжелее поджечь и он получает сниженный урон от горения. Однако прямой урон Огнемёта не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the damage and effect of heat, making it harder to burn. Does not affect direct damage from Firebird."
+			},
+			{
+				"id":"cold_resistance",
+				"nameRU":"Защита от заморозки",
+				"nameEN":"Cold Resistance",
+				"descriptionRU":"Устройство﻿ ﻿частично защищает от заморозки. Танк с этим устройством тяжелее заморозить. Однако урон Фриза не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the effect of cold, making it harder to slow down. Does not affect direct damage from Freeze."
+			},
+			{
+				"id":"lightweight_construction",
+				"nameRU":"Облегчение конструкции",
+				"nameEN":"Lightweight Construction",
+				"descriptionRU":"Устройство﻿﻿ значительно снижает массу корпуса. Никакого практического применения в бою это устройство не имеет, но, возможно, взлетать в воздух от каждой мины по-﻿своему﻿ интересно.",
+				"descriptionEN":"Significantly decreases your hull's weight. While not particularly useful in a combat scenario, creative tankers might want to take advantage of this feature for \"unconventional\" tank stunts."
+			},
+			{
+				"id":"heavyweight_construction",
+				"nameRU":"Утяжеление конструкции",
+				"nameEN":"Heavyweight Construction",
+				"descriptionRU":"Устройство﻿ значительно повышает массу корпуса. Любое попадание или толчок будут меньше сбивать танк с курса. Разгонные характеристики﻿ заметно ослабевают, но толкать другие танки становится проще.",
+				"descriptionEN":"Significantly increases your hull's weight, making it more resistant to pushback. Acceleration may be affected, but the added momentum has useful applications for ramming tanks."
+			},
+			{
+				"id":"heat_immunity",
+				"nameRU":"Иммунитет от поджога",
+				"nameEN":"Heat Immunity",
+				"descriptionRU":"Устройство﻿﻿﻿﻿ полностью защищает от горения. Танк с этим устройством не получает урон от горения.﻿ Однако Огнемёт всё ещё может наносить прямой урон танку с таким ﻿устройством.",
+				"descriptionEN":"Makes your tank immune to heat damage, such as that inflicted by Vulcan's overheating, or the persistent burn after-effect from Firebird. However, Firebird will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"cold_immunity",
+				"nameRU":"Иммунитет от заморозки",
+				"nameEN":"Cold Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает﻿ от заморозки. Танк с этим устройством не замедляется. Однако Фриз всё ещё может наносить урон танку с таким устройством.",
+				"descriptionEN":"Makes your tank immune to the slow-down effects of cold, such as that inflicted by the Freeze turret. However, Freeze will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"stun_immunity",
+				"nameRU":"Иммунитет от оглушения",
+				"nameEN":"Stun Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает от оглушения. Танк с этим устройством невозможно временно обездвижить. Оглушение редко встречается в битвах﻿﻿, но иногда защита от него может оказаться решающей.",
+				"descriptionEN":"Makes your tank immune to stun effects, preventing your enemies from immobilizing you. While stuns are rare, protection from them could be decisive at a crucial moment."
+			},
+			{
+				"id":"extreme_lightweight_construction",
+				"nameRU":"Экстремальное облегчение",
+				"nameEN":"Extreme Lightweight Construction",
+				"descriptionRU":"Внимание! Это устройство экстремально снижает массу корпуса, делая его максимально восприимчивым к любому физическому воздействию. В боевых условиях не эффективно. Применять с осторожностью на свой страх и риск!",
+				"descriptionEN":"Caution! This augment tremendously decreases the hull's weight, making it maximally susceptible to any physical impact. Not effective in combat. Use with caution and at your own risk!"
+			},
+			{
+				"id":"phoenix",
+				"nameRU":"Феникс",
+				"nameEN":"Phoenix",
+				"descriptionRU":"Этого оружия достоин только тот, кто подобно фениксу восставал из пепла вновь и вновь ради достижения своей цели. Секретное устройство. Для его получения нужно заработать 5 000 000 очков репутации на корпусе Титан.",
+				"descriptionEN":"Only tankers who keep rising like a phoenix from the ashes again and again to achieve their goal deserves this weapon. A secret augment. Earn 5 000 000 reputation points using the Titan hull to get it."
+			},
+			{
+				"id":"special_protection",
+				"nameRU":"Специальная защита",
+				"nameEN":"Special Protection",
+				"descriptionRU":"Уникальная защита, разработанная для различных мероприятий. Не может быть получена обычными игроками. Благодаря данному устройству, его владелец получает полную защиту от заморозки и горения, а также иммунитет от всех статус-эффектов. Однако это устройство не влияет на прямой урон от пушек.",
+				"descriptionEN":"A special kind of protection that is to be exclusively used in special scenarios... hence the name.\n\nThis augment cannot be purchased and is only used for a limited time during special events. In the TAB menu, the icon is hidden; the wearer will appear to be using no hull augment at all."
+			}
+		]
+	},
+	{
+		"id":"mammoth",
+		"nameRU":"Мамонт",
+		"nameEN":"Mammoth",
+		"descriptionRU":"Тяжёлый гусеничный корпус. Максимум брони, массы и устойчивости.\n\nОвердрайв корпуса «Мамонт» даёт корпусу значительное ускорение, моментальный ремонт и позволяет буквально давить вражеские танки и уничтожать мины на своём пути.\n\nСамоходная крепость на гусеничном ходу. Флагман среди танковых корпусов. Цельнолитой, тяжёлый, упрочнённый супербетоном, имеет низкую скорость, что не мешает ему с успехом противостоять одновременно нескольким вражеским орудиям. Остановить его невозможно, даже если преградить ему дорогу танками. Они просто сгорят под траками этого монстра.\n\nСтраница корпуса в <a href=\"https://ru.tankiwiki.com/%D0%9C%D0%B0%D0%BC%D0%BE%D0%BD%D1%82\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Heavy tracked hull. It has the most armor, mass, and stability.\n\nOverdrive of the «Mammoth» hull boosts its speed, instantly repairs it, and gives it a deadly touch that crushes enemy tanks and destroys mines along the way.\n\nA moving fortress on tracks. Flagship among the heavy hulls. Solid piece of heaviness, reinforced by concrete armor, with slow speed, but capable of surviving under the fire of several enemy turrets at once. It is unstoppable — even if you block the road with tanks, they will just burn under this monster’s tracks.\n\nMore information about this hull can be found in the <a href=\"https://en.tankiwiki.com/Mammoth\" target=\"_blank\"><u>Wiki</u></a>.",
+		"engineType":"heavy",
+		"skins":
+		[
+			{
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard",
+				"emissionColor":"913648",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"hd_without_side_armor",
+				"nameRU":"Стандартные настройки (без боковой защиты)",
+				"nameEN":"Standard settings (without side armor)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard",
+				"emissionColor":"913648",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"m0",
+				"name":"M0",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1",
+				"name":"M1",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2",
+				"name":"M2",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3",
+				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Элитный Мамонт XT примечателен своим уникальным внешним видом. Корпус закован в золотые пластины, символизирующие стабильность и огромный запас здоровья этого сверхтяжёлого танка.",
+				"descriptionEN":"This elite Mammoth XT is special due to its unique texture. The hull is covered with additional golden plating that symbolizes the stability and unprecedented protection of this extremely heavy tank.",
+				"icon":"xt",
+				"emissionColor":"12729393",
+				"emissionColorThreshold":"0.3"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Учёные провели раскопки в Барде и нашли хорошо сохранившиеся останки древнего скина для Мамонта. Наши инженеры почистили его, отреставрировали, и теперь этот скин есть в игре под названием Мамонт Legacy.",
+				"descriptionEN":"Archeologists have done excavation work in Barda and found well-preserved remains of an ancient Mammoth skin. Our engineers cleaned it, restored it and released to the game as the Mammoth Legacy skin.",
+				"icon":"lc"
+			},
+			{
+				"id":"ut",
+				"name":"Ultra",
+				"descriptionRU":"Хоть в этом скине Ультра для Мамонта нет ничего доисторического, он сохраняет всю удивительность корпуса, который дал ему имя.",
+				"descriptionEN":"Its appearance resembles a strong wall that can easily fend off any attack on your team’s base. Though there might not be anything prehistoric about Mammoth Ultra, it retains all the splendor of its namesake.",
+				"icon":"ut",
+				"emissionColor":"16775936",
+				"emissionColorSecond":"13268224",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"sp",
+				"name":"SP",
+				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным. \n\nУчёные со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберёте на себе тысячи восхищённых взглядов. \n\nБронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид. \n\nСочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
+				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artefacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. \n\nBronze plates made of the rarest alloy will make your tank look powerful and fearsome. \n\nThe combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
+				"icon":"sp",
+				"emissionColor":"16633877",
+				"emissionColorSecond":"15823378",
+				"emissionColorThreshold":"0.3"
+			},
+			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Для путешествий на большие расстояния всегда лучше использовать колёса. Серия GT скинов для корпусов, которые созданы для самых смелых и решительных игроков. Они идеально подходят для тех, кто хочет выделиться на поле боя и продемонстрировать свою силу и уверенность. Корпуса GT оснащены передовыми технологиями и материалами и имеют уникальный дизайн, который подчёркивает их мощь и красоту.",
+				"descriptionEN":"It is always better to use wheels for long distance travels. The GT series of skins for hulls is designed for the boldest and most determined players. They are perfect for those who want to stand out on the battlefield and demonstrate their strength and confidence. GT hulls are equipped with advanced technologies and materials and have a unique design that emphasizes their power and beauty.",
+				"icon":"gt",
+				"emissionColor":"15559437",
+				"emissionColorSecond":"64510",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"2.0_m3",
+				"name":"M3 (Tanki Online 2.0)",
+				"description":"TODO",
+				"icon":"2.0"
+			},
+			{
+				"id":"tx_m2",
+				"name":"M2 (Tanki X)",
+				"descriptionRU":"«Мамонт» — дитя новой войны и эпохи катастроф. Это ответ на разрушительность стихии и новых видов вооружения. «Мамонт» становится краеугольным камнем любой обороны и точкой отсчета каждого крупного наступления. Ему не нужна скорость или маневренность. Ему нужно держать удар и не уходить с занятых позиций. С этим он всегда справляется.",
+				"descriptionEN":"The Mammoth is the product of a new era of war and disasters. This is the answer to the devastating destructive power of the elements and the new types of weapons that have been introduced. The Mammoth is the cornerstone of any defense and the starting point of every major offensive. It does not need speed or agility. It can take a punch while holding its ground. It will always prevail.",
+				"icon":"tx",
+				"emissionColor":"4186194",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"tx_sp",
+				"nameRU":"Стимпанк (Tanki X)",
+				"nameEN":"Steampunk (Tanki X)",
+				"descriptionRU":"«Мамонт» — дитя новой войны и эпохи катастроф. Это ответ на разрушительность стихии и новых видов вооружения. «Мамонт» становится краеугольным камнем любой обороны и точкой отсчета каждого крупного наступления. Ему не нужна скорость или маневренность. Ему нужно держать удар и не уходить с занятых позиций. С этим он всегда справляется.",
+				"descriptionEN":"The Mammoth is the product of a new era of war and disasters. This is the answer to the devastating destructive power of the elements and the new types of weapons that have been introduced. The Mammoth is the cornerstone of any defense and the starting point of every major offensive. It does not need speed or agility. It can take a punch while holding its ground. It will always prevail.",
+				"icon":"tx",
+				"emissionColor":"4186194",
+				"emissionColorSecond":"7581738",
+				"emissionColorThreshold":"0.4"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"heat_resistance",
+				"nameRU":"Защита от поджога",
+				"nameEN":"Heat Resistance",
+				"descriptionRU":"Устройство﻿ частично защищает от поджога. Танк с этим устройством ﻿тяжелее поджечь и он получает сниженный урон от горения. Однако прямой урон Огнемёта не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the damage and effect of heat, making it harder to burn. Does not affect direct damage from Firebird."
+			},
+			{
+				"id":"cold_resistance",
+				"nameRU":"Защита от заморозки",
+				"nameEN":"Cold Resistance",
+				"descriptionRU":"Устройство﻿ ﻿частично защищает от заморозки. Танк с этим устройством тяжелее заморозить. Однако урон Фриза не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the effect of cold, making it harder to slow down. Does not affect direct damage from Freeze."
+			},
+			{
+				"id":"lightweight_construction",
+				"nameRU":"Облегчение конструкции",
+				"nameEN":"Lightweight Construction",
+				"descriptionRU":"Устройство﻿﻿ значительно снижает массу корпуса. Никакого практического применения в бою это устройство не имеет, но, возможно, взлетать в воздух от каждой мины по-﻿своему﻿ интересно.",
+				"descriptionEN":"Significantly decreases your hull's weight. While not particularly useful in a combat scenario, creative tankers might want to take advantage of this feature for \"unconventional\" tank stunts."
+			},
+			{
+				"id":"heavyweight_construction",
+				"nameRU":"Утяжеление конструкции",
+				"nameEN":"Heavyweight Construction",
+				"descriptionRU":"Устройство﻿ значительно повышает массу корпуса. Любое попадание или толчок будут меньше сбивать танк с курса. Разгонные характеристики﻿ заметно ослабевают, но толкать другие танки становится проще.",
+				"descriptionEN":"Significantly increases your hull's weight, making it more resistant to pushback. Acceleration may be affected, but the added momentum has useful applications for ramming tanks."
+			},
+			{
+				"id":"heat_immunity",
+				"nameRU":"Иммунитет от поджога",
+				"nameEN":"Heat Immunity",
+				"descriptionRU":"Устройство﻿﻿﻿﻿ полностью защищает от горения. Танк с этим устройством не получает урон от горения.﻿ Однако Огнемёт всё ещё может наносить прямой урон танку с таким ﻿устройством.",
+				"descriptionEN":"Makes your tank immune to heat damage, such as that inflicted by Vulcan's overheating, or the persistent burn after-effect from Firebird. However, Firebird will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"cold_immunity",
+				"nameRU":"Иммунитет от заморозки",
+				"nameEN":"Cold Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает﻿ от заморозки. Танк с этим устройством не замедляется. Однако Фриз всё ещё может наносить урон танку с таким устройством.",
+				"descriptionEN":"Makes your tank immune to the slow-down effects of cold, such as that inflicted by the Freeze turret. However, Freeze will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"stun_immunity",
+				"nameRU":"Иммунитет от оглушения",
+				"nameEN":"Stun Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает от оглушения. Танк с этим устройством невозможно временно обездвижить. Оглушение редко встречается в битвах﻿﻿, но иногда защита от него может оказаться решающей.",
+				"descriptionEN":"Makes your tank immune to stun effects, preventing your enemies from immobilizing you. While stuns are rare, protection from them could be decisive at a crucial moment."
+			},
+			{
+				"id":"extreme_lightweight_construction",
+				"nameRU":"Экстремальное облегчение",
+				"nameEN":"Extreme Lightweight Construction",
+				"descriptionRU":"Внимание! Это устройство экстремально снижает массу корпуса, делая его максимально восприимчивым к любому физическому воздействию. В боевых условиях не эффективно. Применять с осторожностью на свой страх и риск!",
+				"descriptionEN":"Caution! This augment tremendously decreases the hull's weight, making it maximally susceptible to any physical impact. Not effective in combat. Use with caution and at your own risk!"
+			},
+			{
+				"id":"phoenix",
+				"nameRU":"Феникс",
+				"nameEN":"Phoenix",
+				"descriptionRU":"Этого оружия достоин только тот, кто подобно фениксу восставал из пепла вновь и вновь ради достижения своей цели. Секретное устройство. Для его получения нужно заработать 5 000 000 очков репутации на корпусе Мамонт.",
+				"descriptionEN":"Only tankers who keep rising like a phoenix from the ashes again and again to achieve their goal deserves this weapon. A secret augment. Earn 5 000 000 reputation points using the Mammoth hull to get it."
+			},
+			{
+				"id":"special_protection",
+				"nameRU":"Специальная защита",
+				"nameEN":"Special Protection",
+				"descriptionRU":"Уникальная защита, разработанная для различных мероприятий. Не может быть получена обычными игроками. Благодаря данному устройству, его владелец получает полную защиту от заморозки и горения, а также иммунитет от всех статус-эффектов. Однако это устройство не влияет на прямой урон от пушек.",
+				"descriptionEN":"A special kind of protection that is to be exclusively used in special scenarios... hence the name.\n\nThis augment cannot be purchased and is only used for a limited time during special events. In the TAB menu, the icon is hidden; the wearer will appear to be using no hull augment at all."
+			}
+		]
+	},
+	{
+		"id":"juggernaut",
+		"nameRU":"Джаггернаут",
+		"nameEN":"Juggernaut",
+		"descriptionRU":"Сверхтяжёлый корпус. Имеет специальную изоляцию для работы в особо опасных зонах.\n\nОвердрайв отбрасывает вражеские танки и восстанавливает броню корпуса. Из-за огромного запаса прочности, другие способы ремонта этого корпуса оказываются малоэффективны.\n\nСверхмощная экспериментальная машина. Допуск строго ограничен.\n\nСтраница корпуса в <a href=\"https://ru.tankiwiki.com/%D0%94%D0%B6%D0%B0%D0%B3%D0%B3%D0%B5%D1%80%D0%BD%D0%B0%D1%83%D1%82\" target=\"_blank\"><u>WikiTO</u></a>.",
+		"descriptionEN":"Super-heavy hull. It has special insulation to work in particularly dangerous zones.\n\nIts overdrive launches nearby enemies away and fully restores the hull's health. Due to the huge safety margin, other ways of repairing the tank are ineffective.\n\nHeavy duty experimental machine. Admission is strictly limited.\n\nMore information about this hull can be found in the <a href=\"https://en.tankiwiki.com/Juggernaut\" target=\"_blank\"><u>Wiki</u></a>.",
+		"engineType":"juggernaut",
+		"skins":
+		[
+			{
+				"id":"m3",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard"
+			},
+			{
+				"id":"xt_fake",
+				"nameRU":"XT (неофициальный)",
+				"nameEN":"XT (unofficial)",
+				"description":"TODO",
+				"icon":"xt"
+			},
+			{
+				"id":"xt_fake_ilya_star",
+				"nameRU":"XT (неофициальный, яркий)",
+				"nameEN":"XT (unofficial, bright)",
+				"description":"TODO",
+				"icon":"xt"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"heat_resistance",
+				"nameRU":"Защита от поджога",
+				"nameEN":"Heat Resistance",
+				"descriptionRU":"Устройство﻿ частично защищает от поджога. Танк с этим устройством ﻿тяжелее поджечь и он получает сниженный урон от горения. Однако прямой урон Огнемёта не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the damage and effect of heat, making it harder to burn. Does not affect direct damage from Firebird."
+			},
+			{
+				"id":"cold_resistance",
+				"nameRU":"Защита от заморозки",
+				"nameEN":"Cold Resistance",
+				"descriptionRU":"Устройство﻿ ﻿частично защищает от заморозки. Танк с этим устройством тяжелее заморозить. Однако урон Фриза не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the effect of cold, making it harder to slow down. Does not affect direct damage from Freeze."
+			},
+			{
+				"id":"lightweight_construction",
+				"nameRU":"Облегчение конструкции",
+				"nameEN":"Lightweight Construction",
+				"descriptionRU":"Устройство﻿﻿ значительно снижает массу корпуса. Никакого практического применения в бою это устройство не имеет, но, возможно, взлетать в воздух от каждой мины по-﻿своему﻿ интересно.",
+				"descriptionEN":"Significantly decreases your hull's weight. While not particularly useful in a combat scenario, creative tankers might want to take advantage of this feature for \"unconventional\" tank stunts."
+			},
+			{
+				"id":"heavyweight_construction",
+				"nameRU":"Утяжеление конструкции",
+				"nameEN":"Heavyweight Construction",
+				"descriptionRU":"Устройство﻿ значительно повышает массу корпуса. Любое попадание или толчок будут меньше сбивать танк с курса. Разгонные характеристики﻿ заметно ослабевают, но толкать другие танки становится проще.",
+				"descriptionEN":"Significantly increases your hull's weight, making it more resistant to pushback. Acceleration may be affected, but the added momentum has useful applications for ramming tanks."
+			},
+			{
+				"id":"heat_immunity",
+				"nameRU":"Иммунитет от поджога",
+				"nameEN":"Heat Immunity",
+				"descriptionRU":"Устройство﻿﻿﻿﻿ полностью защищает от горения. Танк с этим устройством не получает урон от горения.﻿ Однако Огнемёт всё ещё может наносить прямой урон танку с таким ﻿устройством.",
+				"descriptionEN":"Makes your tank immune to heat damage, such as that inflicted by Vulcan's overheating, or the persistent burn after-effect from Firebird. However, Firebird will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"cold_immunity",
+				"nameRU":"Иммунитет от заморозки",
+				"nameEN":"Cold Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает﻿ от заморозки. Танк с этим устройством не замедляется. Однако Фриз всё ещё может наносить урон танку с таким устройством.",
+				"descriptionEN":"Makes your tank immune to the slow-down effects of cold, such as that inflicted by the Freeze turret. However, Freeze will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"stun_immunity",
+				"nameRU":"Иммунитет от оглушения",
+				"nameEN":"Stun Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает от оглушения. Танк с этим устройством невозможно временно обездвижить. Оглушение редко встречается в битвах﻿﻿, но иногда защита от него может оказаться решающей.",
+				"descriptionEN":"Makes your tank immune to stun effects, preventing your enemies from immobilizing you. While stuns are rare, protection from them could be decisive at a crucial moment."
+			},
+			{
+				"id":"extreme_lightweight_construction",
+				"nameRU":"Экстремальное облегчение",
+				"nameEN":"Extreme Lightweight Construction",
+				"descriptionRU":"Внимание! Это устройство экстремально снижает массу корпуса, делая его максимально восприимчивым к любому физическому воздействию. В боевых условиях не эффективно. Применять с осторожностью на свой страх и риск!",
+				"descriptionEN":"Caution! This augment tremendously decreases the hull's weight, making it maximally susceptible to any physical impact. Not effective in combat. Use with caution and at your own risk!"
+			},
+			{
+				"id":"special_protection",
+				"nameRU":"Специальная защита",
+				"nameEN":"Special Protection",
+				"descriptionRU":"Уникальная защита, разработанная для различных мероприятий. Не может быть получена обычными игроками. Благодаря данному устройству, его владелец получает полную защиту от заморозки и горения, а также иммунитет от всех статус-эффектов. Однако это устройство не влияет на прямой урон от пушек.",
+				"descriptionEN":"A special kind of protection that is to be exclusively used in special scenarios... hence the name.\n\nThis augment cannot be purchased and is only used for a limited time during special events. In the TAB menu, the icon is hidden; the wearer will appear to be using no hull augment at all."
+			}
+		]
+	},
+	{
+		"id":"sonic",
+		"nameRU":"Соник",
+		"nameEN":"Sonic",
+		"descriptionRU":"Легкий, быстрый и очень устойчивый корпус.\n\nОн не способен маневрировать среди узких улиц. Его широкий корпус в сочетании с низкой посадкой дают ему качества спортивного автомобиля. Большие расстояния он преодолевает с легкостью, а благодаря скорости в него сложно попасть.\n\nНаверное главное его преимущество это - «планирование». Благодаря широкому и легкому корпусу он может спрыгивать с высоких мостов, как «белка летяга» летя дальше, чем любой другой танк. Так же этот эффект работает, при подъеме на трамплин, на хорошей скорости, можно довольно далеко улететь.",
+		"descriptionEN":"A light, fast and very stable hull.\n\nIt is not capable of maneuvering through narrow streets. Its wide body combined with its low stance gives it the qualities of a sports car. It covers long distances with ease, and its speed makes it hard to hit.\n\nProbably its main advantage is «planning». Thanks to its wide and light hull, it can jump off high bridges like a «flying squirrel», flying further than any other tank. This effect also works, when climbing a springboard, at a good speed, you can fly quite far.",
+		"engineType":"light",
+		"skins":
+		[
+			{
+				"id":"hd",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard",
+				"emissionColor":"3399390",
+				"emissionColorSecond":"15430990",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"m2",
+				"name":"M2",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"mx",
+				"name":"MX",
+				"description":"TODO",
+				"icon":"xt",
+				"emissionColor":"13652484",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Молодого конструктора попросили сделать в кратчайшие сроки корпус в новом обличии. Было принято решение сделать его из старых, уже немного проржавевших, частей танков. За несколько дней получился изящный и в своем роде уникальный вид корпуса, но он все так же оставался легким, быстрым и устойчивым.",
+				"descriptionEN":"The young designer was asked to make a hull in a new guise as soon as possible. It was decided to make it from old, already slightly rusty parts of the tanks. In just a few days, the hull had a sleek and unique look, but it was still light, fast, and stable.",
+				"icon":"lc"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"heat_resistance",
+				"nameRU":"Защита от поджога",
+				"nameEN":"Heat Resistance",
+				"descriptionRU":"Устройство﻿ частично защищает от поджога. Танк с этим устройством ﻿тяжелее поджечь и он получает сниженный урон от горения. Однако прямой урон Огнемёта не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the damage and effect of heat, making it harder to burn. Does not affect direct damage from Firebird."
+			},
+			{
+				"id":"cold_resistance",
+				"nameRU":"Защита от заморозки",
+				"nameEN":"Cold Resistance",
+				"descriptionRU":"Устройство﻿ ﻿частично защищает от заморозки. Танк с этим устройством тяжелее заморозить. Однако урон Фриза не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the effect of cold, making it harder to slow down. Does not affect direct damage from Freeze."
+			},
+			{
+				"id":"lightweight_construction",
+				"nameRU":"Облегчение конструкции",
+				"nameEN":"Lightweight Construction",
+				"descriptionRU":"Устройство﻿﻿ значительно снижает массу корпуса. Никакого практического применения в бою это устройство не имеет, но, возможно, взлетать в воздух от каждой мины по-﻿своему﻿ интересно.",
+				"descriptionEN":"Significantly decreases your hull's weight. While not particularly useful in a combat scenario, creative tankers might want to take advantage of this feature for \"unconventional\" tank stunts."
+			},
+			{
+				"id":"heavyweight_construction",
+				"nameRU":"Утяжеление конструкции",
+				"nameEN":"Heavyweight Construction",
+				"descriptionRU":"Устройство﻿ значительно повышает массу корпуса. Любое попадание или толчок будут меньше сбивать танк с курса. Разгонные характеристики﻿ заметно ослабевают, но толкать другие танки становится проще.",
+				"descriptionEN":"Significantly increases your hull's weight, making it more resistant to pushback. Acceleration may be affected, but the added momentum has useful applications for ramming tanks."
+			},
+			{
+				"id":"heat_immunity",
+				"nameRU":"Иммунитет от поджога",
+				"nameEN":"Heat Immunity",
+				"descriptionRU":"Устройство﻿﻿﻿﻿ полностью защищает от горения. Танк с этим устройством не получает урон от горения.﻿ Однако Огнемёт всё ещё может наносить прямой урон танку с таким ﻿устройством.",
+				"descriptionEN":"Makes your tank immune to heat damage, such as that inflicted by Vulcan's overheating, or the persistent burn after-effect from Firebird. However, Firebird will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"cold_immunity",
+				"nameRU":"Иммунитет от заморозки",
+				"nameEN":"Cold Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает﻿ от заморозки. Танк с этим устройством не замедляется. Однако Фриз всё ещё может наносить урон танку с таким устройством.",
+				"descriptionEN":"Makes your tank immune to the slow-down effects of cold, such as that inflicted by the Freeze turret. However, Freeze will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"stun_immunity",
+				"nameRU":"Иммунитет от оглушения",
+				"nameEN":"Stun Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает от оглушения. Танк с этим устройством невозможно временно обездвижить. Оглушение редко встречается в битвах﻿﻿, но иногда защита от него может оказаться решающей.",
+				"descriptionEN":"Makes your tank immune to stun effects, preventing your enemies from immobilizing you. While stuns are rare, protection from them could be decisive at a crucial moment."
+			},
+			{
+				"id":"extreme_lightweight_construction",
+				"nameRU":"Экстремальное облегчение",
+				"nameEN":"Extreme Lightweight Construction",
+				"descriptionRU":"Внимание! Это устройство экстремально снижает массу корпуса, делая его максимально восприимчивым к любому физическому воздействию. В боевых условиях не эффективно. Применять с осторожностью на свой страх и риск!",
+				"descriptionEN":"Caution! This augment tremendously decreases the hull's weight, making it maximally susceptible to any physical impact. Not effective in combat. Use with caution and at your own risk!"
+			},
+			{
+				"id":"special_protection",
+				"nameRU":"Специальная защита",
+				"nameEN":"Special Protection",
+				"descriptionRU":"Уникальная защита, разработанная для различных мероприятий. Не может быть получена обычными игроками. Благодаря данному устройству, его владелец получает полную защиту от заморозки и горения, а также иммунитет от всех статус-эффектов. Однако это устройство не влияет на прямой урон от пушек.",
+				"descriptionEN":"A special kind of protection that is to be exclusively used in special scenarios... hence the name.\n\nThis augment cannot be purchased and is only used for a limited time during special events. In the TAB menu, the icon is hidden; the wearer will appear to be using no hull augment at all."
+			}
+		]
+	},
+	{
+		"id":"ufo",
+		"nameRU":"НЛО",
+		"nameEN":"UFO",
+		"description":"TODO",
+		"isHover":true,
+		"engineType":"old",
+		"skins":
+		[
+			{
+				"id":"m3",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard",
+				"emissionColor":"16711697",
+				"emissionColorThreshold":"0.8"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"heat_resistance",
+				"nameRU":"Защита от поджога",
+				"nameEN":"Heat Resistance",
+				"descriptionRU":"Устройство﻿ частично защищает от поджога. Танк с этим устройством ﻿тяжелее поджечь и он получает сниженный урон от горения. Однако прямой урон Огнемёта не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the damage and effect of heat, making it harder to burn. Does not affect direct damage from Firebird."
+			},
+			{
+				"id":"cold_resistance",
+				"nameRU":"Защита от заморозки",
+				"nameEN":"Cold Resistance",
+				"descriptionRU":"Устройство﻿ ﻿частично защищает от заморозки. Танк с этим устройством тяжелее заморозить. Однако урон Фриза не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the effect of cold, making it harder to slow down. Does not affect direct damage from Freeze."
+			},
+			{
+				"id":"lightweight_construction",
+				"nameRU":"Облегчение конструкции",
+				"nameEN":"Lightweight Construction",
+				"descriptionRU":"Устройство﻿﻿ значительно снижает массу корпуса. Никакого практического применения в бою это устройство не имеет, но, возможно, взлетать в воздух от каждой мины по-﻿своему﻿ интересно.",
+				"descriptionEN":"Significantly decreases your hull's weight. While not particularly useful in a combat scenario, creative tankers might want to take advantage of this feature for \"unconventional\" tank stunts."
+			},
+			{
+				"id":"heavyweight_construction",
+				"nameRU":"Утяжеление конструкции",
+				"nameEN":"Heavyweight Construction",
+				"descriptionRU":"Устройство﻿ значительно повышает массу корпуса. Любое попадание или толчок будут меньше сбивать танк с курса. Разгонные характеристики﻿ заметно ослабевают, но толкать другие танки становится проще.",
+				"descriptionEN":"Significantly increases your hull's weight, making it more resistant to pushback. Acceleration may be affected, but the added momentum has useful applications for ramming tanks."
+			},
+			{
+				"id":"heat_immunity",
+				"nameRU":"Иммунитет от поджога",
+				"nameEN":"Heat Immunity",
+				"descriptionRU":"Устройство﻿﻿﻿﻿ полностью защищает от горения. Танк с этим устройством не получает урон от горения.﻿ Однако Огнемёт всё ещё может наносить прямой урон танку с таким ﻿устройством.",
+				"descriptionEN":"Makes your tank immune to heat damage, such as that inflicted by Vulcan's overheating, or the persistent burn after-effect from Firebird. However, Firebird will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"cold_immunity",
+				"nameRU":"Иммунитет от заморозки",
+				"nameEN":"Cold Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает﻿ от заморозки. Танк с этим устройством не замедляется. Однако Фриз всё ещё может наносить урон танку с таким устройством.",
+				"descriptionEN":"Makes your tank immune to the slow-down effects of cold, such as that inflicted by the Freeze turret. However, Freeze will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"stun_immunity",
+				"nameRU":"Иммунитет от оглушения",
+				"nameEN":"Stun Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает от оглушения. Танк с этим устройством невозможно временно обездвижить. Оглушение редко встречается в битвах﻿﻿, но иногда защита от него может оказаться решающей.",
+				"descriptionEN":"Makes your tank immune to stun effects, preventing your enemies from immobilizing you. While stuns are rare, protection from them could be decisive at a crucial moment."
+			},
+			{
+				"id":"extreme_lightweight_construction",
+				"nameRU":"Экстремальное облегчение",
+				"nameEN":"Extreme Lightweight Construction",
+				"descriptionRU":"Внимание! Это устройство экстремально снижает массу корпуса, делая его максимально восприимчивым к любому физическому воздействию. В боевых условиях не эффективно. Применять с осторожностью на свой страх и риск!",
+				"descriptionEN":"Caution! This augment tremendously decreases the hull's weight, making it maximally susceptible to any physical impact. Not effective in combat. Use with caution and at your own risk!"
+			},
+			{
+				"id":"special_protection",
+				"nameRU":"Специальная защита",
+				"nameEN":"Special Protection",
+				"descriptionRU":"Уникальная защита, разработанная для различных мероприятий. Не может быть получена обычными игроками. Благодаря данному устройству, его владелец получает полную защиту от заморозки и горения, а также иммунитет от всех статус-эффектов. Однако это устройство не влияет на прямой урон от пушек.",
+				"descriptionEN":"A special kind of protection that is to be exclusively used in special scenarios... hence the name.\n\nThis augment cannot be purchased and is only used for a limited time during special events. In the TAB menu, the icon is hidden; the wearer will appear to be using no hull augment at all."
+			}
+		]
+	},
+	{
+		"id":"tanks",
+		"nameRU":"Корпус из «Tanks»",
+		"nameEN":"Hull from «Tanks»",
+		"description":"TODO",
+		"engineType":"old",
+		"skins":
+		[
+			{
+				"id":"light_green",
+				"nameRU":"Лёгкий (зелёный)",
+				"nameEN":"Light (green)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"light_bluegray",
+				"nameRU":"Лёгкий (сине-серый)",
+				"nameEN":"Light (bluegray)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"light_desert",
+				"nameRU":"Лёгкий (пустынный)",
+				"nameEN":"Light (desert)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"light_damaged",
+				"nameRU":"Лёгкий (подбитый)",
+				"nameEN":"Light (damaged)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"middle_green",
+				"nameRU":"Средний (зелёный)",
+				"nameEN":"Middle (green)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"middle_bluegray",
+				"nameRU":"Средний (сине-серый)",
+				"nameEN":"Middle (bluegray)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"middle_desert",
+				"nameRU":"Средний (пустынный)",
+				"nameEN":"Middle (desert)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"middle_damaged",
+				"nameRU":"Средний (подбитый)",
+				"nameEN":"Middle (damaged)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"heavy_green",
+				"nameRU":"Тяжёлый (зелёный)",
+				"nameEN":"Heavy (green)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"heavy_bluegray",
+				"nameRU":"Тяжёлый (сине-серый)",
+				"nameEN":"Heavy (bluegray)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"heavy_desert",
+				"nameRU":"Тяжёлый (пустынный)",
+				"nameEN":"Heavy (desert)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"heavy_damaged",
+				"nameRU":"Тяжёлый (подбитый)",
+				"nameEN":"Heavy (damaged)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"heavy_alternativa",
+				"nameRU":"Тяжёлый (Альтернатива)",
+				"nameEN":"Heavy (Alternativa)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"heat_resistance",
+				"nameRU":"Защита от поджога",
+				"nameEN":"Heat Resistance",
+				"descriptionRU":"Устройство﻿ частично защищает от поджога. Танк с этим устройством ﻿тяжелее поджечь и он получает сниженный урон от горения. Однако прямой урон Огнемёта не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the damage and effect of heat, making it harder to burn. Does not affect direct damage from Firebird."
+			},
+			{
+				"id":"cold_resistance",
+				"nameRU":"Защита от заморозки",
+				"nameEN":"Cold Resistance",
+				"descriptionRU":"Устройство﻿ ﻿частично защищает от заморозки. Танк с этим устройством тяжелее заморозить. Однако урон Фриза не снижается этим устройством.",
+				"descriptionEN":"Partially protects your tank from the effect of cold, making it harder to slow down. Does not affect direct damage from Freeze."
+			},
+			{
+				"id":"lightweight_construction",
+				"nameRU":"Облегчение конструкции",
+				"nameEN":"Lightweight Construction",
+				"descriptionRU":"Устройство﻿﻿ значительно снижает массу корпуса. Никакого практического применения в бою это устройство не имеет, но, возможно, взлетать в воздух от каждой мины по-﻿своему﻿ интересно.",
+				"descriptionEN":"Significantly decreases your hull's weight. While not particularly useful in a combat scenario, creative tankers might want to take advantage of this feature for \"unconventional\" tank stunts."
+			},
+			{
+				"id":"heavyweight_construction",
+				"nameRU":"Утяжеление конструкции",
+				"nameEN":"Heavyweight Construction",
+				"descriptionRU":"Устройство﻿ значительно повышает массу корпуса. Любое попадание или толчок будут меньше сбивать танк с курса. Разгонные характеристики﻿ заметно ослабевают, но толкать другие танки становится проще.",
+				"descriptionEN":"Significantly increases your hull's weight, making it more resistant to pushback. Acceleration may be affected, but the added momentum has useful applications for ramming tanks."
+			},
+			{
+				"id":"heat_immunity",
+				"nameRU":"Иммунитет от поджога",
+				"nameEN":"Heat Immunity",
+				"descriptionRU":"Устройство﻿﻿﻿﻿ полностью защищает от горения. Танк с этим устройством не получает урон от горения.﻿ Однако Огнемёт всё ещё может наносить прямой урон танку с таким ﻿устройством.",
+				"descriptionEN":"Makes your tank immune to heat damage, such as that inflicted by Vulcan's overheating, or the persistent burn after-effect from Firebird. However, Firebird will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"cold_immunity",
+				"nameRU":"Иммунитет от заморозки",
+				"nameEN":"Cold Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает﻿ от заморозки. Танк с этим устройством не замедляется. Однако Фриз всё ещё может наносить урон танку с таким устройством.",
+				"descriptionEN":"Makes your tank immune to the slow-down effects of cold, such as that inflicted by the Freeze turret. However, Freeze will still be able to deal direct damage to your tank."
+			},
+			{
+				"id":"stun_immunity",
+				"nameRU":"Иммунитет от оглушения",
+				"nameEN":"Stun Immunity",
+				"descriptionRU":"Устройство﻿ полностью защищает от оглушения. Танк с этим устройством невозможно временно обездвижить. Оглушение редко встречается в битвах﻿﻿, но иногда защита от него может оказаться решающей.",
+				"descriptionEN":"Makes your tank immune to stun effects, preventing your enemies from immobilizing you. While stuns are rare, protection from them could be decisive at a crucial moment."
+			},
+			{
+				"id":"extreme_lightweight_construction",
+				"nameRU":"Экстремальное облегчение",
+				"nameEN":"Extreme Lightweight Construction",
+				"descriptionRU":"Внимание! Это устройство экстремально снижает массу корпуса, делая его максимально восприимчивым к любому физическому воздействию. В боевых условиях не эффективно. Применять с осторожностью на свой страх и риск!",
+				"descriptionEN":"Caution! This augment tremendously decreases the hull's weight, making it maximally susceptible to any physical impact. Not effective in combat. Use with caution and at your own risk!"
+			},
+			{
+				"id":"special_protection",
+				"nameRU":"Специальная защита",
+				"nameEN":"Special Protection",
+				"descriptionRU":"Уникальная защита, разработанная для различных мероприятий. Не может быть получена обычными игроками. Благодаря данному устройству, его владелец получает полную защиту от заморозки и горения, а также иммунитет от всех статус-эффектов. Однако это устройство не влияет на прямой урон от пушек.",
+				"descriptionEN":"A special kind of protection that is to be exclusively used in special scenarios... hence the name.\n\nThis augment cannot be purchased and is only used for a limited time during special events. In the TAB menu, the icon is hidden; the wearer will appear to be using no hull augment at all."
+			}
+		]
+	}
+]
