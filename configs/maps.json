@@ -1,5 +1,37 @@
 [
 	{
+		"id":"route_vektor_tv_summer",
+		"nameRU":"Трасса (by Vektor TV)",
+		"nameEN":"Route (by Vektor TV)",
+		"skyBox":"space_day",
+		"theme":"space",
+		"category":"unofficial"
+	},
+	{
+		"id":"water_utility_summer",
+		"nameRU":"Водоканал",
+		"nameEN":"Water Utility",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
+		"id":"dmitrievsk_summer",
+		"nameRU":"Дмитриевск",
+		"nameEN":"Dmitrievsk",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
+		"id":"football_summer",
+		"nameRU":"Футбол",
+		"nameEN":"Football",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
 		"id":"peak_winter",
 		"nameRU":"Вершина (зима)",
 		"nameEN":"Peak (winter)",
@@ -182,6 +214,22 @@
 		"skyBox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
+	},
+	{
+		"id":"bastion_summer",
+		"nameRU":"Бастион",
+		"nameEN":"Bastion",
+		"skyBox":"mountains_day",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	{
+		"id":"depo_summer",
+		"nameRU":"Депо",
+		"nameEN":"Depo",
+		"skyBox":"mountains_day",
+		"theme":"summer_day",
+		"category":"special"
 	},
 	{
 		"id":"relay_race_summer",
