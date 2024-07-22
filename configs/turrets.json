@@ -151,7 +151,43 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"high_pressure_pump",
+				"nameRU":"Насос повышенного давления",
+				"nameEN":"High-pressure pump",
+				"descriptionRU":"Улучшенное поражение удалённых целей: струя огня бьёт немного дальше, дистанция максимального поражения увеличена. Необходимо более точное прицеливание.",
+				"descriptionEN":"Improved hit distance for mid-range targets: the stream of fire will shoot slightly further, and maximum hit distance is increased. Requires a more precise aiming."
+			},
+			{
+				"id":"compact_fuel_tanks",
+				"nameRU":"Компактные баллоны",
+				"nameEN":"Compact fuel tanks",
+				"descriptionRU":"Специально для любителей тактики «поджечь и уехать»: быстрое повышение температуры и времени горения цели за счёт ускоренного расхода горючего.",
+				"descriptionEN":"Perfect for lovers of «ignite and run» tactics: it ignites opponents faster but expends more fuel."
+			},
+			{
+				"id":"incendiary_mix",
+				"nameRU":"Зажигательная смесь",
+				"nameEN":"Incendiary mix",
+				"descriptionRU":"Термитный состав прожигает танковую броню, нанося повышенный урон, но не воспламеняет цель. Эффект нагрева отсутствует.",
+				"descriptionEN":"Thermite mixture will burn through tank armor, dealing increased damage, but without igniting the target. No heating effect."
+			},
+			{
+				"id":"paralyzing_mix",
+				"nameRU":"Парализующая смесь",
+				"nameEN":"Paralyzing mix",
+				"descriptionRU":"Дополнение поджигающей смеси парализующим реактивом. При критической концентрации реактив вызывает короткую парализацию всех систем цели, при этом критический урон и скорость нагрева снижаются.",
+				"descriptionEN":"Adds a paralyzing mixture into the igniting agent. A critical concentration of the mixture may cause all of the target's systems to be paralyzed, but critical damage and heating rate are decreased."
+			},
+			{
+				"id":"critical_mix",
+				"nameRU":"Критическая смесь",
+				"nameEN":"Critical mix",
+				"descriptionRU":"Критический урон и шанс критического выстрела повышены. Дополнение поджигающей смеси критической смесью. Урон наносимый такой смесью значительно выше, чем при обычном поджоге. При сборке устройства инженеры ошиблись в пропорциях смесей, в результате критический урон наносится гораздо чаще, чем планировалось при разработке данной модификации.",
+				"descriptionEN":"Сritical damage and critical hit chance have been increased. Adds a critical mixture into the igniting agent. The damage caused by such a mixture is significantly higher than with a conventional ignition. When assembling the augment, engineers made a mistake in the proportions of the mixtures, as a result, critical damage is dealt much more often than was planned when developing this modification."
 			}
+			
 		],
 		"shotSkins":
 		[
@@ -414,6 +450,34 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"high_pressure_pump",
+				"nameRU":"Насос повышенного давления",
+				"nameEN":"High-pressure pump",
+				"descriptionRU":"Улучшенное поражение удалённых целей: струя фреона бьёт немного дальше, дистанция максимального поражения увеличена. Необходимо более точное прицеливание.",
+				"descriptionEN":"Improved hit distance for mid-range targets: the stream of freon will shoot slightly further, and maximum hit distance is increased. Requires a more precise aiming."
+			},
+			{
+				"id":"corrosive_mix",
+				"nameRU":"Коррозионная смесь",
+				"nameEN":"Corrosive mix",
+				"descriptionRU":"Замена хладагента на кислотную смесь, которая разъедает даже самую прочную броню за считанные секунды. Эффект заморозки отсутствует.",
+				"descriptionEN":"Swapping cooling agent with acid mixture, which eats through even the most sturdy armor in mere seconds. No freezing effect."
+			},
+			{
+				"id":"shock_freeze",
+				"nameRU":"Шоковая заморозка",
+				"nameEN":"Shock freeze",
+				"descriptionRU":"Быстро и эффективно превращает танки в неподвижные куски льда. В условиях ограниченных габаритов башни пришлось избавиться от части боевых агрегатов, из-за чего урон снижен.",
+				"descriptionEN":"Quickly and effectively turns tanks into solid and immobile pieces of ice. Due to limited space in the turret, several battle mechanisms had to be removed, resulting in reduced damage."
+			},
+			{
+				"id":"paralyzing_mix",
+				"nameRU":"Парализующая смесь",
+				"nameEN":"Paralyzing mix",
+				"descriptionRU":"Дополнение хладагента парализующим реактивом. При критической концентрации реактив вызывает короткий паралич всех систем цели, при этом критический урон и скорость заморозки снижаются вдвое.",
+				"descriptionEN":"Adds a paralyzing mixture into the cooling agent. A critical concentration of the mixture may cause all of the target's systems to be paralyzed, but critical damage and freezing speed are halved."
 			}
 		],
 		"shotSkins":
@@ -588,6 +652,34 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"broadband_radiators",
+				"nameRU":"Широкополосные излучатели",
+				"nameEN":"Broadband radiators",
+				"descriptionRU":"Широкополосные излучатели с укороченной дальностью поражения для более лёгкого прицеливания.",
+				"descriptionEN":"Broadband radiators with a shortened range for easier aiming."
+			},
+			{
+				"id":"vampire_nanobots",
+				"nameRU":"Вампирские нанороботы",
+				"nameEN":"Vampire nanobots",
+				"descriptionRU":"Эффективно ремонтировать союзников с этим устройством становится невозможно, но становится возможным ремонтировать собственный танк! Эффективность лечения невысокая, но прожить в ближнем бою на мгновение дольше противника — означает победу. Критический урон отсутствует.",
+				"descriptionEN":"It will be impossible to effectively heal allies with this augment, but it becomes possible to heal yourself! Healing efficiency is low, but it will be possible to survive a moment longer in a close combat fight and win. Critical damage is removed."
+			},
+			{
+				"id":"stunning_nanobots",
+				"nameRU":"Оглушающие наноботы",
+				"nameEN":"Stunning nanobots",
+				"descriptionRU":"Часть нанороботов-разрушителей оснащена ультразвуковыми модулями. Не имеет эффекта на лечение союзных танков, но станет неожиданным сюрпризом для врага. Забравшись в нутро механизмов танка соперника, нанороботы обездвижат его и лишают возможности стрелять, активировать припасы и овердрайвы или самоуничтожаться на некоторое время.",
+				"descriptionEN":"Critical damage applies the «Stun» status effect to the enemy tank for a short time. А part of the destroyer-nanobots were equipped with ultrasonic modules. This doesn't affect teammates while healing but will surely surprise the opponent. After climbing inside the enemy tank's mechanisms, nanobots render the tank unable to shoot, activate overdrives and supplies, or self-destruct for some time."
+			},
+			{
+				"id":"sustainable_nanobots",
+				"nameRU":"Устойчивые нанороботы",
+				"nameEN":"Sustainable nanobots",
+				"descriptionRU":"При лечении тратится меньше энергии, при атаке больше. Увеличенная дальность действия, но меньший угол горизонтальной и вертикальной наводки. Обновлённая прошивка нанороботов значительно улучшает эффективность поддержки союзников. В процессе лечения танка, устройство позволяет сократить расход энергии благодаря оптимизации процесса восстановления повреждений. Но когда приходит время атаки, энергозатраты заметно возрастают. Также эти микроскопические роботы оснащены специальной технологией, обеспечивающей необычайную стабильность луча. Их устойчивость к внешним воздействиям позволяет увеличить дальность и точность.",
+				"descriptionEN":"When healing, less energy is consumed, but more is spent during attacks. Increased effective range, but reduced horizontal aiming angle. The updated nanobot firmware significantly enhances ally support efficiency. During tank healing, the augment reduces energy consumption by optimizing the damage restoration process. However, during attack phases, energy consumption noticeably increases. These microscopic bots are also equipped with special technology that provides extraordinary beam stability. Their resistance to external influences allows for increased range and precision."
 			}
 		],
 		"shotSkins":
@@ -670,6 +762,55 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"minus_field",
+				"nameRU":"Минус-поле",
+				"nameEN":"Minus-field",
+				"descriptionRU":"С этим устройством у шаровой молнии появляется дополнительное минус-поле, позаимствованное у Рикошета. Это делает пушку не только более универсальной в бою, но и безопасной в применении. Случайный выстрел в стену больше не нанесёт урон собственному танку, ведь шар просто отскочит от стены.",
+				"descriptionEN":"This augment adds the Ricochet's minus-field to Tesla's ball lightning. This makes the turret not only be universal on the battlefield but also be safe to use. An accidental shot towards a wall will no longer deal damage to your tank as the ball will ricochet off the wall."
+			},
+			{
+				"id":"acceleration_protocol",
+				"nameRU":"Ускоряющий протокол",
+				"nameEN":"Acceleration protocol",
+				"descriptionRU":"Модификация для тех, кто любит быстрые атаки. Устройство увеличивает скорость шара и его максимальную дальность. От такой Теслы очень сложно скрыться.",
+				"descriptionEN":"A modification for those who enjoy fast attacks. It turns Tesla's ball lightning into an overwhelming force of nature that lets you drive fast following your ball lightning. This augment increases the ball lightning's speed and its maximum distance making it possible to break into the opponent's base and cause chaos."
+			},
+			{
+				"id":"dilatory_protocol",
+				"nameRU":"Замедляющий протокол",
+				"nameEN":"Dilatory protocol",
+				"descriptionRU":"Скорость и дальность полёта шаровой молнии снижена. Перезарядка шаровой молнии становится дольше. Эта модификация подойдёт для глухой обороны. Она стабилизирует напряжение шаровой молнии и значительно замедляет её, благодаря чему становится проще выстраивать цепные молнии и выводить из строя значительно больше вражеских танков. Но важно знать, что теперь перезарядка шаровой молнии становится дольше.",
+				"descriptionEN":"This modification is crucial for a strong defense. It stabilises the ball lightning's voltage and significantly slows it down, making it much easier to make lightning chains and incapacitate more opponents. However, it is important to note that ball lightning reload will take twice as long."
+			},
+			{
+				"id":"electroturret",
+				"nameRU":"Электропушка",
+				"nameEN":"Electroturret",
+				"descriptionRU":"Шаровая молния летит очень быстро и далеко, нанося огромный урон. Разогрев перед выстрелом шара становится намного дольше. Это устройство даёт Тесле великолепную универсальность, недоступную другим пушкам. Шаровая молния, выпущенная словно из пращи, легко настигнет убегающего врага и доставит ему массу неприятностей из-за своего повышенного урона. Однако скорость шара настолько велика, что выстроить цепную молнию становится практически невозможно.",
+				"descriptionEN":"This augment gives Tesla a level of versatility that is not available to other turrets. Ball lightning leaves your barrel as fast as a shot and will travel large distances and cause your opponents a lot of trouble. However, the ball flies so fast that it's almost impossible to use it for chain lightning."
+			},
+			{
+				"id":"exothermic_lightning",
+				"nameRU":"Экзотермическая молния",
+				"nameEN":"Exothermic lightning",
+				"descriptionRU":"С этим устройством шаровая молния получает способность поджигать цели при касании, а ещё — рикошетить от препятствий. Поджог также наносится критическим уроном. Используйте устройство с умом, чтобы нанести врагам максимум повреждений.",
+				"descriptionEN":"With this augment equipped, ball lightning will deflect off surfaces and ignite opponents on contact. Critical hits will also apply the «Burning» status effect. Make good use of it to deal more damage to opponents."
+			},
+			{
+				"id":"endothermic_lightning",
+				"nameRU":"Эндотермическая молния",
+				"nameEN":"Endothermic lightning",
+				"descriptionRU":"Что будет, если молния попадёт в бак с фреоном? — Ледяной шар замораживающий при касании. Эффект заморозки также наносится критическим уроном. От такой Теслы соперников бросит в холодный пот, ведь далеко уйти у них вряд ли получится.",
+				"descriptionEN":"What happens when a bolt of lightning meets a tank full of Freon? You get a ball of icy electricity flying towards opponents, freezing them on contact. Moreover, critical hits apply the «Freezing» status effect too. Such versatility for Tesla will cause opponents to break into a cold sweat, and they won't even be able to run away."
+			},
+			{
+				"id":"shocking_lightning",
+				"nameRU":"Шоковая молния",
+				"nameEN":"Shocking lightning",
+				"descriptionRU":"Надоело, что соперники убегают от вас? Нужно быстро затормозить врага? Вам поможет это устройство. Шаровая молния и критический урон накладывают статус-эффект «Оглушение» на вражеский танк при полноценном контакте, противник будет растерян, а вы воспользуетесь своим шансом.",
+				"descriptionEN":"Tired of opponents destroying you? Need to freeze an enemy on the spot quickly? This augment will help you. Ball lightning and critical hits apply the «Stun» status effect on the target. The enemy will be dazed and confused, leaving you to seize the opportunity to gain the upper hand."
 			}
 		],
 		"shotSkins":

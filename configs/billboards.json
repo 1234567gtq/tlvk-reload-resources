@@ -2,7 +2,7 @@
 	{	
 		"id":"ufo_day_2024",
 		"nameRU":"День НЛО 2024",
-		"nameEN":"UFO day 2024"
+		"nameEN":"UFO Day 2024"
 	},
 	{	
 		"id":"standard",
@@ -10,93 +10,39 @@
 		"nameEN":"Standard"
 	},
 	{	
+		"id":"reloaded",
+		"nameRU":"Стандартный (Remaster)",
+		"nameEN":"Standard (Remaster)"
+	},
+	{	
+		"id":"standard_old",
+		"nameRU":"Стандартный (старый)",
+		"nameEN":"Standard (old)"
+	},
+	{	
+		"id":"standard_without_logo",
+		"nameRU":"Стандартный (без логотипа)",
+		"nameEN":"Standard (without logo)"
+	},
+	{	
+		"id":"standard_summer_2012",
+		"nameRU":"Стандартный (лето 2012)",
+		"nameEN":"Standard (summer 2012)"
+	},
+	{	
+		"id":"standard_winter_2012",
+		"nameRU":"Стандартный (зима 2012)",
+		"nameEN":"Standard (winter 2012)"
+	},
+	{	
 		"id":"standard_new_logo",
-		"nameRU":"Стандартный (новое лого)",
+		"nameRU":"Стандартный (новый логотип)",
 		"nameEN":"Standard (new logo)"
 	},
 	{	
-		"id":"15_years",
-		"nameRU":"15 лет",
-		"nameEN":"15 years"
-	},
-	{	
-		"id":"14_years",
-		"nameRU":"14 лет",
-		"nameEN":"14 years"
-	},
-	{	
-		"id":"13_years",
-		"nameRU":"13 лет",
-		"nameEN":"13 years"
-	},
-	{	
-		"id":"12_years",
-		"nameRU":"12 лет",
-		"nameEN":"12 years"
-	},
-	{	
-		"id":"reloaded",
-		"nameRU":"Reloaded",
-		"nameEN":"Reloaded"
-	},
-	{	
-		"id":"tlvk_reload",
-		"name":"TLVK: RELOAD"
-	},
-	{	
-		"id":"tlvk_reload_old",
-		"nameRU":"TLVK: RELOAD (старый)",
-		"nameEN":"TLVK: RELOAD (old)"
-	},
-	{	
-		"id":"tlvk_reload_4_years",
-		"nameRU":"TLVK: Reload 4 года",
-		"nameEN":"TLVK: Reload 4 years"
-	},
-	{	
-		"id":"tanker's_day_2023",
-		"nameRU":"День танкиста 2023",
-		"nameEN":"Tanker's day 2023"
-	},
-	{	
-		"id":"tanker's_day_2022",
-		"nameRU":"День танкиста 2022",
-		"nameEN":"Tanker's day 2022"
-	},
-	{	
-		"id":"tanker's_day_2021",
-		"nameRU":"День танкиста 2021",
-		"nameEN":"Tanker's day 2021"
-	},
-	{	
-		"id":"tanker's_day_2017-2020",
-		"nameRU":"День танкиста 2017-2020",
-		"nameEN":"Tanker's day 2017-2020"
-	},
-	{	
-		"id":"tanker's_day_2016",
-		"nameRU":"День танкиста 2016",
-		"nameEN":"Tanker's day 2016"
-	},
-	{	
-		"id":"spring_fever_2024",
-		"nameRU":"Весеннее обострение 2024",
-		"nameEN":"Spring Fever 2024"
-	},
-	{	
-		"id":"summer_sport_games_2023",
-		"nameRU":"Summer Sport Games 2023",
-		"nameEN":"Summer Sport Games 2023"
-	},
-	{	
-		"id":"summer_sport_games_2022",
-		"nameRU":"Summer Sport Games 2022",
-		"nameEN":"Summer Sport Games 2022"
-	},
-	{	
-		"id":"summer_sport_games_2021",
-		"nameRU":"Summer Sport Games 2021",
-		"nameEN":"Summer Sport Games 2021"
+		"id":"autumn_festival_2023",
+		"nameRU":"Осенний фестиваль 2023",
+		"nameEN":"Autumn Festival 2023"
 	},
 	{	
 		"id":"black_friday_2023",
@@ -109,64 +55,74 @@
 		"nameEN":"Сarnival 2021"
 	},
 	{	
-		"id":"ice_age_2023",
-		"nameRU":"Ледниковый период 2023",
-		"nameEN":"Ice Age 2023"
-	},
-	{	
-		"id":"new_year_2024",
-		"nameRU":"Новый Год 2024",
-		"nameEN":"New Year 2024"
-	},
-	{	
-		"id":"new_year_2023",
-		"nameRU":"Новый Год 2023",
-		"nameEN":"New Year 2023"
-	},
-	{	
-		"id":"new_year_2022",
-		"nameRU":"Новый Год 2022",
-		"nameEN":"New Year 2022"
-	},
-	{	
-		"id":"new_year_2019",
-		"nameRU":"Новый Год 2019",
-		"nameEN":"New Year 2019"
+		"id":"chinise_new_year_2022",
+		"nameRU":"Китайский Новый Год 2022",
+		"nameEN":"Chinese New Year 2022"
 	},
 	{	
 		"id":"lunar_new_year_2024",
-		"nameRU":"Китайский Новый год 2024",
-		"nameEN":"Lunar New Year 2024"
+		"nameRU":"Китайский Новый Год 2024",
+		"nameEN":"Chinese New Year 2024"
 	},
 	{	
-		"id":"chinise_new_year_2022",
-		"nameRU":"Китайский Новый Год 2022",
-		"nameEN":"Chinise New Year 2022"
+		"id":"circus_day_2022",
+		"nameRU":"День цирка 2022",
+		"nameEN":"Circus Day 2022"
 	},
 	{	
-		"id":"autumn_festival_2023",
-		"nameRU":"Осенний фестиваль 2023",
-		"nameEN":"Autumn Festival 2023"
+		"id":"cosmonautics_day",
+		"nameRU":"День космонавтики",
+		"nameEN":"Cosmonautics Day"
 	},
 	{	
-		"id":"halloween_2023",
-		"nameRU":"Хеллоуин 2023",
-		"nameEN":"Halloween 2023"
+		"id":"cosmonautics_day_2023",
+		"nameRU":"День космонавтики 2023",
+		"nameEN":"Cosmonautics Day 2023"
 	},
 	{	
-		"id":"halloween_2022",
-		"nameRU":"Хеллоуин 2022",
-		"nameEN":"Halloween 2022"
+		"id":"cosmonautics_day_2024",
+		"nameRU":"День космонавтики 2024",
+		"nameEN":"Cosmonautics Day 2024"
 	},
 	{	
-		"id":"halloween_2021",
-		"nameRU":"Хеллоуин 2021",
-		"nameEN":"Halloween 2021"
+		"id":"day_of_the_dead_2021",
+		"nameRU":"День духов 2021",
+		"nameEN":"Day of the Dead 2021"
 	},
 	{	
-		"id":"halloween_2019-2020",
-		"nameRU":"Хеллоуин 2019-2020",
-		"nameEN":"Halloween 2019-2020"
+		"id":"day_of_the_dead_2023",
+		"nameRU":"День духов 2023",
+		"nameEN":"Day of the Dead 2023"
+	},
+	{	
+		"id":"iron_days_2018",
+		"nameRU":"День защитника Отечества 2018",
+		"nameEN":"Defender of Fatherland Day 2018"
+	},
+	{	
+		"id":"iron_days_2022",
+		"nameRU":"День защитника Отечества 2022",
+		"nameEN":"Defender of Fatherland Day 2022"
+	},
+	{	
+		"id":"discount_weekend",
+		"nameRU":"Дисконт уикенд",
+		"nameEN":"Discount Weekend"
+	},
+	{	
+		"id":"1_april",
+		"nameRU":"День смеха",
+		"nameEN":"Fools' Day"
+	},
+	{	
+		"id":"1_april_2023",
+		"nameRU":"День смеха 2023",
+		"nameEN":"Fools' Day 2023"
+	},
+	{	
+		"id":"1_april_2024",
+		"nameRU":"День смеха 2024",
+		"nameEN":"Fools' Day 2024"
 	},
 	{	
 		"id":"halloween_2018",
@@ -174,89 +130,69 @@
 		"nameEN":"Halloween 2018"
 	},
 	{	
-		"id":"valentine's_day_2024",
-		"nameRU":"День святого Валентина 2024",
-		"nameEN":"Valentine's Day 2024"
+		"id":"halloween_2019-2020",
+		"nameRU":"Хеллоуин 2019-2020",
+		"nameEN":"Halloween 2019-2020"
 	},
 	{	
-		"id":"valentine's_day_2022",
-		"nameRU":"День святого Валентина 2022",
-		"nameEN":"Valentine's Day 2022"
+		"id":"halloween_2021",
+		"nameRU":"Хеллоуин 2021",
+		"nameEN":"Halloween 2021"
 	},
 	{	
-		"id":"valentine's_day_2020",
-		"nameRU":"День святого Валентина 2020",
-		"nameEN":"Valentine's Day 2020"
+		"id":"halloween_2022",
+		"nameRU":"Хеллоуин 2022",
+		"nameEN":"Halloween 2022"
 	},
 	{	
-		"id":"iron_days_2022",
-		"nameRU":"День защитника Отечества 2022",
-		"nameEN":"Iron days 2022"
+		"id":"halloween_2023",
+		"nameRU":"Хеллоуин 2023",
+		"nameEN":"Halloween 2023"
 	},
 	{	
-		"id":"iron_days_2018",
-		"nameRU":"День защитника Отечества 2018",
-		"nameEN":"Iron days 2018"
-	},
-	{	
-		"id":"may_holidays_2024",
-		"nameRU":"Майские праздники 2024",
-		"nameEN":"May holidays 2024"
+		"id":"ice_age_2023",
+		"nameRU":"Ледниковый период 2023",
+		"nameEN":"Ice Age 2023"
 	},
 	{	
 		"id":"may_holidays_2022",
 		"nameRU":"Майские праздники 2022",
-		"nameEN":"May holidays 2022"
+		"nameEN":"May Holidays 2022"
+	},
+	{	
+		"id":"may_holidays_2024",
+		"nameRU":"Майские праздники 2024",
+		"nameEN":"May Holidays 2024"
+	},
+	{	
+		"id":"new_year_2019",
+		"nameRU":"Новый Год 2019",
+		"nameEN":"New Year 2019"
+	},
+	{	
+		"id":"new_year_2022",
+		"nameRU":"Новый Год 2022",
+		"nameEN":"New Year 2022"
+	},
+	{	
+		"id":"new_year_2023",
+		"nameRU":"Новый Год 2023",
+		"nameEN":"New Year 2023"
+	},
+	{	
+		"id":"new_year_2024",
+		"nameRU":"Новый Год 2024",
+		"nameEN":"New Year 2024"
+	},
+	{	
+		"id":"spring_fever_2024",
+		"nameRU":"Весеннее обострение 2024",
+		"nameEN":"Spring Fever 2024"
 	},
 	{	
 		"id":"star_week",
 		"nameRU":"Звёздная неделя",
-		"nameEN":"Star week"
-	},
-	{	
-		"id":"8_march_2021",
-		"nameRU":"8 Марта 2021",
-		"nameEN":"8 March 2021"
-	},
-	{	
-		"id":"discount_weekend",
-		"nameRU":"Дисконт уикенд",
-		"nameEN":"Discount_weekend"
-	},
-	{	
-		"id":"cosmonautics_day_2024",
-		"nameRU":"День космонавтики 2024",
-		"nameEN":"Cosmonautics day 2024"
-	},
-	{	
-		"id":"cosmonautics_day_2023",
-		"nameRU":"День космонавтики 2023",
-		"nameEN":"Cosmonautics day 2023"
-	},
-	{	
-		"id":"cosmonautics_day",
-		"nameRU":"День космонавтики",
-		"nameEN":"Cosmonautics day"
-	},
-	{	
-		"id":"ufo_day_2023",
-		"nameRU":"День НЛО 2023",
-		"nameEN":"UFO day 2023"
-	},
-	{	
-		"id":"ufo_day_2022",
-		"nameRU":"День НЛО 2022",
-		"nameEN":"UFO day 2022"
-	},
-	{	
-		"id":"ufo_day_2021",
-		"nameRU":"День НЛО 2021",
-		"nameEN":"UFO day 2021"
-	},
-	{	
-		"id":"circus_day_2022",
-		"nameRU":"День цирка 2022",
-		"nameEN":"Circus day 2022"
+		"nameEN":"Star Week"
 	},
 	{	
 		"id":"summer_festival_2022-2023",
@@ -266,101 +202,124 @@
 	{	
 		"id":"summer_sale",
 		"nameRU":"Летняя распродажа",
-		"nameEN":"Summer sale"
+		"nameEN":"Summer Sale"
 	},
 	{	
-		"id":"ultra_weekend_2023_3",
-		"nameRU":"Ультра уикенд 2023 №3",
-		"nameEN":"Ultra weekend 2023 №3"
+		"id":"summer_sport_games_2021",
+		"name":"Summer Sport Games 2021"
 	},
 	{	
-		"id":"ultra_weekend_2023_2",
-		"nameRU":"Ультра уикенд 2023 №2",
-		"nameEN":"Ultra weekend 2023 №2"
+		"id":"summer_sport_games_2022",
+		"name":"Summer Sport Games 2022"
 	},
 	{	
-		"id":"ultra_weekend_2023",
-		"nameRU":"Ультра уикенд 2023",
-		"nameEN":"Ultra weekend 2023"
+		"id":"summer_sport_games_2023",
+		"name":"Summer Sport Games 2023"
+	},
+	{	
+		"id":"tanker's_day_2016",
+		"nameRU":"День танкиста 2016",
+		"nameEN":"Tanker's Day 2016"
+	},
+	{	
+		"id":"tanker's_day_2017-2020",
+		"nameRU":"День танкиста 2017-2020",
+		"nameEN":"Tanker's Day 2017-2020"
+	},
+	{	
+		"id":"tanker's_day_2021",
+		"nameRU":"День танкиста 2021",
+		"nameEN":"Tanker's Day 2021"
+	},
+	{	
+		"id":"tanker's_day_2022",
+		"nameRU":"День танкиста 2022",
+		"nameEN":"Tanker's Day 2022"
+	},
+	{	
+		"id":"tanker's_day_2023",
+		"nameRU":"День танкиста 2023",
+		"nameEN":"Tanker's Day 2023"
+	},
+	{	
+		"id":"12_years",
+		"nameRU":"День рождения ТО – 12 лет",
+		"nameEN":"TO Birthday – 12 years"
+	},
+	{	
+		"id":"13_years",
+		"nameRU":"День рождения ТО – 13 лет",
+		"nameEN":"TO Birthday – 13 years"
+	},
+	{	
+		"id":"14_years",
+		"nameRU":"День рождения ТО – 14 лет",
+		"nameEN":"TO Birthday – 14 years"
+	},
+	{	
+		"id":"15_years",
+		"nameRU":"День рождения ТО – 15 лет",
+		"nameEN":"TO Birthday – 15 years"
+	},
+	{	
+		"id":"ufo_day_2021",
+		"nameRU":"День НЛО 2021",
+		"nameEN":"UFO Day 2021"
+	},
+	{	
+		"id":"ufo_day_2022",
+		"nameRU":"День НЛО 2022",
+		"nameEN":"UFO Day 2022"
+	},
+	{	
+		"id":"ufo_day_2023",
+		"nameRU":"День НЛО 2023",
+		"nameEN":"UFO Day 2023"
 	},
 	{	
 		"id":"ultra_weekend_2020-2021",
 		"nameRU":"Ультра уикенд 2020-2021",
-		"nameEN":"Ultra weekend 2020-2021"
+		"nameEN":"Ultra Weekend 2020-2021"
 	},
 	{	
-		"id":"day_of_the_dead_2023",
-		"nameRU":"День духов 2023",
-		"nameEN":"Day of the Dead 2023"
+		"id":"ultra_weekend_2023",
+		"nameRU":"Ультра уикенд 2023",
+		"nameEN":"Ultra Weekend 2023"
 	},
 	{	
-		"id":"day_of_the_dead_2021",
-		"nameRU":"День духов 2021",
-		"nameEN":"Day of the Dead 2021"
+		"id":"ultra_weekend_2023_2",
+		"nameRU":"Ультра уикенд 2023 (№2)",
+		"nameEN":"Ultra Weekend 2023 (№2)"
 	},
 	{	
-		"id":"1_april",
-		"nameRU":"День смеха",
-		"nameEN":"1 April"
+		"id":"ultra_weekend_2023_3",
+		"nameRU":"Ультра уикенд 2023 (№3)",
+		"nameEN":"Ultra Weekend 2023 (№3)"
 	},
 	{	
-		"id":"1_april_2024",
-		"nameRU":"1 апреля 2024",
-		"nameEN":"1 April 2024"
+		"id":"valentine's_day_2020",
+		"nameRU":"День святого Валентина 2020",
+		"nameEN":"Valentine's Day 2020"
 	},
 	{	
-		"id":"1_april_2023",
-		"nameRU":"День смеха 2023",
-		"nameEN":"1 April 2023"
+		"id":"valentine's_day_2022",
+		"nameRU":"День святого Валентина 2022",
+		"nameEN":"Valentine's Day 2022"
+	},
+	{	
+		"id":"valentine's_day_2024",
+		"nameRU":"День святого Валентина 2024",
+		"nameEN":"Valentine's Day 2024"
+	},
+	{	
+		"id":"8_march_2021",
+		"nameRU":"Женский день 2021",
+		"nameEN":"Women's Day 2021"
 	},
 	{	
 		"id":"xi_clan_championship_2018",
-		"nameRU":"XI Межклановый Чемпионат 2018",
-		"nameEN":"XI Inter-clan Championship 2018"
-	},
-	{	
-		"id":"tx_antaeus",
-		"nameRU":"TankiX Антей",
-		"nameEN":"TankiX Antaeus"
-	},
-	{	
-		"id":"tx_frontier",
-		"nameRU":"TankiX Фронтир",
-		"nameEN":"TankiX Frontier"
-	},
-	{	
-		"id":"araumi",
-		"name":"Araumi"
-	},
-	{	
-		"id":"vint",
-		"name":"Vint"
-	},
-	{	
-		"id":"runet_award",
-		"nameRU":"Премия Рунета",
-		"nameEN":"Runet award"
-	},
-	{	
-		"id":"mashable_awards",
-		"name":"Mashable awards"
-	},
-	{	
-		"id":"mashable_awards_final",
-		"name":"Mashable awards final"
-	},
-	{	
-		"id":"fwa",
-		"name":"The FWA"
-	},
-	{	
-		"id":"volvo_club",
-		"nameRU":"Клуб Volvo",
-		"nameEN":"Volvo club"
-	},
-	{	
-		"id":"alternativaplatform",
-		"name":"AlternativaPlatform"
+		"nameRU":"XI Межклановый Чемпионат",
+		"nameEN":"XI Inter-clan Championship"
 	},
 	{	
 		"id":"alternativa",
@@ -371,8 +330,77 @@
 		"name":"Alternativa3d"
 	},
 	{	
+		"id":"alternativaplatform",
+		"name":"AlternativaPlatform"
+	},
+	{	
+		"id":"demolisher",
+		"nameRU":"Разрушитель",
+		"nameEN":"Demolisher"
+	},
+	{	
+		"id":"fwa",
+		"name":"FWA"
+	},
+	{	
+		"id":"grass",
+		"nameRU":"Трава",
+		"nameEN":"Grass"
+	},
+	{	
+		"id":"mashable_awards",
+		"name":"Mashable Awards"
+	},
+	{	
+		"id":"mashable_awards_final",
+		"nameRU":"Mashable Awards (финал)",
+		"nameEN":"Mashable Awards (final)"
+	},
+	{	
+		"id":"runet_award",
+		"nameRU":"Премия Рунета",
+		"nameEN":"Runet Award"
+	},
+	{	
 		"id":"vasya_was_here",
 		"nameRU":"Здесь был Вася",
 		"nameEN":"Vasya was here"
+	},
+	{	
+		"id":"volvo_club",
+		"nameRU":"Клуб «Volvo»",
+		"nameEN":"«Volvo» Club"
+	},
+	{	
+		"id":"araumi",
+		"name":"Araumi"
+	},
+	{	
+		"id":"tlvk_reload",
+		"name":"TLVK: RELOAD"
+	},
+	{	
+		"id":"tlvk_reload_4_years",
+		"nameRU":"TLVK: RELOAD (4 года)",
+		"nameEN":"TLVK: RELOAD (4 years)"
+	},
+	{	
+		"id":"tlvk_reload_old",
+		"nameRU":"TLVK: RELOAD (старый)",
+		"nameEN":"TLVK: RELOAD (old)"
+	},
+	{	
+		"id":"vint",
+		"name":"Vint"
+	},
+	{	
+		"id":"tx_antaeus",
+		"nameRU":"Антей (Tanki X)",
+		"nameEN":"Antaeus (Tanki X)"
+	},
+	{	
+		"id":"tx_frontier",
+		"nameRU":"Фронтир (Tanki X)",
+		"nameEN":"Frontier (Tanki X)"
 	}
 ]

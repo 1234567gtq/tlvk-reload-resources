@@ -2619,6 +2619,13 @@
 	"descriptionEN":"Paint designed for \"NooBest\" fans."
 },
 {
+	"id":"nostalgia",
+	"nameRU":"Ностальгия",
+	"nameEN":"Nostalgia",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
 	"id":"nuclear_sun",
 	"nameRU":"Ядерное солнце",
 	"nameEN":"Nuclear Sun",
@@ -5237,7 +5244,7 @@
 {
 	"id":"apple_company",
 	"nameRU":"Компания «Apple»",
-	"nameEN":"\"Apple\" company",
+	"nameEN":"«Apple» company",
 	"description":"TODO"
 },
 {
@@ -5267,6 +5274,24 @@
 	"id":"jokerge",
 	"nameRU":"УВЫ",
 	"nameEN":"Jokerge",
+	"description":"TODO"
+},
+{
+	"id":"mono_black",
+	"nameRU":"Моно Чёрный",
+	"nameEN":"Mono Black",
+	"description":"TODO"
+},
+{
+	"id":"mono_metallic",
+	"nameRU":"Моно Металлик",
+	"nameEN":"Mono Metallic",
+	"description":"TODO"
+},
+{
+	"id":"mono_white",
+	"nameRU":"Моно Белый",
+	"nameEN":"Mono White",
 	"description":"TODO"
 },
 {

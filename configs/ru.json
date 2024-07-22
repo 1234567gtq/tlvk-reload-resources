@@ -13,7 +13,7 @@
 	"ULTIMATE_CHARACTERISTICS":"Характеристики овердрайва",
 	"WEAPON_CHARACTERISTICS":"Характеристики выстрела",
 	
-	"LOADING":"Загрузка...",
+	"LOADING...":"ЗАГРУЗКА...",
 	"TIP_0":"Проект был основан в 2020 году и включал в себя очень мало контента",
 	"TIP_1":"Раньше проект назывался «TLVK TOP» и не получал новый функционал из «Танков Онлайн»",
 	"TIP_2":"Обновление «2.5» — ребрендинг и начало ряда обновлений по «перезагрузке» этого проекта",
@@ -34,6 +34,18 @@
 	"TIP_17":"Ошибки и баги — неотъемлемая часть живого проекта. Каждая проблема со временем решается",
 	"TIP_18":"Никому не говори свой пароль! Иначе потеряешь аккаунт навсегда",
 	"TIP_19":"Ты не управляешь танком — ты и есть танк!",
+	
+	"HEADER_MAP_LIST":"СПИСОК КАРТ",
+	"HEADER_SELECTED_MAP":"ВЫБРАННАЯ КАРТА",
+	"THEME":"Тема",
+	"SKYBOX":"Небо",
+	"BILLBOARD":"Билборд",
+	"OPEN_OWN_MAP":"Открыть свою карту",
+	"PLAY":"Играть",
+	"SEARCH:":"Поиск:",
+	"FILE_FILTER_DESCRIPTION":"Карта XML",
+	
+	
 	
 	"HEADER_RANK_UP":"ЗВАНИЯ",
 	"PREMIUM":"Премиум",
@@ -79,14 +91,10 @@
 	"ALERT_CLEAR_STORAGE":"Для очистки необходим перезапуск. Продолжить?",
 	"ALERT_EXIT_FROM_BATTLE":"Покинуть битву?",
 	
-	"MAP_LIST":"СПИСОК КАРТ",
-	"SELECTED_MAP":"ВЫБРАННАЯ КАРТА",
 	
-	"THEME":"Тема",
-	"SKYBOX":"Небо",
-	"BILLBOARD":"Билборд",
-	"PLAY":"Играть",
-	"SEARCH":"Поиск",
+	
+	
+	"TIME_SCALE":"Масштаб времени",
 	"CAMERA_MODE":"Режим камеры",
 	"SPECTATOR":"спектатор",
 	"FOLLOW":"за танком",
@@ -160,22 +168,43 @@
 	
 	"RANGE":"Дальность (см)",
 	"CONE_ANGLE":"Угол конуса (рад)",
+	"TEMPERATURE_LIMIT":"Ограничение на температуру (усл. ед.)",
+	"ENERGY_RESERVE":"Энергозапас (усл. ед.)",
+	"ENERGY_DISCHARGE_RATE":"Расход энергии (усл. ед./с)",
+	"ENERGY_RECHARGE_RATE_SEC":"Производство энергии (усл. ед./с)",
+	"CRITICAL_HIT_CHANCE":"Шанс критического урона (%)",
+	"ENERGY_DISCHARGE_IDLE_RATE":"Расход энергии в холостом режиме (усл. ед./с)",
+	"ENERGY_DISCHARGE_DAMAGE_RATE":"Расход энергии в режиме атаки (усл. ед./с)",
+	"RELOAD_TIME":"Время перезарядки (мс)",
+	"SHELL_PREPARING_TIME":"Время подготовки снаряда (мс)",
+	"LIGHTNING_PERIOD":"Частота молний (мс)",
+	"RADIUS_OF_ADDING_AN_OBJECT_TO_THE_CHAIN":"Радиус добавления объекта в цепочку (см)",
+	"SHELL_RECOIL_FORCE":"Сила отдачи снаряда (усл. ед.)",
+	"SHELL_IMPACT_FORCE":"Cила удара снаряда (усл. ед.)",
+	"SHELL_SPEED":"Скорость снаряда (см/с)",
+	"SHELL_RADIUS":"Радиус снаряда (см)",
+	"MAX_RICOCHET_ANGLE":"Максимальный угол рикошета (рад)",
+	"MAX_RICOCHET_COUNT":"Максимальное число рикошетов",
+	
+	
+	
+	
 	"CONE_HORIZONTAL_ANGLE":"Горизонтальный угол разброса (рад)",
 	"CONE_VERTICAL_ANGLE":"Вертикальный угол разброса (рад)",
-	"SHELL_IMPACT_FORCE":"Cила удара снаряда (усл. ед.)",
+	
 	"ROCKET_IMPACT_FORCE":"Cила удара ракеты (усл. ед.)",
 	"MAGAZINE_RELOAD_TIME":"Время перезарядки магазина (мс)",
 	"MAGAZINE_SIZE":"Размер магазина",
 	"PELLET_COUNT":"Количество дробинок",
-	"SHELL_RECOIL_FORCE":"Сила отдачи снаряда (усл. ед.)",
+	
 	"ROCKET_RECOIL_FORCE":"Сила отдачи ракеты (усл. ед.)",
-	"RELOAD_TIME":"Время перезарядки (мс)",
-	"SHELL_RADIUS":"Радиус снаряда (см)",
+	
+	
 	"ROCKET_RADIUS":"Радиус ракеты (см)",
-	"SHELL_SPEED":"Скорость снаряда (см/с)",
-	"MAX_RICOCHET_COUNT":"Максимальное число рикошетов",
-	"MAX_RICOCHET_ANGLE":"Максимальный угол рикошета (рад)",
-	"CRITICAL_HIT_CHANCE":"Шанс критического выстрела (%)",
+	
+	
+	
+	
 	"ANGULAR_ROCKET_VELOCITY":"Угловая скорость ракеты (см/с)",
 	"ROCKET_BOOST_PHASE_DURATION":"Время ускорения ракеты (мс)",
 	"MAX_SHELL_SPEED":"Максимальная скорость снаряда (см/с)",
@@ -196,21 +225,20 @@
 	"SPIN_DOWN_TIME":"Время остановки стволов (мс)",
 	"TEMPERATURE_HITTING_TIME":"Время до перегрева (мс)",
 	"TURRET_TURN_DECELERATION_COEFF":"Замедление поворота башни (%)",
-	"ENERGY_RESERVE":"Энергозапас (усл. ед.)",
+	
 	"ENERGY_PER_SHOT":"Энергия на выстрел (усл. ед.)",
 	"ENERGY_RECHARGE_RATE_MS":"Скорость зарядки энергии (усл. ед./мс)",
-	"ENERGY_RECHARGE_RATE_SEC":"Скорость зарядки энергии (усл. ед./с)",
-	"DISCHARGE_DAMAGE_RATE":"Расход энергии в режиме атаки (усл. ед./с)",
-	"DISCHARGE_IDLE_RATE":"Расход энергии в холостом режиме (усл. ед./с)",
-	"DISCHARGE_RATE":"Расход энергии (усл. ед./с)",
+	
+	
+	
 	"FAST_SHOT_ENERGY":"Энергия на выстрел навскидку (усл. ед.)",
 	"MIN_AIMED_SHOT_ENERGY":"Минимальная энергия на прицельный выстрел (усл. ед.)",
 	"HORIZONTAL_TARGETING_SPEED":"Скорость прицеливания по горизонтали (рад/с)",
 	"VERTICAL_TARGETING_SPEED":"Скорость прицеливания по вертикали (рад/с)",
 	"TARGETING_ACCELERATION":"Ускорение поворота в прицельном состоянии (рад/с²)",
-	"LIGHTNING_PERIOD":"Частота молний (мс)",
-	"SHELL_PREPARING_TIME":"Время подготовки снаряда (мс)",
-	"RADIUS_OF_ADDING_AN_OBJECT_TO_THE_CHAIN":"Радиус добавления объекта в цепочку (см)",
+	
+	
+	
 	
 	"SHOW_DROP_ZONES":"Показывать зоны ящиков",
 	"ALTERNATE_CAMERA":"Альтернативное поведение камеры",
@@ -271,7 +299,6 @@
 	"GAME_ACTION_FLIP_TANK":"Перевернуть танк",
 	"GAME_ACTION_RESTORE_TANK_STATE":"Восстановить положение танка",
 	"GAME_ACTION_MOVE_TANK_TO_CURSOR_POSITION":"Телепорт по курсору мыши",
-	"GAME_ACTION_TOGGLE_TYPE_DRONE":"Локальный/удаленный дрон",
 	"GAME_ACTION_TOGGLE_VISIBLE_DRONE":"Показать/скрыть дрон",
 	
 	"GAME_ACTION_USE_MINE":"Использовать мину",
@@ -291,5 +318,7 @@
 	"GAME_ACTION_CAMERA_UP":"Поднять камеру",
 	"GAME_ACTION_CAMERA_DOWN":"Опустить камеру",
 	"GAME_ACTION_SAVE_BOOKMARK":"Сохранить положение камеры в спектаторе",
-	"GAME_ACTION_SELECT_BOOKMARK":"Переключить положение камеры в спектаторе"
+	"GAME_ACTION_SELECT_BOOKMARK":"Переключить положение камеры в спектаторе",
+	"GAME_ACTION_SPEED_UP_TIME":"Ускорить время",
+	"GAME_ACTION_SLOW_DOWN_TIME":"Замедлить время"
 }

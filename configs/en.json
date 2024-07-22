@@ -13,7 +13,7 @@
 	"ULTIMATE_CHARACTERISTICS":"Ultimate characteristics",
 	"WEAPON_CHARACTERISTICS":"Weapon characteristics",
 	
-	"LOADING":"Loading...",
+	"LOADING...":"LOADING...",
 	"TIP_0":"The project was founded in 2020 and included very little content",
 	"TIP_1":"Previously, the project was called «TLVK TOP» and didn't receive new functionality from «Tanki Online»",
 	"TIP_2":"Update «2.5» - rebranding and the beginning of a series of updates on the «reload» of this project",
@@ -34,6 +34,19 @@
 	"TIP_17":"Errors and bugs are an integral part of any active project. All problems will be solved, in time",
 	"TIP_18":"Don't tell your password to anyone! Otherwise you will lose your account forever",
 	"TIP_19":"You don't drive a tank - you are the tank!",
+	
+	"HEADER_MAP_LIST":"MAP LIST",
+	"HEADER_SELECTED_MAP":"SELECTED MAP",
+	"THEME":"Theme",
+	"SKYBOX":"Skybox",
+	"BILLBOARD":"Billboard",
+	"OPEN_OWN_MAP":"Open own map",
+	"PLAY":"Play",
+	"SEARCH:":"Search:",
+	"FILE_FILTER_DESCRIPTION":"XML map",
+	
+	
+	
 	
 	"HEADER_RANK_UP":"RANKS",
 	"PREMIUM":"Premium",
@@ -79,14 +92,10 @@
 	"ALERT_CLEAR_STORAGE":"A restart is required to clean up. Continue?",
 	"ALERT_EXIT_FROM_BATTLE":"Leave the battle?",
 	
-	"MAP_LIST":"MAP LIST",
-	"SELECTED_MAP":"SELECTED MAP",
 	
-	"THEME":"Theme",
-	"SKYBOX":"Skybox",
-	"BILLBOARD":"Billboard",
-	"PLAY":"Play",
-	"SEARCH":"Search",
+	
+	
+	"TIME_SCALE":"Time scale",
 	"CAMERA_MODE":"Camera mode",
 	"SPECTATOR":"spectator",
 	"FOLLOW":"follow",
@@ -155,22 +164,48 @@
 	
 	"RANGE":"Range (cm)",
 	"CONE_ANGLE":"Cone angle (rad)",
+	"TEMPERATURE_LIMIT":"Temperature limit (cond. units)",
+	"ENERGY_RESERVE":"Energy reserve (cond. units)",
+	"ENERGY_DISCHARGE_RATE":"Energy consumption (cond. units/s)",
+	"ENERGY_RECHARGE_RATE_SEC":"Energy production (cond. units/s)",
+	"CRITICAL_HIT_CHANCE":"Chance of critical damage (%)",
+	"ENERGY_DISCHARGE_IDLE_RATE":"Energy consumption when idle shooting (cond. units/s)",
+	"ENERGY_DISCHARGE_DAMAGE_RATE":"Energy consumption when attacking (cond. units/s)",
+	"RELOAD_TIME":"Reload time (ms)",
+	"SHELL_PREPARING_TIME":"Shell preparing time (ms)",
+	"LIGHTNING_PERIOD":"Lightning period (ms)",
+	"RADIUS_OF_ADDING_AN_OBJECT_TO_THE_CHAIN":"Radius of adding an object to the chain (cm)",
+	"SHELL_RECOIL_FORCE":"Shell recoil force (cond. units)",
+	"SHELL_IMPACT_FORCE":"Shell impact force (cond. units)",
+	"SHELL_SPEED":"Shell speed (cm/s)",
+	"SHELL_RADIUS":"Shell radius (cm)",
+	"MAX_RICOCHET_ANGLE":"Max ricochet angle (rad)",
+	"MAX_RICOCHET_COUNT":"Max ricochet count",
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	"CONE_HORIZONTAL_ANGLE":"Horizontal spreading degree (rad)",
 	"CONE_VERTICAL_ANGLE":"Vertical spreading degree (rad)",
-	"SHELL_IMPACT_FORCE":"Shell impact force (cond. units)",
+	
 	"ROCKET_IMPACT_FORCE":"Rocket impact force (cond. units)",
 	"MAGAZINE_RELOAD_TIME":"Magazine reload time (ms)",
 	"MAGAZINE_SIZE":"Magazine size",
 	"PELLET_COUNT":"Pellet count",
-	"SHELL_RECOIL_FORCE":"Shell recoil force (cond. units)",
+	
 	"ROCKET_RECOIL_FORCE":"Rocket recoil force (cond. units)",
-	"RELOAD_TIME":"Reload time (ms)",
-	"SHELL_RADIUS":"Shell radius (cm)",
+	
+	
 	"ROCKET_RADIUS":"Rocket radius (cm)",
-	"SHELL_SPEED":"Shell speed (cm/s)",
-	"MAX_RICOCHET_COUNT":"Max ricochet count",
-	"MAX_RICOCHET_ANGLE":"Max ricochet angle (rad)",
-	"CRITICAL_HIT_CHANCE":"Critical hit chance (%)",
+	
+	
+	
+	
 	"ANGULAR_ROCKET_VELOCITY":"Angular rocket velocity (cm/s)",
 	"ROCKET_BOOST_PHASE_DURATION":"Rocket accelerating time (ms)",
 	"MAX_SHELL_SPEED":"Max shell speed (cm/s)",
@@ -191,21 +226,21 @@
 	"SPIN_DOWN_TIME":"Barrels stopping time (ms)",
 	"TEMPERATURE_HITTING_TIME":"Time to overheat (ms)",
 	"TURRET_TURN_DECELERATION_COEFF":"Turret turning speed slowing (%)",
-	"ENERGY_RESERVE":"Energy reserve (cond. units)",
+	
 	"ENERGY_PER_SHOT":"Energy per shot (cond. units)",
 	"ENERGY_RECHARGE_RATE_MS":"Energy recharge rate (cond. units/ms)",
-	"ENERGY_RECHARGE_RATE_SEC":"Energy recharge rate (cond. units/sec)",
-	"DISCHARGE_DAMAGE_RATE":"Energy consumption when attacking (cond. units/sec)",
-	"DISCHARGE_IDLE_RATE":"Energy consumption when idle shooting (cond. units/sec)",
-	"DISCHARGE_RATE":"Energy consumption (cond. units/sec)",
+	
+	
+	
+	
 	"FAST_SHOT_ENERGY":"Energy used per arcade shot (cond. units)",
 	"MIN_AIMED_SHOT_ENERGY":"Minimum energy used per sniping shot (cond. units)",
 	"HORIZONTAL_TARGETING_SPEED":"Horizontal aiming speed (rad/s)",
 	"VERTICAL_TARGETING_SPEED":"Vertical aiming speed (rad/s)",
 	"TARGETING_ACCELERATION":"Turning acceleration in sniping mode (rad/s²)",
-	"LIGHTNING_PERIOD":"Lightning period (ms)",
-	"SHELL_PREPARING_TIME":"Shell preparing time (ms)",
-	"RADIUS_OF_ADDING_AN_OBJECT_TO_THE_CHAIN":"Radius of adding an object to the chain (cm)",
+	
+	
+	
 	
 	"CLOSE":"Close",
 	"EQUIP":"Equip",
@@ -272,7 +307,6 @@
 	"GAME_ACTION_FLIP_TANK":"Flip tank",
 	"GAME_ACTION_RESTORE_TANK_STATE":"Restore tank position",
 	"GAME_ACTION_MOVE_TANK_TO_CURSOR_POSITION":"Teleport by mouse cursor",
-	"GAME_ACTION_TOGGLE_TYPE_DRONE":"Local/remote drone",
 	"GAME_ACTION_TOGGLE_VISIBLE_DRONE":"Show/hide drone",
 	
 	"GAME_ACTION_USE_MINE":"Drop Mine",
@@ -292,5 +326,7 @@
 	"GAME_ACTION_CAMERA_UP":"Move camera up",
 	"GAME_ACTION_CAMERA_DOWN":"Move camera down",
 	"GAME_ACTION_SAVE_BOOKMARK":"Save camera position in spectator",
-	"GAME_ACTION_SELECT_BOOKMARK":"Switch camera position in spectator"
+	"GAME_ACTION_SELECT_BOOKMARK":"Switch camera position in spectator",
+	"GAME_ACTION_SPEED_UP_TIME":"Speed ​​up time",
+	"GAME_ACTION_SLOW_DOWN_TIME":"Slow down time"
 }

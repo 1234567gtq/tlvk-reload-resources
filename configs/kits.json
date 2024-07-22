@@ -16,6 +16,14 @@
 		"paintId":"invader"
 	},
 	{
+		"id":"keeper",
+		"nameRU":"Хранитель",
+		"nameEN":"Keeper",
+		"hullId":"titan", "hullSkinId":"m1",
+		"turretId":"smoky", "turretSkinId":"m1",
+		"paintId":"chainmail"
+	},
+	{
 		"id":"lizard",
 		"nameRU":"Ящер",
 		"nameEN":"Lizard",
@@ -24,12 +32,12 @@
 		"paintId":"dragon"
 	},
 	{
-		"id":"keeper",
-		"nameRU":"Хранитель",
-		"nameEN":"Keeper",
-		"hullId":"titan", "hullSkinId":"m1",
-		"turretId":"smoky", "turretSkinId":"m1",
-		"paintId":"chainmail"
+		"id":"vampire",
+		"nameRU":"Вампир",
+		"nameEN":"Vampire",
+		"hullId":"wasp", "hullSkinId":"m1",
+		"turretId":"isida", "turretSkinId":"m1",
+		"paintId":"mary"
 	},
 	{
 		"id":"savage",
@@ -48,12 +56,12 @@
 		"paintId":"carbon"
 	},
 	{
-		"id":"vampire",
-		"nameRU":"Вампир",
-		"nameEN":"Vampire",
+		"id":"sting",
+		"nameRU":"Жало",
+		"nameEN":"Sting",
 		"hullId":"wasp", "hullSkinId":"m1",
-		"turretId":"isida", "turretSkinId":"m1",
-		"paintId":"mary"
+		"turretId":"gauss", "turretSkinId":"m1",
+		"paintId":"loam"
 	},
 	{
 		"id":"cupid",
@@ -72,12 +80,28 @@
 		"paintId":"chainmail"
 	},
 	{
+		"id":"ragnar",
+		"nameRU":"Рагнар",
+		"nameEN":"Ragnar",
+		"hullId":"viking", "hullSkinId":"m1",
+		"turretId":"gauss", "turretSkinId":"m1",
+		"paintId":"digital"
+	},
+	{
 		"id":"striker",
 		"nameRU":"Страйкер",
 		"nameEN":"Striker",
 		"hullId":"viking", "hullSkinId":"m1",
 		"turretId":"smoky", "turretSkinId":"m1",
 		"paintId":"swash"
+	},
+	{
+		"id":"dark_energy",
+		"nameRU":"Тёмная энергия",
+		"nameEN":"Dark Energy",
+		"hullId":"viking", "hullSkinId":"m1",
+		"turretId":"ricochet", "turretSkinId":"m1",
+		"paintId":"alien"
 	},
 	{
 		"id":"bulldog",
@@ -94,6 +118,14 @@
 		"hullId":"hornet", "hullSkinId":"m1",
 		"turretId":"freeze", "turretSkinId":"m1",
 		"paintId":"storm"
+	},
+	{
+		"id":"a_quick_death",
+		"nameRU":"Быстрая смерть",
+		"nameEN":"A Quick Death",
+		"hullId":"hornet", "hullSkinId":"m1",
+		"turretId":"gauss", "turretSkinId":"m1",
+		"paintId":"pixel"
 	},
 	{
 		"id":"unicorn",
@@ -184,12 +216,28 @@
 		"paintId":"corrosion"
 	},
 	{
+		"id":"jester",
+		"nameRU":"Шут",
+		"nameEN":"Jester",
+		"hullId":"dictator", "hullSkinId":"m1",
+		"turretId":"gauss", "turretSkinId":"m1",
+		"paintId":"harlequin"
+	},
+	{
 		"id":"fighter",
 		"nameRU":"Истребитель",
 		"nameEN":"Fighter",
 		"hullId":"hornet", "hullSkinId":"m1",
 		"turretId":"twins", "turretSkinId":"m1",
 		"paintId":"desert"
+	},
+	{
+		"id":"corsair",
+		"nameRU":"Корсар",
+		"nameEN":"Corsair",
+		"hullId":"viking", "hullSkinId":"m1",
+		"turretId":"twins", "turretSkinId":"m1",
+		"paintId":"roger"
 	},
 	{
 		"id":"archer",
@@ -206,6 +254,14 @@
 		"hullId":"viking", "hullSkinId":"m1",
 		"turretId":"thunder", "turretSkinId":"m1",
 		"paintId":"pixel"
+	},
+	{
+		"id":"musketeer",
+		"nameRU":"Мушкетёр",
+		"nameEN":"Musketeer",
+		"hullId":"hunter", "hullSkinId":"m1",
+		"turretId":"gauss", "turretSkinId":"m1",
+		"paintId":"rustle"
 	},
 	{
 		"id":"rocketeer",
@@ -232,14 +288,6 @@
 		"paintId":"jaguar"
 	},
 	{
-		"id":"corsair",
-		"nameRU":"Корсар",
-		"nameEN":"Corsair",
-		"hullId":"viking", "hullSkinId":"m1",
-		"turretId":"twins", "turretSkinId":"m1",
-		"paintId":"roger"
-	},
-	{
 		"id":"siberian",
 		"nameRU":"Сибиряк",
 		"nameEN":"Siberian",
@@ -254,6 +302,14 @@
 		"hullId":"hunter", "hullSkinId":"m1",
 		"turretId":"isida", "turretSkinId":"m2",
 		"paintId":"sakura"
+	},
+	{
+		"id":"dove",
+		"nameRU":"Голубь",
+		"nameEN":"Dove",
+		"hullId":"hornet", "hullSkinId":"m2",
+		"turretId":"gauss", "turretSkinId":"m2",
+		"paintId":"picasso"
 	},
 	{
 		"id":"avalanche",
@@ -296,6 +352,14 @@
 		"paintId":"sandstone"
 	},
 	{
+		"id":"lord",
+		"nameRU":"Повелитель",
+		"nameEN":"Lord",
+		"hullId":"dictator", "hullSkinId":"m2",
+		"turretId":"gauss", "turretSkinId":"m2",
+		"paintId":"jeans"
+	},
+	{
 		"id":"tornado",
 		"nameRU":"Торнадо",
 		"nameEN":"Tornado",
@@ -312,6 +376,14 @@
 		"paintId":"digital"
 	},
 	{
+		"id":"pitbull",
+		"nameRU":"Питбуль",
+		"nameEN":"Pitbull",
+		"hullId":"hunter", "hullSkinId":"m2",
+		"turretId":"hammer", "turretSkinId":"m2",
+		"paintId":"atom"
+	},
+	{
 		"id":"simoom",
 		"nameRU":"Самум",
 		"nameEN":"Simoom",
@@ -320,12 +392,12 @@
 		"paintId":"sandstone"
 	},
 	{
-		"id":"pitbull",
-		"nameRU":"Питбуль",
-		"nameEN":"Pitbull",
+		"id":"dancer",
+		"nameRU":"Танцор",
+		"nameEN":"Dancer",
 		"hullId":"hunter", "hullSkinId":"m2",
-		"turretId":"hammer", "turretSkinId":"m2",
-		"paintId":"atom"
+		"turretId":"gauss", "turretSkinId":"m2",
+		"paintId":"disco"
 	},
 	{
 		"id":"fireworks",
@@ -336,6 +408,14 @@
 		"paintId":"spark"
 	},
 	{
+		"id":"pirate",
+		"nameRU":"Пират",
+		"nameEN":"Pirate",
+		"hullId":"mammoth", "hullSkinId":"m2",
+		"turretId":"gauss", "turretSkinId":"m2",
+		"paintId":"roger"
+	},
+	{
 		"id":"mountain",
 		"nameRU":"Гора",
 		"nameEN":"Mountain",
@@ -343,6 +423,576 @@
 		"turretId":"vulcan", "turretSkinId":"m2",
 		"paintId":"blacksmith"
 	},
+	{
+		"id":"chiropractor",
+		"nameRU":"Костоправ",
+		"nameEN":"Chiropractor",
+		"hullId":"hunter", "hullSkinId":"m2",
+		"turretId":"shaft", "turretSkinId":"m2",
+		"paintId":"loam"
+	},
+	{
+		"id":"fortress",
+		"nameRU":"Крепость",
+		"nameEN":"Fortress",
+		"hullId":"mammoth", "hullSkinId":"m2",
+		"turretId":"thunder", "turretSkinId":"m2",
+		"paintId":"rustle"
+	},
+	{
+		"id":"firewall",
+		"nameRU":"Огненная стена",
+		"nameEN":"Firewall",
+		"hullId":"hunter", "hullSkinId":"m2",
+		"turretId":"flamethrower", "turretSkinId":"m2",
+		"paintId":"hohloma"
+	},
+	{
+		"id":"stalker",
+		"nameRU":"Сталкер",
+		"nameEN":"Stalker",
+		"hullId":"hunter", "hullSkinId":"m2",
+		"turretId":"striker", "turretSkinId":"m2",
+		"paintId":"jeans"
+	},
+	{
+		"id":"cyclops",
+		"nameRU":"Циклоп",
+		"nameEN":"Cyclops",
+		"hullId":"mammoth", "hullSkinId":"m2",
+		"turretId":"shaft", "turretSkinId":"m2",
+		"paintId":"hohloma"
+	},
+	{
+		"id":"annihilator",
+		"nameRU":"Аннигилятор",
+		"nameEN":"Annihilator",
+		"hullId":"viking", "hullSkinId":"m2",
+		"turretId":"thunder", "turretSkinId":"m2",
+		"paintId":"atom"
+	},
+	{
+		"id":"ballista",
+		"nameRU":"Баллиста",
+		"nameEN":"Ballista",
+		"hullId":"hunter", "hullSkinId":"m2",
+		"turretId":"magnum", "turretSkinId":"m2",
+		"paintId":"lead"
+	},
+	{
+		"id":"vesuvius",
+		"nameRU":"Везувий",
+		"nameEN":"Vesuvius",
+		"hullId":"viking", "hullSkinId":"m2",
+		"turretId":"vulcan", "turretSkinId":"m2",
+		"paintId":"blacksmith"
+	},
+	{
+		"id":"hyacinth",
+		"nameRU":"Гиацинт",
+		"nameEN":"Hyacinth",
+		"hullId":"mammoth", "hullSkinId":"m2",
+		"turretId":"magnum", "turretSkinId":"m2",
+		"paintId":"soft_flowers"
+	},
+	{
+		"id":"glaze",
+		"nameRU":"Гололёд",
+		"nameEN":"Glaze",
+		"hullId":"viking", "hullSkinId":"m2",
+		"turretId":"hammer", "turretSkinId":"m2",
+		"paintId":"winter"
+	},
+	{
+		"id":"jam",
+		"nameRU":"Джем",
+		"nameEN":"Jam",
+		"hullId":"dictator", "hullSkinId":"m2",
+		"turretId":"twins", "turretSkinId":"m2",
+		"paintId":"cherry"
+	},
+	{
+		"id":"minotaur",
+		"nameRU":"Минотавр",
+		"nameEN":"Minotaur",
+		"hullId":"viking", "hullSkinId":"m2",
+		"turretId":"twins", "turretSkinId":"m2",
+		"paintId":"rhino"
+	},
+	{
+		"id":"raider",
+		"nameRU":"Налётчик",
+		"nameEN":"Raider",
+		"hullId":"viking", "hullSkinId":"m2",
+		"turretId":"striker", "turretSkinId":"m2",
+		"paintId":"grasslands"
+	},
+	{
+		"id":"excalibur",
+		"nameRU":"Экскалибур",
+		"nameEN":"Excalibur",
+		"hullId":"viking", "hullSkinId":"m2",
+		"turretId":"magnum", "turretSkinId":"m2",
+		"paintId":"disco"
+	},
+	{
+		"id":"atlas",
+		"nameRU":"Атлант",
+		"nameEN":"Atlas",
+		"hullId":"titan", "hullSkinId":"m2",
+		"turretId":"smoky", "turretSkinId":"m2",
+		"paintId":"loam"
+	},
+	{
+		"id":"northerner",
+		"nameRU":"Варяг",
+		"nameEN":"Northerner",
+		"hullId":"viking", "hullSkinId":"m2",
+		"turretId":"smoky", "turretSkinId":"m2",
+		"paintId":"winter"
+	},
+	{
+		"id":"firebolt",
+		"nameRU":"Всполох",
+		"nameEN":"Firebolt",
+		"hullId":"wasp", "hullSkinId":"m2",
+		"turretId":"flamethrower", "turretSkinId":"m2",
+		"paintId":"rustle"
+	},
+	{
+		"id":"mosquito",
+		"nameRU":"Комар",
+		"nameEN":"Mosquito",
+		"hullId":"wasp", "hullSkinId":"m2",
+		"turretId":"railgun", "turretSkinId":"m2",
+		"paintId":"savanna"
+	},
+	{
+		"id":"ram",
+		"nameRU":"Таран",
+		"nameEN":"Ram",
+		"hullId":"titan", "hullSkinId":"m2",
+		"turretId":"twins", "turretSkinId":"m2",
+		"paintId":"rhino"
+	},
+	{
+		"id":"eradicator",
+		"nameRU":"Терминатор",
+		"nameEN":"Eradicator",
+		"hullId":"titan", "hullSkinId":"m2",
+		"turretId":"striker", "turretSkinId":"m2",
+		"paintId":"prodigi"
+	},
+	{
+		"id":"aborigine",
+		"nameRU":"Туземец",
+		"nameEN":"Aborigine",
+		"hullId":"hunter", "hullSkinId":"m2",
+		"turretId":"smoky", "turretSkinId":"m2",
+		"paintId":"savanna"
+	},
+	{
+		"id":"guard",
+		"nameRU":"Часовой",
+		"nameEN":"Guard",
+		"hullId":"titan", "hullSkinId":"m2",
+		"turretId":"thunder", "turretSkinId":"m2",
+		"paintId":"urban"
+	},
+	{
+		"id":"annihilation",
+		"nameRU":"Аннигиляция",
+		"nameEN":"Annihilation",
+		"hullId":"wasp", "hullSkinId":"m3",
+		"turretId":"gauss", "turretSkinId":"m3",
+		"paintId":"inferno"
+	},
+	{
+		"id":"bertha",
+		"nameRU":"Берта",
+		"nameEN":"Bertha",
+		"hullId":"mammoth", "hullSkinId":"m3",
+		"turretId":"magnum", "turretSkinId":"m3",
+		"paintId":"sweater"
+	},
+	{
+		"id":"boreas",
+		"nameRU":"Борей",
+		"nameEN":"Boreas",
+		"hullId":"wasp", "hullSkinId":"m3",
+		"turretId":"freeze", "turretSkinId":"m3",
+		"paintId":"taiga"
+	},
+	{
+		"id":"bulldozer",
+		"nameRU":"Бульдозер",
+		"nameEN":"Bulldozer",
+		"hullId":"mammoth", "hullSkinId":"m3",
+		"turretId":"thunder", "turretSkinId":"m3",
+		"paintId":"emerald"
+	},
+	{
+		"id":"bulldozer_old",
+		"nameRU":"Бульдозер (старый)",
+		"nameEN":"Bulldozer (old)",
+		"hullId":"mammoth", "hullSkinId":"m2",
+		"turretId":"thunder", "turretSkinId":"m3",
+		"paintId":"emerald"
+	},
+	{
+		"id":"vandal",
+		"nameRU":"Вандал",
+		"nameEN":"Vandal",
+		"hullId":"hunter", "hullSkinId":"m3",
+		"turretId":"twins", "turretSkinId":"m3",
+		"paintId":"graffiti"
+	},
+	{
+		"id":"man_o_war",
+		"nameRU":"Воин",
+		"nameEN":"Man-o-War",
+		"hullId":"hornet", "hullSkinId":"m3",
+		"turretId":"thunder", "turretSkinId":"m3",
+		"paintId":"mars"
+	},
+	{
+		"id":"invasion",
+		"nameRU":"Вторжение",
+		"nameEN":"Invasion",
+		"hullId":"hunter", "hullSkinId":"m3",
+		"turretId":"gauss", "turretSkinId":"m3",
+		"paintId":"alien"
+	},
+	{
+		"id":"stormbringer",
+		"nameRU":"Громовержец",
+		"nameEN":"Stormbringer",
+		"hullId":"dictator", "hullSkinId":"m3",
+		"turretId":"vulcan", "turretSkinId":"m3",
+		"paintId":"zeus"
+	},
+	{
+		"id":"gustav",
+		"nameRU":"Густав",
+		"nameEN":"Gustav",
+		"hullId":"titan", "hullSkinId":"m3",
+		"turretId":"magnum", "turretSkinId":"m3",
+		"paintId":"jeans"
+	},
+	{
+		"id":"huntsman",
+		"nameRU":"Егерь",
+		"nameEN":"Huntsman",
+		"hullId":"hornet", "hullSkinId":"m3",
+		"turretId":"smoky", "turretSkinId":"m3",
+		"paintId":"urban"
+	},
+	{
+		"id":"huntsman_old",
+		"nameRU":"Егерь (старый)",
+		"nameEN":"Huntsman (old)",
+		"hullId":"hornet", "hullSkinId":"m3",
+		"turretId":"smoky", "turretSkinId":"m2",
+		"paintId":"urban"
+	},
+	{
+		"id":"siegfried",
+		"nameRU":"Зигфрид",
+		"nameEN":"Siegfried",
+		"hullId":"hunter", "hullSkinId":"m3",
+		"turretId":"magnum", "turretSkinId":"m3",
+		"paintId":"inferno"
+	},
+	{
+		"id":"giant",
+		"nameRU":"Исполин",
+		"nameEN":"Giant",
+		"hullId":"mammoth", "hullSkinId":"m3",
+		"turretId":"ricochet", "turretSkinId":"m3",
+		"paintId":"graffiti"
+	},
+	{
+		"id":"rockshaper",
+		"nameRU":"Камнетёс",
+		"nameEN":"Rockshaper",
+		"hullId":"viking", "hullSkinId":"m3",
+		"turretId":"railgun", "turretSkinId":"m3",
+		"paintId":"jade"
+	},
+	{
+		"id":"cardinal",
+		"nameRU":"Кардинал",
+		"nameEN":"Cardinal",
+		"hullId":"titan", "hullSkinId":"m3",
+		"turretId":"twins", "turretSkinId":"m3",
+		"paintId":"picasso"
+	},
+	{
+		"id":"quark",
+		"nameRU":"Кварк",
+		"nameEN":"Quark",
+		"hullId":"hornet", "hullSkinId":"m3",
+		"turretId":"gauss", "turretSkinId":"m3",
+		"paintId":"nano"
+	},
+	{
+		"id":"centaur",
+		"nameRU":"Кентавр",
+		"nameEN":"Centaur",
+		"hullId":"hornet", "hullSkinId":"m3",
+		"turretId":"shaft", "turretSkinId":"m3",
+		"paintId":"mars"
+	},
+	{
+		"id":"comet",
+		"nameRU":"Комета",
+		"nameEN":"Comet",
+		"hullId":"viking", "hullSkinId":"m3",
+		"turretId":"gauss", "turretSkinId":"m3",
+		"paintId":"spark"
+	},
+	{
+		"id":"cosmonaut",
+		"nameRU":"Космонавт",
+		"nameEN":"Cosmonaut",
+		"hullId":"viking", "hullSkinId":"m3",
+		"turretId":"striker", "turretSkinId":"m3",
+		"paintId":"space"
+	},
+	{
+		"id":"nomad",
+		"nameRU":"Кочевник",
+		"nameEN":"Nomad",
+		"hullId":"hunter", "hullSkinId":"m3",
+		"turretId":"railgun", "turretSkinId":"m3",
+		"paintId":"raccoon"
+	},
+	{
+		"id":"legend",
+		"nameRU":"Легенда",
+		"nameEN":"Legend",
+		"hullId":"hornet", "hullSkinId":"m3",
+		"turretId":"railgun", "turretSkinId":"m3",
+		"paintId":"prodigi"
+	},
+	{
+		"id":"matryoshka",
+		"nameRU":"Матрёшка",
+		"nameEN":"Matryoshka",
+		"hullId":"titan", "hullSkinId":"m3",
+		"turretId":"gauss", "turretSkinId":"m3",
+		"paintId":"hohloma"
+	},
+	{
+		"id":"maestro",
+		"nameRU":"Маэстро",
+		"nameEN":"Maestro",
+		"hullId":"dictator", "hullSkinId":"m3",
+		"turretId":"ricochet", "turretSkinId":"m3",
+		"paintId":"picasso"
+	},
+	{
+		"id":"ant",
+		"nameRU":"Муравей",
+		"nameEN":"Ant",
+		"hullId":"wasp", "hullSkinId":"m3",
+		"turretId":"isida", "turretSkinId":"m3",
+		"paintId":"irbis"
+	},
+	{
+		"id":"ant_old",
+		"nameRU":"Муравей (старый)",
+		"nameEN":"Ant (old)",
+		"hullId":"wasp", "hullSkinId":"m2",
+		"turretId":"isida", "turretSkinId":"m3",
+		"paintId":"irbis"
+	},
+	{
+		"id":"oz",
+		"nameRU":"Оз",
+		"nameEN":"Oz",
+		"hullId":"dictator", "hullSkinId":"m3",
+		"turretId":"gauss", "turretSkinId":"m3",
+		"paintId":"emerald"
+	},
+	{
+		"id":"jackhammer",
+		"nameRU":"Отбойный молоток",
+		"nameEN":"Jackhammer",
+		"hullId":"viking", "hullSkinId":"m3",
+		"turretId":"hammer", "turretSkinId":"m3",
+		"paintId":"tiger"
+	},
+	{
+		"id":"paladin",
+		"nameRU":"Паладин",
+		"nameEN":"Paladin",
+		"hullId":"viking", "hullSkinId":"m3",
+		"turretId":"smoky", "turretSkinId":"m3",
+		"paintId":"inferno"
+	},
+	{
+		"id":"ghost",
+		"nameRU":"Призрак",
+		"nameEN":"Ghost",
+		"hullId":"wasp", "hullSkinId":"m3",
+		"turretId":"smoky", "turretSkinId":"m3",
+		"paintId":"nano"
+	},
+	{
+		"id":"prometheus",
+		"nameRU":"Прометей",
+		"nameEN":"Prometheus",
+		"hullId":"hunter", "hullSkinId":"m3",
+		"turretId":"flamethrower", "turretSkinId":"m3",
+		"paintId":"zeus"
+	},
+	{
+		"id":"destroyer",
+		"nameRU":"Разрушитель",
+		"nameEN":"Destroyer",
+		"hullId":"mammoth", "hullSkinId":"m3",
+		"turretId":"twins", "turretSkinId":"m3",
+		"paintId":"lumberjack"
+	},
+	{
+		"id":"raiden",
+		"nameRU":"Райден",
+		"nameEN":"Raiden",
+		"hullId":"viking", "hullSkinId":"m3",
+		"turretId":"thunder", "turretSkinId":"m3",
+		"paintId":"emerald"
+	},
+	{
+		"id":"redneck",
+		"nameRU":"Реднек",
+		"nameEN":"Redneck",
+		"hullId":"hunter", "hullSkinId":"m3",
+		"turretId":"ricochet", "turretSkinId":"m3",
+		"paintId":"lumberjack"
+	},
+	{
+		"id":"medic",
+		"nameRU":"Санитар",
+		"nameEN":"Medic",
+		"hullId":"viking", "hullSkinId":"m3",
+		"turretId":"isida", "turretSkinId":"m3",
+		"paintId":"cherry"
+	},
+	{
+		"id":"rock_climber",
+		"nameRU":"Скалолаз",
+		"nameEN":"Rock climber",
+		"hullId":"titan", "hullSkinId":"m3",
+		"turretId":"ricochet", "turretSkinId":"m3",
+		"paintId":"rock"
+	},
+	{
+		"id":"sniper",
+		"nameRU":"Снайпер",
+		"nameEN":"Sniper",
+		"hullId":"viking", "hullSkinId":"m3",
+		"turretId":"shaft", "turretSkinId":"m3",
+		"paintId":"needle"
+	},
+	{
+		"id":"guardian",
+		"nameRU":"Страж",
+		"nameEN":"Guardian",
+		"hullId":"titan", "hullSkinId":"m3",
+		"turretId":"smoky", "turretSkinId":"m3",
+		"paintId":"nano"
+	},
+	{
+		"id":"justice",
+		"nameRU":"Судья",
+		"nameEN":"Justice",
+		"hullId":"hunter", "hullSkinId":"m3",
+		"turretId":"striker", "turretSkinId":"m3",
+		"paintId":"red_urban"
+	},
+	{
+		"id":"turtle",
+		"nameRU":"Тортилла",
+		"nameEN":"Turtle",
+		"hullId":"hunter", "hullSkinId":"m3",
+		"turretId":"smoky", "turretSkinId":"m3",
+		"paintId":"clay"
+	},
+	{
+		"id":"touche",
+		"nameRU":"Туше",
+		"nameEN":"Touche",
+		"hullId":"wasp", "hullSkinId":"m3",
+		"turretId":"railgun", "turretSkinId":"m3",
+		"paintId":"prodigi"
+	},
+	{
+		"id":"frederick",
+		"nameRU":"Фридрих",
+		"nameEN":"Frederick",
+		"hullId":"mammoth", "hullSkinId":"m3",
+		"turretId":"gauss", "turretSkinId":"m3",
+		"paintId":"graffiti"
+	},
+	{
+		"id":"master_of_the_taiga",
+		"nameRU":"Хозяин тайги",
+		"nameEN":"Master of the Taiga",
+		"hullId":"viking", "hullSkinId":"m3",
+		"turretId":"twins", "turretSkinId":"m3",
+		"paintId":"taiga"
+	},
+	{
+		"id":"refrigerator",
+		"nameRU":"Холодильник",
+		"nameEN":"Refrigerator",
+		"hullId":"viking", "hullSkinId":"m3",
+		"turretId":"freeze", "turretSkinId":"m3",
+		"paintId":"hive"
+	},
+	{
+		"id":"healer",
+		"nameRU":"Целитель",
+		"nameEN":"Healer",
+		"hullId":"hornet", "hullSkinId":"m3",
+		"turretId":"isida", "turretSkinId":"m3",
+		"paintId":"irbis"
+	},
+	{
+		"id":"challenger",
+		"nameRU":"Челленджер",
+		"nameEN":"Challenger",
+		"hullId":"titan", "hullSkinId":"m3",
+		"turretId":"striker", "turretSkinId":"m3",
+		"paintId":"zeus"
+	},
+	{
+		"id":"bumblebee",
+		"nameRU":"Шмель",
+		"nameEN":"Bumblebee",
+		"hullId":"hornet", "hullSkinId":"m3",
+		"turretId":"hammer", "turretSkinId":"m3",
+		"paintId":"hive"
+	},
+	{
+		"id":"eyjafjallajokull",
+		"nameRU":"Эйяфьядлайёкюдль",
+		"nameEN":"Eyjafjallajökull",
+		"hullId":"mammoth", "hullSkinId":"m3",
+		"turretId":"vulcan", "turretSkinId":"m3",
+		"paintId":"africa"
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	{
 		"id":"godmode_on_1",
 		"nameRU":"Godmode_ON (версия 1)",
