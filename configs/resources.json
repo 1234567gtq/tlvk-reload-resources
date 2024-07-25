@@ -590,7 +590,7 @@
 { "id":"hull_sonic_mx", "version":"1", "type":"models" },
 { "id":"hull_sonic_lc", "version":"1", "type":"models" },
 { "id":"hull_ufo_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"hull_ufo_m3", "version":"1", "type":"models" },
+{ "id":"hull_ufo_m3", "version":"2", "type":"models" },
 { "id":"hull_tanks_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"hull_tanks_light_green", "version":"1", "type":"models" },
 { "id":"hull_tanks_light_bluegray", "version":"1", "type":"models" },

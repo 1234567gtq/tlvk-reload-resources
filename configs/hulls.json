@@ -2589,9 +2589,7 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
-				"icon":"standard",
-				"emissionColor":"16711697",
-				"emissionColorThreshold":"0.8"
+				"icon":"standard"
 			}
 		],
 		"devices":
