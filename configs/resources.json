@@ -2998,6 +2998,19 @@
 { "id":"device_endothermic_lightning_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_shocking_lightning_icon", "version":"1", "type":"images", "isLazy":true },
 
+{ "id":"device_slugger_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_high_capacity_ammo_clip_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_duplet_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_blunderbuss_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_dragons_breath_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_wyverns_breath_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_stunning_pellets_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_assault_magazine_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_large_caliber_pellets_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_heavy_slugger_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_hunter_duplet_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+
+
 
 { "id":"device_automated_gunpowder_loading_mechanism_icon", "version":"1", "type":"images", "isLazy":true },
 
@@ -4290,7 +4303,7 @@
 { "id":"proplib_crash", "version":"1", "type":"proplibs" },
 { "id":"proplib_test", "version":"1", "type":"proplibs" },
 
-{ "id":"billboard_ufo_day_2024", "version":"1", "type":"textures" },
+{ "id":"billboard_summer_sport_games_2024", "version":"1", "type":"textures" },
 { "id":"billboard_standard", "version":"1", "type":"textures" },
 { "id":"billboard_reloaded", "version":"1", "type":"textures" },
 { "id":"billboard_standard_old", "version":"1", "type":"textures" },
@@ -4346,6 +4359,7 @@
 { "id":"billboard_ufo_day_2021", "version":"1", "type":"textures" },
 { "id":"billboard_ufo_day_2022", "version":"1", "type":"textures" },
 { "id":"billboard_ufo_day_2023", "version":"1", "type":"textures" },
+{ "id":"billboard_ufo_day_2024", "version":"1", "type":"textures" },
 { "id":"billboard_ultra_weekend_2020-2021", "version":"1", "type":"textures" },
 { "id":"billboard_ultra_weekend_2023", "version":"1", "type":"textures" },
 { "id":"billboard_ultra_weekend_2023_2", "version":"1", "type":"textures" },

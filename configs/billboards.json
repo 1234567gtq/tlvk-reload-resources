@@ -1,8 +1,7 @@
 [	
 	{	
-		"id":"ufo_day_2024",
-		"nameRU":"День НЛО 2024",
-		"nameEN":"UFO Day 2024"
+		"id":"summer_sport_games_2024",
+		"name":"Summer Sport Games 2024"
 	},
 	{	
 		"id":"standard",
@@ -275,6 +274,11 @@
 		"id":"ufo_day_2023",
 		"nameRU":"День НЛО 2023",
 		"nameEN":"UFO Day 2023"
+	},
+	{	
+		"id":"ufo_day_2024",
+		"nameRU":"День НЛО 2024",
+		"nameEN":"UFO Day 2024"
 	},
 	{	
 		"id":"ultra_weekend_2020-2021",
