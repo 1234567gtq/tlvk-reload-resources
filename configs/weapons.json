@@ -335,7 +335,8 @@
 			"shotAcross":"shot_skin_hammer_standard_shot_across",
 			"shotAlong":"shot_skin_hammer_standard_shot_along",
 			"sparkle":"shot_skin_hammer_standard_sparkle",
-			"shotLight":"hammer_default_shot"
+			"shotLight":"hammer_default_shot",
+			"sparkleLight":"hammer_default_sparkle"
 		},
 		{
 			"id":"aqua",
@@ -343,7 +344,8 @@
 			"shotAcross":"shot_skin_hammer_aqua_shot_across",
 			"shotAlong":"shot_skin_hammer_aqua_shot_along",
 			"sparkle":"shot_skin_hammer_aqua_sparkle",
-			"shotLight":"hammer_aqua_shot"
+			"shotLight":"hammer_aqua_shot",
+			"sparkleLight":"hammer_aqua_sparkle"
 		},
 		{
 			"id":"magma",
@@ -351,7 +353,8 @@
 			"shotAcross":"shot_skin_hammer_magma_shot_across",
 			"shotAlong":"shot_skin_hammer_magma_shot_along",
 			"sparkle":"shot_skin_hammer_magma_sparkle",
-			"shotLight":"hammer_magma_shot"
+			"shotLight":"hammer_magma_shot",
+			"sparkleLight":"hammer_magma_sparkle"
 		},
 		{
 			"id":"void",
@@ -359,7 +362,8 @@
 			"shotAcross":"shot_skin_hammer_void_shot_across",
 			"shotAlong":"shot_skin_hammer_void_shot_along",
 			"sparkle":"shot_skin_hammer_void_sparkle",
-			"shotLight":"hammer_void_shot"
+			"shotLight":"hammer_void_shot",
+			"sparkleLight":"hammer_void_sparkle"
 		},
 		{
 			"id":"toxic",
@@ -367,7 +371,8 @@
 			"shotAcross":"shot_skin_hammer_toxic_shot_across",
 			"shotAlong":"shot_skin_hammer_toxic_shot_along",
 			"sparkle":"shot_skin_hammer_toxic_sparkle",
-			"shotLight":"hammer_toxic_shot"
+			"shotLight":"hammer_toxic_shot",
+			"sparkleLight":"hammer_toxic_sparkle"
 		},
 		{
 			"id":"eclipse",
@@ -375,7 +380,8 @@
 			"shotAcross":"shot_skin_hammer_eclipse_shot_across",
 			"shotAlong":"shot_skin_hammer_eclipse_shot_along",
 			"sparkle":"shot_skin_hammer_eclipse_sparkle",
-			"shotLight":"hammer_eclipse_shot"
+			"shotLight":"hammer_eclipse_shot",
+			"sparkleLight":"hammer_eclipse_sparkle"
 		},
 		{
 			"id":"blue",
@@ -383,7 +389,8 @@
 			"shotAcross":"shot_skin_hammer_blue_shot_across",
 			"shotAlong":"shot_skin_hammer_blue_shot_along",
 			"sparkle":"shot_skin_hammer_blue_sparkle",
-			"shotLight":"hammer_blue_shot"
+			"shotLight":"hammer_blue_shot",
+			"sparkleLight":"hammer_blue_sparkle"
 		},
 		{
 			"id":"blood",
@@ -391,7 +398,8 @@
 			"shotAcross":"shot_skin_hammer_blood_shot_across",
 			"shotAlong":"shot_skin_hammer_blood_shot_along",
 			"sparkle":"shot_skin_hammer_blood_sparkle",
-			"shotLight":"hammer_blood_shot"
+			"shotLight":"hammer_blood_shot",
+			"sparkleLight":"hammer_blood_sparkle"
 		}
 	],
 	"thunder":

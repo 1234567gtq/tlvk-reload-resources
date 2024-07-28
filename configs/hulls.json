@@ -2447,6 +2447,13 @@
 				"descriptionEN":"Caution! This augment tremendously decreases the hull's weight, making it maximally susceptible to any physical impact. Not effective in combat. Use with caution and at your own risk!"
 			},
 			{
+				"id":"phoenix",
+				"nameRU":"Феникс",
+				"nameEN":"Phoenix",
+				"descriptionRU":"Этого оружия достоин только тот, кто подобно фениксу восставал из пепла вновь и вновь ради достижения своей цели. Секретное устройство. Для его получения нужно заработать 5 000 000 очков репутации на корпусе Джаггернаут.",
+				"descriptionEN":"Only tankers who keep rising like a phoenix from the ashes again and again to achieve their goal deserves this weapon. A secret augment. Earn 5 000 000 reputation points using the Juggernaut hull to get it."
+			},
+			{
 				"id":"special_protection",
 				"nameRU":"Специальная защита",
 				"nameEN":"Special Protection",
@@ -2565,6 +2572,13 @@
 				"descriptionEN":"Caution! This augment tremendously decreases the hull's weight, making it maximally susceptible to any physical impact. Not effective in combat. Use with caution and at your own risk!"
 			},
 			{
+				"id":"phoenix",
+				"nameRU":"Феникс",
+				"nameEN":"Phoenix",
+				"descriptionRU":"Этого оружия достоин только тот, кто подобно фениксу восставал из пепла вновь и вновь ради достижения своей цели. Секретное устройство. Для его получения нужно заработать 5 000 000 очков репутации на корпусе Соник.",
+				"descriptionEN":"Only tankers who keep rising like a phoenix from the ashes again and again to achieve their goal deserves this weapon. A secret augment. Earn 5 000 000 reputation points using the Sonic hull to get it."
+			},
+			{
 				"id":"special_protection",
 				"nameRU":"Специальная защита",
 				"nameEN":"Special Protection",
@@ -2656,6 +2670,13 @@
 				"nameEN":"Extreme Lightweight Construction",
 				"descriptionRU":"Внимание! Это устройство экстремально снижает массу корпуса, делая его максимально восприимчивым к любому физическому воздействию. В боевых условиях не эффективно. Применять с осторожностью на свой страх и риск!",
 				"descriptionEN":"Caution! This augment tremendously decreases the hull's weight, making it maximally susceptible to any physical impact. Not effective in combat. Use with caution and at your own risk!"
+			},
+			{
+				"id":"phoenix",
+				"nameRU":"Феникс",
+				"nameEN":"Phoenix",
+				"descriptionRU":"Этого оружия достоин только тот, кто подобно фениксу восставал из пепла вновь и вновь ради достижения своей цели. Секретное устройство. Для его получения нужно заработать 5 000 000 очков репутации на корпусе НЛО.",
+				"descriptionEN":"Only tankers who keep rising like a phoenix from the ashes again and again to achieve their goal deserves this weapon. A secret augment. Earn 5 000 000 reputation points using the UFO hull to get it."
 			},
 			{
 				"id":"special_protection",
@@ -2843,6 +2864,13 @@
 				"nameEN":"Extreme Lightweight Construction",
 				"descriptionRU":"Внимание! Это устройство экстремально снижает массу корпуса, делая его максимально восприимчивым к любому физическому воздействию. В боевых условиях не эффективно. Применять с осторожностью на свой страх и риск!",
 				"descriptionEN":"Caution! This augment tremendously decreases the hull's weight, making it maximally susceptible to any physical impact. Not effective in combat. Use with caution and at your own risk!"
+			},
+			{
+				"id":"phoenix",
+				"nameRU":"Феникс",
+				"nameEN":"Phoenix",
+				"descriptionRU":"Этого оружия достоин только тот, кто подобно фениксу восставал из пепла вновь и вновь ради достижения своей цели. Секретное устройство. Для его получения нужно заработать 5 000 000 очков репутации на корпусе из «Tanks».",
+				"descriptionEN":"Only tankers who keep rising like a phoenix from the ashes again and again to achieve their goal deserves this weapon. A secret augment. Earn 5 000 000 reputation points using the «Tanks» hull to get it."
 			},
 			{
 				"id":"special_protection",

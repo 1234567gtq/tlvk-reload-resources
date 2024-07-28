@@ -16,16 +16,16 @@
 	"LOADING...":"LOADING...",
 	"TIP_0":"The project was founded in 2020 and included very little content",
 	"TIP_1":"Previously, the project was called «TLVK TOP» and didn't receive new functionality from «Tanki Online»",
-	"TIP_2":"Update «2.5» - rebranding and the beginning of a series of updates on the «reload» of this project",
+	"TIP_2":"Update «2.5» — rebranding and the beginning of a series of updates on the «reload» of this project",
 	"TIP_3":"TLVK has been ground-up rewritten in update «2.6»",
 	"TIP_4":"The game interface appeared in update «2.7»",
 	"TIP_5":"With update «2.8», it became possible to make «seamless» content changes and edits",
-	"TIP_6":"Your choice of hull determines not only the speed and armor of your tank, but also the overdrive - a powerful ability that can bring you victory!",
+	"TIP_6":"Your choice of hull determines not only the speed and armor of your tank, but also the overdrive — a powerful ability that can bring you victory!",
 	"TIP_7":"Each turret has unique features. Some turrets even behave differently whether you press or hold the fire button. Try them all and find your play style!",
 	"TIP_8":"Do you want some variety? Try different augments for turrets and hulls! Some of them turn the game upside down!",
 	"TIP_9":"Paints can change the look of your tank. Some make it more inconspicuous, helping you camouflage, and others make your tank more noticable, helping you to stand out on the battlefield!",
 	"TIP_10":"You can change turret right in battle! To do this, press the «G» key",
-	"TIP_11":"Do you want to change game settings, controls or graphics? Press «H» to open settings",
+	"TIP_11":"Do you want to change game settings, controls or graphics? Press «~» to open settings",
 	"TIP_12":"By using the «Q» and «E» keys, you can change the camera angle. By lowering the camera, you can observe enemies in the distance. Raising the camera will allow you to better control the situation around your tank",
 	"TIP_13":"If you flip over, press the «\"» key to restore the tank",
 	"TIP_14":"The «Burning» status effect can be negated by freezing. For example, with the Freeze turret",
@@ -33,7 +33,8 @@
 	"TIP_16":"A tank under the influence of the «Stun» status effect cannot respond to your controls. It won't be able to shoot and move",
 	"TIP_17":"Errors and bugs are an integral part of any active project. All problems will be solved, in time",
 	"TIP_18":"Don't tell your password to anyone! Otherwise you will lose your account forever",
-	"TIP_19":"You don't drive a tank - you are the tank!",
+	"TIP_19":"You don't drive a tank — you are the tank!",
+	"TIP_20":"If you want to remember the old tanks of 2009-2012, then you have at your disposal all the maps and equipment of that time!",
 	
 	"HEADER_MAP_LIST":"MAP LIST",
 	"HEADER_SELECTED_MAP":"SELECTED MAP",
@@ -162,41 +163,51 @@
 	"MIN_BARREL_ANGLE":"Minimal barrel degree (rad)",
 	"MAX_BARREL_ANGLE":"Maximum barrel degree (rad)",
 	
-	"RANGE":"Range (cm)",
-	"CONE_ANGLE":"Cone angle (rad)",
-	"TEMPERATURE_LIMIT":"Temperature limit (cond. units)",
 	"ENERGY_RESERVE":"Energy reserve (cond. units)",
-	"ENERGY_DISCHARGE_RATE":"Energy consumption (cond. units/s)",
 	"ENERGY_RECHARGE_RATE_SEC":"Energy production (cond. units/s)",
+	"CONE_ANGLE":"Cone angle (rad)",
 	"CRITICAL_HIT_CHANCE":"Chance of critical damage (%)",
-	"ENERGY_DISCHARGE_IDLE_RATE":"Energy consumption when idle shooting (cond. units/s)",
+	"ENERGY_DISCHARGE_RATE":"Energy consumption (cond. units/s)",
+	"RANGE_OF_MIN_DAMAGE":"Range of min damage (cm)",
+	"RANGE_OF_MAX_DAMAGE":"Range of max damage (cm)",
+	"TEMPERATURE_LIMIT":"Temperature limit (cond. units)",
 	"ENERGY_DISCHARGE_DAMAGE_RATE":"Energy consumption when attacking (cond. units/s)",
-	"RELOAD_TIME":"Reload time (ms)",
+	"ENERGY_DISCHARGE_IDLE_RATE":"Energy consumption when idle shooting (cond. units/s)",
 	"SHELL_PREPARING_TIME":"Shell preparing time (ms)",
+	"SHELL_IMPACT_FORCE":"Shell impact force (cond. units)",
 	"LIGHTNING_PERIOD":"Lightning period (ms)",
+	"RELOAD_TIME":"Reload time (ms)",
 	"RADIUS_OF_ADDING_AN_OBJECT_TO_THE_CHAIN":"Radius of adding an object to the chain (cm)",
 	"SHELL_RECOIL_FORCE":"Shell recoil force (cond. units)",
-	"SHELL_IMPACT_FORCE":"Shell impact force (cond. units)",
+	"SHELL_RANGE":"Shell range (cm)",
 	"SHELL_SPEED":"Shell speed (cm/s)",
 	"SHELL_RADIUS":"Shell radius (cm)",
 	"MAX_RICOCHET_ANGLE":"Max ricochet angle (rad)",
 	"MAX_RICOCHET_COUNT":"Max ricochet count",
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	"CONE_HORIZONTAL_ANGLE":"Horizontal spreading degree (rad)",
 	"CONE_VERTICAL_ANGLE":"Vertical spreading degree (rad)",
-	
-	"ROCKET_IMPACT_FORCE":"Rocket impact force (cond. units)",
 	"MAGAZINE_RELOAD_TIME":"Magazine reload time (ms)",
 	"MAGAZINE_SIZE":"Magazine size",
-	"PELLET_COUNT":"Pellet count",
+	"MAX_PELLET_COUNT":"Amount of pellets",
+	"PELLET_RECOIL_FORCE":"Pellet recoil force (cond. units)",
+	"PELLET_IMPACT_FORCE":"One pellet impact force (cond. units)",
+	"UPWARD_AUTO_AIM":"Upward auto-aim (rad)",
+	"DOWNWARD_AUTO_AIM":"Downward auto-aim (rad)",
+	"ENERGY_PER_SHOT":"Energy per shot (cond. units)",
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	"ROCKET_IMPACT_FORCE":"Rocket impact force (cond. units)",
+	
+	
 	
 	"ROCKET_RECOIL_FORCE":"Rocket recoil force (cond. units)",
 	
@@ -227,8 +238,7 @@
 	"TEMPERATURE_HITTING_TIME":"Time to overheat (ms)",
 	"TURRET_TURN_DECELERATION_COEFF":"Turret turning speed slowing (%)",
 	
-	"ENERGY_PER_SHOT":"Energy per shot (cond. units)",
-	"ENERGY_RECHARGE_RATE_MS":"Energy recharge rate (cond. units/ms)",
+	
 	
 	
 	
@@ -321,7 +331,6 @@
 	"GAME_ACTION_SCREEN_SIZE_DECREASE":"Decrease battle screen size",
 	"GAME_ACTION_FULL_SCREEN":"On/off fullscreen",
 	"GAME_ACTION_OPEN_GARAGE":"Open garage",
-	"GAME_ACTION_OPEN_SETTINGS":"Open settings",
 	"GAME_ACTION_TOGGLE_CAMERA_CONTROLLER":"Spectator/follow camera mode",
 	"GAME_ACTION_CAMERA_UP":"Move camera up",
 	"GAME_ACTION_CAMERA_DOWN":"Move camera down",

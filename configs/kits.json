@@ -983,16 +983,150 @@
 		"turretId":"vulcan", "turretSkinId":"m3",
 		"paintId":"africa"
 	},
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	{
+		"id":"light_tank_m0",
+		"nameRU":"Лёгкий танк М0",
+		"nameEN":"Light Tank M0",
+		"hullId":"hornet", "hullSkinId":"m0",
+		"turretId":"freeze", "turretSkinId":"m0",
+		"paintId":"forester"
+	},
+	{
+		"id":"light_tank_m1_1",
+		"nameRU":"Лёгкий танк М1",
+		"nameEN":"Light Tank M1",
+		"hullId":"hornet", "hullSkinId":"m1",
+		"turretId":"freeze", "turretSkinId":"m1",
+		"paintId":"corrosion"
+	},
+	{
+		"id":"light_tank_m1_2",
+		"nameRU":"Лёгкий танк М1",
+		"nameEN":"Light Tank M1",
+		"hullId":"wasp", "hullSkinId":"m1",
+		"turretId":"flamethrower", "turretSkinId":"m1",
+		"paintId":"spark"
+	},
+	{
+		"id":"light_tank_m2",
+		"nameRU":"Лёгкий танк М2",
+		"nameEN":"Light Tank M2",
+		"hullId":"hornet", "hullSkinId":"m2",
+		"turretId":"isida", "turretSkinId":"m2",
+		"paintId":"loam"
+	},
+	{
+		"id":"light_tank_m3_1",
+		"nameRU":"Лёгкий танк М3",
+		"nameEN":"Light Tank M3",
+		"hullId":"hornet", "hullSkinId":"m3",
+		"turretId":"railgun", "turretSkinId":"m3",
+		"paintId":"needle"
+	},
+	{
+		"id":"light_tank_m3_2",
+		"nameRU":"Лёгкий танк М3",
+		"nameEN":"Light Tank M3",
+		"hullId":"wasp", "hullSkinId":"m3",
+		"turretId":"freeze", "turretSkinId":"m3",
+		"paintId":"zeus"
+	},
+	{
+		"id":"medium_tank_m0",
+		"nameRU":"Средний танк М0",
+		"nameEN":"Medium Tank M0",
+		"hullId":"viking", "hullSkinId":"m0",
+		"turretId":"ricochet", "turretSkinId":"m0",
+		"paintId":"marine"
+	},
+	{
+		"id":"medium_tank_m1_1",
+		"nameRU":"Средний танк М1",
+		"nameEN":"Medium Tank M1",
+		"hullId":"dictator", "hullSkinId":"m1",
+		"turretId":"railgun", "turretSkinId":"m1",
+		"paintId":"cedar"
+	},
+	{
+		"id":"medium_tank_m1_2",
+		"nameRU":"Средний танк М1",
+		"nameEN":"Medium Tank M1",
+		"hullId":"hunter", "hullSkinId":"m1",
+		"turretId":"twins", "turretSkinId":"m1",
+		"paintId":"roger"
+	},
+	{
+		"id":"medium_tank_m2",
+		"nameRU":"Средний танк М2",
+		"nameEN":"Medium Tank M2",
+		"hullId":"viking", "hullSkinId":"m2",
+		"turretId":"thunder", "turretSkinId":"m2",
+		"paintId":"emerald"
+	},
+	{
+		"id":"medium_tank_m3_1",
+		"nameRU":"Средний танк М3",
+		"nameEN":"Medium Tank M3",
+		"hullId":"hunter", "hullSkinId":"m3",
+		"turretId":"flamethrower", "turretSkinId":"m3",
+		"paintId":"prodigi"
+	},
+	{
+		"id":"medium_tank_m3_2",
+		"nameRU":"Средний танк М3",
+		"nameEN":"Medium Tank M3",
+		"hullId":"dictator", "hullSkinId":"m3",
+		"turretId":"railgun", "turretSkinId":"m3",
+		"paintId":"taiga"
+	},
+	{
+		"id":"medium_tank_m3_3",
+		"nameRU":"Средний танк М3",
+		"nameEN":"Medium Tank M3",
+		"hullId":"hunter", "hullSkinId":"m3",
+		"turretId":"smoky", "turretSkinId":"m3",
+		"paintId":"picasso"
+	},
+	{
+		"id":"heavy_tank_m0",
+		"nameRU":"Тяжёлый танк М0",
+		"nameEN":"Heavy Tank M0",
+		"hullId":"mammoth", "hullSkinId":"m1",
+		"turretId":"thunder", "turretSkinId":"m0",
+		"paintId":"flora"
+	},
+	{
+		"id":"heavy_tank_m1",
+		"nameRU":"Тяжёлый танк М1",
+		"nameEN":"Heavy Tank M1",
+		"hullId":"titan", "hullSkinId":"m1",
+		"turretId":"shaft", "turretSkinId":"m1",
+		"paintId":"electra"
+	},
+	{
+		"id":"heavy_tank_m2",
+		"nameRU":"Тяжёлый танк М2",
+		"nameEN":"Heavy Tank M2",
+		"hullId":"mammoth", "hullSkinId":"m2",
+		"turretId":"ricochet", "turretSkinId":"m2",
+		"paintId":"inferno"
+	},
+	{
+		"id":"heavy_tank_m3_1",
+		"nameRU":"Тяжёлый танк М3",
+		"nameEN":"Heavy Tank M3",
+		"hullId":"mammoth", "hullSkinId":"m3",
+		"turretId":"twins", "turretSkinId":"m3",
+		"paintId":"taiga"
+	},
+	{
+		"id":"heavy_tank_m3_2",
+		"nameRU":"Тяжёлый танк М3",
+		"nameEN":"Heavy Tank M3",
+		"hullId":"titan", "hullSkinId":"m3",
+		"turretId":"smoky", "turretSkinId":"m3",
+		"paintId":"clay"
+	},
 	{
 		"id":"godmode_on_1",
 		"nameRU":"Godmode_ON (версия 1)",

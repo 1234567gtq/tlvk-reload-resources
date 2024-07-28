@@ -973,6 +973,83 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"slugger",
+				"nameRU":"Слаггер",
+				"nameEN":"Slugger",
+				"descriptionRU":"Повышенная кучность дроби позволяет лучше поражать удалённые цели. Сопернику будет очень непросто.",
+				"descriptionEN":"Increased pellet density allows you to hit ranged targets better. It will be challenging for an opponent to escape unharmed."
+			},
+			{
+				"id":"high_capacity_ammo_clip",
+				"nameRU":"Обойма увеличенной ёмкости",
+				"nameEN":"High-capacity ammo clip",
+				"descriptionRU":"Специальный несъёмный магазин на 5 зарядов, входящий в снаряжение танков-штурмовиков. Перезарядка становится более продолжительной.",
+				"descriptionEN":"Special permanently fixed ammo clip for 5 projectiles, included in standard equipment for assault tanks."
+			},
+			{
+				"id":"duplet",
+				"nameRU":"Дуплет",
+				"nameEN":"Duplet",
+				"descriptionRU":"Замена внутренней конструкции пушки на адаптированный механизм от классического двуствольного ружья. Позволяет сделать два выстрела подряд практически без задержки, но перезарядка всей обоймы становится немного дольше. Идеально для вколачивания танков в бетон.",
+				"descriptionEN":"Replacement of the internal construction of the turret with an adaptive mechanism from a classic double-barreled shotgun. Allows the user to rapidly fire 2 shots, with almost no delay, but reloading the clip takes more time. Ideal for busting tanks into concrete."
+			},
+			{
+				"id":"blunderbuss",
+				"nameRU":"Бландербас",
+				"nameEN":"Blunderbuss",
+				"descriptionRU":"Обычный и критический уроны увеличены. Шанс критического урона и угол стрельбы повышены. Дальность поражения уменьшена.\nВ кассете только один выстрел, зато какой это выстрел! У такого выстрела увеличен обычный и критический урон. Разброс при выстреле и увеличен, но если повезёт, за один выстрел можно сдуть сразу несколько танков.",
+				"descriptionEN":"The number of shots in the magazine has been reduced to just one, but this single shot packs a powerful punch - the number of pellets and regular damage are increased. However, the bullet spread is increased, but with a lucky and skilled maneuver, you can blow away several enemies in one shot."
+			},
+			{
+				"id":"dragons_breath",
+				"nameRU":"Дыхание дракона",
+				"nameEN":"Dragon's Breath",
+				"descriptionRU":"Картечь со звучным названием «Дыхание дракона» поджигает вражеские танки критическим попаданием. Тут поможет только огнетушитель!",
+				"descriptionEN":"Features pellets with the striking name of «Dragon's Breath» that ignite enemy tanks on critical shots. Only a fire extinguisher will help here!"
+			},
+			{
+				"id":"wyverns_breath",
+				"nameRU":"Дыхание Виверны",
+				"nameEN":"Wyvern's Breath",
+				"descriptionRU":"Картечь «Дыхание виверны» — это улучшенная версия картечи «Дыхание дракона». Вместо поджигания она намертво замораживает вражеские танки при критическом попадании.",
+				"descriptionEN":"Features pellets by the striking name of «Wyvern's Breath», an improved version of the well-known «Dragon's Breath». Instead of igniting enemy tanks, it leaves them frozen in their tracks on critical shots."
+			},
+			{
+				"id":"stunning_pellets",
+				"nameRU":"Парализующая картечь",
+				"nameEN":"Stunning pellets",
+				"descriptionRU":"Идеальный инструмент для обороны от быстрых танков. Критическое попадание обездвиживает все цели, в которые долетает дробь.",
+				"descriptionEN":"The best choice for defending your base from attacks by fast tanks. Critical shots stun every target hit by the pellets."
+			},
+			{
+				"id":"assault_magazine",
+				"nameRU":"Штурмовая кассета",
+				"nameEN":"Assault Magazine",
+				"descriptionRU":"Штурмовой вариант Молота, предназначенный для дерзких и рискованных атак: пушка стреляет очень быстро, будто винтовка. В горячем бою важна оперативная перезарядка кассет, потому для оптимизации этого процесса критический урон и сила удара уменьшены.",
+				"descriptionEN":"Assault version of Hammer, designed for audacious and risky attacks: the turret shoots very fast, just like a rifle. In a heated battle, rapid reloading of magazines is very essential. Therefore, to optimize this process, both the critical damage and impact force are reduced."
+			},
+			{
+				"id":"large_caliber_pellets",
+				"nameRU":"Крупнокалиберная картечь",
+				"nameEN":"Large caliber pellets",
+				"descriptionRU":"Обычный и критический уроны повышены. Перезарядка становится дольше.\nКаждый снаряд в обойме наносит противнику повышенный урон. Однако для нейтрализации высвобождающейся энергии потребуется больше времени на перезарядку.",
+				"descriptionEN":"Each shot in the clip deals increased damage to an enemy. However, to compensate for the energy released, it takes more time to reload."
+			},
+			{
+				"id":"heavy_slugger",
+				"nameRU":"Тяжёлый слаггер",
+				"nameEN":"Heavy slugger",
+				"descriptionRU":"Увеличенная дальность минимального и максимального поражения. Уменьшен горизонтальный разброс снарядов. Скорость поворота башни снижена.\nМолот оборудован специальными секретными элементами, позволяющими значительно увеличить дальность, на которой пушка способна наносить урон, уменьшая разброс по цели. Однако из-за мощных дополнений, вес башни значительно больше, из-за чего скорость поворота снижена.",
+				"descriptionEN":"Increased range of minimum and maximum damage. Decreased horizontal spread and rotation speed. Hammer gets equipped with some secret elements that let it increase the range at which the turret is able to deal damage. reducing the horizontal spread. However, this powerful addition increases the weight of the turret and thus the rotation speed is decreased."
+			},
+			{
+				"id":"hunter_duplet",
+				"nameRU":"Охотничий дуплет",
+				"nameEN":"Hunter duplet",
+				"descriptionRU":"Два быстрых выстрела в обойме, максимальная дальность поражения увеличена. Горизонтальный разброс уменьшен, а перезарядка кассеты увеличена.\nСпециальная версия дуплета. У вас всё также два точных выстрела в обойме, за которыми следует продолжительная перезарядка. Однако благодаря тому, что длинный ствол не обрезан, дальность поражения увеличена по сравнению со стандартной модификацией. С такой двустволкой можно и на охоту. Увидел врага? Смело спускай курок.",
+				"descriptionEN":"Two quick shots in the clip and increased range of fire. Horizontal pellet spread is decreased but clip reload takes a bit more time. A special version of Duplet. You still have two accurate shots followed by a prolonged reload. However, thanks to the fact that the barrel hasn't had to be shortened, range of fire is increased compared to the standard modification. With such a double-barreled gun you can go hunting. See an enemy? Boldly pull the trigger."
 			}
 		],
 		"shotSkins":
@@ -1193,6 +1270,62 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"stabilized_plasma",
+				"nameRU":"Стабилизированная плазма",
+				"nameEN":"Stabilized plasma",
+				"descriptionRU":"Заряды из стабилизированной плазмы лучше удерживают свою форму и не разрываются при попадании в танк или препятствие. Такие заряды не могут наносить сплеш-урон и самоурон.",
+				"descriptionEN":"Shots of stabilized plasma keep their form better and do not explode upon hitting a tank or an obstacle. Such shots can't deal splash- and self-damage."
+			},
+			{
+				"id":"plasma_accelerators",
+				"nameRU":"Ускорители плазмы",
+				"nameEN":"Plasma accelerators",
+				"descriptionRU":"Изменение настроек ускорителей плазмы позволяет держаться в бою на более безопасном расстоянии от противника. Снаряды летят дальше и быстрее, но скорострельность снижена.",
+				"descriptionEN":"Changing settings of plasma accelerators allows to be at a safer distance from the enemy in battle. Projectiles fly further and faster, but the fire rate is reduced."
+			},
+			{
+				"id":"heavy_plasmagun",
+				"nameRU":"Тяжёлый плазмомёт",
+				"nameEN":"Heavy plasmagun",
+				"descriptionRU":"Модификация пушки в духе знаменитого BFG. Стреляет большими шарами плазмы, которые летят медленно, но наносят больше урона. Остерегайтесь самоурона от сплеша!",
+				"descriptionEN":"Turret modification in the tradition of the famous BFG. Fires big balls of plasma, which travel slowly, but deal more damage. Be cautious of the self-damage from splash!"
+			},
+			{
+				"id":"plasma_turbo_accelerators",
+				"nameRU":"Турбоускорители плазмы",
+				"nameEN":"Plasma turbo accelerators",
+				"descriptionRU":"Высококлассные генераторы плазмы и откалиброванные сверхпроводящие магниты позволяют яростно засыпать плазмой своих противников. Урон снижен, но это с лихвой компенсировано увеличенной скорострельностью и дальностью стрельбы.",
+				"descriptionEN":"High-quality plasma generators and calibrated superconducting magnets let you furiously bombard your opponents with plasma. Damage is reduced, but it is more than offset by the increased rate of fire and shooting range."
+			},
+			{
+				"id":"vaporizer",
+				"nameRU":"Испепелятор",
+				"nameEN":"Vaporizer",
+				"descriptionRU":"Снижение температуры плазмы приводит к тому, что она не успевает детонировать при попадании. Остатки плазмы могут поджечь цель, при этом критический урон снижается.",
+				"descriptionEN":"A decrease in plasma temperature leads to the plasma not being detonated when hitting a target. However, plasma remnants may ignite the target, but critical damage is decreased."
+			},
+			{
+				"id":"cryotron",
+				"nameRU":"Криотрон",
+				"nameEN":"Cryotron",
+				"descriptionRU":"Вместо обычных плазменных зарядов пушка стреляет криокапсулами. Критически низкая температура при детонации позволяет не только наносить урон, но и иногда замораживать цель, при этом критический урон снижается.",
+				"descriptionEN":"Replaces the default plasma charges with Cryo capsules. On detonation, the critically low temperature allows you to not only deal damage but also freeze a target. However, critical damage is decreased."
+			},
+			{
+				"id":"tectonic_plasma",
+				"nameRU":"Тектоническая плазма",
+				"nameEN":"Tectonic plasma",
+				"descriptionRU":"Самая беспощадная версия пушки. Заряды критической плазмы при попадании оглушают цель, при этом критический урон снижается. Противник гарантированно закипит от злости.",
+				"descriptionEN":"The most ruthless version of the turret. Critical plasma charges apply the «Stun» status effect upon hitting targets, but critical damage is decreased. Opponents will be raging!"
+			},
+			{
+				"id":"plasmatron",
+				"nameRU":"Плазмотрон",
+				"nameEN":"Plasmatron",
+				"descriptionRU":"Шары плазмы летят до цели очень быстро и наносят много урона. Взамен, время перезарядки между шарами сильно увеличено.\nУстройство внедряет в процесс стрельбы химические процессы, замедляя генерацию плазмы, с использованием революционного вещества на основе ингибиторов. Огневая мощь каждого выстрела становится сильнее благодаря более выдержанной генерации плазмовых снарядов и повышенному насыщению тем самым секретным химическим составом.",
+				"descriptionEN":"Plasma balls fly faster and deal a lot of damage. However, recharge time between launched plasma balls is greatly increased. This augment implements chemical processes into shooting that slow down plasma generation using a revolutionary substance based on inhibitors. Firepower of each shot becomes stronger due to thorough generation of plasma shells and increased saturation with a secret chemical compound."
 			}
 		],
 		"shotSkins":
@@ -1384,6 +1517,55 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"destabilized_plasma",
+				"nameRU":"Дестабилизированная плазма",
+				"nameEN":"Destabilized plasma",
+				"descriptionRU":"Шары из плазмы в неустойчивом состоянии разлетаются на сгустки при малейшем соприкосновении с любой поверхностью, поражая всех врагов и самого стрелка в небольшом радиусе. Дестабилизированное минус-поле выдерживает минимум рикошетов снаряда.",
+				"descriptionEN":"Balls of unstable plasma disperse into clots after the slightest touch from any obstacle, hitting all enemies and the shooter themselves in a small radius."
+			},
+			{
+				"id":"minus_field_stabilization",
+				"nameRU":"Стабилизация минус-поля",
+				"nameEN":"Minus-field stabilization",
+				"descriptionRU":"Дополнительная стабилизация минус-поля перед каждым выстрелом позволяет вести эффективную стрельбу на большей дистанции. Снаряды летят дальше и быстрее, но скорострельность снижена.",
+				"descriptionEN":"Additional stabilization of the minus-field before each shot allows to fire effectively at a longer range. Projectiles travel further and faster, but the fire rate is reduced."
+			},
+			{
+				"id":"plasma_torch",
+				"nameRU":"Плазма-факел",
+				"nameEN":"Plasma-torch",
+				"descriptionRU":"Модификация, превращающая пушку в ближнебойный плазменный пулемёт. Значительно повышается темп стрельбы за счёт радикального снижения скорости полёта снарядов и урона. Кроме того, неустойчивая плазма не может рикошетировать больше одного раза.",
+				"descriptionEN":"Modification that turns the turret into a short range plasmagun. Noticeably increases the rate of fire due to the radically reduced flying speed and damage of the rounds. Also, unstable plasma can't ricochet more than once."
+			},
+			{
+				"id":"helios",
+				"nameRU":"Гелиос",
+				"nameEN":"Helios",
+				"descriptionRU":"Снайперская модификация Рикошета. Выпускает весь заряд короткой дальнобойной очередью, однако после выпуска всего баллона восстановление до боевой готовности происходит дольше из-за перегрева ствола. Чрезвычайно эффективна, если не подпускать противника близко и атаковать из укрытия.",
+				"descriptionEN":"Sniper version of Ricochet. All the energy is used for a short but long-range burst of shots. Extremely effective at keeping enemies at bay, or setting up for an ambush."
+			},
+			{
+				"id":"sizzling_field",
+				"nameRU":"Испепеляющее поле",
+				"nameEN":"Sizzling field",
+				"descriptionRU":"Аккуратная дестабилизация минус-поля после рикошета приводит к частичному взрыву при контакте с целью. Остатки плазмы имеют шанс поджечь цель критическим уроном.",
+				"descriptionEN":"An accurate destabilization of the minus-field leads to a small explosion of plasma on contact with a tank. The remains of the plasma will ignite the target on a critical hit."
+			},
+			{
+				"id":"cryo_field",
+				"nameRU":"Криополе",
+				"nameEN":"Cryo field",
+				"descriptionRU":"Вместо инкапсулирования плазмы, минус-поле в этом устройстве несёт к цели криоген. При удачном попадании криоген проникает под броню и замораживает цель при критическом уроне.",
+				"descriptionEN":"Instead of encapsulated plasma, the minus-field of this augment contains cryogen. Cryogen penetrates the target tank's armor and freezes the target on a critical hit."
+			},
+			{
+				"id":"tectonic_field",
+				"nameRU":"Тектоническое поле",
+				"nameEN":"Tectonic field",
+				"descriptionRU":"Усовершенствованная версия плазмы при критическом попадании позволяет обездвижить соперника, лишая его возможности стрелять, активировать припасы и овердрайвы или самоуничтожаться на некоторое время.",
+				"descriptionEN":"An improved version of plasma lets you immobilize an opponent, leaving them unable to shoot, activate overdrives and supplies, or self-destruct for some time. The explosion may stun multiple targets on a critical hit."
 			}
 		],
 		"shotSkins":

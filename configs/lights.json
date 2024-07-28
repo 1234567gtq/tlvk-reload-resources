@@ -1627,66 +1627,147 @@
 		"id":"hammer_default_shot",
 		"light":
 		[
-           { "attenuationBegin": 50, "attenuationEnd": 700, "color":15501081, "intensity": 1, "time": 0 },
-           { "attenuationBegin": 1, "attenuationEnd": 2, "color":15501081, "intensity": 0, "time": 300 }
+           { "attenuationBegin": 200, "attenuationEnd": 700, "color":16431616, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":16431616, "intensity": 0, "time": 200 }
+        ]
+	},
+	{
+		"id":"hammer_default_sparkle",
+		"light":
+		[
+           { "attenuationBegin": 10, "attenuationEnd": 100, "color":16431616, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":16431616, "intensity": 0, "time": 800 }
         ]
 	},
 	{
 		"id":"hammer_aqua_shot",
 		"light":
 		[
-           { "attenuationBegin": 50, "attenuationEnd": 700, "color":4063212, "intensity": 1, "time": 0 },
-           { "attenuationBegin": 1, "attenuationEnd": 2, "color":4063212, "intensity": 0, "time": 300 }
+           { "attenuationBegin": 200, "attenuationEnd": 700, "color":4063212, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":4063212, "intensity": 0, "time": 200 }
+        ]
+	},
+	{
+		"id":"hammer_aqua_sparkle",
+		"light":
+		[
+           { "attenuationBegin": 10, "attenuationEnd": 100, "color":4063212, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":4063212, "intensity": 0, "time": 800 }
         ]
 	},
 	{
 		"id":"hammer_magma_shot",
 		"light":
 		[
-           { "attenuationBegin": 50, "attenuationEnd": 700, "color":15622660, "intensity": 1, "time": 0 },
-           { "attenuationBegin": 1, "attenuationEnd": 2, "color":15622660, "intensity": 0, "time": 300 }
+           { "attenuationBegin": 200, "attenuationEnd": 700, "color":15622660, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":15622660, "intensity": 0, "time": 200 }
+        ]
+	},
+	{
+		"id":"hammer_magma_sparkle",
+		"light":
+		[
+           { "attenuationBegin": 10, "attenuationEnd": 100, "color":15622660, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":15622660, "intensity": 0, "time": 800 }
         ]
 	},
 	{
 		"id":"hammer_void_shot",
 		"light":
 		[
-           { "attenuationBegin": 50, "attenuationEnd": 700, "color":15413759, "intensity": 1, "time": 0 },
-           { "attenuationBegin": 1, "attenuationEnd": 2, "color":15413759, "intensity": 0, "time": 300 }
+           { "attenuationBegin": 200, "attenuationEnd": 700, "color":15413759, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":15413759, "intensity": 0, "time": 200 }
+        ]
+	},
+	{
+		"id":"hammer_void_sparkle",
+		"light":
+		[
+           { "attenuationBegin": 10, "attenuationEnd": 100, "color":15413759, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":15413759, "intensity": 0, "time": 800 }
         ]
 	},
 	{
 		"id":"hammer_toxic_shot",
 		"light":
 		[
-           { "attenuationBegin": 50, "attenuationEnd": 700, "color":65280, "intensity": 1, "time": 0 },
-           { "attenuationBegin": 1, "attenuationEnd": 2, "color":65280, "intensity": 0, "time": 300 }
+           { "attenuationBegin": 200, "attenuationEnd": 700, "color":65280, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":65280, "intensity": 0, "time": 200 }
+        ]
+	},
+	{
+		"id":"hammer_toxic_sparkle",
+		"light":
+		[
+           { "attenuationBegin": 10, "attenuationEnd": 100, "color":65280, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":65280, "intensity": 0, "time": 800 }
         ]
 	},
 	{
 		"id":"hammer_eclipse_shot",
 		"light":
 		[
-           { "attenuationBegin": 50, "attenuationEnd": 700, "color":16448250, "intensity": 1, "time": 0 },
-           { "attenuationBegin": 1, "attenuationEnd": 2, "color":16448250, "intensity": 0, "time": 300 }
+           { "attenuationBegin": 200, "attenuationEnd": 700, "color":16448250, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":16448250, "intensity": 0, "time": 200 }
+        ]
+	},
+	{
+		"id":"hammer_eclipse_sparkle",
+		"light":
+		[
+           { "attenuationBegin": 10, "attenuationEnd": 100, "color":16448250, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":16448250, "intensity": 0, "time": 800 }
         ]
 	},
 	{
 		"id":"hammer_blue_shot",
 		"light":
 		[
-           { "attenuationBegin": 50, "attenuationEnd": 700, "color":231, "intensity": 1, "time": 0 },
-           { "attenuationBegin": 1, "attenuationEnd": 2, "color":231, "intensity": 0, "time": 300 }
+           { "attenuationBegin": 200, "attenuationEnd": 700, "color":231, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":231, "intensity": 0, "time": 200 }
+        ]
+	},
+	{
+		"id":"hammer_blue_sparkle",
+		"light":
+		[
+           { "attenuationBegin": 10, "attenuationEnd": 100, "color":231, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":231, "intensity": 0, "time": 800 }
         ]
 	},
 	{
 		"id":"hammer_blood_shot",
 		"light":
 		[
-           { "attenuationBegin": 50, "attenuationEnd": 700, "color":16646144, "intensity": 1, "time": 0 },
-           { "attenuationBegin": 1, "attenuationEnd": 2, "color":16646144, "intensity": 0, "time": 300 }
+           { "attenuationBegin": 200, "attenuationEnd": 700, "color":16646144, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":16646144, "intensity": 0, "time": 200 }
         ]
 	},
+	{
+		"id":"hammer_blood_sparkle",
+		"light":
+		[
+           { "attenuationBegin": 10, "attenuationEnd": 100, "color":16646144, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":16646144, "intensity": 0, "time": 800 }
+        ]
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	{
 		"id":"thunder_default_shot",
 		"light":
