@@ -621,6 +621,7 @@
 { "id":"turret_flamethrower_lc", "version":"1", "type":"models" },
 { "id":"turret_flamethrower_dc", "version":"2", "type":"models" },
 { "id":"turret_flamethrower_dc_old", "version":"1", "type":"models" },
+{ "id":"turret_flamethrower_gt", "version":"1", "type":"models" },
 { "id":"turret_flamethrower_ut_old", "version":"1", "type":"models" },
 { "id":"turret_flamethrower_2.0_m1", "version":"1", "type":"models" },
 { "id":"turret_flamethrower_tx_dreadnought", "version":"2", "type":"models" },

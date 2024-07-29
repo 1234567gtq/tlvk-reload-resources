@@ -118,6 +118,16 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Специальная линейка GT скинов для пушек - это не только отличное дополнение для любого колёсного корпуса, но и проявление особой смелости. Не каждый танкист готов пожертвовать скрытностью и осторожностью на поле боя, ради того, чтобы продемонстрировать всю уникальность и особенность своего танка. Специальные засечки, напоминающие шрамы, оставленные хищником с большими когтями, и уникальные геометрические формы придают пушкам этой серии ещё более грозный и опасный вид. Новейшие разработки в области танкостроения и особый сплав белых металлов развязали руки конструкторам данного изделия, позволив впервые создать не только мощное, но и красивое оружие, которое никогда не будет просто так пылиться в гараже танкиста.",
+				"descriptionEN":"This special series of GT skins for turrets is not just a good addition to any wheeled hull but also a manifestation of extraordinary courage. Not every tanker is ready to sacrifice stealth and caution on the battlefield to flaunt the uniqueness and the peculiarity of his tank in their entirety. Special scars resembling claw marks left by a predator and unique geometric structure give turrets of these series an even more formidable and dangerous look. The latest developments in field tank construction and a special alloy of white metals «unshackled the hands» of designers of this product, allowing them for the first time in history to create not only powerful but also beautiful weapons that would otherwise just be gathering dust in a tanker's garage.",
+				"icon":"gt",
+				"emissionColor":"517374",
+				"emissionColorSecond":"16685824",
+				"emissionColorThreshold":"0.6"
+			},
+			{
 				"id":"ut_old",
 				"nameRU":"Ultra (старый, неофициальный)",
 				"nameEN":"Ultra (old, unofficial)",
