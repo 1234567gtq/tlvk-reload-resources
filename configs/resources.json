@@ -427,6 +427,7 @@
 { "id":"hull_wasp_xt", "version":"1", "type":"models" },
 { "id":"hull_wasp_lc", "version":"1", "type":"models" },
 { "id":"hull_wasp_dc", "version":"2", "type":"models" },
+{ "id":"hull_wasp_gt", "version":"1", "type":"models" },
 { "id":"hull_wasp_release_1.100_1", "version":"1", "type":"models" },
 { "id":"hull_wasp_release_1.100_2", "version":"1", "type":"models" },
 { "id":"hull_wasp_release_1.100_3", "version":"1", "type":"models" },
@@ -3006,8 +3007,6 @@
 { "id":"device_vampire_nanobots_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_stunning_nanobots_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_sustainable_nanobots_icon", "version":"1", "type":"images", "isLazy":true },
-
-
 { "id":"device_minus_field_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_acceleration_protocol_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_dilatory_protocol_icon", "version":"1", "type":"images", "isLazy":true },
@@ -3015,7 +3014,6 @@
 { "id":"device_exothermic_lightning_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_endothermic_lightning_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_shocking_lightning_icon", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"device_slugger_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_high_capacity_ammo_clip_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_duplet_icon", "version":"1", "type":"images", "isLazy":true },
@@ -3027,7 +3025,6 @@
 { "id":"device_large_caliber_pellets_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_heavy_slugger_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_hunter_duplet_icon", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"device_stabilized_plasma_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_plasma_accelerators_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_heavy_plasmagun_icon", "version":"1", "type":"images", "isLazy":true },
@@ -3036,7 +3033,6 @@
 { "id":"device_cryotron_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_tectonic_plasma_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_plasmatron_icon", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"device_destabilized_plasma_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_minus_field_stabilization_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_plasma_torch_icon", "version":"1", "type":"images", "isLazy":true },
@@ -3044,6 +3040,10 @@
 { "id":"device_sizzling_field_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_cryo_field_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_tectonic_field_icon", "version":"1", "type":"images", "isLazy":true },
+
+{ "id":"device_assault_rounds_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_high_precision_aiming_system_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_supercumulative_rounds_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
 
 
 

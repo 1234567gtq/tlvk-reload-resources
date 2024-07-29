@@ -117,6 +117,16 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Для путешествий на большие расстояния всегда лучше использовать колёса. Серия GT скинов для корпусов, которые созданы для самых смелых и решительных игроков.\n\nОни идеально подходят для тех, кто хочет выделиться на поле боя и продемонстрировать свою силу и уверенность.\n\nКорпуса GT оснащены передовыми технологиями и материалами и имеют уникальный дизайн, который подчёркивает их мощь и красоту.",
+				"descriptionEN":"It is always better to use wheels for long distance travels. The GT series of skins for hulls is designed for the boldest and most determined players.\n\nThey are perfect for those who want to stand out on the battlefield and demonstrate their strength and confidence.\n\nGT hulls are equipped with advanced technologies and materials and have a unique design that emphasizes their power and beauty.",
+				"icon":"gt",
+				"emissionColor":"196607",
+				"emissionColorSecond":"16751360",
+				"emissionColorThreshold":"0.6"
+			},
+			{
 				"id":"release_1.100_1",
 				"nameRU":"Релиз 1.100 (1)",
 				"nameEN":"Release 1.100 (1)",
