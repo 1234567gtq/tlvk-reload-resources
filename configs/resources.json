@@ -3045,6 +3045,14 @@
 { "id":"device_assault_rounds_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
 { "id":"device_high_precision_aiming_system_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
 { "id":"device_supercumulative_rounds_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_autocannon_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_rubberized_rounds_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_explosive_rounds_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_sorted_ammunition_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_incendiary_rounds_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_cryo_rounds_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_paralyzing_rounds_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_hyperspeed_rounds_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
 
 
 
@@ -3412,7 +3420,7 @@
 { "id":"map_deathtrack_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_deck-9_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_desert_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_desert_mm_summer", "version":"1", "type":"maps", "isLazy":true },
+{ "id":"map_desert_mm_summer", "version":"2", "type":"maps", "isLazy":true },
 { "id":"map_duality_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_duel_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_dusseldorf_summer", "version":"1", "type":"maps", "isLazy":true },
