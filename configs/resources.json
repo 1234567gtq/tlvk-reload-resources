@@ -3344,7 +3344,20 @@
 { "id":"map_serpuhov_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_serpuhov_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_short_bridge_summer_preview", "version":"1", "type":"images", "isLazy":true },
+
 { "id":"map_siege_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_siege_summer", "version":"1", "type":"maps" },
+{ "id":"map_siege_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_siege_winter", "version":"1", "type":"maps" },
+{ "id":"map_siege_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_siege_mm_summer", "version":"1", "type":"maps" },
+{ "id":"map_siege_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_siege_mm_winter", "version":"1", "type":"maps" },
+{ "id":"map_siege_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_siege_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_siege_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_siege_old_winter", "version":"1", "type":"maps" },
+
 { "id":"map_silence_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_silence_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_skylark_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3460,7 +3473,7 @@
 { "id":"map_sandbox_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_sandbox_mm_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_scope_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_siege_summer", "version":"1", "type":"maps", "isLazy":true },
+
 { "id":"map_aleksandrovsk_mm_winter", "version":"2", "type":"maps", "isLazy":true },
 { "id":"map_aleksandrovsk_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_aleksandrovsk_winter", "version":"1", "type":"maps", "isLazy":true },
@@ -3619,8 +3632,7 @@
 { "id":"map_serpuhov_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_short_bridge_winter", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_short_bridge_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_siege_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_siege_winter_preview", "version":"1", "type":"images", "isLazy":true },
+
 { "id":"map_silence_mm_winter", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_silence_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_silence_winter", "version":"1", "type":"maps", "isLazy":true },
@@ -3972,10 +3984,7 @@
 { "id":"map_short_bridge_old_winter", "version":"1", "type":"maps" },
 { "id":"map_short_bridge_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_siege_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_siege_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_siege_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_siege_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+
 
 { "id":"map_silence_i_old_summer", "version":"1", "type":"maps" },
 { "id":"map_silence_i_old_summer_preview", "version":"1", "type":"images", "isLazy":true },

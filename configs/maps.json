@@ -638,14 +638,7 @@
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
-	{
-		"id":"siege_old_winter",
-		"nameRU":"Осада",
-		"nameEN":"Siege",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
+	
 	{
 		"id":"short_bridge_old_winter",
 		"nameRU":"Мостик",
@@ -1197,14 +1190,7 @@
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
-	{
-		"id":"siege_old_summer",
-		"nameRU":"Осада",
-		"nameEN":"Siege",
-		"skyBox":"hills_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
+	
 	{
 		"id":"short_bridge_old_summer",
 		"nameRU":"Мостик",
@@ -2400,14 +2386,7 @@
 		"theme":"winter_day",
 		"category":"winter"
 	},
-	{
-		"id":"siege_winter",
-		"nameRU":"Осада",
-		"nameEN":"Siege",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
+	
 	{
 		"id":"silence_mm_winter",
 		"nameRU":"Тишина ММ",
@@ -3280,6 +3259,10 @@
 		"theme":"summer_day",
 		"category":"summer"
 	},
+	
+	
+	
+	
 	{
 		"id":"siege_summer",
 		"nameRU":"Осада",
@@ -3288,6 +3271,47 @@
 		"theme":"summer_day",
 		"category":"summer"
 	},
+	{
+		"id":"siege_winter",
+		"nameRU":"Осада",
+		"nameEN":"Siege",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"siege_mm_summer",
+		"nameRU":"Осада MM",
+		"nameEN":"Siege MM",
+		"skyBox":"hills_day",
+		"theme":"summer_day_mm",
+		"category":"summer"
+	},
+	{
+		"id":"siege_mm_winter",
+		"nameRU":"Осада MM",
+		"nameEN":"Siege MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day_mm",
+		"category":"winter"
+	},
+	{
+		"id":"siege_old_summer",
+		"nameRU":"Осада",
+		"nameEN":"Siege",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"siege_old_winter",
+		"nameRU":"Осада",
+		"nameEN":"Siege",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	
 	{
 		"id":"silence_summer",
 		"nameRU":"Тишина",
