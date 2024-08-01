@@ -655,14 +655,7 @@
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
-	{
-		"id":"scope_old_winter",
-		"nameRU":"Простор",
-		"nameEN":"Scope",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
+	
 	{
 		"id":"sandbox_old_winter",
 		"nameRU":"Песочница",
@@ -1207,14 +1200,7 @@
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
-	{
-		"id":"scope_old_summer",
-		"nameRU":"Простор",
-		"nameEN":"Scope",
-		"skyBox":"mountains_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
+	
 	{
 		"id":"sandbox_old_summer",
 		"nameRU":"Песочница",
@@ -2354,14 +2340,7 @@
 		"theme":"winter_day",
 		"category":"winter"
 	},
-	{
-		"id":"scope_winter",
-		"nameRU":"Простор",
-		"nameEN":"Scope",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
+	
 	{
 		"id":"serpuhov_mm_winter",
 		"nameRU":"Серпухов ММ",
@@ -3227,6 +3206,10 @@
 		"theme":"summer_day",
 		"category":"summer"
 	},
+	
+	
+	
+	
 	{
 		"id":"scope_summer",
 		"nameRU":"Простор",
@@ -3235,6 +3218,42 @@
 		"theme":"summer_day",
 		"category":"summer"
 	},
+	{
+		"id":"scope_winter",
+		"nameRU":"Простор",
+		"nameEN":"Scope",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	
+	{
+		"id":"scope_mm_summer",
+		"nameRU":"Простор MM",
+		"nameEN":"Scope MM",
+		"skyBox":"mountains_day",
+		"theme":"summer_day_mm",
+		"category":"summer"
+	},
+	
+	{
+		"id":"scope_old_summer",
+		"nameRU":"Простор",
+		"nameEN":"Scope",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"scope_old_winter",
+		"nameRU":"Простор",
+		"nameEN":"Scope",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	
+	
 	{
 		"id":"serpuhov_summer",
 		"nameRU":"Серпухов",

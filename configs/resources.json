@@ -3054,6 +3054,16 @@
 { "id":"device_paralyzing_rounds_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
 { "id":"device_hyperspeed_rounds_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
 
+{ "id":"device_remote_rocket_explosives_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_missile_launcher_hunter_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_missile_launcher_cyclone_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_missile_launcher_uranium_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_incendiary_missiles_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_cryo_missiles_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_stunning_missiles_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_missile_launcher_tandem_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_missile_launcher_hydra_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+
 
 
 { "id":"device_automated_gunpowder_loading_mechanism_icon", "version":"1", "type":"images", "isLazy":true },
@@ -3348,7 +3358,23 @@
 { "id":"map_sandal_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_sandbox_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_sandbox_mm_summer_preview", "version":"2", "type":"images", "isLazy":true },
+
+
+
+
 { "id":"map_scope_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_scope_summer", "version":"1", "type":"maps" },
+{ "id":"map_scope_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_scope_winter", "version":"1", "type":"maps" },
+{ "id":"map_scope_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_scope_mm_summer", "version":"1", "type":"maps" },
+{ "id":"map_scope_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_scope_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_scope_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_scope_old_winter", "version":"1", "type":"maps" },
+
+
+
 { "id":"map_serpuhov_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_serpuhov_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_short_bridge_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3480,7 +3506,7 @@
 { "id":"map_sandal_mm_summer", "version":"2", "type":"maps", "isLazy":true },
 { "id":"map_sandbox_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_sandbox_mm_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_scope_summer", "version":"1", "type":"maps", "isLazy":true },
+
 
 { "id":"map_aleksandrovsk_mm_winter", "version":"2", "type":"maps", "isLazy":true },
 { "id":"map_aleksandrovsk_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3632,8 +3658,7 @@
 { "id":"map_sandbox_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_sandbox_winter", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_sandbox_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_scope_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_scope_winter_preview", "version":"1", "type":"images", "isLazy":true },
+
 { "id":"map_serpuhov_mm_winter", "version":"2", "type":"maps", "isLazy":true },
 { "id":"map_serpuhov_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_serpuhov_winter", "version":"1", "type":"maps", "isLazy":true },
@@ -3977,10 +4002,7 @@
 { "id":"map_sandbox_old_winter", "version":"1", "type":"maps" },
 { "id":"map_sandbox_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_scope_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_scope_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_scope_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_scope_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+
 
 { "id":"map_serpuhov_old_summer", "version":"1", "type":"maps" },
 { "id":"map_serpuhov_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
