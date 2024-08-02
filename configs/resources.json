@@ -3271,7 +3271,23 @@
 
 { "id":"map_aleksandrovsk_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_aleksandrovsk_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+
+
+
+
+
+
 { "id":"map_archipelago_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_archipelago_mm_summer", "version":"2", "type":"maps" },
+{ "id":"map_archipelago_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_archipelago_mm_winter", "version":"2", "type":"maps" },
+{ "id":"map_archipelago_mm_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_archipelago_mm_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_archipelago_mm_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_archipelago_mm_old_winter", "version":"1", "type":"maps" },
+
+
+
 { "id":"map_arena_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_atra_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_barda_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3419,7 +3435,7 @@
 { "id":"map_tutorial_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_aleksandrovsk_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_aleksandrovsk_mm_summer", "version":"2", "type":"maps", "isLazy":true },
-{ "id":"map_archipelago_mm_summer", "version":"1", "type":"maps", "isLazy":true },
+
 { "id":"map_arena_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_atra_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_barda_summer", "version":"1", "type":"maps", "isLazy":true },
@@ -3512,8 +3528,7 @@
 { "id":"map_aleksandrovsk_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_aleksandrovsk_winter", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_aleksandrovsk_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_archipelago_mm_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_archipelago_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
+
 { "id":"map_arena_winter", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_arena_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_atra_winter", "version":"1", "type":"maps", "isLazy":true },

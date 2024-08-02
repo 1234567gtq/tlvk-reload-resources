@@ -1757,14 +1757,6 @@
 		"category":"winter"
 	},
 	{
-		"id":"archipelago_mm_winter",
-		"nameRU":"Архипелаг ММ",
-		"nameEN":"Archipelago MM",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
 		"id":"arena_winter",
 		"nameRU":"Арена",
 		"nameEN":"Arena",
@@ -2518,14 +2510,49 @@
 		"theme":"summer_day",
 		"category":"summer"
 	},
+	
+	
+	
+	
+	
+	
 	{
 		"id":"archipelago_mm_summer",
 		"nameRU":"Архипелаг MM",
 		"nameEN":"Archipelago MM",
 		"skyBox":"rio_day",
-		"theme":"summer_day",
+		"theme":"summer_day_mm",
 		"category":"summer"
 	},
+	{
+		"id":"archipelago_mm_winter",
+		"nameRU":"Архипелаг MM",
+		"nameEN":"Archipelago MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day_mm",
+		"category":"winter"
+	},
+	{
+		"id":"archipelago_mm_old_summer",
+		"nameRU":"Архипелаг MM (старый)",
+		"nameEN":"Archipelago MM (old)",
+		"skyBox":"rio_day",
+		"theme":"summer_day_mm",
+		"category":"summer"
+	},
+	{
+		"id":"archipelago_mm_old_winter",
+		"nameRU":"Архипелаг MM (старый)",
+		"nameEN":"Archipelago MM (old)",
+		"skyBox":"winter_day",
+		"theme":"winter_day_mm",
+		"category":"winter"
+	},
+	
+	
+	
+	
+	
 	{
 		"id":"arena_summer",
 		"nameRU":"Арена",
