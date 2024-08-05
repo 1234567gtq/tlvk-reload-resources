@@ -300,7 +300,7 @@
 		"nameRU":"Крушение",
 		"nameEN":"Crash",
 		"skyBox":"urban_day",
-		"theme":"summer_day",
+		"theme":"gray",
 		"category":"special"
 	},
 	{
@@ -316,7 +316,7 @@
 		"nameRU":"Галерея",
 		"nameEN":"Gallery",
 		"skyBox":"urban_day",
-		"theme":"summer_day",
+		"theme":"gray",
 		"category":"special"
 	},
 	{
@@ -2937,6 +2937,9 @@
 		"theme":"summer_day",
 		"category":"summer"
 	},
+	
+	
+	
 	{
 		"id":"iran_summer",
 		"nameRU":"Иран",
@@ -2946,13 +2949,24 @@
 		"category":"summer"
 	},
 	{
+		"id":"iran_winter",
+		"nameRU":"Иран (зима)",
+		"nameEN":"Iran (winter)",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"special"
+	},
+	{
 		"id":"iran_mm_summer",
 		"nameRU":"Иран MM",
 		"nameEN":"Iran MM",
 		"skyBox":"iran_day",
-		"theme":"iran",
+		"theme":"iran_mm",
 		"category":"summer"
 	},
+	
+	
+	
 	{
 		"id":"island_summer",
 		"nameRU":"Остров",

@@ -180,6 +180,24 @@
 		"dustSize":"180"
 	},
 	{
+		"id":"gray",
+		"nameRU":"Пасмурно",
+		"nameEN":"Gray",
+		"ambient":"sound_ambient_summer_day",
+		"angleX":"-0.9",
+		"angleZ":"2.5",
+		"lightColor":"9079434",
+		"shadowColor":"2768978",
+		"fogColor":"15262140",
+		"fogAlpha":"0.25",
+		"gravity":"1000",
+		"skyBoxRevolutionSpeed":"0",
+		"SSAOColor":"2045258",
+		"dust":"hull_dust_summer",
+		"dustAlpha":"0.75",
+		"dustSize":"180"
+	},
+	{
 		"id":"new_year",
 		"nameRU":"Новый Год",
 		"nameEN":"New Year",

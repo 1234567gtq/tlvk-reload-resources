@@ -3041,7 +3041,6 @@
 { "id":"device_sizzling_field_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_cryo_field_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_tectonic_field_icon", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"device_assault_rounds_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
 { "id":"device_high_precision_aiming_system_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
 { "id":"device_supercumulative_rounds_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
@@ -3063,6 +3062,9 @@
 { "id":"device_stunning_missiles_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
 { "id":"device_missile_launcher_tandem_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
 { "id":"device_missile_launcher_hydra_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_missile_launcher_faust_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_vacuum_missiles_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_missile_launcher_meteor_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
 
 
 
@@ -3337,8 +3339,18 @@
 { "id":"map_hill_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_industrial_zone_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_industrial_zone_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+
+
+
+
 { "id":"map_iran_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_iran_summer", "version":"1", "type":"maps" },
+{ "id":"map_iran_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_iran_winter", "version":"1", "type":"maps" },
 { "id":"map_iran_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_iran_mm_summer", "version":"1", "type":"maps" },
+
+
 { "id":"map_island_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_kolhoz_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_kungur_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3485,8 +3497,8 @@
 { "id":"map_hill_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_industrial_zone_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_industrial_zone_mm_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_iran_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_iran_mm_summer", "version":"1", "type":"maps", "isLazy":true },
+
+
 { "id":"map_island_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_kolhoz_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_kungur_summer", "version":"1", "type":"maps", "isLazy":true },
@@ -4303,11 +4315,17 @@
 { "id":"proplib_fence", "version":"1", "type":"proplibs", "isLazy":true },
 { "id":"proplib_passage", "version":"1", "type":"proplibs", "isLazy":true },
 { "id":"proplib_terrain", "version":"1", "type":"proplibs", "isLazy":true },
-{ "id":"proplib_iran_kahgel", "version":"1", "type":"proplibs", "isLazy":true },
-{ "id":"proplib_iran_kariz", "version":"1", "type":"proplibs", "isLazy":true },
-{ "id":"proplib_iran_yonje", "version":"1", "type":"proplibs", "isLazy":true },
-{ "id":"proplib_iran_zamin", "version":"1", "type":"proplibs", "isLazy":true },
-{ "id":"proplib_iran_zamin_winter", "version":"1", "type":"proplibs", "isLazy":true },
+
+{ "id":"proplib_iran_kahgel", "version":"1", "type":"proplibs" },
+{ "id":"proplib_kahgel_winter", "version":"1", "type":"proplibs" },
+{ "id":"proplib_iran_kariz", "version":"1", "type":"proplibs" },
+{ "id":"proplib_kariz_winter", "version":"1", "type":"proplibs" },
+{ "id":"proplib_iran_yonje", "version":"1", "type":"proplibs" },
+{ "id":"proplib_yonje_winter", "version":"1", "type":"proplibs" },
+{ "id":"proplib_iran_zamin", "version":"1", "type":"proplibs" },
+{ "id":"proplib_iran_zamin_winter", "version":"1", "type":"proplibs" },
+{ "id":"proplib_zamin_winter", "version":"1", "type":"proplibs" },
+
 { "id":"proplib_bridge_parts_winter", "version":"1", "type":"proplibs", "isLazy":true },
 { "id":"proplib_broken_bottom_winter", "version":"1", "type":"proplibs", "isLazy":true },
 { "id":"proplib_broken_roof_winter", "version":"1", "type":"proplibs", "isLazy":true },
