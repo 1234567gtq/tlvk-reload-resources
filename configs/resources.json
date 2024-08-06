@@ -3066,6 +3066,16 @@
 { "id":"device_vacuum_missiles_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
 { "id":"device_missile_launcher_meteor_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
 
+{ "id":"device_small_caliber_charging_machine_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_subcaliber_rounds_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_sledgehammer_rounds_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_strict_ammunition_load_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_salamander_shells_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_wyvern_shells_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_peacekeeper_shells_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_hyperspeed_shells_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"device_adaptive_reload_icon", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+
 
 
 { "id":"device_automated_gunpowder_loading_mechanism_icon", "version":"1", "type":"images", "isLazy":true },
@@ -3396,6 +3406,8 @@
 { "id":"map_scope_winter", "version":"1", "type":"maps" },
 { "id":"map_scope_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_scope_mm_summer", "version":"1", "type":"maps" },
+{ "id":"map_scope_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_scope_mm_winter", "version":"1", "type":"maps" },
 { "id":"map_scope_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_scope_old_summer", "version":"1", "type":"maps" },
 { "id":"map_scope_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3442,7 +3454,6 @@
 { "id":"map_zone_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_luxembourg_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_luxembourg_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_happy_new_year_2018_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_gallery_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_tutorial_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_aleksandrovsk_summer", "version":"1", "type":"maps", "isLazy":true },

@@ -3267,7 +3267,6 @@
 		"theme":"winter_day",
 		"category":"winter"
 	},
-	
 	{
 		"id":"scope_mm_summer",
 		"nameRU":"Простор MM",
@@ -3276,7 +3275,14 @@
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
-	
+	{
+		"id":"scope_mm_winter",
+		"nameRU":"Простор MM",
+		"nameEN":"Scope MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day_mm",
+		"category":"winter"
+	},
 	{
 		"id":"scope_old_summer",
 		"nameRU":"Простор",
