@@ -75,6 +75,11 @@
 		"nameEN":"Iran"
 	},
 	{
+		"id":"iran_winter_day",
+		"nameRU":"Иран зима",
+		"nameEN":"Iran winter"
+	},
+	{
 		"id":"remaster_day",
 		"nameRU":"Ремастер день",
 		"nameEN":"Remaster day"

@@ -3237,6 +3237,15 @@
 { "id":"skybox_iran_day_left", "version":"1", "type":"textures" },
 { "id":"skybox_iran_day_right", "version":"1", "type":"textures" },
 { "id":"skybox_iran_day_top", "version":"1", "type":"textures" },
+
+{ "id":"skybox_iran_winter_day_back", "version":"1", "type":"textures" },
+{ "id":"skybox_iran_winter_day_bottom", "version":"1", "type":"textures" },
+{ "id":"skybox_iran_winter_day_front", "version":"1", "type":"textures" },
+{ "id":"skybox_iran_winter_day_left", "version":"1", "type":"textures" },
+{ "id":"skybox_iran_winter_day_right", "version":"1", "type":"textures" },
+{ "id":"skybox_iran_winter_day_top", "version":"1", "type":"textures" },
+
+
 { "id":"skybox_remaster_day_back", "version":"1", "type":"textures" },
 { "id":"skybox_remaster_day_bottom", "version":"1", "type":"textures" },
 { "id":"skybox_remaster_day_front", "version":"1", "type":"textures" },

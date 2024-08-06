@@ -2952,7 +2952,7 @@
 		"id":"iran_winter",
 		"nameRU":"Иран (зима)",
 		"nameEN":"Iran (winter)",
-		"skyBox":"winter_day",
+		"skyBox":"iran_winter_day",
 		"theme":"winter_day",
 		"category":"special"
 	},
