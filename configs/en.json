@@ -41,6 +41,7 @@
 	"THEME":"Theme",
 	"SKYBOX":"Skybox",
 	"BILLBOARD":"Billboard",
+	"CHANCE_OF_TURRET_BLOWN_OFF":"Chance of turret blown off (%)",
 	"OPEN_OWN_MAP":"Open own map",
 	"PLAY":"Play",
 	"SEARCH:":"Search:",
@@ -164,36 +165,61 @@
 	"MAX_BARREL_ANGLE":"Maximum barrel degree (rad)",
 	
 	"ENERGY_RESERVE":"Energy reserve (cond. units)",
-	"ENERGY_RECHARGE_RATE_SEC":"Energy production (cond. units/s)",
+	"ENERGY_RECHARGE_RATE":"Energy production (cond. units/s)",
 	"CONE_ANGLE":"Cone angle (rad)",
 	"CRITICAL_HIT_CHANCE":"Chance of critical damage (%)",
 	"ENERGY_DISCHARGE_RATE":"Energy consumption (cond. units/s)",
 	"RANGE_OF_MIN_DAMAGE":"Range of min damage (cm)",
-	"RANGE_OF_MAX_DAMAGE":"Range of max damage (cm)",
 	"TEMPERATURE_LIMIT":"Temperature limit (cond. units)",
 	"ENERGY_DISCHARGE_DAMAGE_RATE":"Energy consumption when attacking (cond. units/s)",
 	"ENERGY_DISCHARGE_IDLE_RATE":"Energy consumption when idle shooting (cond. units/s)",
 	"SHELL_PREPARING_TIME":"Shell preparing time (ms)",
 	"SHELL_IMPACT_FORCE":"Shell impact force (cond. units)",
 	"LIGHTNING_PERIOD":"Lightning period (ms)",
-	"RELOAD_TIME":"Reload time (ms)",
-	"RADIUS_OF_ADDING_AN_OBJECT_TO_THE_CHAIN":"Radius of adding an object to the chain (cm)",
-	"SHELL_RECOIL_FORCE":"Shell recoil force (cond. units)",
-	"SHELL_RANGE":"Shell range (cm)",
-	"SHELL_SPEED":"Shell speed (cm/s)",
-	"SHELL_RADIUS":"Shell radius (cm)",
 	"MAX_RICOCHET_ANGLE":"Max ricochet angle (rad)",
 	"MAX_RICOCHET_COUNT":"Max ricochet count",
+	"RADIUS_OF_ADDING_AN_OBJECT_TO_THE_CHAIN":"Radius of adding an object to the chain (cm)",
+	"SHELL_RECOIL_FORCE":"Shell recoil force (cond. units)",
+	"RELOAD_TIME":"Reload time (ms)",
+	"SHELL_RADIUS":"Shell radius (cm)",
+	"SHELL_RANGE":"Shell range (cm)",
+	"SHELL_SPEED":"Shell speed (cm/s)",
 	"CONE_HORIZONTAL_ANGLE":"Horizontal spreading degree (rad)",
 	"CONE_VERTICAL_ANGLE":"Vertical spreading degree (rad)",
+	"DOWNWARD_AUTO_AIM":"Downward auto-aim (rad)",
 	"MAGAZINE_RELOAD_TIME":"Magazine reload time (ms)",
 	"MAGAZINE_SIZE":"Magazine size",
-	"MAX_PELLET_COUNT":"Amount of pellets",
-	"PELLET_RECOIL_FORCE":"Pellet recoil force (cond. units)",
+	"PELLET_COUNT":"Amount of pellets",
 	"PELLET_IMPACT_FORCE":"One pellet impact force (cond. units)",
+	"RANGE_OF_MAX_DAMAGE":"Range of max damage (cm)",
+	"PELLET_RECOIL_FORCE":"Pellet recoil force (cond. units)",
 	"UPWARD_AUTO_AIM":"Upward auto-aim (rad)",
-	"DOWNWARD_AUTO_AIM":"Downward auto-aim (rad)",
 	"ENERGY_PER_SHOT":"Energy per shot (cond. units)",
+	"ROCKET_RANGE":"Rocket range (cm)",
+	"ANGULAR_ROCKET_VELOCITY":"Angular rocket velocity (cm/s)",
+	"ROCKET_BOOST_PHASE_DURATION":"Rocket accelerating time (ms)",
+	"ROCKET_IMPACT_FORCE":"Rocket impact force (cond. units)",
+	"MAX_ROCKET_SPEED":"Max rocket speed (cm/s)",
+	"MIN_ROCKET_SPEED":"Min rocket speed (cm/s)",
+	"ROCKET_RADIUS":"Rocket radius (cm)",
+	"SALVO_AIMING_GRACE_PERIOD":"Time of aiming recovery (ms)",
+	"AIMING_TIME":"Aiming time (ms)",
+	"SALVO_RELOAD_TIME":"Reload time after salvo (ms)",
+	"SALVO_SIZE":"Amount of rockets in a salvo",
+	"TIME_BETWEEN_SHOTS_OF_SALVO":"Pause between the rockets in a salvo (ms)",
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -205,29 +231,27 @@
 
 	
 	
-	"ROCKET_IMPACT_FORCE":"Rocket impact force (cond. units)",
+	
 	
 	
 	
 	"ROCKET_RECOIL_FORCE":"Rocket recoil force (cond. units)",
 	
 	
-	"ROCKET_RADIUS":"Rocket radius (cm)",
 	
 	
 	
 	
-	"ANGULAR_ROCKET_VELOCITY":"Angular rocket velocity (cm/s)",
-	"ROCKET_BOOST_PHASE_DURATION":"Rocket accelerating time (ms)",
+	
+	
+	
 	"MAX_SHELL_SPEED":"Max shell speed (cm/s)",
 	"MIN_SHELL_SPEED":"Min shell speed (cm/s)",
-	"MAX_ROCKET_SPEED":"Max rocket speed (cm/s)",
-	"MIN_ROCKET_SPEED":"Min rocket speed (cm/s)",
-	"SALVO_AIMING_GRACE_PERIOD":"Time of aiming recovery (ms)",
-	"AIMING_TIME":"Aiming time (ms)",
-	"SALVO_RELOAD_TIME":"Reload time after salvo (ms)",
-	"SALVO_SIZE":"Amount of rockets in a salvo",
-	"TIME_BETWEEN_SHOTS_OF_SALVO":"Pause between the rockets in a salvo (ms)",
+	
+	
+	
+	
+	
 	"CHARGING_TIME":"Charging time (ms)",
 	"SHELL_GRAVITY_COEFF":"Gravity for the shell (deg)",
 	"SPEEDS_COUNT":"Charge steps",

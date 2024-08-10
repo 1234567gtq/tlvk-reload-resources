@@ -41,6 +41,7 @@
 	"THEME":"Тема",
 	"SKYBOX":"Небо",
 	"BILLBOARD":"Билборд",
+	"CHANCE_OF_TURRET_BLOWN_OFF":"Шанс отрыва башни (%)",
 	"OPEN_OWN_MAP":"Открыть свою карту",
 	"PLAY":"Играть",
 	"SEARCH:":"Поиск:",
@@ -168,87 +169,110 @@
 	"MAX_BARREL_ANGLE":"Максимальный угол ствола (рад)",
 	
 	"ENERGY_RESERVE":"Энергозапас (усл. ед.)",
-	"ENERGY_RECHARGE_RATE_SEC":"Производство энергии (усл. ед./с)",
+	"ENERGY_RECHARGE_RATE":"Производство энергии (усл. ед./с)",
 	"CONE_ANGLE":"Угол конуса (рад)",
 	"CRITICAL_HIT_CHANCE":"Шанс критического урона (%)",
 	"ENERGY_DISCHARGE_RATE":"Расход энергии (усл. ед./с)",
-	"RANGE_OF_MIN_DAMAGE":"Предельная дальность поражения (cm)",
-	"RANGE_OF_MAX_DAMAGE":"Дальность полного поражения (cm)",
+	"RANGE_OF_MIN_DAMAGE":"Предельная дальность поражения (см)",
 	"TEMPERATURE_LIMIT":"Ограничение на температуру (усл. ед.)",
 	"ENERGY_DISCHARGE_DAMAGE_RATE":"Расход энергии в режиме атаки (усл. ед./с)",
 	"ENERGY_DISCHARGE_IDLE_RATE":"Расход энергии в холостом режиме (усл. ед./с)",
 	"SHELL_PREPARING_TIME":"Время подготовки снаряда (мс)",
 	"SHELL_IMPACT_FORCE":"Cила удара снаряда (усл. ед.)",
 	"LIGHTNING_PERIOD":"Частота молний (мс)",
-	"RELOAD_TIME":"Время перезарядки (мс)",
-	"RADIUS_OF_ADDING_AN_OBJECT_TO_THE_CHAIN":"Радиус добавления объекта в цепочку (см)",
-	"SHELL_RECOIL_FORCE":"Сила отдачи снаряда (усл. ед.)",
-	"SHELL_RANGE":"Дальность снаряда (cm)",
-	"SHELL_SPEED":"Скорость снаряда (см/с)",
-	"SHELL_RADIUS":"Радиус снаряда (см)",
 	"MAX_RICOCHET_ANGLE":"Максимальный угол рикошета (рад)",
 	"MAX_RICOCHET_COUNT":"Максимальное число рикошетов",
+	"RADIUS_OF_ADDING_AN_OBJECT_TO_THE_CHAIN":"Радиус добавления объекта в цепочку (см)",
+	"SHELL_RECOIL_FORCE":"Сила отдачи снаряда (усл. ед.)",
+	"RELOAD_TIME":"Время перезарядки (мс)",
+	"SHELL_RADIUS":"Радиус снаряда (см)",
+	"SHELL_RANGE":"Дальность снаряда (см)",
+	"SHELL_SPEED":"Скорость снаряда (см/с)",
 	"CONE_HORIZONTAL_ANGLE":"Горизонтальный угол разброса (рад)",
 	"CONE_VERTICAL_ANGLE":"Вертикальный угол разброса (рад)",
+	"DOWNWARD_AUTO_AIM":"Автоприцел угол вниз (рад)",
 	"MAGAZINE_RELOAD_TIME":"Время перезарядки магазина (мс)",
 	"MAGAZINE_SIZE":"Размер магазина",
-	"MAX_PELLET_COUNT":"Количество дробинок",
-	"PELLET_RECOIL_FORCE":"Сила отдачи дробинок (усл. ед.)",
+	"PELLET_COUNT":"Количество дробинок",
 	"PELLET_IMPACT_FORCE":"Сила удара одной дробины (усл. ед.)",
+	"RANGE_OF_MAX_DAMAGE":"Дальность полного поражения (см)",
+	"PELLET_RECOIL_FORCE":"Сила отдачи дробинок (усл. ед.)",
 	"UPWARD_AUTO_AIM":"Автоприцел угол вверх (рад)",
-	"DOWNWARD_AUTO_AIM":"Автоприцел угол вниз (рад)",
 	"ENERGY_PER_SHOT":"Энергия на выстрел (усл. ед.)",
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	"ROCKET_RANGE":"Дальность ракеты (см)",
+	"ANGULAR_ROCKET_VELOCITY":"Угловая скорость ракеты (см/с)",
+	"ROCKET_BOOST_PHASE_DURATION":"Время ускорения ракеты (мс)",
 	"ROCKET_IMPACT_FORCE":"Cила удара ракеты (усл. ед.)",
+	"MAX_ROCKET_SPEED":"Максимальная скорость ракеты (см/с)",
+	"MIN_ROCKET_SPEED":"Минимальная скорость ракеты (см/с)",
+	"ROCKET_RADIUS":"Радиус ракеты (см)",
+	"SALVO_AIMING_GRACE_PERIOD":"Время восстановления наведения (мс)",
+	"AIMING_TIME":"Время прицеливания (мс)",
+	"SALVO_RELOAD_TIME":"Время перезарядки после залпа (мс)",
+	"SALVO_SIZE":"Число ракет в залпе",
+	"TIME_BETWEEN_SHOTS_OF_SALVO":"Пауза между ракетами в залпе (мс)",
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
 	"ROCKET_RECOIL_FORCE":"Сила отдачи ракеты (усл. ед.)",
 	
 	
-	"ROCKET_RADIUS":"Радиус ракеты (см)",
 	
 	
 	
 	
-	"ANGULAR_ROCKET_VELOCITY":"Угловая скорость ракеты (см/с)",
-	"ROCKET_BOOST_PHASE_DURATION":"Время ускорения ракеты (мс)",
+	
+	
+	
 	"MAX_SHELL_SPEED":"Максимальная скорость снаряда (см/с)",
 	"MIN_SHELL_SPEED":"Минимальная скорость снаряда (см/с)",
-	"MAX_ROCKET_SPEED":"Максимальная скорость ракеты (см/с)",
-	"MIN_ROCKET_SPEED":"Минимальная скорость ракеты (см/с)",
-	"SALVO_AIMING_GRACE_PERIOD":"Время восстановления наведения (мс)",
-	"AIMING_TIME":"Время прицеливания (мс)",
-	"SALVO_RELOAD_TIME":"Время перезарядки после залпа (мс)",
-	"SALVO_SIZE":"Число ракет в залпе",
-	"TIME_BETWEEN_SHOTS_OF_SALVO":"Пауза между ракетами в залпе (мс)",
+	
+	
+	
+	
+	
+	
 	"CHARGING_TIME":"Время зарядки (мс)",
 	"SHELL_GRAVITY_COEFF":"Гравитация для снаряда (град)",
 	"SPEEDS_COUNT":"Число шагов набора заряда",

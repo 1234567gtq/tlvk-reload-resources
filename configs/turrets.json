@@ -1832,6 +1832,83 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"assault_rounds",
+				"nameRU":"Штурмовые снаряды",
+				"nameEN":"Assault rounds",
+				"descriptionRU":"Повышена сила удара для дестабилизации вражеского прицела. Критический урон отключён.\nАккуратным попаданием в край корпуса противника можно сбить его линию прицеливания. Снаряд пройдёт мимо твоего танка и ты получишь решающее преимущество в поединке. Главное самому не промахиваться.",
+				"descriptionEN":"Rounds with increased impact strength will make it easier to throw off the enemy's aim. Such rounds can't deal critical damage."
+			},
+			{
+				"id":"high_precision_aiming_system",
+				"nameRU":"Система высокоточного прицеливания",
+				"nameEN":"High-precision aiming system",
+				"descriptionRU":"Обычный и критический уроны повышены. Перезарядка становится дольше. Скорость снарядов снижена.\nВысококачественный ствол и механизм корректировки прицеливания значительно повысили урон. Однако использование такого высокоточного оборудования привело к увеличению времени перезарядки и снижению скорости снаряда.",
+				"descriptionEN":"High-quality barrel and aiming correction mechanism noticeably increase damage. The use of the highly accurate equipment led to increase in reloading time."
+			},
+			{
+				"id":"supercumulative_rounds",
+				"nameRU":"Суперкумулятивные снаряды",
+				"nameEN":"Supercumulative rounds",
+				"descriptionRU":"Суперкумулятивные выстрелы попадаются в боекомплекте ещё реже, чем «обычные» кумулятивные заряды, однако и повреждения от таких снарядов гораздо больше. Урон критических выстрелов повышен за счёт уменьшения их частоты.",
+				"descriptionEN":"Supercumulative shots appear in the ammo clip even more rare than the \"regular\" cumulative rounds, but the damage from such rounds is also much greater. The damage from critical shots is increased because of the reduced critical rate."
+			},
+			{
+				"id":"autocannon",
+				"nameRU":"Автопушка",
+				"nameEN":"Autocannon",
+				"descriptionRU":"Перезарядка, отдача и сила удара пушки уменьшены. Урон и шанс критического урона снижены.\nАвтоматизированный конвейер заряжания в разы повышает скорострельность, но снижает шанс критических попаданий. Обычные выстрелы теряют большую часть своей эффективности.",
+				"descriptionEN":"Automated charging conveyor belt highly increases the firing rate but also significantly decreases critical hit chance. Regular shots lose most of their effectiveness."
+			},
+			{
+				"id":"rubberized_rounds",
+				"nameRU":"Прорезиненные снаряды",
+				"nameEN":"Rubberized rounds",
+				"descriptionRU":"Cнаряды с резиновой оболочкой могут поражать цели рикошетом, в том числе наносить противнику критический урон из-за угла. Однако число рикошетов сильно ограничено, а скорость снарядов повышена.",
+				"descriptionEN":"These rubber-encased shells may hit enemies and even deal critical damage after ricocheting. However, the maximum number of ricochets is limited."
+			},
+			{
+				"id":"explosive_rounds",
+				"nameRU":"Разрывные снаряды",
+				"nameEN":"Explosive rounds",
+				"descriptionRU":"Добавлен усиленный сплеш-урон. Рикошет снарядов отключён.\nЗамена стандартных бронебойных выстрелов на разрывные. Такие снаряды могут поражать сразу несколько целей сплеш-уроном и критическим уроном. Кумулятивные снаряды в боекомплекте не могут рикошетить.",
+				"descriptionEN":"Replacement for the standard Armor-Piercing shots with explosive rounds. Such rounds can hit multiple targets at once with splash damage, but the damage radius is not that large due to the turret's small caliber. Cumulative shots are not changed and deal critical damage only to one target."
+			},
+			{
+				"id":"sorted_ammunition",
+				"nameRU":"Упорядоченная боеукладка",
+				"nameEN":"Sorted ammunition",
+				"descriptionRU":"Всё же нашёлся один техник с интересной фамилией Шрёдингер, который загрузил орудийный боекомплект как полагается. Это устройство гарантирует, что каждый четвертый выстрел будет критическим. Каким образом оно это делает и как техник предусмотрел все будущие промахи стрелка — остаётся загадкой.",
+				"descriptionEN":"An engineer named Schrödinger succeeded in perfecting a mechanism to load ammunition in a clever way. This augment guarantees that every fourth shot will deal critical damage. How it works and how the engineer envisaged all the misses of the shooter still remains a mystery."
+			},
+			{
+				"id":"incendiary_rounds",
+				"nameRU":"Зажигательные снаряды",
+				"nameEN":"Incendiary rounds",
+				"descriptionRU":"Замена стандартных выстрелов на заряды, начинённые огнесмесью. Критическое попадание поджигает цель.",
+				"descriptionEN":"Replaces standard shots with rounds filled with an incendiary compound. On a critical shot, it ignites the target."
+			},
+			{
+				"id":"cryo_rounds",
+				"nameRU":"Криоснаряды",
+				"nameEN":"Cryo rounds",
+				"descriptionRU":"Замена стандартных кумулятивных выстрелов на заряды с фреоном. Критическое попадание полностью замораживает цель.",
+				"descriptionEN":"Replaces standard shots with rounds filled with freon. On a critical shot, it freezes the target."
+			},
+			{
+				"id":"paralyzing_rounds",
+				"nameRU":"Парализующие снаряды",
+				"nameEN":"Paralyzing rounds",
+				"descriptionRU":"Замена стандартных кумулятивных выстрелов на парализующие снаряды. Критическое попадание обездвиживает цель.",
+				"descriptionEN":"Replaces the standard cumulative shots with paralyzing rounds. Critical hits immobilize the target."
+			},
+			{
+				"id":"hyperspeed_rounds",
+				"nameRU":"Гиперскоростные снаряды",
+				"nameEN":"Hyperspeed rounds",
+				"descriptionRU":"С увеличением расстояния до цели урон выстрела увеличивается вместо того, чтобы уменьшаться. Начальный урон снижен, скорость снарядов увеличена, а критический урон отключён.\nУправляемые снаряды с запредельной мощностью, урон которых увеличивается с расстоянием. Взрыв такого снаряда рядом с собственным танком может его уничтожить. Чтобы этого не произошло, начальная скорость снаряда значительно увеличена, а специальная система ограничивает урон до тех пор, пока снаряд не уйдёт далеко от танка.",
+				"descriptionEN":"The damage dealt increases proportionally with the distance from the target, instead of getting decreased. The initial damage is reduced, projectile speed is increased, and critical damage is disabled. Controlled shells have incredible power, the damage of which increases with distance. An explosion of such a shell near one’s own tank can destroy it. To avoid it, the initial speed of shells is significantly increased and the special system limits the number of damage until the shell flies far from the tank."
 			}
 		],
 		"shotSkins":
@@ -1919,6 +1996,90 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"remote_rocket_explosives",
+				"nameRU":"Дистанционный подрыв ракет",
+				"nameEN":"Remote rocket explosives",
+				"descriptionRU":"Ракеты комплектуются бесконтактным взрывателем с радиодатчиком. Повторное нажатие на кнопку стрельбы, пока ракета в воздухе, немедленно подрывает её. Будьте осторожны при стрельбе одиночными!",
+				"descriptionEN":"Rockets are provided with a contactless trigger and radio emitter. Double-press on the fire button, while the rocket is still in the air, will immediately explode it. Be cautious while firing single shots!"
+			},
+			{
+				"id":"missile_launcher_hunter",
+				"nameRU":"Пусковая установка «Охотник»Пусковая установка «Охотник»",
+				"nameEN":"Missile launcher «Hunter»",
+				"descriptionRU":"Модификация для любителей меткой стрельбы. Обеспечивает почти мгновенный захват цели при наведении, однако в залпе лишь одна ракета.",
+				"descriptionEN":"Modification for the fans of a high accuracy shooting. Provides an almost instant target aquisition while aiming, but has only one rocket per launch."
+			},
+			{
+				"id":"missile_launcher_cyclone",
+				"nameRU":"Пусковая установка «Циклон»",
+				"nameEN":"Missile launcher «Cyclone»",
+				"descriptionRU":"Модификация для охотников за тяжёлыми танками. Вдвое увеличивает число ракет в залпе, однако время захвата цели при наведении также увеличено.",
+				"descriptionEN":"Modification for those who hunt heavy tanks. Doubles the number of rockets per launch, but while aiming target aquisition time is also increased."
+			},
+			{
+				"id":"missile_launcher_uranium",
+				"nameRU":"Пусковая установка «Уран»",
+				"nameEN":"Missile launcher «Uranium»",
+				"descriptionRU":"Модификация для знатоков подрывного дела: устройство увеличивает урон ракет, но делает их более медленными. В залпе только 4 ракеты.",
+				"descriptionEN":"An augment for tankers who love big explosions. Your rockets will deal more damage, but they will travel more slowly, and you will only fire 4 rockets per salvo."
+			},
+			{
+				"id":"incendiary_missiles",
+				"nameRU":"Поджигающие боеголовки",
+				"nameEN":"Incendiary missiles",
+				"descriptionRU":"Критический урон поджигает вражеский танк на короткое время.\nМодификация со специальным преобразователем ракет, срабатывающем при критических попаданиях. Преобразовывает стандартные боеголовки в воспламеняющие. Позволяет охватить соперника языками пламени, отнимающими несколько единиц урона в секунду в течение некоторого времени.",
+				"descriptionEN":"Critical damage sets the target on fire for a short period of time. A modification with a special rocket converter that gets enabled on critical hits. Converts standard missiles to incendiary ones that let you engulf your opponent in flames, dealing continuous damage per second for some time."
+			},
+			{
+				"id":"cryo_missiles",
+				"nameRU":"Крио боеголовки",
+				"nameEN":"Cryo missiles",
+				"descriptionRU":"Критический урон накладывает статус-эффект «Заморозка» на короткое время. Модификация со специальным преобразователем снарядов, срабатывающем при критических попаданиях, преобразовывает стандартные боеголовки в замораживающие. На некоторое время замораживает цель, тем самым замедляет передвижение танка и «приваривает» башню к корпусу.",
+				"descriptionEN":"Critical damage applies the «Freezing» status effect to the enemy tank for a short period of time. A modification with a special rocket converter that enables upon critical hits. Converts standard missiles to freezing ones. Let you slow down the movement of the enemy on the battlefield, and also almost weld their turret to the hull for some time."
+			},
+			{
+				"id":"stunning_missiles",
+				"nameRU":"Обездвиживающие боеголовки",
+				"nameEN":"Stunning missiles",
+				"descriptionRU":"Модификация для охотников на одиночную опасную цель. Танк, который поражается критическим уроном, теряет управляемость на некоторое время.",
+				"descriptionEN":"A modification to immobilize dangerous targets. Any tank hit by critical damage will not be able to move for a period of time."
+			},
+			{
+				"id":"missile_launcher_tandem",
+				"nameRU":"Пусковая установка «Тандем»",
+				"nameEN":"Missile launcher «Tandem»",
+				"descriptionRU":"В залпе две быстронаводящиеся ракеты. Угловая скорость ракет и шанс критического урона увеличены.\nВам попался слишком опытный противник, который предсказывает каждое действие и уклоняется от ракет? Запустите в него быструю самонаводящуюся ракету! Противник настолько крут, что увернулся и от неё? Тогда запустите сразу две самонаводящиеся ракеты! Пусть попробует увернуться от такого.",
+				"descriptionEN":"Got a very experienced opponent who predicts every move of yours and dodges rockets? Fire a fast-homing rocket at them! Is the opponent so cool that they dodged that one too? Fire two fast-homing rockets simultaneously! Have them try to dodge that."
+			},
+			{
+				"id":"missile_launcher_hydra",
+				"nameRU":"Пусковая установка «Гидра»",
+				"nameEN":"Missile launcher «Hydra»",
+				"descriptionRU":"Скорострельная ракетница. Залп запускает огромное число неуправляемых ракет со сниженным уроном.\nРакеты, устанавливаемые в прошлом на штурмовых вертолётах, значительно меньше в размере из-за отсутствия системы наведения. Это позволяет запихать в пусковую установку невероятно большое число этих малюток. Продолжительность залпа позволяет легко переключаться между несколькими целями не прерывая залп. Не то чтобы у танкиста был выбор, прерывать залп или нет.",
+				"descriptionEN":"A rapid-fire rocket launcher. The salvo launches an enormous amount of uncontrollable rockets with decreased damage. These rockets used to be mounted on attack helicopters. Due to the lack of aiming system and the smaller size, it is possible to cram multiple rockets into the launcher. The long duration of salvo attack allows switching between enemies while shooting without interrupting the flow of salvo rockets. Not that the tanker had a choice to interrupt the rocket flow anyway."
+			},
+			{
+				"id":"missile_launcher_faust",
+				"nameRU":"Пусковая установка «Фауст»",
+				"nameEN":"Missile launcher «Faust»",
+				"descriptionRU":"Дальность ракет снижена, но захват цели и перезарядка происходят быстрее.\nСловно артист на сцене театра, игрок с этим устройством играет на публику. Никаких антрактов, только молниеносно быстрое развитие событий на поле боя. Артист начинающий, так что донести свою мысль до зрителя на балконе получается не всегда.",
+				"descriptionEN":"Range of missiles has been decreased, but it takes less time to aim on a target and reload. Like an artist on a theater stage, a player with this augment acts for an audience. No intermissions, only lightning-quick course of events on the battlefield. However, the artist is a beginner, sometimes they fail to convey their idea to the viewer on a theater balcony."
+			},
+			{
+				"id":"vacuum_missiles",
+				"nameRU":"Вакуумные боеголовки",
+				"nameEN":"Vacuum missiles",
+				"descriptionRU":"Чем дальше цель от эпицентра взрыва, тем больше урона она получает. Повторное нажатие на кнопку стрельбы, пока ракета в воздухе, немедленно подрывает ракету.\nУникальное «комбо» технологий удалённого подрыва и вакуумного взрыва. Быстро вылетающие ракеты нужно направлять не прямо в цель, а рядом с ней. Урон от взрыва ракет гораздо больше, чем от прямого попадания.",
+				"descriptionEN":"The further a target is from the epicenter of the explosion, the more damage it receives. Pressing the fire button again immediately detonates the missile while it is still in the air. A unique combination of remote and vacuum explosion technologies, fast-flying missiles would be more effective if aimed close to the target, but not directly at it. The blast from an exploding missile deals greater damage than a direct hit."
+			},
+			{
+				"id":"missile_launcher_meteor",
+				"nameRU":"Пусковая установка «Метеор»",
+				"nameEN":"Missile Launcher «Meteor»",
+				"descriptionRU":"Увеличенный урон при попадании по цели. Почти полностью отсутствует сплеш-урон, но увеличена сила удара.\nОщути силу метеора! У противника мало шансов выстоять после нанесённого метеоритного удара. Однако, чтобы воспользоваться такой сокрушительной мощью, нужно чётко прицелиться. Устройство для настоящих профессионалов ракетного дела!",
+				"descriptionEN":"Increased damage when you hit a target. Splash damage is greatly reduced, but impact force is increased. Feel the force of a meteor! Your enemy has little chance to survive this meteor strike. However, to take advantage of such crushing power, you must aim carefully. An augment for real missile professionals!"
 			}
 		],
 		"shotSkins":
@@ -2294,6 +2455,76 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"small_caliber_charging_machine",
+				"nameRU":"Автомат заряжания малого калибра",
+				"nameEN":"Small caliber charging machine",
+				"descriptionRU":"Использование снарядов уменьшенного калибра вместе с автоматом заряжания позволяет сократить время перезарядки. Малокалиберные снаряды наносят пониженный урон.",
+				"descriptionEN":"Using small caliber rounds in combination with the charging machine allows to reduce the reload time. Small caliber rounds deal less damage."
+			},
+			{
+				"id":"subcaliber_rounds",
+				"nameRU":"Подкалиберные снаряды",
+				"nameEN":"Subcaliber rounds",
+				"descriptionRU":"Замена осколочного снаряда боеприпасом проникающего типа с большой кинетической энергией. Такой снаряд не разрывается при попадании в танк или препятствие и не может нанести урон самому стрелку.",
+				"descriptionEN":"Replacement for the frag round with a penetrating ammo type and huge kinetic energy. Such rounds don't explode upon hitting a tank or an obstacle and cannot damage the shooter themselves."
+			},
+			{
+				"id":"sledgehammer_rounds",
+				"nameRU":"Снаряды «Кувалда»",
+				"nameEN":"«Sledgehammer» rounds",
+				"descriptionRU":"Урон увеличен, а дальность поражения и скорость снарядов уменьшены. Критический урон отсутствует.\nСнаряды с толстенной оболочкой из литого чугуна замедляют скорость полёта снарядов и уменьшают дистанцию поражения противника на дальнем расстоянии, однако за счёт своей массивности наносят более высокий урон.",
+				"descriptionEN":"Rounds with thick lead casting slow down the projectile speed and reduce firing range, but the massive projectile size allows for a noticeable increase in damage."
+			},
+			{
+				"id":"strict_ammunition_load",
+				"nameRU":"Строгая погрузка боеприпасов",
+				"nameEN":"Strict ammunition load",
+				"descriptionRU":"Автомат заряжания с упорядоченной боеукладкой снарядов позволяет достичь более высокой скорострельности и гарантировать, что каждый третий снаряд будет наносить критический урон.",
+				"descriptionEN":"An autoloader with sorted ammunition allows you to reach a greater rate of fire, and guarantees that every third shell deals critical damage."
+			},
+			{
+				"id":"salamander_shells",
+				"nameRU":"Снаряды «Саламандра»",
+				"nameEN":"«Salamander» shells",
+				"descriptionRU":"Добавляет в боекомплект несколько зажигательных снарядов. При критическом попадании такие снаряды способны поджечь сразу несколько целей.",
+				"descriptionEN":"Adds a few incendiary shells to the ammunition. On a critical hit, such shells can burn multiple tanks at once."
+			},
+			{
+				"id":"wyvern_shells",
+				"nameRU":"Снаряды «Виверна»",
+				"nameEN":"«Wyvern» shells",
+				"descriptionRU":"Добавляет в боекомплект несколько снарядов с криогенным сердечником. При критическом попадании такой снаряд способен заморозить сразу несколько целей.",
+				"descriptionEN":"Adds a few shells with a cryo core to the ammunition. On a critical hit, such shells can freeze multiple tanks at once."
+			},
+			{
+				"id":"peacekeeper_shells",
+				"nameRU":"Снаряды «Миротворец»",
+				"nameEN":"«Peacekeeper» shells",
+				"descriptionRU":"Добавляет в боекомплект несколько оглушающих снарядов с огромной ударной силой. При критическом попадании такой снаряд способен остановить сразу несколько целей.",
+				"descriptionEN":"Adds a few stunning shells with a huge impact force to the ammunition. On a critical hit, such shells can immobilise multiple tanks at once."
+			},
+			{
+				"id":"hyperspeed_shells",
+				"nameRU":"Гиперскоростные снаряды",
+				"nameEN":"«Hyperspeed» shells",
+				"descriptionRU":"Управляемые снаряды с запредельной мощностью, урон которых увеличивается с расстоянием. Взрыв такого снаряда рядом с собственным танком может его уничтожить. Чтобы этого не произошло, начальная скорость снаряда значительно увеличена, а специальная система ограничивает урон до тех пор, пока снаряд не уйдёт далеко от танка.",
+				"descriptionEN":"Controlled shells with incredible power the damage of which increases with distance. An explosion of such a shell near one’s own tank can destroy it. To avoid it, the initial speed of shells is significantly increased and the special system limits the number of damage until the shell flies far from the tank."
+			},
+			{
+				"id":"adaptive_reload",
+				"nameRU":"Адаптивная перезарядка",
+				"nameEN":"Adaptive reload",
+				"descriptionRU":"Передача контроля над системой перезарядки искусственному интеллекту. Попадание в противника мотивирует ИИ значительно ускорять перезарядку следующего выстрела. Научить перезаряжать каждый выстрел быстрее, независимо от попадания или промаха, пока никому не удалось.",
+				"descriptionEN":"Passes control over the turret’s reloading system to an Artificial Intelligence (AI). Hits motivate AI to significantly decrease reload duration for the next shot. Unfortunately, so far no one has succeeded to teach the AI how to reload each shot faster, regardless of hit or miss."
+			},
+			{
+				"id":"anvil_shells",
+				"nameRU":"Снаряды «Наковальня»",
+				"nameEN":"«Anvil» shells",
+				"descriptionRU":"Обычный и критический уроны повышены. Критический урон наносится в радиусе взрыва снаряда. Дальность поражения становится меньше.\nЭто усовершенствованный снаряд с дополнительным пороховым зарядом, способный наносить повышенный критический и обычный уроны всем целям в радиусе взрыва, а не только при прямом попадании. Такой снаряд уменьшает дистанцию поражения противника на дальнем расстоянии.",
+				"descriptionEN":"Enhanced shells with additional charges of gunpowder. They can deal critical damage to all targets in a range of explosion, not just by direct hits."
 			}
 		],
 		"shotSkins":
