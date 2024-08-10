@@ -2006,7 +2006,7 @@
 			},
 			{
 				"id":"missile_launcher_hunter",
-				"nameRU":"Пусковая установка «Охотник»Пусковая установка «Охотник»",
+				"nameRU":"Пусковая установка «Охотник»",
 				"nameEN":"Missile launcher «Hunter»",
 				"descriptionRU":"Модификация для любителей меткой стрельбы. Обеспечивает почти мгновенный захват цели при наведении, однако в залпе лишь одна ракета.",
 				"descriptionEN":"Modification for the fans of a high accuracy shooting. Provides an almost instant target aquisition while aiming, but has only one rocket per launch."
