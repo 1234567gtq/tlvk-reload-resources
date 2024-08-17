@@ -2631,7 +2631,6 @@
 { "id":"garage", "version":"1", "type":"models", "isLazy":true },
 { "id":"garage_standard", "version":"1", "type":"models", "isLazy":true, "isLocal":true },
 { "id":"garage_1.100", "version":"1", "type":"models", "isLazy":true, "isLocal":true },
-{ "id":"garage_old", "version":"1", "type":"models_a3d", "isLazy":true, "isLocal":true },
 { "id":"garage_new_year", "version":"1", "type":"models", "isLazy":true },
 
 { "id":"hull_smoke", "version":"1", "type":"multiframe_textures" },
