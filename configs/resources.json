@@ -11,10 +11,9 @@
 { "id":"ultimate_skin_ares_standard_effects_explosion", "version":"1", "type":"effects" },
 { "id":"ultimate_skin_ares_standard_lightning", "version":"1", "type":"textures" },
 { "id":"shot_skin_smoky_standard_effects_sparks", "version":"1", "type":"effects" },
-{ "id":"meteorite_hd", "version":"1", "type":"models" },
-{ "id":"meteorite_christmas", "version":"1", "type":"models" },
-{ "id":"meteorite_rocket", "version":"1", "type":"models" },
-{ "id":"meteorite_ufo", "version":"2", "type":"models" },
+
+
+
 { "id":"sound_tesla_idle_1", "version":"1", "type":"sounds" },
 { "id":"sound_tesla_idle_2", "version":"1", "type":"sounds" },
 { "id":"sound_tesla_idle_3", "version":"1", "type":"sounds" },
@@ -318,6 +317,9 @@
 { "id":"bonus_gold_hd", "version":"1", "type":"models" },
 { "id":"bonus_gold_container_hd", "version":"1", "type":"models" },
 { "id":"bonus_gold_megagold_hd", "version":"1", "type":"models" },
+
+{ "id":"bonus_gold_summer_festival_2024", "version":"1", "type":"models" },
+
 { "id":"bonus_gold_christmas_2014", "version":"1", "type":"models" },
 { "id":"bonus_gold_new_year_2011", "version":"1", "type":"models" },
 { "id":"bonus_gold_new_year_2013", "version":"1", "type":"models" },
@@ -394,6 +396,13 @@
 { "id":"bonus_gold_very_first", "version":"1", "type":"models" },
 { "id":"bonus_nuclear_energy_tx", "version":"1", "type":"models" },
 { "id":"bonus_gold_tx", "version":"1", "type":"models" },
+
+{ "id":"meteorite_hd", "version":"1", "type":"models" },
+{ "id":"meteorite_christmas", "version":"1", "type":"models" },
+{ "id":"meteorite_rocket", "version":"1", "type":"models" },
+{ "id":"meteorite_ufo", "version":"2", "type":"models" },
+{ "id":"meteorite_tail_smoke", "version":"1", "type":"textures", "isLocal":true },
+
 
 { "id":"arrow_spawn_point", "version":"1", "type":"models" },
 { "id":"bush_1", "version":"3", "type":"models" },
@@ -2620,6 +2629,9 @@
 { "id":"kit_vint_preview", "version":"1", "type":"images", "isLazy":true },
 
 { "id":"garage", "version":"1", "type":"models", "isLazy":true },
+{ "id":"garage_standard", "version":"1", "type":"models", "isLazy":true, "isLocal":true },
+{ "id":"garage_1.100", "version":"1", "type":"models", "isLazy":true, "isLocal":true },
+{ "id":"garage_old", "version":"1", "type":"models_a3d", "isLazy":true, "isLocal":true },
 { "id":"garage_new_year", "version":"1", "type":"models", "isLazy":true },
 
 { "id":"hull_smoke", "version":"1", "type":"multiframe_textures" },
@@ -4432,7 +4444,7 @@
 { "id":"proplib_crash", "version":"1", "type":"proplibs" },
 { "id":"proplib_test", "version":"1", "type":"proplibs" },
 
-{ "id":"billboard_summer_sport_games_2024", "version":"1", "type":"textures" },
+{ "id":"billboard_summer_festival_2024", "version":"1", "type":"textures" },
 { "id":"billboard_standard", "version":"1", "type":"textures" },
 { "id":"billboard_reloaded", "version":"1", "type":"textures" },
 { "id":"billboard_standard_old", "version":"1", "type":"textures" },
@@ -4476,6 +4488,7 @@
 { "id":"billboard_summer_sport_games_2021", "version":"1", "type":"textures" },
 { "id":"billboard_summer_sport_games_2022", "version":"1", "type":"textures" },
 { "id":"billboard_summer_sport_games_2023", "version":"1", "type":"textures" },
+{ "id":"billboard_summer_sport_games_2024", "version":"1", "type":"textures" },
 { "id":"billboard_tanker's_day_2016", "version":"1", "type":"textures" },
 { "id":"billboard_tanker's_day_2017-2020", "version":"1", "type":"textures" },
 { "id":"billboard_tanker's_day_2021", "version":"1", "type":"textures" },

@@ -55,6 +55,12 @@
 	},
 	{
 		"type":"gold",
+		"id":"summer_festival_2024",
+		"nameRU":"Золотой ящик (Летний фестиваль 2024)",
+		"nameEN":"Gold box (Summer Festival 2024)"
+	},
+	{
+		"type":"gold",
 		"id":"christmas_2014",
 		"nameRU":"Золотой ящик (Рождество 2014)",
 		"nameEN":"Gold box (Christmas 2014)"
