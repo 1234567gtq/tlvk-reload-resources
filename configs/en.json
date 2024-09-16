@@ -2,16 +2,13 @@
 	"DISCORD_RPC_IN_MAIN_MENU":"In main menu",
 	"DISCORD_RPC_IN_BATTLE":"In battle",
 	"DISCORD_RPC_IN_GARAGE":"In garage",
-	"DISCORD_RPC_SELECTING_MAP":"Selecting map...",
+	"DISCORD_RPC_SELECTING_MAP":"Selecting map",
+	"DISCORD_RPC_SELECTING_HULL":"Selecting hull",
+	"DISCORD_RPC_SELECTING_TURRET":"Selecting turret",
+	"DISCORD_RPC_SELECTING_DRONE":"Selecting drone",
+	"DISCORD_RPC_SELECTING_PAINT":"Selecting paint",
+	"DISCORD_RPC_SELECTING_KIT":"Selecting kit",
 	"DISCORD_RPC_MAP":"Map: ",
-	"DISCORD_RPC_SELECTING_HULL":"Selecting hull...",
-	"DISCORD_RPC_SELECTING_TURRET":"Selecting turret...",
-	"DISCORD_RPC_SELECTING_DRONE":"Selecting drone...",
-	"DISCORD_RPC_SELECTING_PAINT":"Selecting paint...",
-	"DISCORD_RPC_SELECTING_KIT":"Selecting kit...",
-	
-	"ULTIMATE_CHARACTERISTICS":"Ultimate characteristics",
-	"WEAPON_CHARACTERISTICS":"Weapon characteristics",
 	
 	"LOADING...":"LOADING...",
 	"TIP_0":"The project was founded in 2020 and included very little content",
@@ -38,14 +35,29 @@
 	
 	"HEADER_MAP_LIST":"MAP LIST",
 	"HEADER_SELECTED_MAP":"SELECTED MAP",
-	"THEME":"Theme",
-	"SKYBOX":"Skybox",
-	"BILLBOARD":"Billboard",
+	"SEARCH:":"Search:",
+	"THEME":"Theme:",
+	"SKYBOX":"Skybox:",
+	"BILLBOARD":"Billboard:",
+	"GARAGE":"Garage:",
 	"CHANCE_OF_TURRET_BLOWN_OFF":"Chance of turret blown off (%)",
 	"OPEN_OWN_MAP":"Open own map",
-	"PLAY":"Play",
-	"SEARCH:":"Search:",
 	"FILE_FILTER_DESCRIPTION":"XML map",
+	"LET_S_FIGHT":"Let's fight",
+	
+	"ULTIMATE_CHARACTERISTICS":"Ultimate characteristics",
+	"WEAPON_CHARACTERISTICS":"Weapon characteristics",
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -101,6 +113,7 @@
 	"CAMERA_MODE":"Camera mode",
 	"SPECTATOR":"spectator",
 	"FOLLOW":"follow",
+	"CAMERA_POSITION":"Camera position",
 	"NUMBER_OF_TANKS":"Number of tanks",
 	"CURRENT_TANK":"CURRENT TANK",
 	"INFORMATION":"INFORMATION",
@@ -118,13 +131,13 @@
 	"SKIN":"Skin",
 	
 	"HEADER_MINES":"MINES",
-	"MINE":"Mine",
+	"MINE":"Mine:",
 	"IMPACT_FORCE":"Impact force (cond. units)",
 	"REMOVE_ALL_MINES":"Remove all mines",
 	
 	"HEADER_BONUSES":"SUPPLIES",
-	"BONUS":"Supply",
-	"SIREN":"Siren",
+	"BONUS":"Supply:",
+	"SIREN":"Siren:",
 	"SIREN_STANDARD":"Standard",
 	"SIREN_NEW_YEAR":"New Year",
 	"SIREN_HALLOWEEN":"Halloween",
@@ -133,9 +146,14 @@
 	"BONUS_FALL_SPEED":"Fall speed (cm/s)",
 	
 	"HEADER_METEORS":"METEORITES",
-	"METEOR":"Meteorite",
+	"METEOR":"Meteorite:",
 	"METEOR_CREATE_BONUS":"Create supply after explosion",
 	"FLIGHT_TIME":"Flight time (ms)",
+	
+	"HEADER_FUN_FUNCTIONS":"FUN FUNCTIONS",
+	"FOV":"Field of View (FOV):",
+	"MAP_VISIBLED":"Show map",
+	"STANCE_WHEELS":"Stance style for GT wheels",
 	
 	"MASS":"Mass (cond. units)",
 	"DAMPING":"Damping (cond. units)",
@@ -289,6 +307,7 @@
 	"SPAWN_ARROW":"Spawn arrow",
 	"AXIS_INDICATOR":"Axis indicator",
 	"SHOW_TANK_PREVIEW_IN_GARAGE":"Show tank preview in garage",
+	"PNG_SCREENSHOTS":"PNG-screenshots (experimental function)",
 	
 	"SOUND_VOLUME":"Sound volume:",
 	"BACKGROUND_SOUND":"Background sound",
@@ -318,48 +337,55 @@
 	"MOUSE_SHAFT_SCOPE_VERTICAL_INVERSION":"Mouse view vertical inversion for Shaft Sniping Mode",
 	"INVERSE_TURN_CONTROL":"Inverse turn controls while moving back",
 	"RESTORE_DEFAULT_BUTTONS":"Restore default buttons",
+	
 	"KEYBOARD_KEY_LEFT":"Left",
-	"KEYBOARD_KEY_UP":"Up",
 	"KEYBOARD_KEY_RIGHT":"Right",
+	"KEYBOARD_KEY_UP":"Up",
 	"KEYBOARD_KEY_DOWN":"Down",
 	"KEYBOARD_KEY_SPACE":"Space",
+	
 	"GAME_ACTION_TURRET_TURN_LEFT":"Rotate turret left",
 	"GAME_ACTION_TURRET_TURN_RIGHT":"Rotate turret right",
 	"GAME_ACTION_TURRET_CENTER":"Center turret",
 	"GAME_ACTION_SHOOT":"Shoot",
+	
 	"GAME_ACTION_CHASSIS_TURN_LEFT":"Turn tank left",
-	"GAME_ACTION_CHASSIS_MOVE_FORWARD":"Move tank forward",
 	"GAME_ACTION_CHASSIS_TURN_RIGHT":"Turn tank right",
+	"GAME_ACTION_CHASSIS_MOVE_FORWARD":"Move tank forward",
 	"GAME_ACTION_CHASSIS_MOVE_BACKWARD":"Move tank backwards",
+	
 	"GAME_ACTION_CREATE_TANK":"Create tank",
 	"GAME_ACTION_REMOVE_TANK":"Remove tank",
 	"GAME_ACTION_NEXT_TANK":"Next tank",
 	"GAME_ACTION_PREV_TANK":"Prev tank",
-	"GAME_ACTION_KILL_TANK":"Kill tank",
+	"GAME_ACTION_SUICIDE":"Self-destruct tank",
 	"GAME_ACTION_RANK_UP":"Rank up",
 	"GAME_ACTION_RANK_UP_WINDOW":"Rank up settings",
 	"GAME_ACTION_FLIP_TANK":"Flip tank",
 	"GAME_ACTION_RESTORE_TANK_STATE":"Restore tank position",
-	"GAME_ACTION_MOVE_TANK_TO_CURSOR_POSITION":"Teleport by mouse cursor",
+	"GAME_ACTION_MOVE_TANK_TO_CURSOR_POSITION":"Teleport a tank by mouse cursor",
 	"GAME_ACTION_TOGGLE_VISIBLE_DRONE":"Show/hide drone",
+	"GAME_ACTION_OPEN_GARAGE":"Open garage",
 	
-	"GAME_ACTION_USE_MINE":"Drop Mine",
-	"GAME_ACTION_MINES_WINDOW":"Mine settings",
-	"GAME_ACTION_USE_BONUS":"Drop Supply",
-	"GAME_ACTION_BONUSES_WINDOW":"Supply settings",
 	"GAME_ACTION_OVERDRIVE":"Overdrive",
-	"GAME_ACTION_USE_METEOR":"Drop Meteorite",
+	"GAME_ACTION_USE_MINE":"Drop mine",
+	"GAME_ACTION_MINES_WINDOW":"Mine settings",
+	"GAME_ACTION_USE_BONUS":"Drop supply",
+	"GAME_ACTION_BONUSES_WINDOW":"Supply settings",
+	"GAME_ACTION_USE_METEOR":"Drop meteorite",
 	"GAME_ACTION_METEORS_WINDOW":"Meteor settings",
 	
-	"GAME_ACTION_SCREEN_SIZE_INCREASE":"Increase battle screen size",
-	"GAME_ACTION_SCREEN_SIZE_DECREASE":"Decrease battle screen size",
-	"GAME_ACTION_FULL_SCREEN":"On/off fullscreen",
-	"GAME_ACTION_OPEN_GARAGE":"Open garage",
-	"GAME_ACTION_TOGGLE_CAMERA_CONTROLLER":"Spectator/follow camera mode",
+	"GAME_ACTION_TOGGLE_CAMERA_CONTROLLER":"Switch camera mode (spectator/follow)",
 	"GAME_ACTION_CAMERA_UP":"Move camera up",
 	"GAME_ACTION_CAMERA_DOWN":"Move camera down",
+	"GAME_ACTION_SCREEN_SIZE_INCREASE":"Increase battle screen size",
+	"GAME_ACTION_SCREEN_SIZE_DECREASE":"Decrease battle screen size",
 	"GAME_ACTION_SAVE_BOOKMARK":"Save camera position in spectator",
-	"GAME_ACTION_SELECT_BOOKMARK":"Switch camera position in spectator",
+	"GAME_ACTION_SELECT_BOOKMARK":"Change the saved camera position in spectator",
+	
+	"GAME_ACTION_FULL_SCREEN":"Fullscreen/collapse",
+	"GAME_ACTION_TAKE_SCREENSHOT":"Take a screenshot",
 	"GAME_ACTION_SPEED_UP_TIME":"Speed ​​up time",
-	"GAME_ACTION_SLOW_DOWN_TIME":"Slow down time"
+	"GAME_ACTION_SLOW_DOWN_TIME":"Slow down time",
+	"GAME_ACTION_FUN_FUNCTIONS_WINDOW":"Fun functions"
 }

@@ -373,6 +373,7 @@
 { "id":"bonus_gold_br_independence_day_2015", "version":"1", "type":"models" },
 { "id":"bonus_gold_tankers_day_2015", "version":"1", "type":"models" },
 { "id":"bonus_gold_tankers_day_2017", "version":"1", "type":"models" },
+{ "id":"bonus_gold_tankers_day_2024", "version":"1", "type":"models" },
 { "id":"bonus_gold_cn_national_day_2011", "version":"1", "type":"models" },
 { "id":"bonus_gold_cn_national_day", "version":"1", "type":"models" },
 { "id":"bonus_gold_moon_silence", "version":"1", "type":"models" },
@@ -401,7 +402,7 @@
 { "id":"meteorite_christmas", "version":"1", "type":"models" },
 { "id":"meteorite_rocket", "version":"1", "type":"models" },
 { "id":"meteorite_ufo", "version":"2", "type":"models" },
-{ "id":"meteorite_tail_smoke", "version":"1", "type":"textures", "isLocal":true },
+{ "id":"meteorite_tail_smoke", "version":"1", "type":"textures" },
 
 
 { "id":"arrow_spawn_point", "version":"1", "type":"models" },
@@ -436,7 +437,7 @@
 { "id":"hull_wasp_xt", "version":"1", "type":"models" },
 { "id":"hull_wasp_lc", "version":"1", "type":"models" },
 { "id":"hull_wasp_dc", "version":"2", "type":"models" },
-{ "id":"hull_wasp_gt", "version":"1", "type":"models" },
+{ "id":"hull_wasp_gt", "version":"1", "type":"models_a3d" },
 { "id":"hull_wasp_release_1.100_1", "version":"1", "type":"models" },
 { "id":"hull_wasp_release_1.100_2", "version":"1", "type":"models" },
 { "id":"hull_wasp_release_1.100_3", "version":"1", "type":"models" },
@@ -542,6 +543,9 @@
 { "id":"hull_dictator_m3_old", "version":"1", "type":"models" },
 { "id":"hull_dictator_xt", "version":"1", "type":"models" },
 { "id":"hull_dictator_lc", "version":"1", "type":"models" },
+
+{ "id":"hull_dictator_sp", "version":"1", "type":"models_a3d" },
+
 { "id":"hull_dictator_gt", "version":"2", "type":"models" },
 { "id":"hull_dictator_xt_fake", "version":"1", "type":"models" },
 { "id":"hull_dictator_pr_fake", "version":"1", "type":"models" },
@@ -596,9 +600,11 @@
 { "id":"hull_juggernaut_xt_fake_ilya_star", "version":"2", "type":"models" },
 { "id":"hull_sonic_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"hull_sonic_hd", "version":"1", "type":"models" },
+{ "id":"hull_sonic_m1", "version":"1", "type":"models" },
 { "id":"hull_sonic_m2", "version":"1", "type":"models" },
 { "id":"hull_sonic_mx", "version":"1", "type":"models" },
 { "id":"hull_sonic_lc", "version":"1", "type":"models" },
+{ "id":"hull_sonic_pr", "version":"1", "type":"models" },
 { "id":"hull_ufo_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"hull_ufo_m3", "version":"2", "type":"models" },
 { "id":"hull_tanks_preview", "version":"1", "type":"images", "isLazy":true },
@@ -1492,6 +1498,10 @@
 { "id":"paint_charred", "version":"1", "type":"textures" },
 { "id":"paint_chocolatank_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_chocolatank", "version":"1", "type":"textures" },
+
+{ "id":"paint_chocolatank_2_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_chocolatank_2", "version":"1", "type":"textures" },
+
 { "id":"paint_christmas_eve_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_christmas_eve", "version":"1", "type":"textures" },
 { "id":"paint_city_dweller_preview", "version":"1", "type":"images", "isLazy":true },
@@ -2460,6 +2470,10 @@
 { "id":"paint_mono_white", "version":"1", "type":"textures" },
 { "id":"paint_neo-cubes_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_neo-cubes", "version":"1", "type":"textures" },
+
+{ "id":"paint_organizer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_organizer", "version":"1", "type":"textures" },
+
 { "id":"paint_specular_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_specular", "version":"1", "type":"textures" },
 { "id":"paint_spots_preview", "version":"1", "type":"images", "isLazy":true },
@@ -2628,9 +2642,9 @@
 { "id":"kit_tlvkr_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"kit_vint_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"garage", "version":"1", "type":"models", "isLazy":true },
-{ "id":"garage_standard", "version":"1", "type":"models", "isLazy":true, "isLocal":true },
-{ "id":"garage_1.100", "version":"1", "type":"models", "isLazy":true, "isLocal":true },
+{ "id":"garage_standard", "version":"1", "type":"models", "isLazy":true },
+{ "id":"garage_1.100", "version":"1", "type":"models", "isLazy":true },
+{ "id":"garage_old", "version":"1", "type":"models_a3d", "isLazy":true },
 { "id":"garage_new_year", "version":"1", "type":"models", "isLazy":true },
 
 { "id":"hull_smoke", "version":"1", "type":"multiframe_textures" },
@@ -3056,7 +3070,7 @@
 { "id":"device_high_precision_aiming_system_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_supercumulative_rounds_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_autocannon_icon", "version":"1", "type":"images", "isLazy":true },
-{ "id":"device_rubberized_rounds_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_rubberized_rounds_smoky_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_explosive_rounds_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_sorted_ammunition_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_incendiary_rounds_icon", "version":"1", "type":"images", "isLazy":true },
@@ -3088,6 +3102,16 @@
 { "id":"device_adaptive_reload_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_anvil_shells_icon", "version":"1", "type":"images", "isLazy":true },
 
+{ "id":"device_shooting_speed_regulator_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_reinforced_aiming_transmission_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_incendiary_band_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_rubberized_rounds_vulcan_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_shredder_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_explosive_band_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_large_caliber_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_freezing_band_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_stunning_band_icon", "version":"1", "type":"images", "isLazy":true },
+
 
 
 { "id":"device_automated_gunpowder_loading_mechanism_icon", "version":"1", "type":"images", "isLazy":true },
@@ -3111,72 +3135,25 @@
 { "id":"map_route_vektor_tv_summer", "version":"1", "type":"maps" },
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{ "id":"skybox_hills_day_left", "version":"1", "type":"textures" },
+{ "id":"skybox_hills_day_right", "version":"1", "type":"textures" },
 { "id":"skybox_hills_day_top", "version":"1", "type":"textures" },
 { "id":"skybox_hills_day_bottom", "version":"1", "type":"textures" },
-{ "id":"skybox_hills_day_left", "version":"1", "type":"textures" },
-{ "id":"skybox_hills_day_back", "version":"1", "type":"textures" },
 { "id":"skybox_hills_day_front", "version":"1", "type":"textures" },
-{ "id":"skybox_hills_day_right", "version":"1", "type":"textures" },
+{ "id":"skybox_hills_day_back", "version":"1", "type":"textures" },
+{ "id":"skybox_hills_night_left", "version":"1", "type":"textures" },
+{ "id":"skybox_hills_night_right", "version":"1", "type":"textures" },
 { "id":"skybox_hills_night_top", "version":"1", "type":"textures" },
 { "id":"skybox_hills_night_bottom", "version":"1", "type":"textures" },
-{ "id":"skybox_hills_night_left", "version":"1", "type":"textures" },
-{ "id":"skybox_hills_night_back", "version":"1", "type":"textures" },
 { "id":"skybox_hills_night_front", "version":"1", "type":"textures" },
-{ "id":"skybox_hills_night_right", "version":"1", "type":"textures" },
+{ "id":"skybox_hills_night_back", "version":"1", "type":"textures" },
+{ "id":"skybox_hills_old_left", "version":"1", "type":"textures" },
+{ "id":"skybox_hills_old_right", "version":"1", "type":"textures" },
 { "id":"skybox_hills_old_top", "version":"1", "type":"textures" },
 { "id":"skybox_hills_old_bottom", "version":"1", "type":"textures" },
-{ "id":"skybox_hills_old_left", "version":"1", "type":"textures" },
-{ "id":"skybox_hills_old_back", "version":"1", "type":"textures" },
 { "id":"skybox_hills_old_front", "version":"1", "type":"textures" },
-{ "id":"skybox_hills_old_right", "version":"1", "type":"textures" },
+{ "id":"skybox_hills_old_back", "version":"1", "type":"textures" },
+
 { "id":"skybox_mountains_day_back", "version":"1", "type":"textures" },
 { "id":"skybox_mountains_day_bottom", "version":"1", "type":"textures" },
 { "id":"skybox_mountains_day_front", "version":"1", "type":"textures" },
@@ -3257,6 +3234,13 @@
 { "id":"skybox_iran_winter_day_right", "version":"1", "type":"textures" },
 { "id":"skybox_iran_winter_day_top", "version":"1", "type":"textures" },
 
+{ "id":"skybox_release_1.100_day_back", "version":"1", "type":"textures" },
+{ "id":"skybox_release_1.100_day_bottom", "version":"1", "type":"textures" },
+{ "id":"skybox_release_1.100_day_front", "version":"1", "type":"textures" },
+{ "id":"skybox_release_1.100_day_left", "version":"1", "type":"textures" },
+{ "id":"skybox_release_1.100_day_right", "version":"1", "type":"textures" },
+{ "id":"skybox_release_1.100_day_top", "version":"1", "type":"textures" },
+
 
 { "id":"skybox_remaster_day_back", "version":"1", "type":"textures" },
 { "id":"skybox_remaster_day_bottom", "version":"1", "type":"textures" },
@@ -3302,27 +3286,88 @@
 { "id":"skybox_tx_moon_night_front", "version":"1", "type":"textures" },
 { "id":"skybox_tx_moon_night_right", "version":"1", "type":"textures" },
 
-{ "id":"map_aleksandrovsk_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_testbox_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_testbox_summer", "version":"1", "type":"maps" },
+
+{ "id":"map_kolhoz_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_kolhoz_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_sandal_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_sandal_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_barda_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_barda_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_parma_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_parma_1.100_summer", "version":"1", "type":"maps" },
+
+{ "id":"map_sandbox_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_sandbox_1.100_summer", "version":"1", "type":"maps" },
+
+{ "id":"map_duel_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_duel_1.100_summer", "version":"1", "type":"maps" },
+
+{ "id":"map_kungur_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_kungur_1.100_summer", "version":"1", "type":"maps" },
+
+{ "id":"map_yard_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_yard_summer", "version":"1", "type":"maps" },
+
+{ "id":"map_tps_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_tps_old_summer", "version":"1", "type":"maps" },
+
+{ "id":"map_3th_library_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_3th_library_summer", "version":"1", "type":"maps" },
+{ "id":"map_abyss_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_abyss_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_abyss_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_abyss_summer", "version":"1", "type":"maps" },
 { "id":"map_aleksandrovsk_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
-
-
-
-
-
-
-{ "id":"map_archipelago_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_archipelago_mm_summer", "version":"2", "type":"maps" },
-{ "id":"map_archipelago_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_archipelago_mm_winter", "version":"2", "type":"maps" },
+{ "id":"map_aleksandrovsk_mm_summer", "version":"2", "type":"maps" },
+{ "id":"map_aleksandrovsk_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_aleksandrovsk_mm_winter", "version":"2", "type":"maps" },
+{ "id":"map_aleksandrovsk_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_aleksandrovsk_summer", "version":"1", "type":"maps" },
+{ "id":"map_aleksandrovsk_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_aleksandrovsk_winter", "version":"1", "type":"maps" },
 { "id":"map_archipelago_mm_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_archipelago_mm_old_summer", "version":"1", "type":"maps" },
 { "id":"map_archipelago_mm_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_archipelago_mm_old_winter", "version":"1", "type":"maps" },
-
-
-
+{ "id":"map_archipelago_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_archipelago_mm_summer", "version":"2", "type":"maps" },
+{ "id":"map_archipelago_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_archipelago_mm_winter", "version":"2", "type":"maps" },
+{ "id":"map_arena_ii_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_arena_ii_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_arena_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_arena_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_arena_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_arena_old_winter", "version":"1", "type":"maps" },
 { "id":"map_arena_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_arena_summer", "version":"1", "type":"maps" },
+{ "id":"map_arena_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_arena_winter", "version":"1", "type":"maps" },
+{ "id":"map_astrella_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_astrella_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_atra_i_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_atra_i_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_atra_i_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_atra_i_old_winter", "version":"1", "type":"maps" },
+{ "id":"map_atra_ii_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_atra_ii_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_atra_ii_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_atra_ii_old_winter", "version":"1", "type":"maps" },
 { "id":"map_atra_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_atra_summer", "version":"1", "type":"maps" },
+{ "id":"map_atra_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_atra_winter", "version":"1", "type":"maps" },
+{ "id":"map_babylon_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_babylon_old_summer", "version":"1", "type":"maps" },
+
+
+
+
+
+
+
 { "id":"map_barda_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_barda_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_berlin_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3477,11 +3522,10 @@
 { "id":"map_luxembourg_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_gallery_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_tutorial_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_aleksandrovsk_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_aleksandrovsk_mm_summer", "version":"2", "type":"maps", "isLazy":true },
 
-{ "id":"map_arena_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_atra_summer", "version":"1", "type":"maps", "isLazy":true },
+
+
+
 { "id":"map_barda_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_barda_mm_summer", "version":"2", "type":"maps", "isLazy":true },
 { "id":"map_berlin_summer", "version":"1", "type":"maps", "isLazy":true },
@@ -3568,15 +3612,10 @@
 { "id":"map_sandbox_mm_summer", "version":"1", "type":"maps", "isLazy":true },
 
 
-{ "id":"map_aleksandrovsk_mm_winter", "version":"2", "type":"maps", "isLazy":true },
-{ "id":"map_aleksandrovsk_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_aleksandrovsk_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_aleksandrovsk_winter_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_arena_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_arena_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_atra_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_atra_winter_preview", "version":"1", "type":"images", "isLazy":true },
+
+
+
 { "id":"map_barda_mm_winter", "version":"2", "type":"maps", "isLazy":true },
 { "id":"map_barda_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_barda_winter", "version":"1", "type":"maps", "isLazy":true },
@@ -3794,22 +3833,11 @@
 { "id":"map_domburg_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_domburg_summer_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_abyss_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_abyss_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_arena_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_arena_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_arena_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_arena_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_atra_i_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_atra_i_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_atra_i_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_atra_i_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_atra_ii_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_atra_ii_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_atra_ii_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_atra_ii_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+
+
+
 
 { "id":"map_barda_old_summer", "version":"1", "type":"maps" },
 { "id":"map_barda_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -4185,11 +4213,8 @@
 { "id":"map_port_old_summer", "version":"1", "type":"maps" },
 { "id":"map_port_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_arena_ii_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_arena_ii_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_astrella_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_astrella_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+
 
 { "id":"map_hangars_old_summer", "version":"1", "type":"maps" },
 { "id":"map_hangars_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -4199,6 +4224,9 @@
 
 { "id":"map_new_tribute_old_summer", "version":"1", "type":"maps" },
 { "id":"map_new_tribute_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+
+{ "id":"map_new_sandbox_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_new_sandbox_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 
 { "id":"map_test_old_summer", "version":"1", "type":"maps" },
 { "id":"map_test_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -4217,8 +4245,7 @@
 { "id":"map_testing_ground_2_old_summer", "version":"1", "type":"maps" },
 { "id":"map_testing_ground_2_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_babylon_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_babylon_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+
 
 { "id":"map_platform_summer", "version":"1", "type":"maps" },
 { "id":"map_platform_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -4229,8 +4256,7 @@
 { "id":"map_legacy_summer", "version":"1", "type":"maps" },
 { "id":"map_legacy_summer_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_3th_library_summer", "version":"1", "type":"maps" },
-{ "id":"map_3th_library_summer_preview", "version":"1", "type":"images", "isLazy":true },
+
 
 { "id":"map_new_year_2011_winter", "version":"1", "type":"maps" },
 { "id":"map_new_year_2011_winter_preview", "version":"1", "type":"images", "isLazy":true },
@@ -4242,10 +4268,19 @@
 { "id":"map_new_year_2014_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_new_year_2015_winter", "version":"1", "type":"maps" },
 { "id":"map_new_year_2015_winter_preview", "version":"1", "type":"images", "isLazy":true },
+
+{ "id":"map_new_year_2015_sandbox_winter", "version":"1", "type":"maps" },
+{ "id":"map_new_year_2015_sandbox_winter_preview", "version":"1", "type":"images", "isLazy":true },
+
 { "id":"map_new_year_2016-2017_winter", "version":"1", "type":"maps" },
 { "id":"map_new_year_2016-2017_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_new_year_2018_winter", "version":"1", "type":"maps" },
 { "id":"map_new_year_2018_winter_preview", "version":"1", "type":"images", "isLazy":true },
+
+{ "id":"map_new_year_2022_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_new_year_2022_winter", "version":"1", "type":"maps" },
+
+
 
 { "id":"map_cryto_summer", "version":"1", "type":"maps" },
 { "id":"map_cryto_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -4443,6 +4478,10 @@
 { "id":"proplib_crash", "version":"1", "type":"proplibs" },
 { "id":"proplib_test", "version":"1", "type":"proplibs" },
 
+{ "id":"proplib_landscape_v2", "version":"1", "type":"proplibs" },
+{ "id":"proplib_builds_v2", "version":"1", "type":"proplibs" },
+
+
 { "id":"billboard_summer_festival_2024", "version":"1", "type":"textures" },
 { "id":"billboard_standard", "version":"1", "type":"textures" },
 { "id":"billboard_reloaded", "version":"1", "type":"textures" },
@@ -4493,6 +4532,7 @@
 { "id":"billboard_tanker's_day_2021", "version":"1", "type":"textures" },
 { "id":"billboard_tanker's_day_2022", "version":"1", "type":"textures" },
 { "id":"billboard_tanker's_day_2023", "version":"1", "type":"textures" },
+{ "id":"billboard_tanker's_day_2024", "version":"1", "type":"textures" },
 { "id":"billboard_12_years", "version":"1", "type":"textures" },
 { "id":"billboard_13_years", "version":"1", "type":"textures" },
 { "id":"billboard_14_years", "version":"1", "type":"textures" },

@@ -2,16 +2,13 @@
 	"DISCORD_RPC_IN_MAIN_MENU":"В главном меню",
 	"DISCORD_RPC_IN_BATTLE":"В битве",
 	"DISCORD_RPC_IN_GARAGE":"В гараже",
-	"DISCORD_RPC_SELECTING_MAP":"Выбирает карту...",
+	"DISCORD_RPC_SELECTING_MAP":"Выбирает карту",
+	"DISCORD_RPC_SELECTING_HULL":"Выбирает корпус",
+	"DISCORD_RPC_SELECTING_TURRET":"Выбирает пушку",
+	"DISCORD_RPC_SELECTING_DRONE":"Выбирает дрон",
+	"DISCORD_RPC_SELECTING_PAINT":"Выбирает краску",
+	"DISCORD_RPC_SELECTING_KIT":"Выбирает комплект",
 	"DISCORD_RPC_MAP":"Карта: ",
-	"DISCORD_RPC_SELECTING_HULL":"Выбирает корпус...",
-	"DISCORD_RPC_SELECTING_TURRET":"Выбирает пушку...",
-	"DISCORD_RPC_SELECTING_DRONE":"Выбирает дрон...",
-	"DISCORD_RPC_SELECTING_PAINT":"Выбирает краску...",
-	"DISCORD_RPC_SELECTING_KIT":"Выбирает комплект...",
-	
-	"ULTIMATE_CHARACTERISTICS":"Характеристики овердрайва",
-	"WEAPON_CHARACTERISTICS":"Характеристики выстрела",
 	
 	"LOADING...":"ЗАГРУЗКА...",
 	"TIP_0":"Проект был основан в 2020 году и включал в себя очень мало контента",
@@ -38,14 +35,28 @@
 	
 	"HEADER_MAP_LIST":"СПИСОК КАРТ",
 	"HEADER_SELECTED_MAP":"ВЫБРАННАЯ КАРТА",
-	"THEME":"Тема",
-	"SKYBOX":"Небо",
-	"BILLBOARD":"Билборд",
+	"SEARCH:":"Поиск:",
+	"THEME":"Тема:",
+	"SKYBOX":"Небо:",
+	"BILLBOARD":"Билборд:",
+	"GARAGE":"Гараж:",
 	"CHANCE_OF_TURRET_BLOWN_OFF":"Шанс отрыва башни (%)",
 	"OPEN_OWN_MAP":"Открыть свою карту",
-	"PLAY":"Играть",
-	"SEARCH:":"Поиск:",
-	"FILE_FILTER_DESCRIPTION":"Карта XML",
+	"FILE_FILTER_DESCRIPTION":"XML-карта",
+	"LET_S_FIGHT":"В бой!",
+	
+	"ULTIMATE_CHARACTERISTICS":"Характеристики овердрайва",
+	"WEAPON_CHARACTERISTICS":"Характеристики выстрела",
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -100,6 +111,7 @@
 	"CAMERA_MODE":"Режим камеры",
 	"SPECTATOR":"спектатор",
 	"FOLLOW":"за танком",
+	"CAMERA_POSITION":"Позиция камеры",
 	"NUMBER_OF_TANKS":"Количество танков",
 	"CURRENT_TANK":"ТЕКУЩИЙ ТАНК",
 	"INFORMATION":"ИНФОРМАЦИЯ",
@@ -122,13 +134,13 @@
 	"SKIN":"Скин",
 	
 	"HEADER_MINES":"МИНЫ",
-	"MINE":"Мина",
+	"MINE":"Мина:",
 	"IMPACT_FORCE":"Сила удара (усл. ед.)",
 	"REMOVE_ALL_MINES":"Удалить все мины",
 	
 	"HEADER_BONUSES":"ПРИПАСЫ",
-	"BONUS":"Припас",
-	"SIREN":"Сирена",
+	"BONUS":"Припас:",
+	"SIREN":"Сирена:",
 	"SIREN_STANDARD":"Стандартная",
 	"SIREN_NEW_YEAR":"Новогодняя",
 	"SIREN_HALLOWEEN":"Хэллоуинская",
@@ -137,9 +149,15 @@
 	"BONUS_FALL_SPEED":"Скорость падения (см/c)",
 	
 	"HEADER_METEORS":"МЕТЕОРИТЫ",
-	"METEOR":"Метеорит",
+	"METEOR":"Метеорит:",
 	"METEOR_CREATE_BONUS":"Создать припас после взрыва",
 	"FLIGHT_TIME":"Время полёта (мс)",
+	
+	"HEADER_FUN_FUNCTIONS":"ВЕСЁЛЫЕ ФУНКЦИИ",
+	"FOV":"Поле зрения (FOV):",
+	"MAP_VISIBLED":"Показывать карту",
+	"STANCE_WHEELS":"Stance-стиль для колёс GT-корпусов",
+	
 	
 	"MASS":"Масса (усл. ед.)",
 	"DAMPING":"Демпфирование (усл. ед.)",
@@ -303,6 +321,7 @@
 	"SPAWN_ARROW":"Стрелка спавна",
 	"AXIS_INDICATOR":"Индикатор осей",
 	"SHOW_TANK_PREVIEW_IN_GARAGE":"Показать предпросмотр танка в гараже",
+	"PNG_SCREENSHOTS":"PNG-скриншоты (экспериментальная функция)",
 	
 	"SOUND_VOLUME":"Громкость:",
 	"BACKGROUND_SOUND":"Фоновый звук",
@@ -332,48 +351,55 @@
 	"MOUSE_SHAFT_SCOPE_VERTICAL_INVERSION":"Инверсия мыши по вертикали в снайперском режиме Шафта",
 	"INVERSE_TURN_CONTROL":"Инверсное управление при движении назад",
 	"RESTORE_DEFAULT_BUTTONS":"Восстановить кнопки по умолчанию",
+	
 	"KEYBOARD_KEY_LEFT":"Влево",
-	"KEYBOARD_KEY_UP":"Вверх",
 	"KEYBOARD_KEY_RIGHT":"Вправо",
+	"KEYBOARD_KEY_UP":"Вверх",
 	"KEYBOARD_KEY_DOWN":"Вниз",
 	"KEYBOARD_KEY_SPACE":"Пробел",
+	
 	"GAME_ACTION_TURRET_TURN_LEFT":"Повернуть башню влево",
 	"GAME_ACTION_TURRET_TURN_RIGHT":"Повернуть башню вправо",
 	"GAME_ACTION_TURRET_CENTER":"Центрировать башню",
 	"GAME_ACTION_SHOOT":"Выстрелить",
+	
 	"GAME_ACTION_CHASSIS_TURN_LEFT":"Повернуть танк влево",
-	"GAME_ACTION_CHASSIS_MOVE_FORWARD":"Двигаться вперёд",
 	"GAME_ACTION_CHASSIS_TURN_RIGHT":"Повернуть танк вправо",
+	"GAME_ACTION_CHASSIS_MOVE_FORWARD":"Двигаться вперёд",
 	"GAME_ACTION_CHASSIS_MOVE_BACKWARD":"Двигаться назад",
+	
 	"GAME_ACTION_CREATE_TANK":"Создать танк",
 	"GAME_ACTION_REMOVE_TANK":"Удалить танк",
 	"GAME_ACTION_NEXT_TANK":"Следующий танк",
 	"GAME_ACTION_PREV_TANK":"Предыдущий танк",
-	"GAME_ACTION_KILL_TANK":"Уничтожить танк",
+	"GAME_ACTION_SUICIDE":"Самоуничтожить танк",
 	"GAME_ACTION_RANK_UP":"Получить звание",
 	"GAME_ACTION_RANK_UP_WINDOW":"Настройки получения звания",
 	"GAME_ACTION_FLIP_TANK":"Перевернуть танк",
-	"GAME_ACTION_RESTORE_TANK_STATE":"Восстановить положение танка",
-	"GAME_ACTION_MOVE_TANK_TO_CURSOR_POSITION":"Телепорт по курсору мыши",
+	"GAME_ACTION_RESTORE_TANK_STATE":"Восстановить положение танка/башни",
+	"GAME_ACTION_MOVE_TANK_TO_CURSOR_POSITION":"Телепортировать танк по курсору мыши",
 	"GAME_ACTION_TOGGLE_VISIBLE_DRONE":"Показать/скрыть дрон",
+	"GAME_ACTION_OPEN_GARAGE":"Открыть гараж",
 	
+	"GAME_ACTION_OVERDRIVE":"Овердрайв",
 	"GAME_ACTION_USE_MINE":"Использовать мину",
 	"GAME_ACTION_MINES_WINDOW":"Настройки мины",
 	"GAME_ACTION_USE_BONUS":"Сбросить припас",
 	"GAME_ACTION_BONUSES_WINDOW":"Настройки припаса",
-	"GAME_ACTION_OVERDRIVE":"Овердрайв",
 	"GAME_ACTION_USE_METEOR":"Сбросить метеорит",
 	"GAME_ACTION_METEORS_WINDOW":"Настройки метеорита",
 	
-	"GAME_ACTION_SCREEN_SIZE_INCREASE":"Увеличить размер окна битвы",
-	"GAME_ACTION_SCREEN_SIZE_DECREASE":"Уменьшить размер окна битвы",
-	"GAME_ACTION_FULL_SCREEN":"Включить/выключить полноэкранный режим",
-	"GAME_ACTION_OPEN_GARAGE":"Открыть гараж",
-	"GAME_ACTION_TOGGLE_CAMERA_CONTROLLER":"Переключить режим камеры",
+	"GAME_ACTION_TOGGLE_CAMERA_CONTROLLER":"Переключить режим камеры (спектатор/следящая)",
 	"GAME_ACTION_CAMERA_UP":"Поднять камеру",
 	"GAME_ACTION_CAMERA_DOWN":"Опустить камеру",
+	"GAME_ACTION_SCREEN_SIZE_INCREASE":"Увеличить размер окна битвы",
+	"GAME_ACTION_SCREEN_SIZE_DECREASE":"Уменьшить размер окна битвы",
 	"GAME_ACTION_SAVE_BOOKMARK":"Сохранить положение камеры в спектаторе",
-	"GAME_ACTION_SELECT_BOOKMARK":"Переключить положение камеры в спектаторе",
+	"GAME_ACTION_SELECT_BOOKMARK":"Поменять сохранённое положение камеры в спектаторе",
+	
+	"GAME_ACTION_FULL_SCREEN":"Включить/выключить полноэкранный режим",
+	"GAME_ACTION_TAKE_SCREENSHOT":"Сделать скриншот",
 	"GAME_ACTION_SPEED_UP_TIME":"Ускорить время",
-	"GAME_ACTION_SLOW_DOWN_TIME":"Замедлить время"
+	"GAME_ACTION_SLOW_DOWN_TIME":"Замедлить время",
+	"GAME_ACTION_FUN_FUNCTIONS_WINDOW":"Весёлые функции"
 }

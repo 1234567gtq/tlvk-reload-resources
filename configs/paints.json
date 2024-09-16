@@ -24,8 +24,8 @@
 	"id":"holiday",
 	"nameRU":"Праздник",
 	"nameEN":"Holiday",
-	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
-	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это серо-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a gray and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
 },
 {
 	"id":"holiday_old",
@@ -1994,6 +1994,11 @@
 },
 {
 	"id":"chocolatank",
+	"name":"Chocolatank",
+	"description":"Easter is so much sweeter with chocolate. Now, you can carry it with you into the battlefield with this chocolate-themed paint for your tank. Warning: With this paint, your tank will look delicious, but will still be pretty hard — biting it will likely result in loss of teeth."
+},
+{
+	"id":"chocolatank_2",
 	"name":"Chocolatank",
 	"description":"Easter is so much sweeter with chocolate. Now, you can carry it with you into the battlefield with this chocolate-themed paint for your tank. Warning: With this paint, your tank will look delicious, but will still be pretty hard — biting it will likely result in loss of teeth."
 },
@@ -5272,9 +5277,9 @@
 },
 {
 	"id":"jokerge",
-	"nameRU":"УВЫ",
-	"nameEN":"Jokerge",
-	"description":"TODO"
+	"name":"Jokerge",
+	"descriptionRU":"\"Jokerge\" - иронично подстёбывающий смайл, который используют со словом \"увы\", если стример облажался. Произошёл от другого смайла - \"Starege\". Увы :)",
+	"descriptionEN":"\"Jokerge\" is an ironically mocking emoticon that is used with the word \"alas\" if the streamer screws up. Derived from another emoticon - \"Starege\". Alas :)"
 },
 {
 	"id":"mono_black",
@@ -5298,6 +5303,12 @@
 	"id":"neo-cubes",
 	"nameRU":"Neo-кубы",
 	"nameEN":"Neo-Cubes",
+	"description":"TODO"
+},
+{
+	"id":"organizer",
+	"nameRU":"Организатор",
+	"nameEN":"Organizer",
 	"description":"TODO"
 },
 {

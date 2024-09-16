@@ -1,5 +1,295 @@
 [
 	{
+		"id":"kolhoz_1.100_summer",
+		"nameRU":"Колхоз",
+		"nameEN":"Kolhoz",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"sandal_1.100_summer",
+		"nameRU":"Сандал",
+		"nameEN":"Sandal",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"barda_1.100_summer",
+		"nameRU":"Барда",
+		"nameEN":"Barda",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"parma_1.100_summer",
+		"nameRU":"Парма",
+		"nameEN":"Parma",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"sandbox_1.100_summer",
+		"nameRU":"Песочница",
+		"nameEN":"Sandbox",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"duel_1.100_summer",
+		"nameRU":"Дуэль",
+		"nameEN":"Duel",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"kungur_1.100_summer",
+		"nameRU":"Кунгур",
+		"nameEN":"Kungur",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"yard_summer",
+		"nameRU":"Площадь",
+		"nameEN":"Yard",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	
+	{
+		"id":"testbox_summer",
+		"nameRU":"Тестбокс",
+		"nameEN":"Testbox",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	{
+		"id":"3th_library_summer",
+		"nameRU":"3-я библиотека",
+		"nameEN":"3th library",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	{
+		"id":"abyss_old_summer",
+		"nameRU":"Бездна",
+		"nameEN":"Abyss",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"abyss_summer",
+		"nameRU":"Бездна",
+		"nameEN":"Abyss",
+		"skyBox":"mountains",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"aleksandrovsk_mm_summer",
+		"nameRU":"Александровск MM",
+		"nameEN":"Aleksandrovsk MM",
+		"skyBox":"hills_day",
+		"theme":"summer_day_mm",
+		"category":"summer"
+	},
+	{
+		"id":"aleksandrovsk_mm_winter",
+		"nameRU":"Александровск MM",
+		"nameEN":"Aleksandrovsk MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day_mm",
+		"category":"winter"
+	},
+	{
+		"id":"aleksandrovsk_summer",
+		"nameRU":"Александровск",
+		"nameEN":"Aleksandrovsk",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"aleksandrovsk_winter",
+		"nameRU":"Александровск",
+		"nameEN":"Aleksandrovsk",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"archipelago_mm_old_summer",
+		"nameRU":"Архипелаг MM (старый)",
+		"nameEN":"Archipelago MM (old)",
+		"skyBox":"rio_day",
+		"theme":"summer_day_mm",
+		"category":"summer"
+	},
+	{
+		"id":"archipelago_mm_old_winter",
+		"nameRU":"Архипелаг MM (старый)",
+		"nameEN":"Archipelago MM (old)",
+		"skyBox":"winter_day",
+		"theme":"winter_day_mm",
+		"category":"winter"
+	},
+	{
+		"id":"archipelago_mm_summer",
+		"nameRU":"Архипелаг MM",
+		"nameEN":"Archipelago MM",
+		"skyBox":"rio_day",
+		"theme":"summer_day_mm",
+		"category":"summer"
+	},
+	{
+		"id":"archipelago_mm_winter",
+		"nameRU":"Архипелаг MM",
+		"nameEN":"Archipelago MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day_mm",
+		"category":"winter"
+	},
+	{
+		"id":"arena_ii_old_summer",
+		"nameRU":"Арена II",
+		"nameEN":"Arena II",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	{
+		"id":"arena_old_summer",
+		"nameRU":"Арена",
+		"nameEN":"Arena",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"arena_old_winter",
+		"nameRU":"Арена",
+		"nameEN":"Arena",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	{
+		"id":"arena_summer",
+		"nameRU":"Арена",
+		"nameEN":"Arena",
+		"skyBox":"mountains_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"arena_winter",
+		"nameRU":"Арена",
+		"nameEN":"Arena",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"astrella_old_summer",
+		"nameRU":"Астрелла",
+		"nameEN":"Astrella",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	{
+		"id":"atra_i_old_summer",
+		"nameRU":"Атра I",
+		"nameEN":"Atra I",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"atra_i_old_winter",
+		"nameRU":"Атра I",
+		"nameEN":"Atra I",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	{
+		"id":"atra_ii_old_summer",
+		"nameRU":"Атра II",
+		"nameEN":"Atra II",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"atra_ii_old_winter",
+		"nameRU":"Атра II",
+		"nameEN":"Atra II",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	{
+		"id":"atra_summer",
+		"nameRU":"Атра",
+		"nameEN":"Atra",
+		"skyBox":"mountains_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"atra_winter",
+		"nameRU":"Атра",
+		"nameEN":"Atra",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"babylon_old_summer",
+		"nameRU":"Вавилон",
+		"nameEN":"Babylon",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	{
 		"id":"route_vektor_tv_summer",
 		"nameRU":"Трасса (by Vektor TV)",
 		"nameEN":"Route (by Vektor TV)",
@@ -279,14 +569,7 @@
 		"theme":"halloween",
 		"category":"special"
 	},
-	{
-		"id":"3th_library_summer",
-		"nameRU":"3-я библиотека",
-		"nameEN":"3th library",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"special"
-	},
+	
 	{
 		"id":"legacy_summer",
 		"nameRU":"Наследие",
@@ -319,14 +602,7 @@
 		"theme":"gray",
 		"category":"special"
 	},
-	{
-		"id":"babylon_old_summer",
-		"nameRU":"Вавилон",
-		"nameEN":"Babylon",
-		"skyBox":"hills_old",
-		"theme":"summer_day",
-		"category":"special"
-	},
+	
 	{
 		"id":"testing_ground_2_old_summer",
 		"name":"Testing Ground 2",
@@ -382,6 +658,22 @@
 		"category":"special"
 	},
 	{
+		"id":"new_sandbox_old_summer",
+		"nameRU":"Новая Песочница",
+		"nameEN":"New Sandbox",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	{
+		"id":"tps_old_summer",
+		"nameRU":"ТЭЦ",
+		"nameEN":"Thermal power station",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	{
 		"id":"position_old_summer",
 		"nameRU":"Позиция",
 		"nameEN":"Position",
@@ -397,22 +689,8 @@
 		"theme":"summer_day",
 		"category":"special"
 	},
-	{
-		"id":"astrella_old_summer",
-		"nameRU":"Астрелла",
-		"nameEN":"Astrella",
-		"skyBox":"mountains_old",
-		"theme":"summer_day",
-		"category":"special"
-	},
-	{
-		"id":"arena_ii_old_summer",
-		"nameRU":"Арена II",
-		"nameEN":"Arena II",
-		"skyBox":"hills_old",
-		"theme":"summer_day",
-		"category":"special"
-	},
+	
+	
 	{
 		"id":"port_old_summer",
 		"nameRU":"Порт",
@@ -1048,30 +1326,8 @@
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
-	{
-		"id":"atra_ii_old_winter",
-		"nameRU":"Атра II",
-		"nameEN":"Atra II",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
-	{
-		"id":"atra_i_old_winter",
-		"nameRU":"Атра I",
-		"nameEN":"Atra I",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
-	{
-		"id":"arena_old_winter",
-		"nameRU":"Арена",
-		"nameEN":"Arena",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
+	
+	
 	{
 		"id":"zone_old_summer",
 		"nameRU":"Зона",
@@ -1649,38 +1905,9 @@
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
-	{
-		"id":"atra_ii_old_summer",
-		"nameRU":"Атра II",
-		"nameEN":"Atra II",
-		"skyBox":"mountains_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
-	{
-		"id":"atra_i_old_summer",
-		"nameRU":"Атра I",
-		"nameEN":"Atra I",
-		"skyBox":"mountains_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
-	{
-		"id":"arena_old_summer",
-		"nameRU":"Арена",
-		"nameEN":"Arena",
-		"skyBox":"mountains_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
-	{
-		"id":"abyss_old_summer",
-		"nameRU":"Бездна",
-		"nameEN":"Abyss",
-		"skyBox":"mountains_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
+	
+	
+	
 
 
 	{
@@ -1724,6 +1951,14 @@
 		"category":"special"
 	},
 	{
+		"id":"new_year_2015_sandbox_winter",
+		"nameRU":"Новый Год 2015 (Песочница)",
+		"nameEN":"New Year 2015 (Sandbox)",
+		"skyBox":"new_year",
+		"theme":"new_year",
+		"category":"special"
+	},
+	{
 		"id":"new_year_2016-2017_winter",
 		"nameRU":"Новый Год 2016-2017",
 		"nameEN":"New Year 2016-2017",
@@ -1741,37 +1976,16 @@
 		"category":"special"
 	},
 	{
-		"id":"aleksandrovsk_mm_winter",
-		"nameRU":"Александровск ММ",
-		"nameEN":"Aleksandrovsk MM",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
+		"id":"new_year_2022_winter",
+		"nameRU":"Новый Год 2022",
+		"nameEN":"New Year 2022",
+		"skyBox":"new_year",
+		"theme":"new_year",
+		"category":"special"
 	},
-	{
-		"id":"aleksandrovsk_winter",
-		"nameRU":"Александровск",
-		"nameEN":"Aleksandrovsk",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"arena_winter",
-		"nameRU":"Арена",
-		"nameEN":"Arena",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"atra_winter",
-		"nameRU":"Атра",
-		"nameEN":"Atra",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
+	
+	
+	
 	{
 		"id":"barda_mm_winter",
 		"nameRU":"Барда ММ",
@@ -2494,81 +2708,22 @@
 		"theme":"winter_day",
 		"category":"winter"
 	},
-	{
-		"id":"aleksandrovsk_summer",
-		"nameRU":"Александровск",
-		"nameEN":"Aleksandrovsk",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"aleksandrovsk_mm_summer",
-		"nameRU":"Александровск MM",
-		"nameEN":"Aleksandrovsk MM",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
 	
 	
 	
 	
 	
 	
-	{
-		"id":"archipelago_mm_summer",
-		"nameRU":"Архипелаг MM",
-		"nameEN":"Archipelago MM",
-		"skyBox":"rio_day",
-		"theme":"summer_day_mm",
-		"category":"summer"
-	},
-	{
-		"id":"archipelago_mm_winter",
-		"nameRU":"Архипелаг MM",
-		"nameEN":"Archipelago MM",
-		"skyBox":"winter_day",
-		"theme":"winter_day_mm",
-		"category":"winter"
-	},
-	{
-		"id":"archipelago_mm_old_summer",
-		"nameRU":"Архипелаг MM (старый)",
-		"nameEN":"Archipelago MM (old)",
-		"skyBox":"rio_day",
-		"theme":"summer_day_mm",
-		"category":"summer"
-	},
-	{
-		"id":"archipelago_mm_old_winter",
-		"nameRU":"Архипелаг MM (старый)",
-		"nameEN":"Archipelago MM (old)",
-		"skyBox":"winter_day",
-		"theme":"winter_day_mm",
-		"category":"winter"
-	},
 	
 	
 	
 	
 	
-	{
-		"id":"arena_summer",
-		"nameRU":"Арена",
-		"nameEN":"Arena",
-		"skyBox":"mountains_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"atra_summer",
-		"nameRU":"Атра",
-		"nameEN":"Atra",
-		"skyBox":"mountains_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
+	
+	
+	
+	
+	
 	{
 		"id":"barda_summer",
 		"nameRU":"Барда",

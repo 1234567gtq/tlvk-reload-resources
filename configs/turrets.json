@@ -123,9 +123,9 @@
 				"descriptionRU":"Специальная линейка GT скинов для пушек - это не только отличное дополнение для любого колёсного корпуса, но и проявление особой смелости. Не каждый танкист готов пожертвовать скрытностью и осторожностью на поле боя, ради того, чтобы продемонстрировать всю уникальность и особенность своего танка. Специальные засечки, напоминающие шрамы, оставленные хищником с большими когтями, и уникальные геометрические формы придают пушкам этой серии ещё более грозный и опасный вид. Новейшие разработки в области танкостроения и особый сплав белых металлов развязали руки конструкторам данного изделия, позволив впервые создать не только мощное, но и красивое оружие, которое никогда не будет просто так пылиться в гараже танкиста.",
 				"descriptionEN":"This special series of GT skins for turrets is not just a good addition to any wheeled hull but also a manifestation of extraordinary courage. Not every tanker is ready to sacrifice stealth and caution on the battlefield to flaunt the uniqueness and the peculiarity of his tank in their entirety. Special scars resembling claw marks left by a predator and unique geometric structure give turrets of these series an even more formidable and dangerous look. The latest developments in field tank construction and a special alloy of white metals «unshackled the hands» of designers of this product, allowing them for the first time in history to create not only powerful but also beautiful weapons that would otherwise just be gathering dust in a tanker's garage.",
 				"icon":"gt",
-				"emissionColor":"517374",
-				"emissionColorSecond":"16685824",
-				"emissionColorThreshold":"0.6"
+				"emissionColor":"196607",
+				"emissionColorSecond":"16751360",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"ut_old",
@@ -953,7 +953,10 @@
 				"nameRU":"XT (тестовый, неофициальный)",
 				"nameEN":"XT (test, unofficial)",
 				"description":"TODO",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"14442253",
+				"emissionColorSecond":"15119879",
+				"emissionColorThreshold":"0.3"
 			},
 			{
 				"id":"tx_m0",
@@ -1862,7 +1865,7 @@
 				"descriptionEN":"Automated charging conveyor belt highly increases the firing rate but also significantly decreases critical hit chance. Regular shots lose most of their effectiveness."
 			},
 			{
-				"id":"rubberized_rounds",
+				"id":"rubberized_rounds_smoky",
 				"nameRU":"Прорезиненные снаряды",
 				"nameEN":"Rubberized rounds",
 				"descriptionRU":"Cнаряды с резиновой оболочкой могут поражать цели рикошетом, в том числе наносить противнику критический урон из-за угла. Однако число рикошетов сильно ограничено, а скорость снарядов повышена.",
@@ -2248,6 +2251,69 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"shooting_speed_regulator",
+				"nameRU":"Регулятор скорости стрельбы",
+				"nameEN":"Shooting speed regulator",
+				"descriptionRU":"Сниженная скорострельность позволяет блоку стволов лучше охлаждаться, за счёт чего повышается урон и шанс критических попаданий. Стволы раскручиваются и останавливаются быстрее. Такая настройка параметров увеличивает тактическую гибкость орудия и позволяет дольше вести непрерывный огонь.",
+				"descriptionEN":"Decreased firing speed allows for the barrels to cool down better, increasing damage and critical hit chance. The barrels wind up and wind down faster. This configuration increases tactical flexibility of the weapon and allows for longer uninterrupted fire."
+			},
+			{
+				"id":"reinforced_aiming_transmission",
+				"nameRU":"Усиленные приводы наводки",
+				"nameEN":"Reinforced aiming transmission",
+				"descriptionRU":"Оптимизация приводов наведения для быстрого горизонтального прицеливания. Из-за оптимизации приводы вертикального наведения менее эффективны.",
+				"descriptionEN":"Optimization of the aiming transmission for a faster horizontal aim. Due to optimization, vertical aiming transmission is less effective."
+			},
+			{
+				"id":"incendiary_band",
+				"nameRU":"Зажигательная лента",
+				"nameEN":"Incendiary band",
+				"descriptionRU":"Модификация для любителей поливать противников пулемётным огнём, не отпуская гашетку. При перегреве от продолжительной стрельбы эти снаряды воспламеняются и поджигают цель, но уменьшается время стрельбы до перегрева.",
+				"descriptionEN":"A modification for fans of spraying enemies with non-stop bullets. While overheating from continuous fire, these rounds heat up and ignite the target, but the user's resistance to overheating is reduced, meaning they will overheat faster."
+			},
+			{
+				"id":"rubberized_rounds_vulcan",
+				"nameRU":"Прорезиненные снаряды",
+				"nameEN":"Rubberized rounds",
+				"descriptionRU":"Снаряды с резиновой оболочкой значительно увеличивают вероятность и количество рикошетов при стрельбе. Можно атаковать противника из неожиданных позиций и легко сбивать его с толку. Но повышенное сопротивление воздуха сказывается на скорости таких снарядов.",
+				"descriptionEN":"These rubber-encased shells significantly increase bounce probability and number of ricochets when firing. This enables you to attack your enemies from unexpected positions and easily mislead them. However, the increased drag from air resistance has a negative impact on the speed of such rounds."
+			},
+			{
+				"id":"shredder",
+				"nameRU":"Шреддер",
+				"nameEN":"Shredder",
+				"descriptionRU":"Повышена скорострельность и урон. Взамен, при стрельбе ствол намертво приварен к корпусу. Управлять направлением стрельбы всё ещё можно за счёт корпуса.\nУничтожить соперника? Легко! За счёт своей повышенной скорострельности и урона, данное устройство просто измельчает танки, как шреддер офисную бумагу. Оно распиливает врагов словно промышленная бензопила. У соперников просто не останется шансов противостоять вам на поле боя.",
+				"descriptionEN":"Increased rate of fire and damage. In exchange, the turret is tightly welded to the hull during firing. You can still control the direction of fire by moving your hull. Destroy an opponent? That's easy! Due to its increased firing rate and damage, you simply grind tanks with this augment like shredder cuts the office papers into particles. It saws enemies like an industrial chainsaw. Opponents will simply have no chance to face you on the battlefield."
+			},
+			{
+				"id":"explosive_band",
+				"nameRU":"Разрывная лента",
+				"nameEN":"Explosive band",
+				"descriptionRU":"Добавляет сплеш-урон и увеличивает углы рикошета пуль.\nВерсия пулемёта с разрывными снарядами. Наносит урон не только по первой цели, но и окружающим её противникам, увеличивая шансы на победу. Повышенные свойства отскока снаряда от препятствий позволяют «нащупать» противника за преградой осколочным уроном. Используйте этот элемент тактики в бою, чтобы ослабить или уничтожить противников.",
+				"descriptionEN":"Adds splash damage and increases angles of bullet ricochet. A version of machine gun filled with explosive bullets. It deals damage not only to the first target, but also to surrounding enemies increasing the chances of victory. Better bouncing settings of bullets lets you \"feel\" an enemy behind an obstacle with its shrapnel damage. Use this tactical element in combat to weaken or destroy your opponents."
+			},
+			{
+				"id":"large_caliber",
+				"nameRU":"Крупный калибр",
+				"nameEN":"Large caliber",
+				"descriptionRU":"Скорость стрельбы снижена. Стандартный урон повышен. Скорости раскрутки и торможения стволов, сила отдачи и сила удара — увеличены.\nМодификация тяжёлого пулемёта. Стреляет медленно, но очень больно для противника. Каждое попадание пули — настоящий вызов для стойкости врага!",
+				"descriptionEN":"Decreased firing rate and increased standard damage. Barrel startup and slowdown time, recoil, and impact force have been increased. A heavy artillery modification. While shooting at a slower rate, it proves to be painful for the opponent. Each successful hit is a real challenge for the enemy’s fortitude."
+			},
+			{
+				"id":"freezing_band",
+				"nameRU":"Замораживающая лента",
+				"nameEN":"Freezing band",
+				"descriptionRU":"Критический урон поражает противника статус-эффектом «Заморозка».\nСовременная версия пулемёта с замораживающими пулями позволяет замедлить передвижение противника по полю боя критическим уроном, а также едви ли не приварить его пушку к корпусу на некоторое время. Взамен придётся пожертвовать величиной критического урона.",
+				"descriptionEN":"The critical damage inflicts the \"Freeze\" status effect on the enemy. This modern version of a machine gun with freezing bullets lets you slow down the movement of the enemy on the battlefield with critical damage, and also almost weld their turret to the hull for some time. In return, you will have to sacrifice the amount of critical damage."
+			},
+			{
+				"id":"stunning_band",
+				"nameRU":"Оглушающая лента",
+				"nameEN":"Stunning band",
+				"descriptionRU":"Критический урон поражает противника статус-эффектом «Оглушение».\nСовременная версия пулемёта с ультразвуковыми пулями позволяет дезориентировать противника в пространстве, обездвиживая его, и лишая возможности стрелять, активировать припасы и овердрайвы или самоуничтожаться на некоторое время.",
+				"descriptionEN":"Critical damage applies the «Stun» status effect to the enemy tank. This modern version of a machine gun with ultrasonic bullets lets you disorient the enemy in space, immobilizing them and leaving them unable to shoot, activate overdrives and supplies, or self-destruct for some time."
 			}
 		],
 		"shotSkins":

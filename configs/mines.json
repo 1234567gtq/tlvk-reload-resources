@@ -1,38 +1,18 @@
 [
 	{
 		"id":"hd_blue",
-		"nameRU":"HD (синяя)",
-		"nameEN":"HD (blue)"
+		"nameRU":"Стандартная (синяя)",
+		"nameEN":"Standard (blue)"
 	},
 	{
 		"id":"hd_red",
-		"nameRU":"HD (красная)",
-		"nameEN":"HD (red)"
+		"nameRU":"Стандартная (красная)",
+		"nameEN":"Standard (red)"
 	},
 	{
 		"id":"hd_green",
-		"nameRU":"HD (зелёная)",
-		"nameEN":"HD (green)"
-	},
-	{
-		"id":"new_year_2020_blue",
-		"nameRU":"Новый Год 2020 (синяя)",
-		"nameEN":"New Year 2020 (blue)"
-	},
-	{
-		"id":"new_year_2020_red",
-		"nameRU":"Новый Год 2020 (красная)",
-		"nameEN":"New Year 2020 (red)"
-	},
-	{
-		"id":"new_year_2020_green",
-		"nameRU":"Новый Год 2020 (зелёная)",
-		"nameEN":"New Year 2020 (green)"
-	},
-	{
-		"id":"new_year_2020_yellow",
-		"nameRU":"Новый Год 2020 (жёлтая)",
-		"nameEN":"New Year 2020 (yellow)"
+		"nameRU":"Стандартная (зелёная)",
+		"nameEN":"Standard (green)"
 	},
 	{
 		"id":"release_284_blue",
@@ -93,5 +73,25 @@
 		"id":"very_first_yellow",
 		"nameRU":"Самая первая (жёлтая)",
 		"nameEN":"Very first (yellow)"
+	},
+	{
+		"id":"new_year_2020_blue",
+		"nameRU":"Новый Год 2020 (синяя)",
+		"nameEN":"New Year 2020 (blue)"
+	},
+	{
+		"id":"new_year_2020_red",
+		"nameRU":"Новый Год 2020 (красная)",
+		"nameEN":"New Year 2020 (red)"
+	},
+	{
+		"id":"new_year_2020_green",
+		"nameRU":"Новый Год 2020 (зелёная)",
+		"nameEN":"New Year 2020 (green)"
+	},
+	{
+		"id":"new_year_2020_yellow",
+		"nameRU":"Новый Год 2020 (жёлтая)",
+		"nameEN":"New Year 2020 (yellow)"
 	}
 ]

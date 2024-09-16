@@ -1,0 +1,23 @@
+[
+	{
+		"id":"standard",
+		"nameRU":"Стандартный",
+		"nameEN":"Standard",
+		"isStandardTankPreview":true
+	},
+	{
+		"id":"1.100",
+		"nameRU":"Релиз 1.100",
+		"nameEN":"Release 1.100"
+	},
+	{
+		"id":"old",
+		"nameRU":"Старый",
+		"nameEN":"Old"
+	},
+	{
+		"id":"new_year",
+		"nameRU":"Новогодний",
+		"nameEN":"New Year"
+	}
+]

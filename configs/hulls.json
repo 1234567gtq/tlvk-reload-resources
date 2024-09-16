@@ -1617,6 +1617,16 @@
 				"icon":"lc"
 			},
 			{
+				"id":"sp",
+				"name":"SP",
+				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным.\n\nУчёные со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберёте на себе тысячи восхищённых взглядов.\n\nБронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид.\n\n Сочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
+				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artifacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only a few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. Bronze plates made of the rarest alloy will make your tank look powerful and fearsome. The combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
+				"isInvertTracksDirection":true,
+				"icon":"sp",
+				"emissionColor":"47359",
+				"emissionColorThreshold":"0.6"
+			},
+			{
 				"id":"gt",
 				"name":"GT",
 				"descriptionRU":"Этот колёсный вездеход поможет покорить вам все танковые просторы! Двухосевые передние колёса добавляют танку устойчивости и манёвренности, карбоновые дуги — прочности, при любом столкновении вы окажетесь в выигрыше. Задний спойлер сделан по чертежам гоночных болидов, поэтому скорости этому скину тоже не занимать. Мало того, что внешний вид не оставит никого равнодушным, так ещё и технические характеристики самого корпуса сделают танк грозой всех битв!",
@@ -2494,6 +2504,13 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"m1",
+				"name":"M1",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
@@ -2514,6 +2531,14 @@
 				"descriptionRU":"Молодого конструктора попросили сделать в кратчайшие сроки корпус в новом обличии. Было принято решение сделать его из старых, уже немного проржавевших, частей танков. За несколько дней получился изящный и в своем роде уникальный вид корпуса, но он все так же оставался легким, быстрым и устойчивым.",
 				"descriptionEN":"The young designer was asked to make a hull in a new guise as soon as possible. It was decided to make it from old, already slightly rusty parts of the tanks. In just a few days, the hull had a sleek and unique look, but it was still light, fast, and stable.",
 				"icon":"lc"
+			},
+			{
+				"id":"pr",
+				"name":"Prime",
+				"description":"TODO",
+				"icon":"pr",
+				"emissionColor":"5490148",
+				"emissionColorThreshold":"0.4"
 			}
 		],
 		"devices":

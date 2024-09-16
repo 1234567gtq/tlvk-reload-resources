@@ -30,14 +30,34 @@
 		"nameEN":"Mountains (old)"
 	},
 	{
-		"id":"winter_day",
-		"nameRU":"Зима день",
-		"nameEN":"Winter day"
+		"id":"urban_day",
+		"nameRU":"Город день",
+		"nameEN":"Urban day"
 	},
 	{
-		"id":"winter_old",
-		"nameRU":"Зима (старая)",
-		"nameEN":"Winter (old)"
+		"id":"urban_night",
+		"nameRU":"Город ночь",
+		"nameEN":"Urban night"
+	},
+	{
+		"id":"cologne_day",
+		"nameRU":"Кёльн",
+		"nameEN":"Cologne"
+	},
+	{
+		"id":"desert_day",
+		"nameRU":"Пустыня",
+		"nameEN":"Desert"
+	},
+	{
+		"id":"iran_day",
+		"nameRU":"Иран",
+		"nameEN":"Iran"
+	},
+	{
+		"id":"iran_winter_day",
+		"nameRU":"Иран зима",
+		"nameEN":"Iran winter"
 	},
 	{
 		"id":"rio_day",
@@ -50,34 +70,14 @@
 		"nameEN":"Rio night"
 	},
 	{
-		"id":"urban_day",
-		"nameRU":"Город день",
-		"nameEN":"Urban day"
+		"id":"winter_day",
+		"nameRU":"Зима",
+		"nameEN":"Winter"
 	},
 	{
-		"id":"urban_night",
-		"nameRU":"Город ночь",
-		"nameEN":"Urban night"
-	},
-	{
-		"id":"cologne_day",
-		"nameRU":"Кёльн день",
-		"nameEN":"Cologne day"
-	},
-	{
-		"id":"desert_day",
-		"nameRU":"Пустыня день",
-		"nameEN":"Desert day"
-	},
-	{
-		"id":"iran_day",
-		"nameRU":"Иран",
-		"nameEN":"Iran"
-	},
-	{
-		"id":"iran_winter_day",
-		"nameRU":"Иран зима",
-		"nameEN":"Iran winter"
+		"id":"winter_old",
+		"nameRU":"Зима (старая)",
+		"nameEN":"Winter (old)"
 	},
 	{
 		"id":"remaster_day",
@@ -95,14 +95,9 @@
 		"nameEN":"Remaster autumn"
 	},
 	{
-		"id":"new_year",
-		"nameRU":"Новый Год",
-		"nameEN":"New Year"
-	},
-	{
-		"id":"halloween",
-		"nameRU":"Хеллоуин",
-		"nameEN":"Halloween"
+		"id":"release_1.100_day",
+		"nameRU":"Релиз 1.100",
+		"nameEN":"Release 1.100"
 	},
 	{
 		"id":"space_day",
@@ -110,8 +105,18 @@
 		"nameEN":"Space"
 	},
 	{
+		"id":"halloween",
+		"nameRU":"Хеллоуин",
+		"nameEN":"Halloween"
+	},
+	{
+		"id":"new_year",
+		"nameRU":"Новый Год",
+		"nameEN":"New Year"
+	},
+	{
 		"id":"tx_moon_night",
-		"nameRU":"Луна (TankiX)",
-		"nameEN":"Moon (TankiX)"
+		"nameRU":"Луна (Tanki X)",
+		"nameEN":"Moon (Tanki X)"
 	}
 ]

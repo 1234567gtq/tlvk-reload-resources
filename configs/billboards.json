@@ -1,8 +1,8 @@
 [	
 	{	
-		"id":"summer_festival_2024",
-		"nameRU":"Летний фестиваль 2024",
-		"nameEN":"Summer Festival 2024"
+		"id":"tanker's_day_2024",
+		"nameRU":"День танкиста 2024",
+		"nameEN":"Tanker's Day 2024"
 	},
 	{	
 		"id":"standard",
@@ -11,13 +11,8 @@
 	},
 	{	
 		"id":"reloaded",
-		"nameRU":"Стандартный (Remaster)",
-		"nameEN":"Standard (Remaster)"
-	},
-	{	
-		"id":"standard_old",
-		"nameRU":"Стандартный (старый)",
-		"nameEN":"Standard (old)"
+		"nameRU":"Стандартный (remaster)",
+		"nameEN":"Standard (remaster)"
 	},
 	{	
 		"id":"standard_without_logo",
@@ -26,13 +21,18 @@
 	},
 	{	
 		"id":"standard_summer_2012",
-		"nameRU":"Стандартный (лето 2012)",
-		"nameEN":"Standard (summer 2012)"
+		"nameRU":"Стандартный (релиз 1.100 лето)",
+		"nameEN":"Standard (release 1.100 summer)"
 	},
 	{	
 		"id":"standard_winter_2012",
-		"nameRU":"Стандартный (зима 2012)",
-		"nameEN":"Standard (winter 2012)"
+		"nameRU":"Стандартный (релиз 1.100 зима)",
+		"nameEN":"Standard (release 1.100 winter)"
+	},
+	{	
+		"id":"standard_old",
+		"nameRU":"Стандартный (старый)",
+		"nameEN":"Standard (old)"
 	},
 	{	
 		"id":"standard_new_logo",
@@ -198,6 +198,11 @@
 		"id":"summer_festival_2022-2023",
 		"nameRU":"Летний фестиваль 2022-2023",
 		"nameEN":"Summer Festival 2022-2023"
+	},
+	{	
+		"id":"summer_festival_2024",
+		"nameRU":"Летний фестиваль 2024",
+		"nameEN":"Summer Festival 2024"
 	},
 	{	
 		"id":"summer_sale",

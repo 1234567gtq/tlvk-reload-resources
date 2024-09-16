@@ -379,6 +379,12 @@
 	},
 	{
 		"type":"gold",
+		"id":"tankers_day_2024",
+		"nameRU":"Золотой ящик (День танкиста 2024)",
+		"nameEN":"Gold box (Tanker's Day 2024)"
+	},
+	{
+		"type":"gold",
 		"id":"cn_national_day_2011",
 		"nameRU":"Золотой ящик (День образования КНР 2011)",
 		"nameEN":"Gold box (Chinese National Day 2011)"

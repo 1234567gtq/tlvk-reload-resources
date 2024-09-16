@@ -1,7 +1,8 @@
 [
 	{
 		"id":"hd",
-		"name":"HD"
+		"nameRU":"Стандартный",
+		"nameEN":"Standard"
 	},
 	{
 		"id":"christmas",
