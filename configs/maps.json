@@ -1,78 +1,5 @@
 [
 	{
-		"id":"kolhoz_1.100_summer",
-		"nameRU":"Колхоз",
-		"nameEN":"Kolhoz",
-		"skyBox":"release_1.100_day",
-		"theme":"summer_day",
-		"category":"release_1.100"
-	},
-	{
-		"id":"sandal_1.100_summer",
-		"nameRU":"Сандал",
-		"nameEN":"Sandal",
-		"skyBox":"release_1.100_day",
-		"theme":"summer_day",
-		"category":"release_1.100"
-	},
-	{
-		"id":"barda_1.100_summer",
-		"nameRU":"Барда",
-		"nameEN":"Barda",
-		"skyBox":"release_1.100_day",
-		"theme":"summer_day",
-		"category":"release_1.100"
-	},
-	{
-		"id":"parma_1.100_summer",
-		"nameRU":"Парма",
-		"nameEN":"Parma",
-		"skyBox":"release_1.100_day",
-		"theme":"summer_day",
-		"category":"release_1.100"
-	},
-	{
-		"id":"sandbox_1.100_summer",
-		"nameRU":"Песочница",
-		"nameEN":"Sandbox",
-		"skyBox":"release_1.100_day",
-		"theme":"summer_day",
-		"category":"release_1.100"
-	},
-	{
-		"id":"duel_1.100_summer",
-		"nameRU":"Дуэль",
-		"nameEN":"Duel",
-		"skyBox":"release_1.100_day",
-		"theme":"summer_day",
-		"category":"release_1.100"
-	},
-	{
-		"id":"kungur_1.100_summer",
-		"nameRU":"Кунгур",
-		"nameEN":"Kungur",
-		"skyBox":"release_1.100_day",
-		"theme":"summer_day",
-		"category":"release_1.100"
-	},
-	{
-		"id":"yard_summer",
-		"nameRU":"Площадь",
-		"nameEN":"Yard",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"unofficial"
-	},
-	
-	{
-		"id":"testbox_summer",
-		"nameRU":"Тестбокс",
-		"nameEN":"Testbox",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"special"
-	},
-	{
 		"id":"3th_library_summer",
 		"nameRU":"3-я библиотека",
 		"nameEN":"3th library",
@@ -98,7 +25,7 @@
 	},
 	{
 		"id":"aleksandrovsk_mm_summer",
-		"nameRU":"Александровск MM",
+		"nameRU":"Александровск ММ",
 		"nameEN":"Aleksandrovsk MM",
 		"skyBox":"hills_day",
 		"theme":"summer_day_mm",
@@ -106,7 +33,7 @@
 	},
 	{
 		"id":"aleksandrovsk_mm_winter",
-		"nameRU":"Александровск MM",
+		"nameRU":"Александровск ММ",
 		"nameEN":"Aleksandrovsk MM",
 		"skyBox":"winter_day",
 		"theme":"winter_day_mm",
@@ -130,7 +57,7 @@
 	},
 	{
 		"id":"archipelago_mm_old_summer",
-		"nameRU":"Архипелаг MM (старый)",
+		"nameRU":"Архипелаг ММ (старый)",
 		"nameEN":"Archipelago MM (old)",
 		"skyBox":"rio_day",
 		"theme":"summer_day_mm",
@@ -138,7 +65,7 @@
 	},
 	{
 		"id":"archipelago_mm_old_winter",
-		"nameRU":"Архипелаг MM (старый)",
+		"nameRU":"Архипелаг ММ (старый)",
 		"nameEN":"Archipelago MM (old)",
 		"skyBox":"winter_day",
 		"theme":"winter_day_mm",
@@ -146,7 +73,7 @@
 	},
 	{
 		"id":"archipelago_mm_summer",
-		"nameRU":"Архипелаг MM",
+		"nameRU":"Архипелаг ММ",
 		"nameEN":"Archipelago MM",
 		"skyBox":"rio_day",
 		"theme":"summer_day_mm",
@@ -154,7 +81,7 @@
 	},
 	{
 		"id":"archipelago_mm_winter",
-		"nameRU":"Архипелаг MM",
+		"nameRU":"Архипелаг ММ",
 		"nameEN":"Archipelago MM",
 		"skyBox":"winter_day",
 		"theme":"winter_day_mm",
@@ -264,6 +191,417 @@
 		"theme":"summer_day",
 		"category":"special"
 	},
+	{
+		"id":"barda_1.100_summer",
+		"nameRU":"Барда",
+		"nameEN":"Barda",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"barda_mm_summer",
+		"nameRU":"Барда ММ",
+		"nameEN":"Barda MM",
+		"skyBox":"hills_day",
+		"theme":"summer_day_mm",
+		"category":"summer"
+	},
+	{
+		"id":"barda_mm_winter",
+		"nameRU":"Барда ММ",
+		"nameEN":"Barda MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day_mm",
+		"category":"winter"
+	},
+	{
+		"id":"barda_old_summer",
+		"nameRU":"Барда",
+		"nameEN":"Barda",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"barda_old_winter",
+		"nameRU":"Барда",
+		"nameEN":"Barda",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	{
+		"id":"barda_summer",
+		"nameRU":"Барда",
+		"nameEN":"Barda",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"barda_winter",
+		"nameRU":"Барда",
+		"nameEN":"Barda",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"bastion_summer",
+		"nameRU":"Бастион",
+		"nameEN":"Bastion",
+		"skyBox":"mountains_day",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	{
+		"id":"berlin_1.100_summer",
+		"nameRU":"Берлин",
+		"nameEN":"Berlin",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"berlin_old_summer",
+		"nameRU":"Берлин",
+		"nameEN":"Berlin",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"berlin_old_winter",
+		"nameRU":"Берлин",
+		"nameEN":"Berlin",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	{
+		"id":"berlin_summer",
+		"nameRU":"Берлин",
+		"nameEN":"Berlin",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"berlin_winter",
+		"nameRU":"Берлин",
+		"nameEN":"Berlin",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"bobruisk_1.100_summer",
+		"nameRU":"Бобруйск",
+		"nameEN":"Bobruisk",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"bobruisk_mm_summer",
+		"nameRU":"Бобруйск ММ",
+		"nameEN":"Bobruisk MM",
+		"skyBox":"hills_day",
+		"theme":"summer_day_mm",
+		"category":"summer"
+	},
+	{
+		"id":"bobruisk_mm_winter",
+		"nameRU":"Бобруйск ММ",
+		"nameEN":"Bobruisk MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day_mm",
+		"category":"winter"
+	},
+	{
+		"id":"bobruisk_old_summer",
+		"nameRU":"Бобруйск",
+		"nameEN":"Bobruisk",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"bobruisk_old_winter",
+		"nameRU":"Бобруйск",
+		"nameEN":"Bobruisk",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	{
+		"id":"bobruisk_summer",
+		"nameRU":"Бобруйск",
+		"nameEN":"Bobruisk",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"bobruisk_winter",
+		"nameRU":"Бобруйск",
+		"nameEN":"Bobruisk",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"boombox_1.100_summer",
+		"nameRU":"Бумбокс",
+		"nameEN":"Boombox",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"boombox_old_summer",
+		"nameRU":"Бумбокс",
+		"nameEN":"Boombox",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"boombox_old_winter",
+		"nameRU":"Бумбокс",
+		"nameEN":"Boombox",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	{
+		"id":"boombox_summer",
+		"nameRU":"Бумбокс",
+		"nameEN":"Boombox",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"boombox_winter",
+		"nameRU":"Бумбокс",
+		"nameEN":"Boombox",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"brest_i_1.100_summer",
+		"nameRU":"Брест I",
+		"nameEN":"Brest I",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"brest_i_old_summer",
+		"nameRU":"Брест I",
+		"nameEN":"Brest I",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"brest_i_old_winter",
+		"nameRU":"Брест I",
+		"nameEN":"Brest I",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	{
+		"id":"brest_ii_1.100_summer",
+		"nameRU":"Брест II",
+		"nameEN":"Brest II",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"brest_ii_old_summer",
+		"nameRU":"Брест II",
+		"nameEN":"Brest II",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"brest_ii_old_winter",
+		"nameRU":"Брест II",
+		"nameEN":"Brest II",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	{
+		"id":"brest_mm_summer",
+		"nameRU":"Брест ММ",
+		"nameEN":"Brest MM",
+		"skyBox":"hills_day",
+		"theme":"summer_day_mm",
+		"category":"summer"
+	},
+	{
+		"id":"brest_mm_winter",
+		"nameRU":"Брест ММ",
+		"nameEN":"Brest MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day_mm",
+		"category":"winter"
+	},
+	{
+		"id":"brest_summer",
+		"nameRU":"Брест",
+		"nameEN":"Brest",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"brest_winter",
+		"nameRU":"Брест",
+		"nameEN":"Brest",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+
+
+
+
+
+
+
+
+
+
+
+	{
+		"id":"skylark_1.100_summer",
+		"nameRU":"Жаворонки",
+		"nameEN":"Skylark",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"dusseldorf_1.100_summer",
+		"nameRU":"Дюссельдорф",
+		"nameEN":"Dusseldorf",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"monte_carlo_1.100_summer",
+		"nameRU":"Монте-Карло",
+		"nameEN":"Monte Carlo",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"cross_1.100_summer",
+		"nameRU":"Перекрёсток",
+		"nameEN":"Cross",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"deathtrack_1.100_summer",
+		"nameRU":"Трек",
+		"nameEN":"Deathtrack",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	
+	{
+		"id":"magadan_1.100_summer",
+		"nameRU":"Магадан",
+		"nameEN":"Magadan",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"kolhoz_1.100_summer",
+		"nameRU":"Колхоз",
+		"nameEN":"Kolhoz",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"sandal_1.100_summer",
+		"nameRU":"Сандал",
+		"nameEN":"Sandal",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	
+	{
+		"id":"parma_1.100_summer",
+		"nameRU":"Парма",
+		"nameEN":"Parma",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"sandbox_1.100_summer",
+		"nameRU":"Песочница",
+		"nameEN":"Sandbox",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"duel_1.100_summer",
+		"nameRU":"Дуэль",
+		"nameEN":"Duel",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"kungur_1.100_summer",
+		"nameRU":"Кунгур",
+		"nameEN":"Kungur",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"yard_summer",
+		"nameRU":"Площадь",
+		"nameEN":"Yard",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	
+	{
+		"id":"testbox_summer",
+		"nameRU":"Тестбокс",
+		"nameEN":"Testbox",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	
+	
+	
+	
+	
 	
 	
 	
@@ -505,14 +843,7 @@
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
-	{
-		"id":"bastion_summer",
-		"nameRU":"Бастион",
-		"nameEN":"Bastion",
-		"skyBox":"mountains_day",
-		"theme":"summer_day",
-		"category":"special"
-	},
+	
 	{
 		"id":"depo_summer",
 		"nameRU":"Депо",
@@ -1278,54 +1609,12 @@
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
-	{
-		"id":"brest_ii_old_winter",
-		"nameRU":"Брест II",
-		"nameEN":"Brest II",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
-	{
-		"id":"brest_i_old_winter",
-		"nameRU":"Брест I",
-		"nameEN":"Brest I",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
-	{
-		"id":"boombox_old_winter",
-		"nameRU":"Бумбокс",
-		"nameEN":"Boombox",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
-	{
-		"id":"bobruisk_old_winter",
-		"nameRU":"Бобруйск",
-		"nameEN":"Bobruisk",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
-	{
-		"id":"berlin_old_winter",
-		"nameRU":"Берлин",
-		"nameEN":"Berlin",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
-	{
-		"id":"barda_old_winter",
-		"nameRU":"Барда",
-		"nameEN":"Barda",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
+	
+	
+	
+	
+	
+	
 	
 	
 	{
@@ -1857,54 +2146,12 @@
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
-	{
-		"id":"brest_ii_old_summer",
-		"nameRU":"Брест II",
-		"nameEN":"Brest II",
-		"skyBox":"hills_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
-	{
-		"id":"brest_i_old_summer",
-		"nameRU":"Брест I",
-		"nameEN":"Brest I",
-		"skyBox":"hills_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
-	{
-		"id":"boombox_old_summer",
-		"nameRU":"Бумбокс",
-		"nameEN":"Boombox",
-		"skyBox":"hills_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
-	{
-		"id":"bobruisk_old_summer",
-		"nameRU":"Бобруйск",
-		"nameEN":"Bobruisk",
-		"skyBox":"hills_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
-	{
-		"id":"berlin_old_summer",
-		"nameRU":"Берлин",
-		"nameEN":"Berlin",
-		"skyBox":"hills_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
-	{
-		"id":"barda_old_summer",
-		"nameRU":"Барда",
-		"nameEN":"Barda",
-		"skyBox":"hills_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -1986,70 +2233,14 @@
 	
 	
 	
-	{
-		"id":"barda_mm_winter",
-		"nameRU":"Барда ММ",
-		"nameEN":"Barda MM",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"barda_winter",
-		"nameRU":"Барда",
-		"nameEN":"Barda",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"berlin_winter",
-		"nameRU":"Берлин",
-		"nameEN":"Berlin",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"bobruisk_mm_winter",
-		"nameRU":"Бобруйск ММ",
-		"nameEN":"Bobruisk MM",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"bobruisk_winter",
-		"nameRU":"Бобруйск",
-		"nameEN":"Bobruisk",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"boombox_winter",
-		"nameRU":"Бумбокс",
-		"nameEN":"Boombox",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"brest_mm_winter",
-		"nameRU":"Брест ММ",
-		"nameEN":"Brest MM",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"brest_winter",
-		"nameRU":"Брест",
-		"nameEN":"Brest",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
+	
+	
+	
+	
+	
+	
+	
+	
 	{
 		"id":"bridges_mm_winter",
 		"nameRU":"Мосты ММ",
@@ -2724,70 +2915,14 @@
 	
 	
 	
-	{
-		"id":"barda_summer",
-		"nameRU":"Барда",
-		"nameEN":"Barda",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"barda_mm_summer",
-		"nameRU":"Барда ММ",
-		"nameEN":"Barda MM",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"berlin_summer",
-		"nameRU":"Берлин",
-		"nameEN":"Berlin",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"bobruisk_summer",
-		"nameRU":"Бобруйск",
-		"nameEN":"Bobruisk",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"bobruisk_mm_summer",
-		"nameRU":"Бобруйск MM",
-		"nameEN":"Bobruisk MM",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"boombox_summer",
-		"nameRU":"Бумбокс",
-		"nameEN":"Boombox",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"brest_summer",
-		"nameRU":"Брест",
-		"nameEN":"Brest",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"brest_mm_summer",
-		"nameRU":"Брест MM",
-		"nameEN":"Brest MM",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
+	
+	
+	
+	
+	
+	
+	
+	
 	{
 		"id":"bridges_summer",
 		"nameRU":"Мосты",
@@ -3543,7 +3678,7 @@
 	},
 	{
 		"id":"silence_mm_summer",
-		"nameRU":"Тишина MM",
+		"nameRU":"Тишина ММ",
 		"nameEN":"Silence MM",
 		"skyBox":"mountains_day",
 		"theme":"summer_day",
@@ -3556,6 +3691,22 @@
 		"skyBox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
+	},
+	{
+		"id":"skylark_mm_summer",
+		"nameRU":"Жаворонки ММ",
+		"nameEN":"Skylark MM",
+		"skyBox":"hills_day",
+		"theme":"summer_day_mm",
+		"category":"summer"
+	},
+	{
+		"id":"skylark_mm_winter",
+		"nameRU":"Жаворонки ММ",
+		"nameEN":"Skylark MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day_mm",
+		"category":"winter"
 	},
 	{
 		"id":"skyscrapers_summer",

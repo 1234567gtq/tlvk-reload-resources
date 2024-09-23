@@ -3,14 +3,14 @@
 	"DISCORD_RPC_IN_BATTLE":"In battle",
 	"DISCORD_RPC_IN_GARAGE":"In garage",
 	"DISCORD_RPC_SELECTING_MAP":"Selecting map",
-	"DISCORD_RPC_SELECTING_HULL":"Selecting hull",
 	"DISCORD_RPC_SELECTING_TURRET":"Selecting turret",
+	"DISCORD_RPC_SELECTING_HULL":"Selecting hull",
 	"DISCORD_RPC_SELECTING_DRONE":"Selecting drone",
 	"DISCORD_RPC_SELECTING_PAINT":"Selecting paint",
 	"DISCORD_RPC_SELECTING_KIT":"Selecting kit",
 	"DISCORD_RPC_MAP":"Map: ",
 	
-	"LOADING...":"LOADING...",
+	"LOADING":"LOADING...",
 	"TIP_0":"The project was founded in 2020 and included very little content",
 	"TIP_1":"Previously, the project was called «TLVK TOP» and didn't receive new functionality from «Tanki Online»",
 	"TIP_2":"Update «2.5» — rebranding and the beginning of a series of updates on the «reload» of this project",
@@ -35,36 +35,53 @@
 	
 	"HEADER_MAP_LIST":"MAP LIST",
 	"HEADER_SELECTED_MAP":"SELECTED MAP",
-	"SEARCH:":"Search:",
 	"THEME":"Theme:",
 	"SKYBOX":"Skybox:",
 	"BILLBOARD":"Billboard:",
 	"GARAGE":"Garage:",
 	"CHANCE_OF_TURRET_BLOWN_OFF":"Chance of turret blown off (%)",
 	"OPEN_OWN_MAP":"Open own map",
-	"FILE_FILTER_DESCRIPTION":"XML map",
+	"FILE_FILTER_DESCRIPTION":"XML-map",
 	"LET_S_FIGHT":"Let's fight",
+	"SEARCH:":"Search:",
 	
-	"ULTIMATE_CHARACTERISTICS":"Ultimate characteristics",
-	"WEAPON_CHARACTERISTICS":"Weapon characteristics",
+	"TIME_SCALE":"Time scale",
+	"CAMERA_MODE":"Camera mode",
+	"SPECTATOR":"spectator",
+	"FOLLOW":"follow",
+	"CAMERA_POSITION":"Camera position",
+	"NUMBER_OF_TANKS":"Number of tanks",
 	
+	"ALERT_ANSWER_YES":"Yes",
+	"ALERT_ANSWER_NO":"No",
+	"ALERT_ANSWER_YES_FOR_FOREIGNERS":"Да",
+	"ALERT_ANSWER_NO_FOR_FOREIGNERS":"Нет",
+	"ALERT_EXIT_FROM_BATTLE":"Leave the battle?",
+	"ALERT_EXIT_FROM_GAME":"Leave the game?",
+	"ALERT_CHANGE_LANGUAGE":"Для смены языка требуется перезапуск. Продолжить?",
+	"ALERT_CLEAR_STORAGE":"A restart is required to clean up. Continue?",
+	"CLOSE":"Close",
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	"HEADER_CURRENT_TANK":"CURRENT TANK",
+	"HEADER_INFORMATION":"INFORMATION",
+	"TURRETS":"Turrets",
+	"HULLS":"Hulls",
+	"DRONES":"Drones",
+	"PAINTS":"Paints",
+	"KITS":"Kits",
+	"UPGRADE":"Upgrade",
+	"EQUIP":"Equip",
+	"EQUIPPED":"Equipped",
+	"ITEMS_IN_KIT":"Items in Kit",
+	"RANDOM_TANK":"Random tank",
+	"RANDOM_ITEMS":"Random items",
+	"DEVICES":"Devices",
+	"DESCRIPTION":"Description",
+	"HEADER_DEVICES":"DEVICES",
+	"SKIN":"Skin",
 	
 	"HEADER_RANK_UP":"RANKS",
 	"PREMIUM":"Premium",
-	
 	"RANK_1":"Recruit",
 	"RANK_2":"Private",
 	"RANK_3":"Gefreiter",
@@ -97,39 +114,6 @@
 	"RANK_30":"Generalissimo",
 	"RANK_31":"Legend",
 	
-	"ALERT_ANSWER_YES":"Yes",
-	"ALERT_ANSWER_NO":"No",
-	"ALERT_ANSWER_YES_FOR_FOREIGNERS":"Да",
-	"ALERT_ANSWER_NO_FOR_FOREIGNERS":"Нет",
-	"ALERT_QUIT":"Quit the game?",
-	"ALERT_CHANGE_LANGUAGE":"Для смены языка требуется перезапуск. Продолжить?",
-	"ALERT_CLEAR_STORAGE":"A restart is required to clean up. Continue?",
-	"ALERT_EXIT_FROM_BATTLE":"Leave the battle?",
-	
-	
-	
-	
-	"TIME_SCALE":"Time scale",
-	"CAMERA_MODE":"Camera mode",
-	"SPECTATOR":"spectator",
-	"FOLLOW":"follow",
-	"CAMERA_POSITION":"Camera position",
-	"NUMBER_OF_TANKS":"Number of tanks",
-	"CURRENT_TANK":"CURRENT TANK",
-	"INFORMATION":"INFORMATION",
-	"TURRETS":"Turrets",
-	"HULLS":"Hulls",
-	"DRONES":"Drones",
-	"PAINTS":"Paints",
-	"KITS":"Kits",
-	"ITEMS_IN_KIT":"Items in Kit",
-	"RANDOM_TANK":"Random tank",
-	"RANDOM_ITEMS":"Random items",
-	"DEVICES":"Devices",
-	"DESCRIPTION":"Description",
-	"HEADER_DEVICES":"DEVICES",
-	"SKIN":"Skin",
-	
 	"HEADER_MINES":"MINES",
 	"MINE":"Mine:",
 	"IMPACT_FORCE":"Impact force (cond. units)",
@@ -147,13 +131,61 @@
 	
 	"HEADER_METEORS":"METEORITES",
 	"METEOR":"Meteorite:",
-	"METEOR_CREATE_BONUS":"Create supply after explosion",
+	"CREATE_BONUS_AFTER_EXPLOSION":"Create supply after explosion",
 	"FLIGHT_TIME":"Flight time (ms)",
 	
 	"HEADER_FUN_FUNCTIONS":"FUN FUNCTIONS",
-	"FOV":"Field of View (FOV):",
-	"MAP_VISIBLED":"Show map",
+	"CAMERA_SCALE_Z":"Camera scale Z:",
+	"SHOW_MAP":"Show map",
 	"STANCE_WHEELS":"Stance style for GT wheels",
+	
+	"HEADER_UPGRADES":"UPGRADES",
+	
+	
+	
+	"ULTIMATE_CHARACTERISTICS":"Ultimate characteristics",
+	"WEAPON_CHARACTERISTICS":"Weapon characteristics",
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	"MASS":"Mass (cond. units)",
 	"DAMPING":"Damping (cond. units)",
@@ -294,11 +326,8 @@
 	
 	
 	
-	"CLOSE":"Close",
-	"EQUIP":"Equip",
-	"EQUIPPED":"Equipped",
-	"UPGRADE":"Upgrade",
-	"HEADER_UPGRADES":"UPGRADES",
+	
+	
 	
 	"SHOW_DROP_ZONES":"Show drop zones",
 	"ALTERNATE_CAMERA":"Alternate camera behaviour",

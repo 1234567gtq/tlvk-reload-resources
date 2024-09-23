@@ -2642,6 +2642,7 @@
 { "id":"kit_tlvkr_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"kit_vint_preview", "version":"1", "type":"images", "isLazy":true },
 
+{ "id":"garage", "version":"1", "type":"models", "isLazy":true },
 { "id":"garage_standard", "version":"1", "type":"models", "isLazy":true },
 { "id":"garage_1.100", "version":"1", "type":"models", "isLazy":true },
 { "id":"garage_old", "version":"1", "type":"models_a3d", "isLazy":true },
@@ -3113,8 +3114,8 @@
 { "id":"device_stunning_band_icon", "version":"1", "type":"images", "isLazy":true },
 
 
-
-{ "id":"device_automated_gunpowder_loading_mechanism_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_reinforced_gun_carriage_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_automated_gunpowder_loading_mechanism_icon", "version":"2", "type":"images", "isLazy":true },
 
 { "id":"map_football_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_football_summer", "version":"1", "type":"maps" },
@@ -3128,8 +3129,7 @@
 { "id":"map_depo_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_depo_summer", "version":"1", "type":"maps" },
 
-{ "id":"map_bastion_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_bastion_summer", "version":"1", "type":"maps" },
+
 
 { "id":"map_route_vektor_tv_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_route_vektor_tv_summer", "version":"1", "type":"maps" },
@@ -3293,19 +3293,31 @@
 { "id":"map_kolhoz_1.100_summer", "version":"1", "type":"maps" },
 { "id":"map_sandal_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_sandal_1.100_summer", "version":"1", "type":"maps" },
-{ "id":"map_barda_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_barda_1.100_summer", "version":"1", "type":"maps" },
+
 { "id":"map_parma_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_parma_1.100_summer", "version":"1", "type":"maps" },
-
 { "id":"map_sandbox_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_sandbox_1.100_summer", "version":"1", "type":"maps" },
-
 { "id":"map_duel_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_duel_1.100_summer", "version":"1", "type":"maps" },
-
 { "id":"map_kungur_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_kungur_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_magadan_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_magadan_1.100_summer", "version":"1", "type":"maps" },
+
+{ "id":"map_deathtrack_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_deathtrack_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_cross_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_cross_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_monte_carlo_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_monte_carlo_1.100_summer", "version":"1", "type":"maps" },
+
+{ "id":"map_dusseldorf_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_dusseldorf_1.100_summer", "version":"1", "type":"maps" },
+
+{ "id":"map_skylark_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_skylark_1.100_summer", "version":"1", "type":"maps" },
+
 
 { "id":"map_yard_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_yard_summer", "version":"1", "type":"maps" },
@@ -3361,21 +3373,83 @@
 { "id":"map_atra_winter", "version":"1", "type":"maps" },
 { "id":"map_babylon_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_babylon_old_summer", "version":"1", "type":"maps" },
-
-
-
-
-
-
-
-{ "id":"map_barda_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_barda_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_barda_1.100_summer", "version":"1", "type":"maps" },
 { "id":"map_barda_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_barda_mm_summer", "version":"2", "type":"maps" },
+{ "id":"map_barda_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_barda_mm_winter", "version":"2", "type":"maps" },
+{ "id":"map_barda_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_barda_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_barda_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_barda_old_winter", "version":"1", "type":"maps" },
+{ "id":"map_barda_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_barda_summer", "version":"1", "type":"maps" },
+{ "id":"map_barda_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_barda_winter", "version":"1", "type":"maps" },
+{ "id":"map_bastion_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bastion_summer", "version":"1", "type":"maps" },
+{ "id":"map_berlin_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_berlin_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_berlin_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_berlin_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_berlin_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_berlin_old_winter", "version":"1", "type":"maps" },
 { "id":"map_berlin_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_bobruisk_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_berlin_summer", "version":"1", "type":"maps" },
+{ "id":"map_berlin_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_berlin_winter", "version":"1", "type":"maps" },
+{ "id":"map_bobruisk_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bobruisk_1.100_summer", "version":"1", "type":"maps" },
 { "id":"map_bobruisk_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bobruisk_mm_summer", "version":"2", "type":"maps" },
+{ "id":"map_bobruisk_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bobruisk_mm_winter", "version":"2", "type":"maps" },
+{ "id":"map_bobruisk_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bobruisk_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_bobruisk_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bobruisk_old_winter", "version":"1", "type":"maps" },
+{ "id":"map_bobruisk_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bobruisk_summer", "version":"1", "type":"maps" },
+{ "id":"map_bobruisk_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bobruisk_winter", "version":"1", "type":"maps" },
+{ "id":"map_boombox_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_boombox_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_boombox_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_boombox_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_boombox_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_boombox_old_winter", "version":"1", "type":"maps" },
 { "id":"map_boombox_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_brest_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_boombox_summer", "version":"1", "type":"maps" },
+{ "id":"map_boombox_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_boombox_winter", "version":"1", "type":"maps" },
+{ "id":"map_brest_i_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_brest_i_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_brest_i_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_brest_i_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_brest_i_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_brest_i_old_winter", "version":"1", "type":"maps" },
+{ "id":"map_brest_ii_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_brest_ii_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_brest_ii_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_brest_ii_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_brest_ii_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_brest_ii_old_winter", "version":"1", "type":"maps" },
 { "id":"map_brest_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_brest_mm_summer", "version":"2", "type":"maps" },
+{ "id":"map_brest_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_brest_mm_winter", "version":"2", "type":"maps" },
+{ "id":"map_brest_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_brest_summer", "version":"1", "type":"maps" },
+{ "id":"map_brest_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_brest_winter", "version":"1", "type":"maps" },
+
+
+
+
+
+
+
 { "id":"map_bridges_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_bridges_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_camp_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3500,7 +3574,21 @@
 
 { "id":"map_silence_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_silence_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+
 { "id":"map_skylark_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_skylark_summer", "version":"1", "type":"maps" },
+{ "id":"map_skylark_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_skylark_winter", "version":"1", "type":"maps" },
+{ "id":"map_skylark_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_skylark_mm_summer", "version":"1", "type":"maps" },
+{ "id":"map_skylark_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_skylark_mm_winter", "version":"1", "type":"maps" },
+{ "id":"map_skylark_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_skylark_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_skylark_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_skylark_old_winter", "version":"1", "type":"maps" },
+
+
 { "id":"map_skyscrapers_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_solikamsk_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_solikamsk_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3526,14 +3614,12 @@
 
 
 
-{ "id":"map_barda_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_barda_mm_summer", "version":"2", "type":"maps", "isLazy":true },
-{ "id":"map_berlin_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_bobruisk_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_bobruisk_mm_summer", "version":"2", "type":"maps", "isLazy":true },
-{ "id":"map_boombox_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_brest_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_brest_mm_summer", "version":"2", "type":"maps", "isLazy":true },
+
+
+
+
+
+
 { "id":"map_bridges_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_bridges_mm_summer", "version":"2", "type":"maps", "isLazy":true },
 { "id":"map_camp_summer", "version":"1", "type":"maps", "isLazy":true },
@@ -3616,22 +3702,12 @@
 
 
 
-{ "id":"map_barda_mm_winter", "version":"2", "type":"maps", "isLazy":true },
-{ "id":"map_barda_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_barda_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_barda_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_berlin_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_berlin_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_bobruisk_mm_winter", "version":"2", "type":"maps", "isLazy":true },
-{ "id":"map_bobruisk_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_bobruisk_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_bobruisk_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_boombox_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_boombox_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_brest_mm_winter", "version":"2", "type":"maps", "isLazy":true },
-{ "id":"map_brest_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_brest_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_brest_winter_preview", "version":"1", "type":"images", "isLazy":true },
+
+
+
+
+
+
 { "id":"map_bridges_mm_winter", "version":"2", "type":"maps", "isLazy":true },
 { "id":"map_bridges_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_bridges_winter", "version":"1", "type":"maps", "isLazy":true },
@@ -3768,8 +3844,7 @@
 { "id":"map_silence_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_silence_winter", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_silence_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_skylark_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_skylark_winter_preview", "version":"1", "type":"images", "isLazy":true },
+
 { "id":"map_solikamsk_mm_winter", "version":"2", "type":"maps", "isLazy":true },
 { "id":"map_solikamsk_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_solikamsk_winter", "version":"1", "type":"maps", "isLazy":true },
@@ -3803,7 +3878,7 @@
 { "id":"map_short_bridge_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_silence_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_silence_mm_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_skylark_summer", "version":"1", "type":"maps", "isLazy":true },
+
 { "id":"map_skyscrapers_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_solikamsk_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_solikamsk_mm_summer", "version":"2", "type":"maps", "isLazy":true },
@@ -3839,34 +3914,15 @@
 
 
 
-{ "id":"map_barda_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_barda_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_barda_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_barda_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_berlin_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_berlin_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_berlin_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_berlin_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_bobruisk_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_bobruisk_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_bobruisk_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_bobruisk_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_boombox_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_boombox_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_boombox_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_boombox_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_brest_i_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_brest_i_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_brest_i_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_brest_i_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_brest_ii_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_brest_ii_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_brest_ii_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_brest_ii_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+
+
+
+
+
 
 { "id":"map_bridges_old_summer", "version":"1", "type":"maps" },
 { "id":"map_bridges_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -4113,10 +4169,7 @@
 { "id":"map_silence_ii_old_winter", "version":"1", "type":"maps" },
 { "id":"map_silence_ii_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_skylark_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_skylark_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_skylark_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_skylark_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+
 
 { "id":"map_solikamsk_old_summer", "version":"1", "type":"maps" },
 { "id":"map_solikamsk_old_summer_preview", "version":"1", "type":"images", "isLazy":true },

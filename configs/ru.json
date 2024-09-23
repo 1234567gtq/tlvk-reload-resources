@@ -3,14 +3,14 @@
 	"DISCORD_RPC_IN_BATTLE":"В битве",
 	"DISCORD_RPC_IN_GARAGE":"В гараже",
 	"DISCORD_RPC_SELECTING_MAP":"Выбирает карту",
-	"DISCORD_RPC_SELECTING_HULL":"Выбирает корпус",
 	"DISCORD_RPC_SELECTING_TURRET":"Выбирает пушку",
+	"DISCORD_RPC_SELECTING_HULL":"Выбирает корпус",
 	"DISCORD_RPC_SELECTING_DRONE":"Выбирает дрон",
 	"DISCORD_RPC_SELECTING_PAINT":"Выбирает краску",
 	"DISCORD_RPC_SELECTING_KIT":"Выбирает комплект",
 	"DISCORD_RPC_MAP":"Карта: ",
 	
-	"LOADING...":"ЗАГРУЗКА...",
+	"LOADING":"ЗАГРУЗКА...",
 	"TIP_0":"Проект был основан в 2020 году и включал в себя очень мало контента",
 	"TIP_1":"Раньше проект назывался «TLVK TOP» и не получал новый функционал из «Танков Онлайн»",
 	"TIP_2":"Обновление «2.5» — ребрендинг и начало ряда обновлений по «перезагрузке» этого проекта",
@@ -35,7 +35,6 @@
 	
 	"HEADER_MAP_LIST":"СПИСОК КАРТ",
 	"HEADER_SELECTED_MAP":"ВЫБРАННАЯ КАРТА",
-	"SEARCH:":"Поиск:",
 	"THEME":"Тема:",
 	"SKYBOX":"Небо:",
 	"BILLBOARD":"Билборд:",
@@ -44,25 +43,45 @@
 	"OPEN_OWN_MAP":"Открыть свою карту",
 	"FILE_FILTER_DESCRIPTION":"XML-карта",
 	"LET_S_FIGHT":"В бой!",
+	"SEARCH:":"Поиск:",
 	
-	"ULTIMATE_CHARACTERISTICS":"Характеристики овердрайва",
-	"WEAPON_CHARACTERISTICS":"Характеристики выстрела",
+	"TIME_SCALE":"Масштаб времени",
+	"CAMERA_MODE":"Режим камеры",
+	"SPECTATOR":"спектатор",
+	"FOLLOW":"следящий",
+	"CAMERA_POSITION":"Позиция камеры",
+	"NUMBER_OF_TANKS":"Количество танков",
 	
+	"ALERT_ANSWER_YES":"Да",
+	"ALERT_ANSWER_NO":"Нет",
+	"ALERT_ANSWER_YES_FOR_FOREIGNERS":"Yes",
+	"ALERT_ANSWER_NO_FOR_FOREIGNERS":"No",
+	"ALERT_EXIT_FROM_BATTLE":"Покинуть битву?",
+	"ALERT_EXIT_FROM_GAME":"Покинуть игру?",
+	"ALERT_CHANGE_LANGUAGE":"A restart is required to change the language. Continue?",
+	"ALERT_CLEAR_STORAGE":"Для очистки необходим перезапуск. Продолжить?",
+	"CLOSE":"Закрыть",
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	"HEADER_CURRENT_TANK":"ТЕКУЩИЙ ТАНК",
+	"HEADER_INFORMATION":"ИНФОРМАЦИЯ",
+	"TURRETS":"Пушки",
+	"HULLS":"Корпуса",
+	"DRONES":"Дроны",
+	"PAINTS":"Краски",
+	"KITS":"Комплекты",
+	"UPGRADE":"Улучшить",
+	"EQUIP":"Установить",
+	"EQUIPPED":"Установлено",
+	"ITEMS_IN_KIT":"Состав комплекта",
+	"RANDOM_TANK":"Случайный танк",
+	"RANDOM_ITEMS":"Случайные предметы",
+	"DEVICES":"Устройства",
+	"DESCRIPTION":"Описание",
+	"HEADER_DEVICES":"УСТРОЙСТВА",
+	"SKIN":"Скин",
 	
 	"HEADER_RANK_UP":"ЗВАНИЯ",
 	"PREMIUM":"Премиум",
-	
 	"RANK_1":"Новобранец",
 	"RANK_2":"Рядовой",
 	"RANK_3":"Ефрейтор",
@@ -95,44 +114,6 @@
 	"RANK_30":"Генералиссимус",
 	"RANK_31":"Легенда",
 	
-	"ALERT_ANSWER_YES":"Да",
-	"ALERT_ANSWER_NO":"Нет",
-	"ALERT_ANSWER_YES_FOR_FOREIGNERS":"Yes",
-	"ALERT_ANSWER_NO_FOR_FOREIGNERS":"No",
-	"ALERT_QUIT":"Выйти из игры?",
-	"ALERT_CHANGE_LANGUAGE":"A restart is required to change the language. Continue?",
-	"ALERT_CLEAR_STORAGE":"Для очистки необходим перезапуск. Продолжить?",
-	"ALERT_EXIT_FROM_BATTLE":"Покинуть битву?",
-	
-	
-	
-	
-	"TIME_SCALE":"Масштаб времени",
-	"CAMERA_MODE":"Режим камеры",
-	"SPECTATOR":"спектатор",
-	"FOLLOW":"за танком",
-	"CAMERA_POSITION":"Позиция камеры",
-	"NUMBER_OF_TANKS":"Количество танков",
-	"CURRENT_TANK":"ТЕКУЩИЙ ТАНК",
-	"INFORMATION":"ИНФОРМАЦИЯ",
-	"TURRETS":"Пушки",
-	"HULLS":"Корпуса",
-	"DRONES":"Дроны",
-	"PAINTS":"Краски",
-	"KITS":"Комплекты",
-	"ITEMS_IN_KIT":"Состав комплекта",
-	"RANDOM_TANK":"Случайный танк",
-	"RANDOM_ITEMS":"Случайные предметы",
-	"DEVICES":"Устройства",
-	"DESCRIPTION":"Описание",
-	"HEADER_DEVICES":"УСТРОЙСТВА",
-	"CLOSE":"Закрыть",
-	"EQUIP":"Установить",
-	"EQUIPPED":"Установлено",
-	"UPGRADE":"Улучшить",
-	"HEADER_UPGRADES":"УЛУЧШЕНИЯ",
-	"SKIN":"Скин",
-	
 	"HEADER_MINES":"МИНЫ",
 	"MINE":"Мина:",
 	"IMPACT_FORCE":"Сила удара (усл. ед.)",
@@ -142,21 +123,75 @@
 	"BONUS":"Припас:",
 	"SIREN":"Сирена:",
 	"SIREN_STANDARD":"Стандартная",
-	"SIREN_NEW_YEAR":"Новогодняя",
-	"SIREN_HALLOWEEN":"Хэллоуинская",
+	"SIREN_NEW_YEAR":"Новый Год",
+	"SIREN_HALLOWEEN":"Хэллоуин",
 	"BONUS_USE_PARACHUTE":"Использовать парашют",
 	"BONUS_HEIGHT_TO_GROUND":"Высота до земли (см)",
 	"BONUS_FALL_SPEED":"Скорость падения (см/c)",
 	
 	"HEADER_METEORS":"МЕТЕОРИТЫ",
 	"METEOR":"Метеорит:",
-	"METEOR_CREATE_BONUS":"Создать припас после взрыва",
+	"CREATE_BONUS_AFTER_EXPLOSION":"Создать припас после взрыва",
 	"FLIGHT_TIME":"Время полёта (мс)",
 	
 	"HEADER_FUN_FUNCTIONS":"ВЕСЁЛЫЕ ФУНКЦИИ",
-	"FOV":"Поле зрения (FOV):",
-	"MAP_VISIBLED":"Показывать карту",
+	"CAMERA_SCALE_Z":"Масштаб камеры по Z:",
+	"SHOW_MAP":"Показывать карту",
 	"STANCE_WHEELS":"Stance-стиль для колёс GT-корпусов",
+	
+	"HEADER_UPGRADES":"УЛУЧШЕНИЯ",
+	
+	
+	
+	
+	
+	"ULTIMATE_CHARACTERISTICS":"Характеристики овердрайва",
+	"WEAPON_CHARACTERISTICS":"Характеристики выстрела",
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	"MASS":"Масса (усл. ед.)",

@@ -2997,10 +2997,17 @@
 				"descriptionEN":"Standard factory settings without any special effects"
 			},
 			{
-				"id":"automated_gunpowder_loading_mechanism",
+				"id":"reinforced_gun_carriage",
 				"nameRU":"Усиленный лафет",
-				"nameEN":"Automated gunpowder loading mechanism",
+				"nameEN":"Reinforced gun carriage",
 				"descriptionRU":"Конвертация механизма поворота башни в механизм управления наклоном ствола. Позволяет накрывать противника огнём сверху, но менять горизонтальное направление выстрела можно только поворотом всего корпуса.",
+				"descriptionEN":"Converts the turret rotation mechanism to the mechanism of changing the elevation angle. It becomes possible to lower or raise the gun barrel but the only way to rotate your turret horizontally is by rotating your hull."
+			},
+			{
+				"id":"automated_gunpowder_loading_mechanism",
+				"nameRU":"Автоматизированный механизм загрузки пороха",
+				"nameEN":"Automated gunpowder loading mechanism",
+				"descriptionRU":"Конвертация в управление наклоном ствола вместе с ускоренным набором мощности выстрела. Однако попасть в нужный уровень мощности становится труднее, что чревато перелётом или недолётом снаряда.",
 				"descriptionEN":"Converts the turret rotation mechanism to the mechanism of changing the elevation angle and makes power accumulation faster. At the same time it becomes harder to avoid overshooting or undershooting due to not having the required level of power."
 			}
 		],
