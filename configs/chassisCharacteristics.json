@@ -6,20 +6,20 @@
 		"acceleration":"1300",
 		"reverseAcceleration":"1800",
 		"sideAcceleration":"2400",
-		"turnAcceleration":"3.927",
-		"reverseTurnAcceleration":"12.567",
+		"turnAcceleration":"3.142",
+		"reverseTurnAcceleration":"12.566",
 		"damping":"900",
 		"mass":"3000"
 	},
 	{
 		"id":"hornet",
 		"speed":"1200",
-		"turnSpeed":"2.617",
+		"turnSpeed":"3.927",
 		"acceleration":"1400",
 		"reverseAcceleration":"2300",
 		"sideAcceleration":"1400",
-		"turnAcceleration":"2.617",
-		"reverseTurnAcceleration":"6.283",
+		"turnAcceleration":"3.142",
+		"reverseTurnAcceleration":"12.566",
 		"damping":"1250",
 		"mass":"3000"
 	},
@@ -36,7 +36,7 @@
 		"reverseTurnAcceleration":"6.283",
 		"optimalSurfaceDistance":"50",
 		"tiltStabilityScale":"5",
-		"mass":"3000"
+		"mass":"2000"
 	},
 	{
 		"id":"viking",
@@ -63,7 +63,7 @@
 		"reverseTurnAcceleration":"6.283",
 		"optimalSurfaceDistance":"50",
 		"tiltStabilityScale":"5",
-		"mass":"3300"
+		"mass":"2300"
 	},
 	{
 		"id":"paladin",
@@ -78,7 +78,7 @@
 		"reverseTurnAcceleration":"6.283",
 		"optimalSurfaceDistance":"50",
 		"tiltStabilityScale":"5",
-		"mass":"3300"
+		"mass":"2300"
 	},
 	{
 		"id":"hunter",
@@ -129,7 +129,7 @@
 		"reverseTurnAcceleration":"3.141",
 		"optimalSurfaceDistance":"50",
 		"tiltStabilityScale":"5",
-		"mass":"4000"
+		"mass":"3000"
 	},
 	{
 		"id":"mammoth",

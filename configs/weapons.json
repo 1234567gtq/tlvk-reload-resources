@@ -1,4 +1,77 @@
 {
+	"flamethrower":
+	[
+		{
+			"id":"standard",
+			"muzzle":"shot_skin_flamethrower_standard_muzzle",
+			"particle":"shot_skin_flamethrower_standard_particle",
+			"startLight":"flamethrower_standard_start",
+			"loopLight":"flamethrower_standard_loop"
+		},
+		{
+			"id":"crimson",
+			"muzzle":"shot_skin_flamethrower_crimson_muzzle",
+			"particle":"shot_skin_flamethrower_crimson_particle",
+			"startLight":"flamethrower_crimson_start",
+			"loopLight":"flamethrower_crimson_loop"
+		},
+		{
+			"id":"magma",
+			"muzzle":"shot_skin_flamethrower_magma_muzzle",
+			"particle":"shot_skin_flamethrower_magma_particle",
+			"startLight":"flamethrower_magma_start",
+			"loopLight":"flamethrower_magma_loop"
+		},
+		{
+			"id":"black",
+			"muzzle":"shot_skin_flamethrower_black_muzzle",
+			"particle":"shot_skin_flamethrower_black_particle",
+			"startLight":"flamethrower_black_start",
+			"loopLight":"flamethrower_black_loop"
+		},
+		{
+			"id":"pink",
+			"muzzle":"shot_skin_flamethrower_pink_muzzle",
+			"particle":"shot_skin_flamethrower_pink_particle",
+			"startLight":"flamethrower_pink_start",
+			"loopLight":"flamethrower_pink_loop"
+		},
+		{
+			"id":"m0_legacy",
+			"isLegacy":true,
+			"particle":"shot_skin_flamethrower_m0_legacy_particle",
+			"startLight":"flamethrower_standard_start",
+			"loopLight":"flamethrower_standard_loop"
+		},
+		{
+			"id":"m1_legacy",
+			"isLegacy":true,
+			"particle":"shot_skin_flamethrower_m1_legacy_particle",
+			"startLight":"flamethrower_standard_start",
+			"loopLight":"flamethrower_standard_loop"
+		},
+		{
+			"id":"m2_legacy",
+			"isLegacy":true,
+			"particle":"shot_skin_flamethrower_m2_legacy_particle",
+			"startLight":"flamethrower_pink_start",
+			"loopLight":"flamethrower_pink_loop"
+		},
+		{
+			"id":"m3_legacy",
+			"isLegacy":true,
+			"particle":"shot_skin_flamethrower_m3_legacy_particle",
+			"startLight":"freeze_standard_start",
+			"loopLight":"freeze_standard_loop"
+		},
+		{
+			"id":"rainbow_fake",
+			"muzzle":"shot_skin_flamethrower_rainbow_fake_muzzle",
+			"particle":"shot_skin_flamethrower_rainbow_fake_particle",
+			"startLight":"flamethrower_rainbow_fake_start",
+			"loopLight":"flamethrower_rainbow_fake_loop"
+		}
+	],
 	"snowman":
 	[
 		{
@@ -288,6 +361,7 @@
 	[
 		{
 			"id":"standard",
+			"idleBall":"shot_skin_isida_heal_ball",
 			"damageBall":"shot_skin_isida_standard_ball",
 			"damageRay":"shot_skin_isida_standard_ray",
 			"enemyStartLight":"isida_default_enemy_start",
@@ -298,6 +372,7 @@
 		},
 		{
 			"id":"heal",
+			"idleBall":"shot_skin_isida_heal_ball",
 			"damageBall":"shot_skin_isida_heal_ball",
 			"damageRay":"shot_skin_isida_heal_ray",
 			"enemyStartLight":"isida_heal_enemy_start",
@@ -308,6 +383,7 @@
 		},
 		{
 			"id":"sun",
+			"idleBall":"shot_skin_isida_heal_ball",
 			"damageBall":"shot_skin_isida_sun_ball",
 			"damageRay":"shot_skin_isida_sun_ray",
 			"enemyStartLight":"isida_sun_enemy_start",
@@ -318,8 +394,20 @@
 		},
 		{
 			"id":"fire",
+			"idleBall":"shot_skin_isida_heal_ball",
 			"damageBall":"shot_skin_isida_fire_ball",
 			"damageRay":"shot_skin_isida_fire_ray",
+			"enemyStartLight":"isida_fire_enemy_start",
+			"enemyLoopLight":"isida_fire_enemy_loop",
+			"enemyBeamLight":"isida_fire_enemy_beam",
+			"startLight":"isida_default_start",
+			"loopLight":"isida_default_loop"
+		},
+		{
+			"id":"m3_legacy",
+			"idleBall":"shot_skin_isida_m3_legacy_idle",
+			"damageBall":"shot_skin_isida_m3_legacy_ball",
+			"damageRay":"shot_skin_isida_m3_legacy_ray",
 			"enemyStartLight":"isida_fire_enemy_start",
 			"enemyLoopLight":"isida_fire_enemy_loop",
 			"enemyBeamLight":"isida_fire_enemy_beam",
@@ -457,72 +545,6 @@
 			"shotLight":"railgun_standard_shot",
 			"hitLight":"railgun_standard_hit",
 			"railLight":"railgun_standard_rail"
-		}
-	],
-	"flamethrower":
-	[
-		{
-			"id":"standard",
-			"particle":"shot_skin_flamethrower_standard_particle",
-			"muzzle":"shot_skin_flamethrower_standard_muzzle",
-			"startLight":"flamethrower_standard_start",
-			"loopLight":"flamethrower_standard_loop"
-		},
-		{
-			"id":"crimson",
-			"particle":"shot_skin_flamethrower_crimson_particle",
-			"muzzle":"shot_skin_flamethrower_crimson_muzzle",
-			"startLight":"flamethrower_crimson_start",
-			"loopLight":"flamethrower_crimson_loop"
-		},
-		{
-			"id":"magma",
-			"particle":"shot_skin_flamethrower_magma_particle",
-			"muzzle":"shot_skin_flamethrower_magma_muzzle",
-			"startLight":"flamethrower_magma_start",
-			"loopLight":"flamethrower_magma_loop"
-		},
-		{
-			"id":"black",
-			"particle":"shot_skin_flamethrower_black_particle",
-			"muzzle":"shot_skin_flamethrower_black_muzzle",
-			"startLight":"flamethrower_black_start",
-			"loopLight":"flamethrower_black_loop"
-		},
-		{
-			"id":"pink",
-			"particle":"shot_skin_flamethrower_pink_particle",
-			"muzzle":"shot_skin_flamethrower_pink_muzzle",
-			"startLight":"flamethrower_pink_start",
-			"loopLight":"flamethrower_pink_loop"
-		},
-		{
-			"id":"m0_old",
-			"isLegacy":true,
-			"particle":"shot_skin_flamethrower_m0_legacy_particle",
-			"startLight":"flamethrower_standard_start",
-			"loopLight":"flamethrower_standard_loop"
-		},
-		{
-			"id":"m1_old",
-			"isLegacy":true,
-			"particle":"shot_skin_flamethrower_m1_legacy_particle",
-			"startLight":"flamethrower_standard_start",
-			"loopLight":"flamethrower_standard_loop"
-		},
-		{
-			"id":"m2_old",
-			"isLegacy":true,
-			"particle":"shot_skin_flamethrower_m2_legacy_particle",
-			"startLight":"flamethrower_pink_start",
-			"loopLight":"flamethrower_pink_loop"
-		},
-		{
-			"id":"m3_old",
-			"isLegacy":true,
-			"particle":"shot_skin_flamethrower_m3_legacy_particle",
-			"startLight":"freeze_standard_start",
-			"loopLight":"freeze_standard_loop"
 		}
 	],
 	"freeze":

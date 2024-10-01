@@ -1,5 +1,124 @@
 [
 	{
+		"id":"flamethrower_standard_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16746496, "intensity":0, "time":0 },
+			{ "attenuationBegin":100, "attenuationEnd":1000, "color":16746496, "intensity":1, "time":200 }
+        ]
+	},
+	{
+		"id":"flamethrower_standard_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16746496, "intensity":1, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16746496, "intensity":1, "time":100 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":16746496, "intensity":1, "time":200 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16746496, "intensity":1, "time":300 },
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16746496, "intensity":1, "time":400 }
+        ]
+	},
+	{
+		"id":"flamethrower_crimson_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16523554, "intensity":0, "time":0 },
+			{ "attenuationBegin":100, "attenuationEnd":1000, "color":16523554, "intensity":1, "time":200 }
+        ]
+	},
+	{
+		"id":"flamethrower_crimson_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16523554, "intensity":1, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16523554, "intensity":1, "time":100 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":16523554, "intensity":1, "time":200 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16523554, "intensity":1, "time":300 },
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16523554, "intensity":1, "time":400 }
+        ]
+	},
+	{
+		"id":"flamethrower_magma_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16722462, "intensity":0, "time":0 },
+			{ "attenuationBegin":100, "attenuationEnd":1000, "color":16722462, "intensity":1, "time":200 }
+        ]
+	},
+	{
+		"id":"flamethrower_magma_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16722462, "intensity":1, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16722462, "intensity":1, "time":100 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":16722462, "intensity":1, "time":200 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16722462, "intensity":1, "time":300 },
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16722462, "intensity":1, "time":400 }
+        ]
+	},
+	{
+		"id":"flamethrower_black_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16777215, "intensity":0, "time":0 },
+			{ "attenuationBegin":100, "attenuationEnd":1000, "color":16777215, "intensity":1, "time":200 }
+        ]
+	},
+	{
+		"id":"flamethrower_black_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16777215, "intensity":1, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16777215, "intensity":1, "time":100 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":16777215, "intensity":1, "time":200 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16777215, "intensity":1, "time":300 },
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16777215, "intensity":1, "time":400 }
+        ]
+	},
+	{
+		"id":"flamethrower_pink_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16484062, "intensity":0, "time":0 },
+			{ "attenuationBegin":100, "attenuationEnd":1000, "color":16484062, "intensity":1, "time":200 }
+        ]
+	},
+	{
+		"id":"flamethrower_pink_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16484062, "intensity":1, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16484062, "intensity":1, "time":100 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":16484062, "intensity":1, "time":200 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16484062, "intensity":1, "time":300 },
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16484062, "intensity":1, "time":400 }
+        ]
+	},
+	{
+		"id":"flamethrower_rainbow_fake_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16711680, "intensity":0, "time":0 },
+			{ "attenuationBegin":100, "attenuationEnd":1000, "color":255, "intensity":1, "time":200 }
+        ]
+	},
+	{
+		"id":"flamethrower_rainbow_fake_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16711680, "intensity":1, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":65280, "intensity":1, "time":100 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":255, "intensity":1, "time":200 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":65535, "intensity":1, "time":300 },
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16776960, "intensity":1, "time":400 }
+        ]
+	},
+	
+
+	
+
+
+	{
 		"id":"tesla_standard_muzzle_lightning",
 		"light":
 		[
@@ -1122,101 +1241,11 @@
 			{ "attenuationBegin":1, "attenuationEnd":2, "color":16777215, "intensity":0, "time":1800 }
         ]
 	},
-	{
-		"id":"flamethrower_standard_start",
-		"light":
-		[
-			{ "attenuationBegin":1, "attenuationEnd":2, "color":16746496, "intensity":0, "time":0 },
-			{ "attenuationBegin":100, "attenuationEnd":1000, "color":16746496, "intensity":1, "time":200 }
-        ]
-	},
-	{
-		"id":"flamethrower_standard_loop",
-		"light":
-		[
-			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16746496, "intensity":1, "time":0 },
-			{ "attenuationBegin":150, "attenuationEnd":800, "color":16746496, "intensity":1, "time":100 },
-			{ "attenuationBegin":100, "attenuationEnd":1500, "color":16746496, "intensity":1, "time":200 },
-			{ "attenuationBegin":150, "attenuationEnd":800, "color":16746496, "intensity":1, "time":300 },
-			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16746496, "intensity":1, "time":400 }
-        ]
-	},
-	{
-		"id":"flamethrower_crimson_start",
-		"light":
-		[
-			{ "attenuationBegin":1, "attenuationEnd":2, "color":16523554, "intensity":0, "time":0 },
-			{ "attenuationBegin":100, "attenuationEnd":1000, "color":16523554, "intensity":1, "time":200 }
-        ]
-	},
-	{
-		"id":"flamethrower_crimson_loop",
-		"light":
-		[
-			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16523554, "intensity":1, "time":0 },
-			{ "attenuationBegin":150, "attenuationEnd":800, "color":16523554, "intensity":1, "time":100 },
-			{ "attenuationBegin":100, "attenuationEnd":1500, "color":16523554, "intensity":1, "time":200 },
-			{ "attenuationBegin":150, "attenuationEnd":800, "color":16523554, "intensity":1, "time":300 },
-			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16523554, "intensity":1, "time":400 }
-        ]
-	},
-	{
-		"id":"flamethrower_magma_start",
-		"light":
-		[
-			{ "attenuationBegin":1, "attenuationEnd":2, "color":16722462, "intensity":0, "time":0 },
-			{ "attenuationBegin":100, "attenuationEnd":1000, "color":16722462, "intensity":1, "time":200 }
-        ]
-	},
-	{
-		"id":"flamethrower_magma_loop",
-		"light":
-		[
-			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16722462, "intensity":1, "time":0 },
-			{ "attenuationBegin":150, "attenuationEnd":800, "color":16722462, "intensity":1, "time":100 },
-			{ "attenuationBegin":100, "attenuationEnd":1500, "color":16722462, "intensity":1, "time":200 },
-			{ "attenuationBegin":150, "attenuationEnd":800, "color":16722462, "intensity":1, "time":300 },
-			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16722462, "intensity":1, "time":400 }
-        ]
-	},
-	{
-		"id":"flamethrower_black_start",
-		"light":
-		[
-			{ "attenuationBegin":1, "attenuationEnd":2, "color":16777215, "intensity":0, "time":0 },
-			{ "attenuationBegin":100, "attenuationEnd":1000, "color":16777215, "intensity":1, "time":200 }
-        ]
-	},
-	{
-		"id":"flamethrower_black_loop",
-		"light":
-		[
-			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16777215, "intensity":1, "time":0 },
-			{ "attenuationBegin":150, "attenuationEnd":800, "color":16777215, "intensity":1, "time":100 },
-			{ "attenuationBegin":100, "attenuationEnd":1500, "color":16777215, "intensity":1, "time":200 },
-			{ "attenuationBegin":150, "attenuationEnd":800, "color":16777215, "intensity":1, "time":300 },
-			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16777215, "intensity":1, "time":400 }
-        ]
-	},
-	{
-		"id":"flamethrower_pink_start",
-		"light":
-		[
-			{ "attenuationBegin":1, "attenuationEnd":2, "color":16484062, "intensity":0, "time":0 },
-			{ "attenuationBegin":100, "attenuationEnd":1000, "color":16484062, "intensity":1, "time":200 }
-        ]
-	},
-	{
-		"id":"flamethrower_pink_loop",
-		"light":
-		[
-			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16484062, "intensity":1, "time":0 },
-			{ "attenuationBegin":150, "attenuationEnd":800, "color":16484062, "intensity":1, "time":100 },
-			{ "attenuationBegin":100, "attenuationEnd":1500, "color":16484062, "intensity":1, "time":200 },
-			{ "attenuationBegin":150, "attenuationEnd":800, "color":16484062, "intensity":1, "time":300 },
-			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16484062, "intensity":1, "time":400 }
-        ]
-	},
+	
+	
+	
+	
+	
 	{
 		"id":"freeze_standard_start",
 		"light":

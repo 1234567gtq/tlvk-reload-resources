@@ -1922,6 +1922,10 @@
 { "id":"paint_watermelon", "version":"1", "type":"textures" },
 { "id":"paint_white_planet_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_white_planet", "version":"1", "type":"textures" },
+
+{ "id":"paint_wild_jungle_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_wild_jungle", "version":"1", "type":"textures" },
+
 { "id":"paint_wildstyle_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_wildstyle", "version":"1", "type":"textures" },
 { "id":"paint_wolves_preview", "version":"1", "type":"images", "isLazy":true },
@@ -2386,6 +2390,10 @@
 { "id":"paint_may_day_2014", "version":"1", "type":"textures" },
 { "id":"paint_may_day_2016_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_may_day_2016", "version":"1", "type":"textures" },
+
+{ "id":"paint_cn_national_day_2011_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_cn_national_day_2011", "version":"1", "type":"textures" },
+
 { "id":"paint_national_unity_day_2010_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_national_unity_day_2010", "version":"1", "type":"textures" },
 { "id":"paint_new_year_2011_preview", "version":"1", "type":"images", "isLazy":true },
@@ -2737,6 +2745,11 @@
 { "id":"shot_skin_isida_sun_ray", "version":"1", "type":"textures" },
 { "id":"shot_skin_isida_fire_ball", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_isida_fire_ray", "version":"1", "type":"textures" },
+
+{ "id":"shot_skin_isida_m3_legacy_ball", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_isida_m3_legacy_idle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_isida_m3_legacy_ray", "version":"1", "type":"textures" },
+
 { "id":"shot_skin_hammer_standard_pellet_trail", "version":"1", "type":"textures" },
 { "id":"shot_skin_hammer_standard_sparkle", "version":"1", "type":"textures" },
 { "id":"shot_skin_hammer_standard_shot_across", "version":"1", "type":"multiframe_textures" },
@@ -2817,21 +2830,30 @@
 { "id":"shot_skin_smoky_standard_flame", "version":"1", "type":"textures" },
 { "id":"shot_skin_smoky_standard_explosion", "version":"1", "type":"multiframe_textures" },
 
+{ "id":"shot_skin_standard_icon", "version":"1", "type":"images", "isLazy":true },
+
 { "id":"shot_skin_flamethrower_standard_muzzle", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_flamethrower_standard_particle", "version":"1", "type":"multiframe_textures" },
-{ "id":"shot_skin_flamethrower_pink_muzzle", "version":"1", "type":"multiframe_textures" },
-{ "id":"shot_skin_flamethrower_pink_particle", "version":"1", "type":"multiframe_textures" },
-{ "id":"shot_skin_flamethrower_black_muzzle", "version":"1", "type":"multiframe_textures" },
-{ "id":"shot_skin_flamethrower_black_particle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_flamethrower_standard_sparks", "version":"1", "type":"textures" },
+{ "id":"shot_skin_flamethrower_crimson_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"shot_skin_flamethrower_crimson_muzzle", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_flamethrower_crimson_particle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_flamethrower_magma_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"shot_skin_flamethrower_magma_muzzle", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_flamethrower_magma_particle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_flamethrower_black_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"shot_skin_flamethrower_black_muzzle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_flamethrower_black_particle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_flamethrower_pink_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"shot_skin_flamethrower_pink_muzzle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_flamethrower_pink_particle", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_flamethrower_m0_legacy_particle", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_flamethrower_m1_legacy_particle", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_flamethrower_m2_legacy_particle", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_flamethrower_m3_legacy_particle", "version":"1", "type":"multiframe_textures" },
-{ "id":"shot_skin_flamethrower_standard_sparks", "version":"1", "type":"textures" },
+{ "id":"shot_skin_flamethrower_rainbow_fake_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"shot_skin_flamethrower_rainbow_fake_muzzle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_flamethrower_rainbow_fake_particle", "version":"1", "type":"multiframe_textures" },
 
 { "id":"shot_skin_freeze_standard_muzzle", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_freeze_standard_particle", "version":"1", "type":"multiframe_textures" },
@@ -2944,11 +2966,7 @@
 { "id":"skin_ic_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"skin_2.0_icon", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"shot_skin_standard_icon", "version":"1", "type":"images", "isLazy":true },
-{ "id":"shot_skin_flamethrower_magma_icon", "version":"1", "type":"images", "isLazy":true },
-{ "id":"shot_skin_flamethrower_crimson_icon", "version":"1", "type":"images", "isLazy":true },
-{ "id":"shot_skin_flamethrower_black_icon", "version":"1", "type":"images", "isLazy":true },
-{ "id":"shot_skin_flamethrower_pink_icon", "version":"1", "type":"images", "isLazy":true },
+
 { "id":"shot_skin_freeze_darkmoon_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"shot_skin_freeze_toxic_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"shot_skin_freeze_cold_icon", "version":"1", "type":"images", "isLazy":true },
@@ -3116,6 +3134,16 @@
 
 { "id":"device_reinforced_gun_carriage_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_automated_gunpowder_loading_mechanism_icon", "version":"2", "type":"images", "isLazy":true },
+{ "id":"device_harpoon_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_mortar_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_bombard_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_incendiary_core_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_freezing_core_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_stunning_core_icon", "version":"1", "type":"images", "isLazy":true },
+
+
+
+
 
 { "id":"map_football_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_football_summer", "version":"1", "type":"maps" },
@@ -3305,10 +3333,8 @@
 { "id":"map_magadan_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_magadan_1.100_summer", "version":"1", "type":"maps" },
 
-{ "id":"map_deathtrack_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_deathtrack_1.100_summer", "version":"1", "type":"maps" },
-{ "id":"map_cross_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_cross_1.100_summer", "version":"1", "type":"maps" },
+
+
 { "id":"map_monte_carlo_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_monte_carlo_1.100_summer", "version":"1", "type":"maps" },
 
@@ -3347,6 +3373,8 @@
 { "id":"map_archipelago_mm_summer", "version":"2", "type":"maps" },
 { "id":"map_archipelago_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_archipelago_mm_winter", "version":"2", "type":"maps" },
+{ "id":"map_arena_2.0_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_arena_2.0_summer", "version":"1", "type":"maps" },
 { "id":"map_arena_ii_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_arena_ii_old_summer", "version":"1", "type":"maps" },
 { "id":"map_arena_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3443,26 +3471,141 @@
 { "id":"map_brest_summer", "version":"1", "type":"maps" },
 { "id":"map_brest_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_brest_winter", "version":"1", "type":"maps" },
-
-
-
-
-
-
-
-{ "id":"map_bridges_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bridge_city_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bridge_city_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_bridge_city_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bridge_city_old_winter", "version":"1", "type":"maps" },
+{ "id":"map_bridges_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bridges_1.100_summer", "version":"1", "type":"maps" },
 { "id":"map_bridges_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bridges_mm_summer", "version":"2", "type":"maps" },
+{ "id":"map_bridges_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bridges_mm_winter", "version":"2", "type":"maps" },
+{ "id":"map_bridges_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bridges_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_bridges_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bridges_old_winter", "version":"1", "type":"maps" },
+{ "id":"map_bridges_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bridges_summer", "version":"1", "type":"maps" },
+{ "id":"map_bridges_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bridges_winter", "version":"1", "type":"maps" },
+{ "id":"map_camp_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_camp_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_camp_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_camp_old_winter", "version":"1", "type":"maps" },
 { "id":"map_camp_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_camp_summer", "version":"1", "type":"maps" },
+{ "id":"map_camp_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_camp_winter", "version":"1", "type":"maps" },
+{ "id":"map_canyon_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_canyon_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_canyon_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_canyon_old_winter", "version":"1", "type":"maps" },
 { "id":"map_canyon_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_chernobyl_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_canyon_summer", "version":"1", "type":"maps" },
+{ "id":"map_canyon_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_canyon_winter", "version":"1", "type":"maps" },
+{ "id":"map_carousel_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_carousel_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_caves_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_caves_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_chernobyl_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_chernobyl_1.100_summer", "version":"1", "type":"maps" },
 { "id":"map_chernobyl_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_cologne_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_cologne_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_combe_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_courage_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_cross_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_cross_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_chernobyl_mm_summer", "version":"1", "type":"maps" },
+{ "id":"map_chernobyl_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_chernobyl_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_chernobyl_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_chernobyl_old_winter", "version":"1", "type":"maps" },
+{ "id":"map_chernobyl_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_chernobyl_summer", "version":"1", "type":"maps" },
+{ "id":"map_chernobyl_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_chernobyl_winter", "version":"1", "type":"maps" },
 { "id":"map_chernushka_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_chernushka_mm_summer", "version":"1", "type":"maps" },
+{ "id":"map_cologne_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_cologne_mm_summer", "version":"1", "type":"maps" },
+{ "id":"map_cologne_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_cologne_mm_winter", "version":"1", "type":"maps" },
+{ "id":"map_cologne_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_cologne_summer", "version":"1", "type":"maps" },
+{ "id":"map_combe_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_combe_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_combe_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_combe_old_winter", "version":"1", "type":"maps" },
+{ "id":"map_combe_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_combe_summer", "version":"1", "type":"maps" },
+{ "id":"map_combe_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_combe_winter", "version":"1", "type":"maps" },
+{ "id":"map_containers_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_containers_summer", "version":"1", "type":"maps" },
+{ "id":"map_courage_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_courage_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_courage_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_courage_old_winter", "version":"1", "type":"maps" },
+{ "id":"map_courage_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_courage_summer", "version":"1", "type":"maps" },
+{ "id":"map_courage_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_courage_winter", "version":"1", "type":"maps" },
+{ "id":"map_crash_alpha_1_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_crash_alpha_1_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_crash_alpha_2_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_crash_alpha_2_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_crash_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_crash_summer", "version":"1", "type":"maps" },
+{ "id":"map_cross_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_cross_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_cross_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_cross_mm_summer", "version":"1", "type":"maps" },
+{ "id":"map_cross_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_cross_mm_winter", "version":"1", "type":"maps" },
+{ "id":"map_cross_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_cross_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_cross_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_cross_old_winter", "version":"1", "type":"maps" },
+{ "id":"map_cross_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_cross_summer", "version":"1", "type":"maps" },
+{ "id":"map_cross_test_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_cross_test_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_cross_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_cross_winter", "version":"1", "type":"maps" },
+{ "id":"map_cryto_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_cryto_summer", "version":"1", "type":"maps" },
+{ "id":"map_deathtrack_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_deathtrack_1.100_summer", "version":"1", "type":"maps" },
+
+
+
+
+
+
+
+{ "id":"map_osa_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_osa_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_short_bridge_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_short_bridge_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_solikamsk_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_solikamsk_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_molotov_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_molotov_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_siege_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_siege_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_red_alert_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_red_alert_1.100_summer", "version":"1", "type":"maps" },
+
+{ "id":"map_forest_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_forest_1.100_summer", "version":"1", "type":"maps" },
+
+{ "id":"map_port_2048_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_port_2048_summer", "version":"1", "type":"maps" },
+{ "id":"map_plant_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_plant_old_summer", "version":"1", "type":"maps" },
+
+{ "id":"map_province_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_province_summer", "version":"1", "type":"maps" },
+
+
+
 { "id":"map_deathtrack_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_deck-9_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_desert_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3490,7 +3633,8 @@
 { "id":"map_industrial_zone_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_industrial_zone_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
 
-
+{ "id":"map_short_bridge_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_short_bridge_mm_summer", "version":"1", "type":"maps" },
 
 
 { "id":"map_iran_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3620,19 +3764,17 @@
 
 
 
-{ "id":"map_bridges_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_bridges_mm_summer", "version":"2", "type":"maps", "isLazy":true },
-{ "id":"map_camp_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_canyon_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_chernobyl_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_chernobyl_mm_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_cologne_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_cologne_mm_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_combe_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_courage_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_cross_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_cross_mm_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_chernushka_mm_summer", "version":"1", "type":"maps", "isLazy":true },
+
+
+
+
+
+
+
+
+
+
+
 { "id":"map_deathtrack_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_deck-9_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_desert_summer", "version":"1", "type":"maps", "isLazy":true },
@@ -3708,26 +3850,14 @@
 
 
 
-{ "id":"map_bridges_mm_winter", "version":"2", "type":"maps", "isLazy":true },
-{ "id":"map_bridges_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_bridges_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_bridges_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_camp_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_camp_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_canyon_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_canyon_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_chernobyl_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_chernobyl_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_cologne_mm_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_cologne_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_combe_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_combe_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_courage_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_courage_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_cross_mm_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_cross_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_cross_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_cross_winter_preview", "version":"1", "type":"images", "isLazy":true },
+
+
+
+
+
+
+
+
 { "id":"map_deathtrack_winter", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_deathtrack_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_deck-9_winter", "version":"1", "type":"maps", "isLazy":true },
@@ -3924,40 +4054,18 @@
 
 
 
-{ "id":"map_bridges_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_bridges_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_bridges_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_bridges_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_camp_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_camp_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_camp_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_camp_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_canyon_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_canyon_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_canyon_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_canyon_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_chernobyl_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_chernobyl_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_chernobyl_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_chernobyl_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_combe_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_combe_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_combe_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_combe_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_courage_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_courage_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_courage_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_courage_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_cross_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_cross_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_cross_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_cross_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+
+
+
+
+
+
 
 { "id":"map_deathtrack_old_summer", "version":"1", "type":"maps" },
 { "id":"map_deathtrack_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -4255,10 +4363,7 @@
 { "id":"map_new_kungur_old_summer", "version":"1", "type":"maps" },
 { "id":"map_new_kungur_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_crash_alpha_1_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_crash_alpha_1_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_crash_alpha_2_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_crash_alpha_2_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+
 
 { "id":"map_pedestal_old_summer", "version":"1", "type":"maps" },
 { "id":"map_pedestal_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -4284,11 +4389,9 @@
 { "id":"map_test_old_summer", "version":"1", "type":"maps" },
 { "id":"map_test_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_caves_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_caves_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_carousel_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_carousel_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+
+
 
 { "id":"map_flying_test_old_summer", "version":"1", "type":"maps" },
 { "id":"map_flying_test_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -4303,8 +4406,7 @@
 { "id":"map_platform_summer", "version":"1", "type":"maps" },
 { "id":"map_platform_summer_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_crash_summer", "version":"1", "type":"maps" },
-{ "id":"map_crash_summer_preview", "version":"1", "type":"images", "isLazy":true },
+
 
 { "id":"map_legacy_summer", "version":"1", "type":"maps" },
 { "id":"map_legacy_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -4335,8 +4437,7 @@
 
 
 
-{ "id":"map_cryto_summer", "version":"1", "type":"maps" },
-{ "id":"map_cryto_summer_preview", "version":"1", "type":"images", "isLazy":true },
+
 
 { "id":"map_halloween_2012_summer", "version":"1", "type":"maps" },
 { "id":"map_halloween_2012_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -4351,8 +4452,7 @@
 { "id":"map_moon_silence_summer", "version":"1", "type":"maps" },
 { "id":"map_moon_silence_summer_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_containers_summer", "version":"1", "type":"maps" },
-{ "id":"map_containers_summer_preview", "version":"1", "type":"images", "isLazy":true },
+
 { "id":"map_peak_summer", "version":"1", "type":"maps" },
 { "id":"map_peak_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_peak_winter", "version":"1", "type":"maps" },
@@ -4373,8 +4473,7 @@
 { "id":"map_gigabarda_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_deck_10_summer", "version":"1", "type":"maps" },
 { "id":"map_deck_10_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_bridge_mm_summer", "version":"1", "type":"maps" },
-{ "id":"map_bridge_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+
 { "id":"map_kungur_tx_summer", "version":"1", "type":"maps" },
 { "id":"map_kungur_tx_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_relay_race_summer", "version":"1", "type":"maps" },
@@ -4535,7 +4634,8 @@
 { "id":"proplib_builds_v2", "version":"1", "type":"proplibs" },
 
 
-{ "id":"billboard_summer_festival_2024", "version":"1", "type":"textures" },
+
+{ "id":"billboard_autumn_festival_2024", "version":"1", "type":"textures" },
 { "id":"billboard_standard", "version":"1", "type":"textures" },
 { "id":"billboard_reloaded", "version":"1", "type":"textures" },
 { "id":"billboard_standard_old", "version":"1", "type":"textures" },
@@ -4575,6 +4675,7 @@
 { "id":"billboard_spring_fever_2024", "version":"1", "type":"textures" },
 { "id":"billboard_star_week", "version":"1", "type":"textures" },
 { "id":"billboard_summer_festival_2022-2023", "version":"1", "type":"textures" },
+{ "id":"billboard_summer_festival_2024", "version":"1", "type":"textures" },
 { "id":"billboard_summer_sale", "version":"1", "type":"textures" },
 { "id":"billboard_summer_sport_games_2021", "version":"1", "type":"textures" },
 { "id":"billboard_summer_sport_games_2022", "version":"1", "type":"textures" },

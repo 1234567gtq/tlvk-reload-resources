@@ -238,32 +238,38 @@
 				"descriptionEN":"Pink... to leave your enemies roasted just like a medium-cooked steak."
 			},
 			{
-				"id":"m0_old",
+				"id":"m0_legacy",
 				"name":"M0 (Legacy)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true
 			},
 			{
-				"id":"m1_old",
+				"id":"m1_legacy",
 				"name":"M1 (Legacy)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true
 			},
 			{
-				"id":"m2_old",
+				"id":"m2_legacy",
 				"name":"M2 (Legacy)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true
 			},
 			{
-				"id":"m3_old",
+				"id":"m3_legacy",
 				"name":"M3 (Legacy)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true
+			},
+			{
+				"id":"rainbow_fake",
+				"nameRU":"Радужный (неофициальный)",
+				"nameEN":"Rainbow (unofficial)",
+				"description":"TODO"
 			}
 		]
 	},
@@ -722,6 +728,12 @@
 				"nameEN":"Fire",
 				"descriptionRU":"Когда языки пламени от этих выстрелов коснутся ваших противников, они поймут, что жестоко ошиблись, недооценив вас.",
 				"descriptionEN":"If your enemies underestimate you, make them realize their mistake with a lick of your fire."
+			},
+			{
+				"id":"m3_legacy",
+				"name":"M3 (Legacy)",
+				"description":"TODO",
+				"isStandard":true
 			}
 		]
 	},
@@ -3009,6 +3021,48 @@
 				"nameEN":"Automated gunpowder loading mechanism",
 				"descriptionRU":"Конвертация в управление наклоном ствола вместе с ускоренным набором мощности выстрела. Однако попасть в нужный уровень мощности становится труднее, что чревато перелётом или недолётом снаряда.",
 				"descriptionEN":"Converts the turret rotation mechanism to the mechanism of changing the elevation angle and makes power accumulation faster. At the same time it becomes harder to avoid overshooting or undershooting due to not having the required level of power."
+			},
+			{
+				"id":"harpoon",
+				"nameRU":"Гарпун",
+				"nameEN":"Harpoon",
+				"descriptionRU":"Устанавливает угол наклона ствола в 1°, превращая Магнум из артиллерийской установки в аналог обычной пушки. Время перезарядки и скорость снаряда увеличены. Урон сплеша, радиус нанесения критического урона, и ускорение набора мощности выстрела — уменьшены.\nМодификация Магнума, которая позволяет играть с фиксированным углом по вертикали. Управляйте пушкой, как и всеми остальными. Получайте мощнейшее оружие, похожее на средневековую артиллерийскую пушку.",
+				"descriptionEN":"Changes the angle of elevation to 1° making Magnum act like any other turret instead of being an artillery launcher. Splash damage is decreased."
+			},
+			{
+				"id":"mortar",
+				"nameRU":"Миномёт",
+				"nameEN":"Mortar",
+				"descriptionRU":"Конвертация в управление наклоном ствола вместе с заменой стандартных снарядов на мины. При попадании в танк мина взрывается, при промахе — остаётся в точке попадания, чтобы на ней кто-нибудь подорвался. Урон от снарядов-мин меньше, чем от обычных снарядов.",
+				"descriptionEN":"Converts the turret rotation mechanism to the mechanism of changing the elevation angle and fires mines instead of shells. When hitting a tank the mine explodes, and when it misses, the mine remains at the spot where it landed meaning somebody can drive onto it."
+			},
+			{
+				"id":"bombard",
+				"nameRU":"Бомбарда",
+				"nameEN":"Bombard",
+				"descriptionRU":"Минимальный и начальный угол пушки 45 градусов. Минимальная и максимальная скорости снаряда снижены. Перезарядка значительно ускорена. Магнум превращается в мощное орудие для ведения огня из-за укрытий. С этим устройством невозможно стрелять прямой наводкой — ствол всегда направлен под углом 45 градусов или выше. Такая конструкция позволяет эффективно поражать врагов, находящихся за укрытиями, благодаря накрывающей траектории снарядов. Сниженная мощность выстрела улучшает контроль арки полёта, а уменьшенное время перезарядки позволяет вести быстрый и постоянный огонь, создавая настоящий «дождь» из снарядов.",
+				"descriptionEN":"Minimum and initial angles of the turret are 45 degrees. Minimum and maximum projectile speeds are reduced. Reloading is significantly accelerated. With this augment, Magnum becomes a powerful weapon for firing from behind cover. It is impossible to shoot directly ahead — your turret is always at an angle of 45 degrees or more. This design allows you to effectively hit enemies hiding behind cover thanks to the trajectory of projectiles. Reduced shot power improves control over the shot trajectory, and reduced reload time allows for quick and constant fire, creating a real \"rain\" of shells."
+			},
+			{
+				"id":"incendiary_core",
+				"nameRU":"Поджигающий сердечник",
+				"nameEN":"Incendiary core",
+				"descriptionRU":"Критический выстрел поджигает все цели, попавшие в радиус взрыва.\nФугасный снаряд снабжается поджигающим сердечником. При разрыве снаряд разбрасывает поджигающие элементы вокруг, поджигая танки. Противнику понадобится команда пожарных, чтобы остановить огненный дождь.",
+				"descriptionEN":"Critical shot burns all the targets caught in the explosion radius. High-explosive projectile supplied by an incendiary core. On explosion, the projectile disperses incendiary elements around, burning enemy tanks. The enemy needs a team of firemen to stop such a fire rain."
+			},
+			{
+				"id":"freezing_core",
+				"nameRU":"Замораживающий сердечник",
+				"nameEN":"Freezing core",
+				"descriptionRU":"Критический выстрел поражает статусом «Заморозка» все цели, попавшие в радиус взрыва.\nФугасный снаряд снабжается замораживающим сердечником. Такие снаряды при критическом уроне замедляют передвижение противника по полю боя, а также позволяют едва ли не приварить его пушку к корпусу на некоторое время.",
+				"descriptionEN":"Critical shots apply the «Freezing» status effect to all targets caught in the explosion radius. Highly explosive projectile supplied by a freezing core. On explosion, the projectile lets you slow down the movement of the enemy on the battlefield with critical damage, and also almost weld their turret to the hull for some time."
+			},
+			{
+				"id":"stunning_core",
+				"nameRU":"Оглушающий сердечник",
+				"nameEN":"Stunning core",
+				"descriptionRU":"Критический урон накладывает статус-эффект «Оглушение» на вражеский танк на короткий срок.\nФугасный снаряд снабжается ультразвуковым сердечником. Он обездвиживает соперника, лишая возможности стрелять, активировать припасы и овердрайвы или самоуничтожаться на некоторое время.",
+				"descriptionEN":"Critical damage applies the «Stun» status effect to the enemy tank for a short time. A highly explosive projectile supplied by an ultrasonic core. Upon detonation, it immobilizes the opponent, leaving them unable to shoot, activate overdrives and supplies, or self-destruct for some time."
 			}
 		],
 		"shotSkins":

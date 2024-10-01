@@ -3404,6 +3404,13 @@
 	"descriptionEN":"Second planet from the Sun, Venus would be a rather unpleasant place to live. With surface temperatures hot enough to melt lead, Venus is pretty much the equivalent of hell."
 },
 {
+	"id":"wild_jungle",
+	"nameRU":"Дикие джунгли",
+	"nameEN":"Wild Jungle",
+	"descriptionRU":"В этой краске вы сможете слиться с лесным пейзажем и приобрести силу тигра, осторожность пантеры и бесстрашие гиены.",
+	"descriptionEN":"With this paint, you can disappear into the forest and gain the strength of a tiger, the stealth of a panther, and the boldness of a hyena."
+},
+{
 	"id":"wildstyle",
 	"nameRU":"Дикий стиль",
 	"nameEN":"Wildstyle",
@@ -5022,6 +5029,15 @@
 	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
 	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
 },
+
+{
+	"id":"cn_national_day_2011",
+	"nameRU":"День образования КНР (Китай)",
+	"nameEN":"National Day (China)",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
+
 {
 	"id":"national_unity_day_2010",
 	"nameRU":"День народного единства",

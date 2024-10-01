@@ -88,6 +88,14 @@
 		"category":"winter"
 	},
 	{
+		"id":"arena_2.0_summer",
+		"nameRU":"Арена 2.0",
+		"nameEN":"Arena 2.0",
+		"skyBox":"urban_day",
+		"theme":"gray",
+		"category":"unofficial"
+	},
+	{
 		"id":"arena_ii_old_summer",
 		"nameRU":"Арена II",
 		"nameEN":"Arena II",
@@ -471,7 +479,524 @@
 		"theme":"winter_day",
 		"category":"winter"
 	},
-
+	{
+		"id":"bridge_city_old_summer",
+		"nameRU":"Бридж-Сити (лето)",
+		"nameEN":"Bridge City (summer)",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
+		"id":"bridge_city_old_winter",
+		"nameRU":"Бридж-Сити (зима)",
+		"nameEN":"Bridge City (winter)",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"unofficial"
+	},
+	{
+		"id":"bridges_1.100_summer",
+		"nameRU":"Мосты",
+		"nameEN":"Bridges",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"bridges_mm_summer",
+		"nameRU":"Мосты ММ",
+		"nameEN":"Bridges MM",
+		"skyBox":"hills_day",
+		"theme":"summer_day_mm",
+		"category":"summer"
+	},
+	{
+		"id":"bridges_mm_winter",
+		"nameRU":"Мосты ММ",
+		"nameEN":"Bridges MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day_mm",
+		"category":"winter"
+	},
+	{
+		"id":"bridges_old_summer",
+		"nameRU":"Мосты",
+		"nameEN":"Bridges",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"bridges_old_winter",
+		"nameRU":"Мосты",
+		"nameEN":"Bridges",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	{
+		"id":"bridges_summer",
+		"nameRU":"Мосты",
+		"nameEN":"Bridges",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"bridges_winter",
+		"nameRU":"Мосты",
+		"nameEN":"Bridges",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"camp_old_summer",
+		"nameRU":"Лагерь",
+		"nameEN":"Camp",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"camp_old_winter",
+		"nameRU":"Лагерь",
+		"nameEN":"Camp",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	{
+		"id":"camp_summer",
+		"nameRU":"Лагерь",
+		"nameEN":"Camp",
+		"skyBox":"mountains_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"camp_winter",
+		"nameRU":"Лагерь",
+		"nameEN":"Camp",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"canyon_old_summer",
+		"nameRU":"Каньон",
+		"nameEN":"Canyon",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"canyon_old_winter",
+		"nameRU":"Каньон",
+		"nameEN":"Canyon",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	{
+		"id":"canyon_summer",
+		"nameRU":"Каньон",
+		"nameEN":"Canyon",
+		"skyBox":"mountains_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"canyon_winter",
+		"nameRU":"Каньон",
+		"nameEN":"Canyon",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"carousel_old_summer",
+		"nameRU":"Карусель",
+		"nameEN":"Carousel",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	{
+		"id":"caves_old_summer",
+		"nameRU":"Пещеры",
+		"nameEN":"Caves",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	{
+		"id":"chernobyl_1.100_summer",
+		"nameRU":"Чернобыль",
+		"nameEN":"Chernobyl",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"chernobyl_mm_summer",
+		"nameRU":"Чернобыль ММ",
+		"nameEN":"Chernobyl MM",
+		"skyBox":"hills_day",
+		"theme":"summer_day_mm",
+		"category":"summer"
+	},
+	{
+		"id":"chernobyl_old_summer",
+		"nameRU":"Чернобыль",
+		"nameEN":"Chernobyl",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"chernobyl_old_winter",
+		"nameRU":"Чернобыль",
+		"nameEN":"Chernobyl",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	{
+		"id":"chernobyl_summer",
+		"nameRU":"Чернобыль",
+		"nameEN":"Chernobyl",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"chernobyl_winter",
+		"nameRU":"Чернобыль",
+		"nameEN":"Chernobyl",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"chernushka_mm_summer",
+		"nameRU":"Чернушка ММ",
+		"nameEN":"Chernushka MM",
+		"skyBox":"hills_day",
+		"theme":"summer_day_mm",
+		"category":"summer"
+	},
+	{
+		"id":"cologne_mm_summer",
+		"nameRU":"Кёльн ММ",
+		"nameEN":"Cologne MM",
+		"skyBox":"cologne_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"cologne_mm_winter",
+		"nameRU":"Кёльн ММ",
+		"nameEN":"Cologne MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"cologne_summer",
+		"nameRU":"Кёльн",
+		"nameEN":"Cologne",
+		"skyBox":"cologne_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"combe_old_summer",
+		"nameRU":"Овраг",
+		"nameEN":"Combe",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"combe_old_winter",
+		"nameRU":"Овраг",
+		"nameEN":"Combe",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	{
+		"id":"combe_summer",
+		"nameRU":"Овраг",
+		"nameEN":"Combe",
+		"skyBox":"mountains_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"combe_winter",
+		"nameRU":"Овраг",
+		"nameEN":"Combe",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"containers_summer",
+		"nameRU":"Контейнеры",
+		"nameEN":"Containers",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
+		"id":"courage_old_summer",
+		"nameRU":"Кураж",
+		"nameEN":"Courage",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"courage_old_winter",
+		"nameRU":"Кураж",
+		"nameEN":"Courage",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	{
+		"id":"courage_summer",
+		"nameRU":"Кураж",
+		"nameEN":"Courage",
+		"skyBox":"mountains_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"courage_winter",
+		"nameRU":"Кураж",
+		"nameEN":"Courage",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"crash_alpha_1_old_summer",
+		"nameRU":"Крушение (альфа 1)",
+		"nameEN":"Crash (alpha 1)",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	{
+		"id":"crash_alpha_2_old_summer",
+		"nameRU":"Крушение (альфа 2)",
+		"nameEN":"Crash (alpha 2)",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	{
+		"id":"crash_summer",
+		"nameRU":"Крушение",
+		"nameEN":"Crash",
+		"skyBox":"urban_day",
+		"theme":"gray",
+		"category":"special"
+	},
+	{
+		"id":"cross_1.100_summer",
+		"nameRU":"Перекрёсток",
+		"nameEN":"Cross",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"cross_mm_summer",
+		"nameRU":"Перекрёсток ММ",
+		"nameEN":"Cross MM",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"cross_mm_winter",
+		"nameRU":"Перекрёсток ММ",
+		"nameEN":"Cross MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"cross_old_summer",
+		"nameRU":"Перекрёсток",
+		"nameEN":"Cross",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"cross_old_winter",
+		"nameRU":"Перекрёсток",
+		"nameEN":"Cross",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	{
+		"id":"cross_summer",
+		"nameRU":"Перекрёсток",
+		"nameEN":"Cross",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"cross_test_old_summer",
+		"nameRU":"Крест",
+		"nameEN":"Cross",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	{
+		"id":"cross_winter",
+		"nameRU":"Перекрёсток",
+		"nameEN":"Cross",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"cryto_summer",
+		"nameRU":"Круто",
+		"nameEN":"Cryto",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
+		"id":"deathtrack_1.100_summer",
+		"nameRU":"Трек",
+		"nameEN":"Deathtrack",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	{
+		"id":"osa_1.100_summer",
+		"nameRU":"Оса",
+		"nameEN":"Osa",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"short_bridge_1.100_summer",
+		"nameRU":"Мостик",
+		"nameEN":"Short Bridge",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"solikamsk_1.100_summer",
+		"nameRU":"Соликамск",
+		"nameEN":"Solikamsk",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"molotov_1.100_summer",
+		"nameRU":"Молотов",
+		"nameEN":"Molotov",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"siege_1.100_summer",
+		"nameRU":"Осада",
+		"nameEN":"Siege",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"red_alert_1.100_summer",
+		"nameRU":"Ред Алерт",
+		"nameEN":"Red Alert",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"forest_1.100_summer",
+		"nameRU":"Форест",
+		"nameEN":"Forest",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	
+	
+	
+	
+	{
+		"id":"port_2048_summer",
+		"nameRU":"Порт 2048",
+		"nameEN":"Port 2048",
+		"skyBox":"mountains_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
+		"id":"plant_old_summer",
+		"nameRU":"Завод",
+		"nameEN":"Plant",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
+		"id":"province_summer",
+		"nameRU":"Провинция",
+		"nameEN":"Province",
+		"skyBox":"urban_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	
+	
+	
+	{
+		"id":"short_bridge_mm_summer",
+		"nameRU":"Мостик ММ",
+		"nameEN":"Short Bridge MM",
+		"skyBox":"hills_day",
+		"theme":"summer_day_mm",
+		"category":"unofficial"
+	},
 
 
 
@@ -506,22 +1031,8 @@
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
-	{
-		"id":"cross_1.100_summer",
-		"nameRU":"Перекрёсток",
-		"nameEN":"Cross",
-		"skyBox":"release_1.100_day",
-		"theme":"summer_day",
-		"category":"release_1.100"
-	},
-	{
-		"id":"deathtrack_1.100_summer",
-		"nameRU":"Трек",
-		"nameEN":"Deathtrack",
-		"skyBox":"release_1.100_day",
-		"theme":"summer_day",
-		"category":"release_1.100"
-	},
+	
+	
 	
 	{
 		"id":"magadan_1.100_summer",
@@ -739,14 +1250,7 @@
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
-	{
-		"id":"bridge_mm_summer",
-		"nameRU":"Мостик ММ",
-		"nameEN":"Bridge MM",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"unofficial"
-	},
+	
 	{
 		"id":"kungur_tx_summer",
 		"nameRU":"Кунгур из ТХ",
@@ -755,14 +1259,7 @@
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
-	{
-		"id":"containers_summer",
-		"nameRU":"Контейнеры",
-		"nameEN":"Containers",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"unofficial"
-	},
+	
 	{
 		"id":"moon_silence_summer",
 		"nameRU":"Лунная Тишина",
@@ -795,14 +1292,7 @@
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
-	{
-		"id":"cryto_summer",
-		"nameRU":"Круто",
-		"nameEN":"Cryto",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"unofficial"
-	},
+	
 	{
 		"id":"luxembourg_summer",
 		"nameRU":"Люксембург",
@@ -909,14 +1399,7 @@
 		"theme":"summer_day",
 		"category":"special"
 	},
-	{
-		"id":"crash_summer",
-		"nameRU":"Крушение",
-		"nameEN":"Crash",
-		"skyBox":"urban_day",
-		"theme":"gray",
-		"category":"special"
-	},
+	
 	{
 		"id":"platform_summer",
 		"nameRU":"Платформа",
@@ -956,22 +1439,8 @@
 		"theme":"summer_day",
 		"category":"special"
 	},
-	{
-		"id":"carousel_old_summer",
-		"nameRU":"Карусель",
-		"nameEN":"Carousel",
-		"skyBox":"mountains_old",
-		"theme":"summer_day",
-		"category":"special"
-	},
-	{
-		"id":"caves_old_summer",
-		"nameRU":"Пещеры",
-		"nameEN":"Caves",
-		"skyBox":"hills_old",
-		"theme":"summer_day",
-		"category":"special"
-	},
+	
+	
 	{
 		"id":"test_old_summer",
 		"nameRU":"Тест",
@@ -1038,22 +1507,8 @@
 		"theme":"summer_day",
 		"category":"special"
 	},
-	{
-		"id":"crash_alpha_2_old_summer",
-		"nameRU":"Крушение (альфа 2)",
-		"nameEN":"Crash (alpha 2)",
-		"skyBox":"hills_old",
-		"theme":"summer_day",
-		"category":"special"
-	},
-	{
-		"id":"crash_alpha_1_old_summer",
-		"nameRU":"Крушение (альфа 1)",
-		"nameEN":"Crash (alpha 1)",
-		"skyBox":"hills_old",
-		"theme":"summer_day",
-		"category":"special"
-	},
+	
+	
 	{
 		"id":"new_kungur_old_summer",
 		"nameRU":"Новый Кунгур",
@@ -1553,62 +2008,13 @@
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
-	{
-		"id":"cross_old_winter",
-		"nameRU":"Перекрёсток",
-		"nameEN":"Cross",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
-	{
-		"id":"courage_old_winter",
-		"nameRU":"Кураж",
-		"nameEN":"Courage",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
-	{
-		"id":"combe_old_winter",
-		"nameRU":"Овраг",
-		"nameEN":"Combe",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
-	{
-		"id":"chernobyl_old_winter",
-		"nameRU":"Чернобыль",
-		"nameEN":"Chernobyl",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
-	{
-		"id":"canyon_old_winter",
-		"nameRU":"Каньон",
-		"nameEN":"Canyon",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
-	{
-		"id":"camp_old_winter",
-		"nameRU":"Лагерь",
-		"nameEN":"Camp",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
-	{
-		"id":"bridges_old_winter",
-		"nameRU":"Мосты",
-		"nameEN":"Bridges",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -2090,62 +2496,13 @@
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
-	{
-		"id":"cross_old_summer",
-		"nameRU":"Перекрёсток",
-		"nameEN":"Cross",
-		"skyBox":"hills_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
-	{
-		"id":"courage_old_summer",
-		"nameRU":"Кураж",
-		"nameEN":"Courage",
-		"skyBox":"mountains_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
-	{
-		"id":"combe_old_summer",
-		"nameRU":"Овраг",
-		"nameEN":"Combe",
-		"skyBox":"mountains_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
-	{
-		"id":"chernobyl_old_summer",
-		"nameRU":"Чернобыль",
-		"nameEN":"Chernobyl",
-		"skyBox":"hills_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
-	{
-		"id":"canyon_old_summer",
-		"nameRU":"Каньон",
-		"nameEN":"Canyon",
-		"skyBox":"mountains_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
-	{
-		"id":"camp_old_summer",
-		"nameRU":"Лагерь",
-		"nameEN":"Camp",
-		"skyBox":"mountains_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
-	{
-		"id":"bridges_old_summer",
-		"nameRU":"Мосты",
-		"nameEN":"Bridges",
-		"skyBox":"hills_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -2241,86 +2598,16 @@
 	
 	
 	
-	{
-		"id":"bridges_mm_winter",
-		"nameRU":"Мосты ММ",
-		"nameEN":"Bridges MM",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"bridges_winter",
-		"nameRU":"Мосты",
-		"nameEN":"Bridges",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"camp_winter",
-		"nameRU":"Лагерь",
-		"nameEN":"Camp",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"canyon_winter",
-		"nameRU":"Каньон",
-		"nameEN":"Canyon",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"chernobyl_winter",
-		"nameRU":"Чернобыль",
-		"nameEN":"Chernobyl",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"cologne_mm_winter",
-		"nameRU":"Кёльн ММ",
-		"nameEN":"Cologne MM",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"combe_winter",
-		"nameRU":"Овраг",
-		"nameEN":"Combe",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"courage_winter",
-		"nameRU":"Кураж",
-		"nameEN":"Courage",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"cross_mm_winter",
-		"nameRU":"Перекрёсток ММ",
-		"nameEN":"Cross MM",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"cross_winter",
-		"nameRU":"Перекрёсток",
-		"nameEN":"Cross",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	{
 		"id":"deathtrack_winter",
 		"nameRU":"Трек",
@@ -2923,102 +3210,16 @@
 	
 	
 	
-	{
-		"id":"bridges_summer",
-		"nameRU":"Мосты",
-		"nameEN":"Bridges",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"bridges_mm_summer",
-		"nameRU":"Мосты MM",
-		"nameEN":"Bridges MM",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"camp_summer",
-		"nameRU":"Лагерь",
-		"nameEN":"Camp",
-		"skyBox":"mountains_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"canyon_summer",
-		"nameRU":"Каньон",
-		"nameEN":"Canyon",
-		"skyBox":"mountains_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"chernobyl_summer",
-		"nameRU":"Чернобыль",
-		"nameEN":"Chernobyl",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"chernobyl_mm_summer",
-		"nameRU":"Чернобыль MM",
-		"nameEN":"Chernobyl MM",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"cologne_summer",
-		"nameRU":"Кёльн",
-		"nameEN":"Cologne",
-		"skyBox":"cologne_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"cologne_mm_summer",
-		"nameRU":"Кёльн MM",
-		"nameEN":"Cologne MM",
-		"skyBox":"cologne_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"combe_summer",
-		"nameRU":"Овраг",
-		"nameEN":"Combe",
-		"skyBox":"mountains_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"courage_summer",
-		"nameRU":"Кураж",
-		"nameEN":"Courage",
-		"skyBox":"mountains_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"cross_summer",
-		"nameRU":"Перекрёсток",
-		"nameEN":"Cross",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"cross_mm_summer",
-		"nameRU":"Перекрёсток MM",
-		"nameEN":"Cross MM",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	{
 		"id":"deathtrack_summer",
 		"nameRU":"Трек",
@@ -3844,14 +4045,7 @@
 		"theme":"summer_day",
 		"category":"summer"
 	},
-	{
-		"id":"chernushka_mm_summer",
-		"nameRU":"Чернушка ММ",
-		"nameEN":"Chernushka MM",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
+	
 	
 	
 	{
