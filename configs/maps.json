@@ -272,6 +272,22 @@
 		"category":"release_1.100"
 	},
 	{
+		"id":"berlin_mm_summer",
+		"nameRU":"Берлин ММ",
+		"nameEN":"Berlin MM",
+		"skyBox":"hills_day",
+		"theme":"summer_day_mm",
+		"category":"summer"
+	},
+	{
+		"id":"berlin_mm_winter",
+		"nameRU":"Берлин ММ",
+		"nameEN":"Berlin MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day_mm",
+		"category":"winter"
+	},
+	{
 		"id":"berlin_old_summer",
 		"nameRU":"Берлин",
 		"nameEN":"Berlin",
@@ -552,6 +568,22 @@
 		"category":"winter"
 	},
 	{
+		"id":"bryansk_old_summer",
+		"nameRU":"Брянск",
+		"nameEN":"Bryansk",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
+		"id":"bunker_vektor_tv_summer",
+		"nameRU":"Бункер (by Vektor TV)",
+		"nameEN":"Bunker (by Vektor TV)",
+		"skyBox":"iran_day",
+		"theme":"iran",
+		"category":"unofficial"
+	},
+	{
 		"id":"camp_old_summer",
 		"nameRU":"Лагерь",
 		"nameEN":"Camp",
@@ -710,6 +742,14 @@
 		"skyBox":"cologne_day",
 		"theme":"summer_day",
 		"category":"summer"
+	},
+	{
+		"id":"colony_old_summer",
+		"nameRU":"Колония",
+		"nameEN":"Colony",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"unofficial"
 	},
 	{
 		"id":"combe_old_summer",
@@ -887,8 +927,86 @@
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
-	
-	
+	{
+		"id":"deathtrack_old_summer",
+		"nameRU":"Трек",
+		"nameEN":"Deathtrack",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"deathtrack_old_winter",
+		"nameRU":"Трек",
+		"nameEN":"Deathtrack",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	{
+		"id":"deathtrack_summer",
+		"nameRU":"Трек",
+		"nameEN":"Deathtrack",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"deathtrack_winter",
+		"nameRU":"Трек",
+		"nameEN":"Deathtrack",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"deck_10_summer",
+		"nameRU":"Палуба 10",
+		"nameEN":"Deck-10",
+		"skyBox":"mountains_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
+		"id":"deck-9_old_summer",
+		"nameRU":"Палуба 9",
+		"nameEN":"Deck-9",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"summer_old"
+	},
+	{
+		"id":"deck-9_old_winter",
+		"nameRU":"Палуба 9",
+		"nameEN":"Deck-9",
+		"skyBox":"winter_old",
+		"theme":"winter_day",
+		"category":"winter_old"
+	},
+	{
+		"id":"deck-9_summer",
+		"nameRU":"Палуба 9",
+		"nameEN":"Deck-9",
+		"skyBox":"mountains_day",
+		"theme":"summer_day",
+		"category":"summer"
+	},
+	{
+		"id":"deck-9_winter",
+		"nameRU":"Палуба 9",
+		"nameEN":"Deck-9",
+		"skyBox":"winter_day",
+		"theme":"winter_day",
+		"category":"winter"
+	},
+	{
+		"id":"depo_summer",
+		"nameRU":"Депо",
+		"nameEN":"Depo",
+		"skyBox":"mountains_day",
+		"theme":"summer_day",
+		"category":"special"
+	},
 	
 	
 	
@@ -958,6 +1076,98 @@
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
+	{
+		"id":"magistral_1.100_summer",
+		"nameRU":"Магистраль",
+		"nameEN":"Magistral",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"gubakha_1.100_summer",
+		"nameRU":"Губаха",
+		"nameEN":"Gubakha",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"highways_1.100_summer",
+		"nameRU":"Шоссе",
+		"nameEN":"Highways",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"serpuhov_1.100_summer",
+		"nameRU":"Серпухов",
+		"nameEN":"Serpuhov",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"lost_temple_1.100_summer",
+		"nameRU":"Тэмпл",
+		"nameEN":"Lost Temple",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"tribute_1.100_summer",
+		"nameRU":"Трибьют",
+		"nameEN":"Tribute",
+		"skyBox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
+	},
+	{
+		"id":"rio_old_summer",
+		"nameRU":"Рио",
+		"nameEN":"Rio",
+		"skyBox":"mountains_old",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
+		"id":"lisevsk_old_summer",
+		"nameRU":"Лисевск",
+		"nameEN":"Lisevsk",
+		"skyBox":"hills_old",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	
+	
+	{
+		"id":"halloween_2016_vektor_tv_summer",
+		"nameRU":"Хэллоуин 2016 (by Vektor TV)",
+		"nameEN":"Halloween 2016 (by Vektor TV)",
+		"skyBox":"halloween",
+		"theme":"halloween",
+		"category":"unofficial"
+	},
+	{
+		"id":"village_summer",
+		"nameRU":"Деревня",
+		"nameEN":"Village",
+		"skyBox":"space_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -1242,14 +1452,7 @@
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
-	{
-		"id":"deck_10_summer",
-		"nameRU":"Палуба-10",
-		"nameEN":"Deck-10",
-		"skyBox":"mountains_day",
-		"theme":"summer_day",
-		"category":"unofficial"
-	},
+	
 	
 	{
 		"id":"kungur_tx_summer",
@@ -1334,14 +1537,7 @@
 		"category":"unofficial"
 	},
 	
-	{
-		"id":"depo_summer",
-		"nameRU":"Депо",
-		"nameEN":"Depo",
-		"skyBox":"mountains_day",
-		"theme":"summer_day",
-		"category":"special"
-	},
+	
 	{
 		"id":"relay_race_summer",
 		"nameRU":"Эстафета",
@@ -1992,22 +2188,8 @@
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
-	{
-		"id":"deck-9_old_winter",
-		"nameRU":"Палуба 9",
-		"nameEN":"Deck-9",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
-	{
-		"id":"deathtrack_old_winter",
-		"nameRU":"Трек",
-		"nameEN":"Deathtrack",
-		"skyBox":"winter_old",
-		"theme":"winter_day",
-		"category":"winter_old"
-	},
+	
+	
 	
 	
 	
@@ -2480,22 +2662,8 @@
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
-	{
-		"id":"deck-9_old_summer",
-		"nameRU":"Палуба 9",
-		"nameEN":"Deck-9",
-		"skyBox":"mountains_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
-	{
-		"id":"deathtrack_old_summer",
-		"nameRU":"Трек",
-		"nameEN":"Deathtrack",
-		"skyBox":"hills_old",
-		"theme":"summer_day",
-		"category":"summer_old"
-	},
+	
+	
 	
 	
 	
@@ -2608,22 +2776,8 @@
 	
 	
 	
-	{
-		"id":"deathtrack_winter",
-		"nameRU":"Трек",
-		"nameEN":"Deathtrack",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
-	{
-		"id":"deck-9_winter",
-		"nameRU":"Палуба 9",
-		"nameEN":"Deck-9",
-		"skyBox":"winter_day",
-		"theme":"winter_day",
-		"category":"winter"
-	},
+	
+	
 	{
 		"id":"duality_winter",
 		"nameRU":"Дуалити",
@@ -3220,22 +3374,8 @@
 	
 	
 	
-	{
-		"id":"deathtrack_summer",
-		"nameRU":"Трек",
-		"nameEN":"Deathtrack",
-		"skyBox":"hills_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
-	{
-		"id":"deck-9_summer",
-		"nameRU":"Палуба 9",
-		"nameEN":"Deck-9",
-		"skyBox":"mountains_day",
-		"theme":"summer_day",
-		"category":"summer"
-	},
+	
+	
 	{
 		"id":"desert_summer",
 		"nameRU":"Пустыня",
@@ -3275,6 +3415,22 @@
 		"skyBox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
+	},
+	{
+		"id":"dusseldorf_mm_summer",
+		"nameRU":"Дюссельдорф ММ",
+		"nameEN":"Dusseldorf MM",
+		"skyBox":"hills_day",
+		"theme":"summer_day_mm",
+		"category":"summer"
+	},
+	{
+		"id":"dusseldorf_mm_winter",
+		"nameRU":"Дюссельдорф ММ",
+		"nameEN":"Dusseldorf MM",
+		"skyBox":"winter_day",
+		"theme":"winter_day_mm",
+		"category":"winter"
 	},
 	{
 		"id":"edinburgh_summer",

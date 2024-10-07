@@ -842,11 +842,12 @@
 { "id":"turret_gauss_ut", "version":"2", "type":"models" },
 { "id":"turret_gauss_gt", "version":"2", "type":"models" },
 { "id":"turret_gauss_ic", "version":"1", "type":"models" },
-{ "id":"turret_shaft_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"turret_shaft_m3", "version":"4", "type":"models" },
+{ "id":"turret_shaft_preview", "version":"2", "type":"images", "isLazy":true },
+{ "id":"turret_shaft_hd", "version":"1", "type":"models_a3d" },
 { "id":"turret_shaft_m0", "version":"4", "type":"models" },
 { "id":"turret_shaft_m1", "version":"4", "type":"models" },
 { "id":"turret_shaft_m2", "version":"4", "type":"models" },
+{ "id":"turret_shaft_m3", "version":"4", "type":"models" },
 { "id":"turret_shaft_m0_old", "version":"1", "type":"models" },
 { "id":"turret_shaft_m1_old", "version":"1", "type":"models" },
 { "id":"turret_shaft_m2_old", "version":"1", "type":"models" },
@@ -2746,8 +2747,14 @@
 { "id":"shot_skin_isida_fire_ball", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_isida_fire_ray", "version":"1", "type":"textures" },
 
-{ "id":"shot_skin_isida_m3_legacy_ball", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_isida_m3_legacy_idle", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_isida_m0_legacy_ball", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_isida_m0_legacy_ray", "version":"1", "type":"textures" },
+{ "id":"shot_skin_isida_m1_legacy_ball", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_isida_m1_legacy_ray", "version":"1", "type":"textures" },
+{ "id":"shot_skin_isida_m2_legacy_ball", "version":"1", "type":"multiframe_textures" },
+{ "id":"shot_skin_isida_m2_legacy_ray", "version":"1", "type":"textures" },
+{ "id":"shot_skin_isida_m3_legacy_ball", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_isida_m3_legacy_ray", "version":"1", "type":"textures" },
 
 { "id":"shot_skin_hammer_standard_pellet_trail", "version":"1", "type":"textures" },
@@ -3154,12 +3161,11 @@
 { "id":"map_water_utility_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_water_utility_summer", "version":"1", "type":"maps" },
 
-{ "id":"map_depo_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_depo_summer", "version":"1", "type":"maps" },
 
 
 
-{ "id":"map_route_vektor_tv_summer_preview", "version":"1", "type":"images", "isLazy":true },
+
+{ "id":"map_route_vektor_tv_summer_preview", "version":"2", "type":"images", "isLazy":true },
 { "id":"map_route_vektor_tv_summer", "version":"1", "type":"maps" },
 
 
@@ -3338,8 +3344,7 @@
 { "id":"map_monte_carlo_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_monte_carlo_1.100_summer", "version":"1", "type":"maps" },
 
-{ "id":"map_dusseldorf_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_dusseldorf_1.100_summer", "version":"1", "type":"maps" },
+
 
 { "id":"map_skylark_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_skylark_1.100_summer", "version":"1", "type":"maps" },
@@ -3419,6 +3424,10 @@
 { "id":"map_bastion_summer", "version":"1", "type":"maps" },
 { "id":"map_berlin_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_berlin_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_berlin_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_berlin_mm_summer", "version":"1", "type":"maps" },
+{ "id":"map_berlin_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_berlin_mm_winter", "version":"1", "type":"maps" },
 { "id":"map_berlin_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_berlin_old_summer", "version":"1", "type":"maps" },
 { "id":"map_berlin_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3489,6 +3498,12 @@
 { "id":"map_bridges_summer", "version":"1", "type":"maps" },
 { "id":"map_bridges_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_bridges_winter", "version":"1", "type":"maps" },
+
+{ "id":"map_bryansk_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bryansk_old_summer", "version":"1", "type":"maps" },
+
+{ "id":"map_bunker_vektor_tv_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_bunker_vektor_tv_summer", "version":"1", "type":"maps" },
 { "id":"map_camp_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_camp_old_summer", "version":"1", "type":"maps" },
 { "id":"map_camp_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3529,6 +3544,8 @@
 { "id":"map_cologne_mm_winter", "version":"1", "type":"maps" },
 { "id":"map_cologne_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_cologne_summer", "version":"1", "type":"maps" },
+{ "id":"map_colony_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_colony_old_summer", "version":"1", "type":"maps" },
 { "id":"map_combe_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_combe_old_summer", "version":"1", "type":"maps" },
 { "id":"map_combe_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3573,13 +3590,30 @@
 { "id":"map_cryto_summer", "version":"1", "type":"maps" },
 { "id":"map_deathtrack_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_deathtrack_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_deathtrack_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_deathtrack_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_deathtrack_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_deathtrack_old_winter", "version":"1", "type":"maps" },
+{ "id":"map_deathtrack_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_deathtrack_summer", "version":"1", "type":"maps" },
+{ "id":"map_deathtrack_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_deathtrack_winter", "version":"1", "type":"maps" },
+{ "id":"map_deck_10_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_deck_10_summer", "version":"1", "type":"maps" },
+{ "id":"map_deck-9_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_deck-9_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_deck-9_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_deck-9_old_winter", "version":"1", "type":"maps" },
+{ "id":"map_deck-9_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_deck-9_summer", "version":"1", "type":"maps" },
+{ "id":"map_deck-9_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_deck-9_winter", "version":"1", "type":"maps" },
+{ "id":"map_depo_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_depo_summer", "version":"1", "type":"maps" },
 
 
-
-
-
-
-
+{ "id":"map_dusseldorf_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_dusseldorf_1.100_summer", "version":"1", "type":"maps" },
 { "id":"map_osa_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_osa_1.100_summer", "version":"1", "type":"maps" },
 { "id":"map_short_bridge_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3592,9 +3626,33 @@
 { "id":"map_siege_1.100_summer", "version":"1", "type":"maps" },
 { "id":"map_red_alert_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_red_alert_1.100_summer", "version":"1", "type":"maps" },
-
 { "id":"map_forest_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_forest_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_magistral_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_magistral_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_gubakha_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_gubakha_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_highways_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_highways_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_serpuhov_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_serpuhov_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_lost_temple_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_lost_temple_1.100_summer", "version":"1", "type":"maps" },
+{ "id":"map_tribute_1.100_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_tribute_1.100_summer", "version":"1", "type":"maps" },
+
+{ "id":"map_rio_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_rio_old_summer", "version":"1", "type":"maps" },
+{ "id":"map_lisevsk_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_lisevsk_old_summer", "version":"1", "type":"maps" },
+
+
+{ "id":"map_halloween_2016_vektor_tv_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_halloween_2016_vektor_tv_summer", "version":"1", "type":"maps" },
+{ "id":"map_village_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_village_summer", "version":"1", "type":"maps" },
+
+
 
 { "id":"map_port_2048_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_port_2048_summer", "version":"1", "type":"maps" },
@@ -3606,8 +3664,11 @@
 
 
 
-{ "id":"map_deathtrack_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_deck-9_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_dusseldorf_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_dusseldorf_mm_summer", "version":"1", "type":"maps" },
+{ "id":"map_dusseldorf_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_dusseldorf_mm_winter", "version":"1", "type":"maps" },
+
 { "id":"map_desert_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_desert_mm_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_duality_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3775,8 +3836,8 @@
 
 
 
-{ "id":"map_deathtrack_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_deck-9_summer", "version":"1", "type":"maps", "isLazy":true },
+
+
 { "id":"map_desert_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_desert_mm_summer", "version":"2", "type":"maps", "isLazy":true },
 { "id":"map_duality_summer", "version":"1", "type":"maps", "isLazy":true },
@@ -3858,10 +3919,8 @@
 
 
 
-{ "id":"map_deathtrack_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_deathtrack_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_deck-9_winter", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_deck-9_winter_preview", "version":"1", "type":"images", "isLazy":true },
+
+
 { "id":"map_duality_winter", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_duality_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_duel_winter", "version":"1", "type":"maps", "isLazy":true },
@@ -4067,15 +4126,9 @@
 
 
 
-{ "id":"map_deathtrack_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_deathtrack_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_deathtrack_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_deathtrack_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
 
-{ "id":"map_deck-9_old_summer", "version":"1", "type":"maps" },
-{ "id":"map_deck-9_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_deck-9_old_winter", "version":"1", "type":"maps" },
-{ "id":"map_deck-9_old_winter_preview", "version":"1", "type":"images", "isLazy":true },
+
+
 
 { "id":"map_desert_old_summer", "version":"1", "type":"maps" },
 { "id":"map_desert_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -4471,8 +4524,7 @@
 { "id":"map_westfield_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_gigabarda_summer", "version":"1", "type":"maps" },
 { "id":"map_gigabarda_summer_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_deck_10_summer", "version":"1", "type":"maps" },
-{ "id":"map_deck_10_summer_preview", "version":"1", "type":"images", "isLazy":true },
+
 
 { "id":"map_kungur_tx_summer", "version":"1", "type":"maps" },
 { "id":"map_kungur_tx_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -4632,6 +4684,8 @@
 
 { "id":"proplib_landscape_v2", "version":"1", "type":"proplibs" },
 { "id":"proplib_builds_v2", "version":"1", "type":"proplibs" },
+
+{ "id":"proplib_hangar_t", "version":"1", "type":"proplibs" },
 
 
 

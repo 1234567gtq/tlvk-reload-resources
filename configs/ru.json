@@ -135,9 +135,12 @@
 	"FLIGHT_TIME":"Время полёта (мс)",
 	
 	"HEADER_FUN_FUNCTIONS":"ВЕСЁЛЫЕ ФУНКЦИИ",
+	"CAMERA_SCALE_X":"Масштаб камеры по X:",
+	"CAMERA_SCALE_Y":"Масштаб камеры по Y:",
 	"CAMERA_SCALE_Z":"Масштаб камеры по Z:",
 	"SHOW_MAP":"Показывать карту",
 	"STANCE_WHEELS":"Stance-стиль для колёс GT-корпусов",
+	"CAMERA_COLLISION":"Коллизия камеры",
 	
 	"HEADER_UPGRADES":"УЛУЧШЕНИЯ",
 	

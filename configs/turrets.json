@@ -730,6 +730,24 @@
 				"descriptionEN":"If your enemies underestimate you, make them realize their mistake with a lick of your fire."
 			},
 			{
+				"id":"m0_legacy",
+				"name":"M0 (Legacy)",
+				"description":"TODO",
+				"isStandard":true
+			},
+			{
+				"id":"m1_legacy",
+				"name":"M1 (Legacy)",
+				"description":"TODO",
+				"isStandard":true
+			},
+			{
+				"id":"m2_legacy",
+				"name":"M2 (Legacy)",
+				"description":"TODO",
+				"isStandard":true
+			},
+			{
 				"id":"m3_legacy",
 				"name":"M3 (Legacy)",
 				"description":"TODO",
@@ -3250,13 +3268,15 @@
 		"skins":
 		[
 			{
-				"id":"m3",
+				"id":"hd",
 				"nameRU":"Стандартные настройки",
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
-				"icon":"standard"
+				"icon":"standard",
+				"emissionColor":"12849669",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"m0",
@@ -3275,6 +3295,13 @@
 			{
 				"id":"m2",
 				"name":"M2",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3",
+				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"

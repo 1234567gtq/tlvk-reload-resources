@@ -404,6 +404,39 @@
 			"loopLight":"isida_default_loop"
 		},
 		{
+			"id":"m0_legacy",
+			"idleBall":"shot_skin_isida_m3_legacy_idle",
+			"damageBall":"shot_skin_isida_m0_legacy_ball",
+			"damageRay":"shot_skin_isida_m0_legacy_ray",
+			"enemyStartLight":"isida_fire_enemy_start",
+			"enemyLoopLight":"isida_fire_enemy_loop",
+			"enemyBeamLight":"isida_fire_enemy_beam",
+			"startLight":"isida_default_start",
+			"loopLight":"isida_default_loop"
+		},
+		{
+			"id":"m1_legacy",
+			"idleBall":"shot_skin_isida_m3_legacy_idle",
+			"damageBall":"shot_skin_isida_m1_legacy_ball",
+			"damageRay":"shot_skin_isida_m1_legacy_ray",
+			"enemyStartLight":"isida_fire_enemy_start",
+			"enemyLoopLight":"isida_fire_enemy_loop",
+			"enemyBeamLight":"isida_fire_enemy_beam",
+			"startLight":"isida_default_start",
+			"loopLight":"isida_default_loop"
+		},
+		{
+			"id":"m2_legacy",
+			"idleBall":"shot_skin_isida_m3_legacy_idle",
+			"damageBall":"shot_skin_isida_m2_legacy_ball",
+			"damageRay":"shot_skin_isida_m2_legacy_ray",
+			"enemyStartLight":"isida_fire_enemy_start",
+			"enemyLoopLight":"isida_fire_enemy_loop",
+			"enemyBeamLight":"isida_fire_enemy_beam",
+			"startLight":"isida_default_start",
+			"loopLight":"isida_default_loop"
+		},
+		{
 			"id":"m3_legacy",
 			"idleBall":"shot_skin_isida_m3_legacy_idle",
 			"damageBall":"shot_skin_isida_m3_legacy_ball",

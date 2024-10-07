@@ -135,9 +135,12 @@
 	"FLIGHT_TIME":"Flight time (ms)",
 	
 	"HEADER_FUN_FUNCTIONS":"FUN FUNCTIONS",
+	"CAMERA_SCALE_X":"Camera scale X:",
+	"CAMERA_SCALE_Y":"Camera scale Y:",
 	"CAMERA_SCALE_Z":"Camera scale Z:",
 	"SHOW_MAP":"Show map",
 	"STANCE_WHEELS":"Stance style for GT wheels",
+	"CAMERA_COLLISION":"Camera collision",
 	
 	"HEADER_UPGRADES":"UPGRADES",
 	
