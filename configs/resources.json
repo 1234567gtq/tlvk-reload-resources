@@ -3652,6 +3652,9 @@
 { "id":"map_village_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_village_summer", "version":"1", "type":"maps" },
 
+{ "id":"map_unicorns_and_rainbow_summer_preview", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
+{ "id":"map_unicorns_and_rainbow_summer", "version":"1", "type":"maps", "isLocal":true },
+
 
 
 { "id":"map_port_2048_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -4054,7 +4057,7 @@
 { "id":"map_wolfenstein_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_wolfenstein_winter", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_wolfenstein_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_year_2042_mm_winter", "version":"1", "type":"maps", "isLazy":true },
+{ "id":"map_year_2042_mm_winter", "version":"2", "type":"maps", "isLazy":true },
 { "id":"map_year_2042_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_year_2042_winter", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_year_2042_winter_preview", "version":"1", "type":"images", "isLazy":true },
@@ -4082,7 +4085,7 @@
 { "id":"map_wolfenstein_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_wolfenstein_mm_summer", "version":"2", "type":"maps", "isLazy":true },
 { "id":"map_year_2042_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_year_2042_mm_summer", "version":"1", "type":"maps", "isLazy":true },
+{ "id":"map_year_2042_mm_summer", "version":"2", "type":"maps", "isLazy":true },
 { "id":"map_yorkshire_mm_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_zone_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_luxembourg_summer", "version":"1", "type":"maps", "isLazy":true },
