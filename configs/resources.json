@@ -3652,9 +3652,10 @@
 { "id":"map_village_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_village_summer", "version":"1", "type":"maps" },
 
-{ "id":"map_unicorns_and_rainbow_summer_preview", "version":"1", "type":"images", "isLazy":true, "isLocal":true },
-{ "id":"map_unicorns_and_rainbow_summer", "version":"1", "type":"maps", "isLocal":true },
-
+{ "id":"map_unicorns_and_rainbow_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_unicorns_and_rainbow_summer", "version":"1", "type":"maps" },
+{ "id":"map_forest_mm_remaster_summer_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"map_forest_mm_remaster_summer", "version":"1", "type":"maps" },
 
 
 { "id":"map_port_2048_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3864,7 +3865,7 @@
 { "id":"map_highways_mm_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_hill_summer", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_industrial_zone_summer", "version":"1", "type":"maps", "isLazy":true },
-{ "id":"map_industrial_zone_mm_summer", "version":"1", "type":"maps", "isLazy":true },
+{ "id":"map_industrial_zone_mm_summer", "version":"2", "type":"maps", "isLazy":true },
 
 
 { "id":"map_island_summer", "version":"1", "type":"maps", "isLazy":true },
@@ -3958,7 +3959,7 @@
 { "id":"map_highways_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_hill_winter", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_hill_winter_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"map_industrial_zone_mm_winter", "version":"1", "type":"maps", "isLazy":true },
+{ "id":"map_industrial_zone_mm_winter", "version":"2", "type":"maps" },
 { "id":"map_industrial_zone_mm_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_industrial_zone_winter", "version":"1", "type":"maps", "isLazy":true },
 { "id":"map_industrial_zone_winter_preview", "version":"1", "type":"images", "isLazy":true },
@@ -4540,6 +4541,8 @@
 { "id":"map_relay_race_winter", "version":"1", "type":"maps" },
 { "id":"map_relay_race_winter_preview", "version":"1", "type":"images", "isLazy":true },
 
+{ "id":"proplib_forest_mm_remaster", "version":"1", "type":"proplibs", "isLazy":true },
+
 { "id":"proplib_bush", "version":"1", "type":"proplibs", "isLazy":true },
 { "id":"proplib_city_buildings", "version":"1", "type":"proplibs", "isLazy":true },
 { "id":"proplib_city_builds", "version":"1", "type":"proplibs", "isLazy":true },
@@ -4689,6 +4692,7 @@
 { "id":"proplib_builds_v2", "version":"1", "type":"proplibs" },
 
 { "id":"proplib_hangar_t", "version":"1", "type":"proplibs" },
+
 
 
 

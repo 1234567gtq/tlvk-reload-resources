@@ -1159,7 +1159,14 @@
 		"category":"unofficial"
 	},
 	
-	
+	{
+		"id":"unicorns_and_rainbow_summer",
+		"nameRU":"Единороги и Радуга",
+		"nameEN":"Unicorns and Rainbow",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"special"
+	},
 	
 	
 	
@@ -1321,7 +1328,14 @@
 	
 	
 	
-	
+	{
+		"id":"forest_mm_remaster_summer",
+		"nameRU":"Форест ММ Remaster",
+		"nameEN":"Forest MM Remaster",
+		"skyBox":"remaster_day",
+		"theme":"summer_day_mm",
+		"category":"summer"
+	},
 	
 	
 	
