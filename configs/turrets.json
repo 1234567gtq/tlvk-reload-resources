@@ -533,6 +533,20 @@
 				"nameEN":"Snow",
 				"descriptionRU":"«Бой в снежки» — звучит как детская забава... Игры в сторону: обрушьтесь на врагов, словно снежная лавина.",
 				"descriptionEN":"A snowball fight sounds like fun... but yours will be more like an avalanche."
+			},
+			{
+				"id":"m0_legacy",
+				"name":"M0-M2 (Legacy)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true
+			},
+			{
+				"id":"m3_legacy",
+				"name":"M3 (Legacy)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true
 			}
 		]
 	},
@@ -1044,6 +1058,13 @@
 				"nameEN":"Blunderbuss",
 				"descriptionRU":"Обычный и критический уроны увеличены. Шанс критического урона и угол стрельбы повышены. Дальность поражения уменьшена.\nВ кассете только один выстрел, зато какой это выстрел! У такого выстрела увеличен обычный и критический урон. Разброс при выстреле и увеличен, но если повезёт, за один выстрел можно сдуть сразу несколько танков.",
 				"descriptionEN":"The number of shots in the magazine has been reduced to just one, but this single shot packs a powerful punch - the number of pellets and regular damage are increased. However, the bullet spread is increased, but with a lucky and skilled maneuver, you can blow away several enemies in one shot."
+			},
+			{
+				"id":"revolver",
+				"nameRU":"Револьвер",
+				"nameEN":"Revolver",
+				"descriptionRU":"Устройство имеет шесть выстрелов в кассете. Каждый третий выстрел имеет критический урон. Время перезарядки кассеты увеличено, но снижена перезарядка между выстрелами.\nПочувствуй себя ковбоем Дикого Запада, прояви свою индивидуальность и навыки выживания, раскрути барабан в своём револьвере и пусть противники боятся твоего неожиданного критического выстрела, влекущего за собой отправление на респаун.",
+				"descriptionEN":"The augment has six shots in the clip. Every third shot deals critical damage. The time for reloading the clip is increased, but the time between shots is reduced. Feel like a Wild West cowboy, show your individuality and survival skills, spin the drum of your revolver, and let your opponents fear your unexpected critical shot that leads to respawning."
 			},
 			{
 				"id":"dragons_breath",
@@ -1916,14 +1937,14 @@
 				"descriptionEN":"An engineer named Schrödinger succeeded in perfecting a mechanism to load ammunition in a clever way. This augment guarantees that every fourth shot will deal critical damage. How it works and how the engineer envisaged all the misses of the shooter still remains a mystery."
 			},
 			{
-				"id":"incendiary_rounds",
+				"id":"incendiary_rounds_smoky",
 				"nameRU":"Зажигательные снаряды",
 				"nameEN":"Incendiary rounds",
 				"descriptionRU":"Замена стандартных выстрелов на заряды, начинённые огнесмесью. Критическое попадание поджигает цель.",
 				"descriptionEN":"Replaces standard shots with rounds filled with an incendiary compound. On a critical shot, it ignites the target."
 			},
 			{
-				"id":"cryo_rounds",
+				"id":"cryo_rounds_smoky",
 				"nameRU":"Криоснаряды",
 				"nameEN":"Cryo rounds",
 				"descriptionRU":"Замена стандартных кумулятивных выстрелов на заряды с фреоном. Критическое попадание полностью замораживает цель.",
@@ -2164,7 +2185,7 @@
 		"skins":
 		[
 			{
-				"id":"m3",
+				"id":"hd",
 				"nameRU":"Стандартные настройки",
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
@@ -2194,6 +2215,15 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
+			},
+			{
+				"id":"m3",
+				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard",
+				"emissionColor":"441097",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"m0_old",
@@ -2290,7 +2320,7 @@
 				"descriptionEN":"Decreased firing speed allows for the barrels to cool down better, increasing damage and critical hit chance. The barrels wind up and wind down faster. This configuration increases tactical flexibility of the weapon and allows for longer uninterrupted fire."
 			},
 			{
-				"id":"reinforced_aiming_transmission",
+				"id":"reinforced_aiming_transmission_vulcan",
 				"nameRU":"Усиленные приводы наводки",
 				"nameEN":"Reinforced aiming transmission",
 				"descriptionRU":"Оптимизация приводов наведения для быстрого горизонтального прицеливания. Из-за оптимизации приводы вертикального наведения менее эффективны.",
@@ -2901,6 +2931,69 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"round_stabilization",
+				"nameRU":"Стабилизация снаряда",
+				"nameEN":"Round stabilization",
+				"descriptionRU":"Система наведения выбирает более предсказуемые траектории для снарядов, благодаря чему повышается пробивающая сила. Снаряд всегда наносит стабильный пронизывающий урон, без потери от расстояния и от количества целей на пути.",
+				"descriptionEN":"The aiming system computes a more predictable trajectory for shots, retaining power after piercing the target. Rounds always deal stable piercing damage that regardless of distance or number of targets in a row."
+			},
+			{
+				"id":"reinforced_aiming_transmission_railgun",
+				"nameRU":"Усиленные приводы наводки",
+				"nameEN":"Reinforced aiming transmission",
+				"descriptionRU":"Оптимизация приводов наведения для быстрого горизонтального прицеливания. Из-за оптимизации приводы вертикального наведения менее эффективны.",
+				"descriptionEN":"Optimization of the aiming transmission for fast horizontal aim. Due to optimization, vertical aiming transmission is less effective."
+			},
+			{
+				"id":"electromagnetic_accelerator_scout",
+				"nameRU":"Электромагнитный ускоритель «Скаут»",
+				"nameEN":"Electromagnetic accelerator \"Scout\"",
+				"descriptionRU":"Эта модификация поможет вам в динамичных поединках один на один. Ускоренная подготовка выстрела и сниженная перезарядка станут приятным бонусом. Обычный и критический урон снижены.",
+				"descriptionEN":"This modification will help you in dynamic one-on-one battles. The accelerated preparation for shots will create an unpleasant surprise for the enemy. Shot reload will take much less time. Regular and critical damage is reduced."
+			},
+			{
+				"id":"large_caliber_rounds",
+				"nameRU":"Крупнокалиберные снаряды",
+				"nameEN":"Large caliber rounds",
+				"descriptionRU":"Увеличенный калибр пушки требует больше времени для перезарядки, но увеличивает обычный и критический урон.",
+				"descriptionEN":"Large caliber of this turret requires much more time for reloading but increases regular and critical damage."
+			},
+			{
+				"id":"round_destabilization",
+				"nameRU":"Дестабилизация снаряда",
+				"nameEN":"Round destabilization",
+				"descriptionRU":"Горсть болтов и медных катушек, помещённая внутрь ускорителя, вносит ещё больший хаос в распределение итоговой поражающей силы снаряда. Стандартный урон будет несущественным, зато критический урон станет значительно сильнее.",
+				"descriptionEN":"A handful of bolts and copper coils is inserted into the accelerator - with interesting results. This slight alteration adds even more chaos into the distribution of the final power of the shot. The critical damage is increased while the default damage is negligible."
+			},
+			{
+				"id":"incendiary_rounds_railgun",
+				"nameRU":"Поджигающие снаряды",
+				"nameEN":"Incendiary rounds",
+				"descriptionRU":"Устройство нагревает снаряд прямо в стволе при выстреле. При критическом попадании такой снаряд поджигает цель.",
+				"descriptionEN":"Literally heats shells inside the barrel before shooting. Critical rounds set fire to the target."
+			},
+			{
+				"id":"cryo_rounds_railgun",
+				"nameRU":"Криоснаряды",
+				"nameEN":"Cryo rounds",
+				"descriptionRU":"Вариант Рельсы с криоснарядами. При каждом попадании такие снаряды замораживают цель. При критическом попадании длительность эффекта увеличивается.",
+				"descriptionEN":"A variant of Railgun with cryo-rounds. Each shot reduces the temperature of the targets that are hit by it."
+			},
+			{
+				"id":"stun_rounds",
+				"nameRU":"Оглушающие снаряды",
+				"nameEN":"Stun rounds",
+				"descriptionRU":"Перенастройка фазы накопления энергии перед выстрелом позволяет снарядам на короткое время оглушать цель при критическом попадании. Очень хорошо сбивает противников с толку и оказывает неоценимую помощь при обороне базы.",
+				"descriptionEN":"An improved process of concentrating energy before firing allows critical hits to stun targets shot for a short time when they are hit. Lets you confuse opponents and assist in the defence of your base. Takes more time to heat up the barrel before shooting."
+			},
+			{
+				"id":"hyperspace_rounds",
+				"nameRU":"Гиперпространственные снаряды",
+				"nameEN":"Hyperspace rounds",
+				"descriptionRU":"Для гиперпространственных снарядов любой танк, будь он вражеским или союзным, — не препятствие, а дополнительная возможность для разгона. Эффективность пушки теряется от расстояния. Урон таких снарядов увеличивается с каждым пробитием.",
+				"descriptionEN":"No tank — be it an ally or an enemy, is an obstacle for these hyperspace rounds - it is simply another chance to accelerate. Efficiency of the turret with this augment is distance-dependent. Damage from such shells increases each time they penetrate a tank."
 			}
 		],
 		"shotSkins":

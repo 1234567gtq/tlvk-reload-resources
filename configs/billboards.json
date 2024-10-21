@@ -1,55 +1,55 @@
-[	
-	{	
-		"id":"autumn_festival_2024",
-		"nameRU":"Осенний фестиваль 2024",
-		"nameEN":"Autumn Festival 2024"
+[
+	{
+		"id":"halloween_2024",
+		"nameRU":"Хэллоуин 2024",
+		"nameEN":"Halloween 2024"
 	},
-	{	
+	{
 		"id":"standard",
 		"nameRU":"Стандартный",
 		"nameEN":"Standard"
 	},
-	{	
-		"id":"reloaded",
-		"nameRU":"Стандартный (remaster)",
-		"nameEN":"Standard (remaster)"
-	},
-	{	
+	{
 		"id":"standard_without_logo",
 		"nameRU":"Стандартный (без логотипа)",
 		"nameEN":"Standard (without logo)"
+	},
+	{
+		"id":"standard_old",
+		"nameRU":"Стандартный (старый)",
+		"nameEN":"Standard (old)"
+	},
+	{
+		"id":"reloaded",
+		"nameRU":"Стандартный (ремастер)",
+		"nameEN":"Standard (remaster)"
 	},
 	{	
 		"id":"standard_summer_2012",
 		"nameRU":"Стандартный (релиз 1.100 лето)",
 		"nameEN":"Standard (release 1.100 summer)"
 	},
-	{	
+	{
 		"id":"standard_winter_2012",
 		"nameRU":"Стандартный (релиз 1.100 зима)",
 		"nameEN":"Standard (release 1.100 winter)"
 	},
-	{	
-		"id":"standard_old",
-		"nameRU":"Стандартный (старый)",
-		"nameEN":"Standard (old)"
-	},
-	{	
-		"id":"standard_new_logo",
-		"nameRU":"Стандартный (новый логотип)",
-		"nameEN":"Standard (new logo)"
-	},
-	{	
+	{
 		"id":"autumn_festival_2023",
 		"nameRU":"Осенний фестиваль 2023",
 		"nameEN":"Autumn Festival 2023"
 	},
-	{	
+	{
+		"id":"autumn_festival_2024",
+		"nameRU":"Осенний фестиваль 2024",
+		"nameEN":"Autumn Festival 2024"
+	},
+	{
 		"id":"black_friday_2023",
 		"nameRU":"Чёрная пятница 2023",
 		"nameEN":"Black Friday 2023"
 	},
-	{	
+	{
 		"id":"carnival_2021",
 		"nameRU":"Карнавал 2021",
 		"nameEN":"Сarnival 2021"
@@ -126,27 +126,27 @@
 	},
 	{	
 		"id":"halloween_2018",
-		"nameRU":"Хеллоуин 2018",
+		"nameRU":"Хэллоуин 2018",
 		"nameEN":"Halloween 2018"
 	},
 	{	
 		"id":"halloween_2019-2020",
-		"nameRU":"Хеллоуин 2019-2020",
-		"nameEN":"Halloween 2019-2020"
+		"nameRU":"Хэллоуин 2019",
+		"nameEN":"Halloween 2019"
 	},
 	{	
 		"id":"halloween_2021",
-		"nameRU":"Хеллоуин 2021",
+		"nameRU":"Хэллоуин 2021",
 		"nameEN":"Halloween 2021"
 	},
 	{	
 		"id":"halloween_2022",
-		"nameRU":"Хеллоуин 2022",
+		"nameRU":"Хэллоуин 2022",
 		"nameEN":"Halloween 2022"
 	},
 	{	
 		"id":"halloween_2023",
-		"nameRU":"Хеллоуин 2023",
+		"nameRU":"Хэллоуин 2023",
 		"nameEN":"Halloween 2023"
 	},
 	{	
@@ -196,8 +196,8 @@
 	},
 	{	
 		"id":"summer_festival_2022-2023",
-		"nameRU":"Летний фестиваль 2022-2023",
-		"nameEN":"Summer Festival 2022-2023"
+		"nameRU":"Летний фестиваль 2022",
+		"nameEN":"Summer Festival 2022"
 	},
 	{	
 		"id":"summer_festival_2024",
@@ -232,8 +232,8 @@
 	},
 	{	
 		"id":"tanker's_day_2017-2020",
-		"nameRU":"День танкиста 2017-2020",
-		"nameEN":"Tanker's Day 2017-2020"
+		"nameRU":"День танкиста 2017",
+		"nameEN":"Tanker's Day 2017"
 	},
 	{	
 		"id":"tanker's_day_2021",
@@ -245,179 +245,179 @@
 		"nameRU":"День танкиста 2022",
 		"nameEN":"Tanker's Day 2022"
 	},
-	{	
+	{
 		"id":"tanker's_day_2023",
 		"nameRU":"День танкиста 2023",
 		"nameEN":"Tanker's Day 2023"
 	},
-	{	
+	{
 		"id":"tanker's_day_2024",
 		"nameRU":"День танкиста 2024",
 		"nameEN":"Tanker's Day 2024"
 	},
-	{	
+	{
 		"id":"12_years",
 		"nameRU":"День рождения ТО – 12 лет",
 		"nameEN":"TO Birthday – 12 years"
 	},
-	{	
+	{
 		"id":"13_years",
 		"nameRU":"День рождения ТО – 13 лет",
 		"nameEN":"TO Birthday – 13 years"
 	},
-	{	
+	{
 		"id":"14_years",
 		"nameRU":"День рождения ТО – 14 лет",
 		"nameEN":"TO Birthday – 14 years"
 	},
-	{	
+	{
 		"id":"15_years",
 		"nameRU":"День рождения ТО – 15 лет",
 		"nameEN":"TO Birthday – 15 years"
 	},
-	{	
+	{
 		"id":"ufo_day_2021",
 		"nameRU":"День НЛО 2021",
 		"nameEN":"UFO Day 2021"
 	},
-	{	
+	{
 		"id":"ufo_day_2022",
 		"nameRU":"День НЛО 2022",
 		"nameEN":"UFO Day 2022"
 	},
-	{	
+	{
 		"id":"ufo_day_2023",
 		"nameRU":"День НЛО 2023",
 		"nameEN":"UFO Day 2023"
 	},
-	{	
+	{
 		"id":"ufo_day_2024",
 		"nameRU":"День НЛО 2024",
 		"nameEN":"UFO Day 2024"
 	},
-	{	
+	{
 		"id":"ultra_weekend_2020-2021",
-		"nameRU":"Ультра уикенд 2020-2021",
-		"nameEN":"Ultra Weekend 2020-2021"
+		"nameRU":"Ультра уикенд 2020",
+		"nameEN":"Ultra Weekend 2020"
 	},
-	{	
+	{
 		"id":"ultra_weekend_2023",
-		"nameRU":"Ультра уикенд 2023",
-		"nameEN":"Ultra Weekend 2023"
+		"nameRU":"Ультра уикенд 2023 (№1)",
+		"nameEN":"Ultra Weekend 2023 (№1)"
 	},
-	{	
+	{
 		"id":"ultra_weekend_2023_2",
 		"nameRU":"Ультра уикенд 2023 (№2)",
 		"nameEN":"Ultra Weekend 2023 (№2)"
 	},
-	{	
+	{
 		"id":"ultra_weekend_2023_3",
 		"nameRU":"Ультра уикенд 2023 (№3)",
 		"nameEN":"Ultra Weekend 2023 (№3)"
 	},
-	{	
+	{
 		"id":"valentine's_day_2020",
 		"nameRU":"День святого Валентина 2020",
 		"nameEN":"Valentine's Day 2020"
 	},
-	{	
+	{
 		"id":"valentine's_day_2022",
 		"nameRU":"День святого Валентина 2022",
 		"nameEN":"Valentine's Day 2022"
 	},
-	{	
+	{
 		"id":"valentine's_day_2024",
 		"nameRU":"День святого Валентина 2024",
 		"nameEN":"Valentine's Day 2024"
 	},
-	{	
+	{
 		"id":"8_march_2021",
 		"nameRU":"Женский день 2021",
 		"nameEN":"Women's Day 2021"
 	},
-	{	
+	{
 		"id":"xi_clan_championship_2018",
 		"nameRU":"XI Межклановый Чемпионат",
 		"nameEN":"XI Inter-clan Championship"
 	},
-	{	
+	{
 		"id":"alternativa",
 		"name":"Alternativa"
 	},
-	{	
+	{
 		"id":"alternativa3d",
 		"name":"Alternativa3d"
 	},
-	{	
+	{
 		"id":"alternativaplatform",
 		"name":"AlternativaPlatform"
 	},
-	{	
+	{
 		"id":"demolisher",
 		"nameRU":"Разрушитель",
 		"nameEN":"Demolisher"
 	},
-	{	
+	{
 		"id":"fwa",
 		"name":"FWA"
 	},
-	{	
-		"id":"grass",
-		"nameRU":"Трава",
-		"nameEN":"Grass"
-	},
-	{	
+	{
 		"id":"mashable_awards",
 		"name":"Mashable Awards"
 	},
-	{	
+	{
 		"id":"mashable_awards_final",
 		"nameRU":"Mashable Awards (финал)",
 		"nameEN":"Mashable Awards (final)"
 	},
-	{	
+	{
 		"id":"runet_award",
 		"nameRU":"Премия Рунета",
 		"nameEN":"Runet Award"
 	},
-	{	
+	{
+		"id":"standard_new_logo",
+		"nameRU":"Стандартный (новый логотип)",
+		"nameEN":"Standard (new logo)"
+	},
+	{
 		"id":"vasya_was_here",
 		"nameRU":"Здесь был Вася",
 		"nameEN":"Vasya was here"
 	},
-	{	
+	{
 		"id":"volvo_club",
 		"nameRU":"Клуб «Volvo»",
 		"nameEN":"«Volvo» Club"
 	},
-	{	
+	{
 		"id":"araumi",
 		"name":"Araumi"
 	},
-	{	
+	{
 		"id":"tlvk_reload",
 		"name":"TLVK: RELOAD"
 	},
-	{	
+	{
 		"id":"tlvk_reload_4_years",
 		"nameRU":"TLVK: RELOAD (4 года)",
 		"nameEN":"TLVK: RELOAD (4 years)"
 	},
-	{	
+	{
 		"id":"tlvk_reload_old",
 		"nameRU":"TLVK: RELOAD (старый)",
 		"nameEN":"TLVK: RELOAD (old)"
 	},
-	{	
+	{
 		"id":"vint",
 		"name":"Vint"
 	},
-	{	
+	{
 		"id":"tx_antaeus",
 		"nameRU":"Антей (Tanki X)",
 		"nameEN":"Antaeus (Tanki X)"
 	},
-	{	
+	{
 		"id":"tx_frontier",
 		"nameRU":"Фронтир (Tanki X)",
 		"nameEN":"Frontier (Tanki X)"

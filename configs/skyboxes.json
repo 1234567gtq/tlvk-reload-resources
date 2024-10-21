@@ -10,9 +10,14 @@
 		"nameEN":"Hills night"
 	},
 	{
+		"id":"hills_old_gray",
+		"nameRU":"Холмы (старые серые)",
+		"nameEN":"Hills (old gray)"
+	},
+	{
 		"id":"hills_old",
-		"nameRU":"Холмы (старые)",
-		"nameEN":"Hills (old)"
+		"nameRU":"Холмы (старые зелёные)",
+		"nameEN":"Hills (old green)"
 	},
 	{
 		"id":"mountains_day",
@@ -40,26 +45,6 @@
 		"nameEN":"Urban night"
 	},
 	{
-		"id":"cologne_day",
-		"nameRU":"Кёльн",
-		"nameEN":"Cologne"
-	},
-	{
-		"id":"desert_day",
-		"nameRU":"Пустыня",
-		"nameEN":"Desert"
-	},
-	{
-		"id":"iran_day",
-		"nameRU":"Иран",
-		"nameEN":"Iran"
-	},
-	{
-		"id":"iran_winter_day",
-		"nameRU":"Иран зима",
-		"nameEN":"Iran winter"
-	},
-	{
 		"id":"rio_day",
 		"nameRU":"Рио день",
 		"nameEN":"Rio day"
@@ -70,6 +55,16 @@
 		"nameEN":"Rio night"
 	},
 	{
+		"id":"cologne_day",
+		"nameRU":"Кёльн",
+		"nameEN":"Cologne"
+	},
+	{
+		"id":"desert_day",
+		"nameRU":"Пустыня",
+		"nameEN":"Desert"
+	},
+	{
 		"id":"winter_day",
 		"nameRU":"Зима",
 		"nameEN":"Winter"
@@ -78,6 +73,21 @@
 		"id":"winter_old",
 		"nameRU":"Зима (старая)",
 		"nameEN":"Winter (old)"
+	},
+	{
+		"id":"iran_day",
+		"nameRU":"Иран",
+		"nameEN":"Iran"
+	},
+	{
+		"id":"iran_old",
+		"nameRU":"Иран (старый)",
+		"nameEN":"Iran (old)"
+	},
+	{
+		"id":"iran_winter_day",
+		"nameRU":"Иран зима",
+		"nameEN":"Iran winter"
 	},
 	{
 		"id":"remaster_day",
@@ -95,24 +105,64 @@
 		"nameEN":"Remaster autumn"
 	},
 	{
-		"id":"release_1.100_day",
-		"nameRU":"Релиз 1.100",
-		"nameEN":"Release 1.100"
-	},
-	{
 		"id":"space_day",
 		"nameRU":"Космос",
 		"nameEN":"Space"
 	},
 	{
+		"id":"space_halloween_day",
+		"nameRU":"Космос (хэллоуин)",
+		"nameEN":"Space (halloween)"
+	},
+	{
 		"id":"halloween",
-		"nameRU":"Хеллоуин",
+		"nameRU":"Хэллоуин",
 		"nameEN":"Halloween"
 	},
 	{
 		"id":"new_year",
 		"nameRU":"Новый Год",
 		"nameEN":"New Year"
+	},
+	{
+		"id":"red_sky",
+		"nameRU":"Красное небо",
+		"nameEN":"Red sky"
+	},
+	{
+		"id":"release_1.100_day",
+		"nameRU":"Релиз 1.100",
+		"nameEN":"Release 1.100"
+	},
+	{
+		"id":"2.0_morning",
+		"nameRU":"Утро (Tanki Online 2.0)",
+		"nameEN":"Morning (Tanki Online 2.0)"
+	},
+	{
+		"id":"2.0_day",
+		"nameRU":"День (Tanki Online 2.0)",
+		"nameEN":"Day (Tanki Online 2.0)"
+	},
+	{
+		"id":"2.0_evening",
+		"nameRU":"Вечер (Tanki Online 2.0)",
+		"nameEN":"Evening (Tanki Online 2.0)"
+	},
+	{
+		"id":"2.0_night",
+		"nameRU":"Ночь (Tanki Online 2.0)",
+		"nameEN":"Night (Tanki Online 2.0)"
+	},
+	{
+		"id":"2.0_arena_night",
+		"nameRU":"Арена (Tanki Online 2.0)",
+		"nameEN":"Arena (Tanki Online 2.0)"
+	},
+	{
+		"id":"2.0_crash_day",
+		"nameRU":"Крушение (Tanki Online 2.0)",
+		"nameEN":"Crash (Tanki Online 2.0)"
 	},
 	{
 		"id":"tx_moon_night",

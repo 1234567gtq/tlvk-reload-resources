@@ -38,28 +38,24 @@
 		},
 		{
 			"id":"m0_legacy",
-			"isLegacy":true,
 			"particle":"shot_skin_flamethrower_m0_legacy_particle",
 			"startLight":"flamethrower_standard_start",
 			"loopLight":"flamethrower_standard_loop"
 		},
 		{
 			"id":"m1_legacy",
-			"isLegacy":true,
 			"particle":"shot_skin_flamethrower_m1_legacy_particle",
 			"startLight":"flamethrower_standard_start",
 			"loopLight":"flamethrower_standard_loop"
 		},
 		{
 			"id":"m2_legacy",
-			"isLegacy":true,
 			"particle":"shot_skin_flamethrower_m2_legacy_particle",
 			"startLight":"flamethrower_pink_start",
 			"loopLight":"flamethrower_pink_loop"
 		},
 		{
 			"id":"m3_legacy",
-			"isLegacy":true,
 			"particle":"shot_skin_flamethrower_m3_legacy_particle",
 			"startLight":"freeze_standard_start",
 			"loopLight":"freeze_standard_loop"
@@ -72,6 +68,71 @@
 			"loopLight":"flamethrower_rainbow_fake_loop"
 		}
 	],
+	"freeze":
+	[
+		{
+			"id":"standard",
+			"particle":"shot_skin_freeze_standard_particle",
+			"muzzle":"shot_skin_freeze_standard_muzzle",
+			"startLight":"freeze_standard_start",
+			"loopLight":"freeze_standard_loop"
+		},
+		{
+			"id":"darkmoon",
+			"particle":"shot_skin_freeze_darkmoon_particle",
+			"muzzle":"shot_skin_freeze_darkmoon_muzzle",
+			"startLight":"freeze_darkmoon_start",
+			"loopLight":"freeze_darkmoon_loop"
+		},
+		{
+			"id":"toxic",
+			"particle":"shot_skin_freeze_toxic_particle",
+			"muzzle":"shot_skin_freeze_toxic_muzzle",
+			"startLight":"freeze_toxic_start",
+			"loopLight":"freeze_toxic_loop"
+		},
+		{
+			"id":"cold",
+			"particle":"shot_skin_freeze_cold_particle",
+			"muzzle":"shot_skin_freeze_cold_muzzle",
+			"startLight":"freeze_cold_start",
+			"loopLight":"freeze_cold_loop"
+		},
+		{
+			"id":"snow",
+			"particle":"shot_skin_freeze_snow_particle",
+			"muzzle":"shot_skin_freeze_snow_muzzle",
+			"startLight":"freeze_snow_start",
+			"loopLight":"freeze_snow_loop"
+		},
+		{
+			"id":"m0_legacy",
+			"particle":"shot_skin_freeze_m0_legacy_particle",
+			"startLight":"freeze_standard_start",
+			"loopLight":"freeze_standard_loop"
+		},
+		{
+			"id":"m3_legacy",
+			"particle":"shot_skin_freeze_m3_legacy_particle",
+			"startLight":"freeze_snow_start",
+			"loopLight":"freeze_snow_loop"
+		}
+	],
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	"snowman":
 	[
 		{
@@ -578,44 +639,6 @@
 			"shotLight":"railgun_standard_shot",
 			"hitLight":"railgun_standard_hit",
 			"railLight":"railgun_standard_rail"
-		}
-	],
-	"freeze":
-	[
-		{
-			"id":"standard",
-			"particle":"shot_skin_freeze_standard_particle",
-			"muzzle":"shot_skin_freeze_standard_muzzle",
-			"startLight":"freeze_standard_start",
-			"loopLight":"freeze_standard_loop"
-		},
-		{
-			"id":"darkmoon",
-			"particle":"shot_skin_freeze_darkmoon_particle",
-			"muzzle":"shot_skin_freeze_darkmoon_muzzle",
-			"startLight":"freeze_darkmoon_start",
-			"loopLight":"freeze_darkmoon_loop"
-		},
-		{
-			"id":"toxic",
-			"particle":"shot_skin_freeze_toxic_particle",
-			"muzzle":"shot_skin_freeze_toxic_muzzle",
-			"startLight":"freeze_toxic_start",
-			"loopLight":"freeze_toxic_loop"
-		},
-		{
-			"id":"cold",
-			"particle":"shot_skin_freeze_cold_particle",
-			"muzzle":"shot_skin_freeze_cold_muzzle",
-			"startLight":"freeze_cold_start",
-			"loopLight":"freeze_cold_loop"
-		},
-		{
-			"id":"snow",
-			"particle":"shot_skin_freeze_snow_particle",
-			"muzzle":"shot_skin_freeze_snow_muzzle",
-			"startLight":"freeze_snow_start",
-			"loopLight":"freeze_snow_loop"
 		}
 	],
 	"bonk":
