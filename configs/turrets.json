@@ -19,6 +19,55 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Уникальный Огнемёт XT украшен оригинальным рисунком, стилизованным под голову огнедышащего дракона с горящими глазами.",
+				"descriptionEN":"The Unique Firebird XT is embellished with a unique ornament, styled after the head of a fire-breathing dragon with burning eyes.",
+				"icon":"xt",
+				"emissionColor":"16729344",
+				"emissionColorThreshold":"0.5"
+			},
+			{
+				"id":"dc",
+				"name":"Demonic",
+				"descriptionRU":"Если ты любитель жутких вечеринок и ярких образов, то новая коллекция скинов в стиле Demonic — как раз то, что ты ищешь! Если начать рассматривать уникальное покрытие этих скинов, можно сильно удивиться используемым материалам. Глаз древней совы, рука злобного хейтера, и всё это под плащом летучей мыши. Конечно, это декорации, но обладатель таких скинов, несомненно, поразит всех на поле боя.",
+				"descriptionEN":"If you are a fan of spooky parties and vivid images, the new Demonic skin collection is exactly what you've been looking for! Take a closer look at the unique coating of these skins, you might be surprised by the materials used. Ancient owl's eye and evil hand hidden under a bat wing. While these may just be decorations, the owner of these skins will undoubtedly amaze everyone on the battlefield.",
+				"icon":"dc",
+				"emissionColor":"15884800",
+				"emissionColorSecond":"16685824",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"dc_old",
+				"nameRU":"Demonic (старый)",
+				"nameEN":"Demonic (old)",
+				"descriptionRU":"Давно искали повод выпустить внутреннего демона наружу? А вот и он. Какой демон с вами сегодня — хитрый чёрт, злая ведьма или таинственный вампир?",
+				"descriptionEN":"Have you been looking for a way to unleash your inner demon for a long time? Here it is. Which demon will it be today — a cunning imp, an evil witch or a mysterious vampire?",
+				"icon":"dc",
+				"emissionColor":"16766507",
+				"emissionColorSecond":"16064276",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Скин, который особенно ценят ветераны Огнемёта. По экологическим причинам в нынешних скинах Огнемёта используется зажигательная смесь только высокой степени очистки, в то время как старые скины можно было заполнить практически всем, что горит. Так что этот Огнемёт не только выглядит антикварно, но и пахнет ностальгией, когда вы стреляете.",
+				"descriptionEN":"Firebird veterans especially prize this skin. For environmental reasons, only high-purity incendiary mix is used in the modern Firebird skins, while old skins could be filled with almost any liquid that burns. So not only does this Firebird look antique, but it also smells of nostalgia when you shoot.",
+				"icon":"lc",
+				"emissionColor":"5884149",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Специальная линейка GT скинов для пушек - это не только отличное дополнение для любого колёсного корпуса, но и проявление особой смелости. Не каждый танкист готов пожертвовать скрытностью и осторожностью на поле боя, ради того, чтобы продемонстрировать всю уникальность и особенность своего танка. Специальные засечки, напоминающие шрамы, оставленные хищником с большими когтями, и уникальные геометрические формы придают пушкам этой серии ещё более грозный и опасный вид. Новейшие разработки в области танкостроения и особый сплав белых металлов развязали руки конструкторам данного изделия, позволив впервые создать не только мощное, но и красивое оружие, которое никогда не будет просто так пылиться в гараже танкиста.",
+				"descriptionEN":"This special series of GT skins for turrets is not just a good addition to any wheeled hull but also a manifestation of extraordinary courage. Not every tanker is ready to sacrifice stealth and caution on the battlefield to flaunt the uniqueness and the peculiarity of his tank in their entirety. Special scars resembling claw marks left by a predator and unique geometric structure give turrets of these series an even more formidable and dangerous look. The latest developments in field tank construction and a special alloy of white metals «unshackled the hands» of designers of this product, allowing them for the first time in history to create not only powerful but also beautiful weapons that would otherwise just be gathering dust in a tanker's garage.",
+				"icon":"gt",
+				"emissionColor":"196607",
+				"emissionColorSecond":"16751360",
+				"emissionColorThreshold":"0.4"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
@@ -79,58 +128,9 @@
 				"icon":"standard"
 			},
 			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Уникальный Огнемёт XT украшен оригинальным рисунком, стилизованным под голову огнедышащего дракона с горящими глазами.",
-				"descriptionEN":"The Unique Firebird XT is embellished with a unique ornament, styled after the head of a fire-breathing dragon with burning eyes.",
-				"icon":"xt",
-				"emissionColor":"16729344",
-				"emissionColorThreshold":"0.5"
-			},
-			{
-				"id":"lc",
-				"name":"Legacy",
-				"descriptionRU":"Скин, который особенно ценят ветераны Огнемёта. По экологическим причинам в нынешних скинах Огнемёта используется зажигательная смесь только высокой степени очистки, в то время как старые скины можно было заполнить практически всем, что горит. Так что этот Огнемёт не только выглядит антикварно, но и пахнет ностальгией, когда вы стреляете.",
-				"descriptionEN":"Firebird veterans especially prize this skin. For environmental reasons, only high-purity incendiary mix is used in the modern Firebird skins, while old skins could be filled with almost any liquid that burns. So not only does this Firebird look antique, but it also smells of nostalgia when you shoot.",
-				"icon":"lc",
-				"emissionColor":"5884149",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"dc",
-				"name":"Demonic",
-				"descriptionRU":"Если ты любитель жутких вечеринок и ярких образов, то новая коллекция скинов в стиле Demonic — как раз то, что ты ищешь! Если начать рассматривать уникальное покрытие этих скинов, можно сильно удивиться используемым материалам. Глаз древней совы, рука злобного хейтера, и всё это под плащом летучей мыши. Конечно, это декорации, но обладатель таких скинов, несомненно, поразит всех на поле боя.",
-				"descriptionEN":"If you are a fan of spooky parties and vivid images, the new Demonic skin collection is exactly what you've been looking for! Take a closer look at the unique coating of these skins, you might be surprised by the materials used. Ancient owl's eye and evil hand hidden under a bat wing. While these may just be decorations, the owner of these skins will undoubtedly amaze everyone on the battlefield.",
-				"icon":"dc",
-				"emissionColor":"15884800",
-				"emissionColorSecond":"16685824",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"dc_old",
-				"nameRU":"Demonic (старый)",
-				"nameEN":"Demonic (old)",
-				"descriptionRU":"Давно искали повод выпустить внутреннего демона наружу? А вот и он. Какой демон с вами сегодня — хитрый чёрт, злая ведьма или таинственный вампир?",
-				"descriptionEN":"Have you been looking for a way to unleash your inner demon for a long time? Here it is. Which demon will it be today — a cunning imp, an evil witch or a mysterious vampire?",
-				"icon":"dc",
-				"emissionColor":"16766507",
-				"emissionColorSecond":"16064276",
-				"emissionColorThreshold":"0.6"
-			},
-			{
-				"id":"gt",
-				"name":"GT",
-				"descriptionRU":"Специальная линейка GT скинов для пушек - это не только отличное дополнение для любого колёсного корпуса, но и проявление особой смелости. Не каждый танкист готов пожертвовать скрытностью и осторожностью на поле боя, ради того, чтобы продемонстрировать всю уникальность и особенность своего танка. Специальные засечки, напоминающие шрамы, оставленные хищником с большими когтями, и уникальные геометрические формы придают пушкам этой серии ещё более грозный и опасный вид. Новейшие разработки в области танкостроения и особый сплав белых металлов развязали руки конструкторам данного изделия, позволив впервые создать не только мощное, но и красивое оружие, которое никогда не будет просто так пылиться в гараже танкиста.",
-				"descriptionEN":"This special series of GT skins for turrets is not just a good addition to any wheeled hull but also a manifestation of extraordinary courage. Not every tanker is ready to sacrifice stealth and caution on the battlefield to flaunt the uniqueness and the peculiarity of his tank in their entirety. Special scars resembling claw marks left by a predator and unique geometric structure give turrets of these series an even more formidable and dangerous look. The latest developments in field tank construction and a special alloy of white metals «unshackled the hands» of designers of this product, allowing them for the first time in history to create not only powerful but also beautiful weapons that would otherwise just be gathering dust in a tanker's garage.",
-				"icon":"gt",
-				"emissionColor":"196607",
-				"emissionColorSecond":"16751360",
-				"emissionColorThreshold":"0.4"
-			},
-			{
 				"id":"ut_old",
-				"nameRU":"Ultra (старый, неофициальный)",
-				"nameEN":"Ultra (old, unofficial)",
+				"nameRU":"Ultra (неофициальный старый)",
+				"nameEN":"Ultra (unofficial old)",
 				"description":"TODO",
 				"icon":"ut",
 				"emissionColor":"5884149",
@@ -293,6 +293,68 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Уникальный Фриз XT стилизован под голову мамонта. Крепкие серебряные бивни послужат отличным оружием для нападения или защиты от врагов.",
+				"descriptionEN":"Unique Freeze XT is designed to look like the head of a mammoth. Sturdy silver tusks will help you as a weapon against the enemies but also create a great protection.",
+				"icon":"xt",
+				"emissionColor":"16729344",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Этот скин, разработанный давным-давно, обходится самыми простыми технологиями. Гладкая броня из толстых стальных пластин надёжно скреплена и обеспечивает наилучшую защиту для встроенных охлаждающих устройств. Хоть они и потребляют много энергии, это не останавливает любителей старой боевой техники.",
+				"descriptionEN":"Designed eons ago, this skin makes the most of primitive technology. Riveted steel plates provide excellent protection for the onboard cooling apparatus. The extra weight increases fuel consumption dramatically, but that won't stop collectors of old combat antiques.",
+				"icon":"lc",
+				"emissionColor":"577535",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"lc_old",
+				"nameRU":"Legacy (до исправления)",
+				"nameEN":"Legacy (before correction)",
+				"descriptionRU":"Этот скин, разработанный давным-давно, обходится самыми простыми технологиями. Гладкая броня из толстых стальных пластин надёжно скреплена и обеспечивает наилучшую защиту для встроенных охлаждающих устройств. Хоть они и потребляют много энергии, это не останавливает любителей старой боевой техники.",
+				"descriptionEN":"Designed eons ago, this skin makes the most of primitive technology. Riveted steel plates provide excellent protection for the onboard cooling apparatus. The extra weight increases fuel consumption dramatically, but that won't stop collectors of old combat antiques.",
+				"icon":"lc"
+			},
+			{
+				"id":"se",
+				"name":"SE",
+				"descriptionRU":"Этот скин — новейшая разработка. Специалисты беспрестанно собирают и разбирают его, чтобы довести до совершенства. Чехол прячет пушку от любопытных глаз и защищает внутренние системы на полевых испытаниях, которые она сейчас проходит. Не пытайтесь снять чехол, иначе прототип может выйти из строя!",
+				"descriptionEN":"This skin is the latest development in turret technology. Specialists constantly assemble and disassemble it to bring it to perfection. The case hides the turret from prying eyes and protects its internal systems from the field trials it is currently undergoing. Do not try to remove the case, otherwise the prototype may fail!",
+				"icon":"se",
+				"emissionColor":"577535",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"ic",
+				"name":"IC",
+				"descriptionRU":"Фриз IC является первооткрывателем новой линейки скинов! Покрытый толстым слоем антарктического льда он внушает леденящий страх и ужас. Выгравированный лучшими мастерами своего дела образ ледяного дракона, который смотрит прямо в душу, и лишь один его взгляд превращает сердца врагов в ледяную глыбу, лишая их возможности мыслить и чувствовать, делая их танки безжизненными роботами. Пусть соперники увидят всю морозную мощь этого ледяного зверя!",
+				"descriptionEN":"«Freeze IC» is the pioneer of a new line of skins! A thick top-layer of ice taken from a remote Antarctic glacier inspires enemies with a chilling fear and terror. Engraved by master craftsmen, the imposing figure of an ice wyvern penetrates into the very soul of opponents. A single glance renders their hearts blocks of ice - left without mind or reason to become an aimless, lifeless hulk. Let the enemy witness the full might of this icy beast!",
+				"icon":"ic",
+				"emissionColor":"51455",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"xt_hd",
+				"name":"XT HD",
+				"descriptionRU":"Более детально и масштабно прорисованная модель пушки придаёт ей мощный и эффектный вид. Учтены все, даже самые мелкие детали! Зоркий взгляд орла, в который встроен супер технологичный лазерный прицел, позволяет рассмотреть противника даже на самых длинных картах. Мощные бивни мамонта из плиоцена, найденного археологами на секретных раскопках, установлены по бокам пушки, что придаёт ей колоссальное преимущество при столкновении в ближнем бою! Образ получился очень грозным и опасным, соперникам будет точно не по себе, когда они встретят вас на карте.",
+				"descriptionEN":"A more detailed and elaborately-drawn model of this turret, giving it a powerful and spectacular look. All the smallest details were taken into account! The watchful eagle eye, which has a built-in laser sight, lets you examine the opponent even when playing on the largest maps. Strong tusks of mammoths of the Pliocene, found during excavations, are installed on the sides of the turret, giving it enormous advantage in close combat! The skin turned out to be very fearsome and dangerous. Your opponent will definitely feel nervous when they meet you in a battle.",
+				"icon":"xt",
+				"emissionColor":"16726016",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Специальная линейка GT скинов для пушек - это не только отличное дополнение для любого колёсного корпуса, но и проявление особой смелости. Не каждый танкист готов пожертвовать скрытностью и осторожностью на поле боя, ради того, чтобы продемонстрировать всю уникальность и особенность своего танка. Специальные засечки, напоминающие шрамы, оставленные хищником с большими когтями, и уникальные геометрические формы придают пушкам этой серии ещё более грозный и опасный вид. Новейшие разработки в области танкостроения и особый сплав белых металлов развязали руки конструкторам данного изделия, позволив впервые создать не только мощное, но и красивое оружие, которое никогда не будет просто так пылиться в гараже танкиста.",
+				"descriptionEN":"This special series of GT skins for turrets is not just a good addition to any wheeled hull but also a manifestation of extraordinary courage. Not every tanker is ready to sacrifice stealth and caution on the battlefield to flaunt the uniqueness and the peculiarity of his tank in their entirety. Special scars resembling claw marks left by a predator and unique geometric structure give turrets of these series an even more formidable and dangerous look. The latest developments in field tank construction and a special alloy of white metals «unshackled the hands» of designers of this product, allowing them for the first time in history to create not only powerful but also beautiful weapons that would otherwise just be gathering dust in a tanker's garage.",
+				"icon":"gt",
+				"emissionColor":"577535",
+				"emissionColorThreshold":"0.6"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
@@ -353,78 +415,16 @@
 				"icon":"standard"
 			},
 			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Уникальный Фриз XT стилизован под голову мамонта. Крепкие серебряные бивни послужат отличным оружием для нападения или защиты от врагов.",
-				"descriptionEN":"Unique Freeze XT is designed to look like the head of a mammoth. Sturdy silver tusks will help you as a weapon against the enemies but also create a great protection.",
-				"icon":"xt",
-				"emissionColor":"16729344",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"xt_hd",
-				"name":"XT HD",
-				"descriptionRU":"Более детально и масштабно прорисованная модель пушки придаёт ей мощный и эффектный вид. Учтены все, даже самые мелкие детали! Зоркий взгляд орла, в который встроен супер технологичный лазерный прицел, позволяет рассмотреть противника даже на самых длинных картах. Мощные бивни мамонта из плиоцена, найденного археологами на секретных раскопках, установлены по бокам пушки, что придаёт ей колоссальное преимущество при столкновении в ближнем бою! Образ получился очень грозным и опасным, соперникам будет точно не по себе, когда они встретят вас на карте.",
-				"descriptionEN":"A more detailed and elaborately-drawn model of this turret, giving it a powerful and spectacular look. All the smallest details were taken into account! The watchful eagle eye, which has a built-in laser sight, lets you examine the opponent even when playing on the largest maps. Strong tusks of mammoths of the Pliocene, found during excavations, are installed on the sides of the turret, giving it enormous advantage in close combat! The skin turned out to be very fearsome and dangerous. Your opponent will definitely feel nervous when they meet you in a battle.",
-				"icon":"xt",
-				"emissionColor":"16726016",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"lc",
-				"name":"Legacy",
-				"descriptionRU":"Этот скин, разработанный давным-давно, обходится самыми простыми технологиями. Гладкая броня из толстых стальных пластин надёжно скреплена и обеспечивает наилучшую защиту для встроенных охлаждающих устройств. Хоть они и потребляют много энергии, это не останавливает любителей старой боевой техники.",
-				"descriptionEN":"Designed eons ago, this skin makes the most of primitive technology. Riveted steel plates provide excellent protection for the onboard cooling apparatus. The extra weight increases fuel consumption dramatically, but that won't stop collectors of old combat antiques.",
-				"icon":"lc",
-				"emissionColor":"577535",
-				"emissionColorThreshold":"0.6"
-			},
-			{
-				"id":"lc_old",
-				"nameRU":"Legacy (до исправления)",
-				"nameEN":"Legacy (before correction)",
-				"descriptionRU":"Этот скин, разработанный давным-давно, обходится самыми простыми технологиями. Гладкая броня из толстых стальных пластин надёжно скреплена и обеспечивает наилучшую защиту для встроенных охлаждающих устройств. Хоть они и потребляют много энергии, это не останавливает любителей старой боевой техники.",
-				"descriptionEN":"Designed eons ago, this skin makes the most of primitive technology. Riveted steel plates provide excellent protection for the onboard cooling apparatus. The extra weight increases fuel consumption dramatically, but that won't stop collectors of old combat antiques.",
-				"icon":"lc"
-			},
-			{
-				"id":"se",
-				"name":"SE",
-				"descriptionRU":"Этот скин — новейшая разработка. Специалисты беспрестанно собирают и разбирают его, чтобы довести до совершенства. Чехол прячет пушку от любопытных глаз и защищает внутренние системы на полевых испытаниях, которые она сейчас проходит. Не пытайтесь снять чехол, иначе прототип может выйти из строя!",
-				"descriptionEN":"This skin is the latest development in turret technology. Specialists constantly assemble and disassemble it to bring it to perfection. The case hides the turret from prying eyes and protects its internal systems from the field trials it is currently undergoing. Do not try to remove the case, otherwise the prototype may fail!",
-				"icon":"se",
-				"emissionColor":"577535",
-				"emissionColorThreshold":"0.6"
-			},
-			{
-				"id":"ic",
-				"name":"IC",
-				"descriptionRU":"Фриз IC является первооткрывателем новой линейки скинов! Покрытый толстым слоем антарктического льда он внушает леденящий страх и ужас. Выгравированный лучшими мастерами своего дела образ ледяного дракона, который смотрит прямо в душу, и лишь один его взгляд превращает сердца врагов в ледяную глыбу, лишая их возможности мыслить и чувствовать, делая их танки безжизненными роботами. Пусть соперники увидят всю морозную мощь этого ледяного зверя!",
-				"descriptionEN":"«Freeze IC» is the pioneer of a new line of skins! A thick top-layer of ice taken from a remote Antarctic glacier inspires enemies with a chilling fear and terror. Engraved by master craftsmen, the imposing figure of an ice wyvern penetrates into the very soul of opponents. A single glance renders their hearts blocks of ice - left without mind or reason to become an aimless, lifeless hulk. Let the enemy witness the full might of this icy beast!",
-				"icon":"ic",
-				"emissionColor":"51455",
-				"emissionColorThreshold":"0.6"
-			},
-			{
-				"id":"gt",
-				"name":"GT",
-				"descriptionRU":"Специальная линейка GT скинов для пушек - это не только отличное дополнение для любого колёсного корпуса, но и проявление особой смелости. Не каждый танкист готов пожертвовать скрытностью и осторожностью на поле боя, ради того, чтобы продемонстрировать всю уникальность и особенность своего танка. Специальные засечки, напоминающие шрамы, оставленные хищником с большими когтями, и уникальные геометрические формы придают пушкам этой серии ещё более грозный и опасный вид. Новейшие разработки в области танкостроения и особый сплав белых металлов развязали руки конструкторам данного изделия, позволив впервые создать не только мощное, но и красивое оружие, которое никогда не будет просто так пылиться в гараже танкиста.",
-				"descriptionEN":"This special series of GT skins for turrets is not just a good addition to any wheeled hull but also a manifestation of extraordinary courage. Not every tanker is ready to sacrifice stealth and caution on the battlefield to flaunt the uniqueness and the peculiarity of his tank in their entirety. Special scars resembling claw marks left by a predator and unique geometric structure give turrets of these series an even more formidable and dangerous look. The latest developments in field tank construction and a special alloy of white metals «unshackled the hands» of designers of this product, allowing them for the first time in history to create not only powerful but also beautiful weapons that would otherwise just be gathering dust in a tanker's garage.",
-				"icon":"gt",
-				"emissionColor":"577535",
-				"emissionColorThreshold":"0.6"
-			},
-			{
-				"id":"xt_fake_red",
-				"nameRU":"XT (неофициальный, красный)",
-				"nameEN":"XT (unofficial, red)",
+				"id":"xt_fake_blue",
+				"nameRU":"XT (неофициальный синий)",
+				"nameEN":"XT (unofficial blue)",
 				"description":"TODO",
 				"icon":"xt"
 			},
 			{
-				"id":"xt_fake_blue",
-				"nameRU":"XT (неофициальный, синий)",
-				"nameEN":"XT (unofficial, blue)",
+				"id":"xt_fake_red",
+				"nameRU":"XT (неофициальный красный)",
+				"nameEN":"XT (unofficial red)",
 				"description":"TODO",
 				"icon":"xt"
 			},
@@ -571,6 +571,32 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Элегантная Изида XT стилизована под голову ворона. Считается, что этот облик достаётся только лучшим боевым медикам, способным молниеносно прийти на помощь раненому бойцу.",
+				"descriptionEN":"This elegant Isida XT is styled to look like the head of a raven. It is worn with pride exclusively by the most dedicated field medics — those who are always in the line of fire to help those in need.",
+				"icon":"xt"
+			},
+			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Этот GT скин выглядит по-настоящему зрелищно благодаря своим энергетическим каналам из вольфрама, обёрнутым в стекловолокно ECR. Они транспортируют наномассу из хранилища энергии к магнитному излучателю, наделяя пушку зловещей пульсацией. При выстреле электроды на острие оружия выдвигаются и, кажется, буквально хотят схватить противника, будто челюсти муравья. В свою очередь, металлический сплав, встроенный в броню, не только устойчив к коррозии, но и может использовать наноботов из хранилища памяти для ремонта царапин и вмятин.",
+				"descriptionEN":"Energy channels made of tungsten wrapped in ECR glass fibers make this GT skin a real eye-catcher. They transport the nanomass from the energy storage to the magnetic emitter, causing the weapon to pulsate ominously. Electrodes at the tip of the weapon extend when firing, seemingly wanting to literally to grab the opponent as does the mandibles of an ant. In addition, the metal alloy built into the armor is not only corrosion resistant, but can tap nanobots from the reservoir to repair scratches and dents.\n\nIsida GT is truly not suitable for sneak attacks, being one that stands out from a mile away. Rather, a dynamic wheeled hull just demands an extraordinary turret.",
+				"icon":"gt",
+				"emissionColor":"16745779",
+				"emissionColorSecond":"15772230",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Скин пополняет простую и красивую ретро-коллекцию. Идеально подойдёт для ценителей старинного вооружения, а также для тех, кто ностальгирует по войнам прошлого. Изида LC — ваша пилюля от тоски по прежним временам.",
+				"descriptionEN":"Isida Legacy Skin replenishes the simple and beautiful retro collection. It is ideal for connoisseurs of vintage equipment and for those who are nostalgic for the wars of the past. Isida LC is your cure for nostalgia for the old days.",
+				"icon":"lc",
+				"emissionColor":"12844928",
+				"emissionColorThreshold":"0.4"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
@@ -629,32 +655,6 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
-			},
-			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Элегантная Изида XT стилизована под голову ворона. Считается, что этот облик достаётся только лучшим боевым медикам, способным молниеносно прийти на помощь раненому бойцу.",
-				"descriptionEN":"This elegant Isida XT is styled to look like the head of a raven. It is worn with pride exclusively by the most dedicated field medics — those who are always in the line of fire to help those in need.",
-				"icon":"xt"
-			},
-			{
-				"id":"lc",
-				"name":"Legacy",
-				"descriptionRU":"Скин пополняет простую и красивую ретро-коллекцию. Идеально подойдёт для ценителей старинного вооружения, а также для тех, кто ностальгирует по войнам прошлого. Изида LC — ваша пилюля от тоски по прежним временам.",
-				"descriptionEN":"Isida Legacy Skin replenishes the simple and beautiful retro collection. It is ideal for connoisseurs of vintage equipment and for those who are nostalgic for the wars of the past. Isida LC is your cure for nostalgia for the old days.",
-				"icon":"lc",
-				"emissionColor":"12844928",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"gt",
-				"name":"GT",
-				"descriptionRU":"Этот GT скин выглядит по-настоящему зрелищно благодаря своим энергетическим каналам из вольфрама, обёрнутым в стекловолокно ECR. Они транспортируют наномассу из хранилища энергии к магнитному излучателю, наделяя пушку зловещей пульсацией. При выстреле электроды на острие оружия выдвигаются и, кажется, буквально хотят схватить противника, будто челюсти муравья. В свою очередь, металлический сплав, встроенный в броню, не только устойчив к коррозии, но и может использовать наноботов из хранилища памяти для ремонта царапин и вмятин.",
-				"descriptionEN":"Energy channels made of tungsten wrapped in ECR glass fibers make this GT skin a real eye-catcher. They transport the nanomass from the energy storage to the magnetic emitter, causing the weapon to pulsate ominously. Electrodes at the tip of the weapon extend when firing, seemingly wanting to literally to grab the opponent as does the mandibles of an ant. In addition, the metal alloy built into the armor is not only corrosion resistant, but can tap nanobots from the reservoir to repair scratches and dents.\n\nIsida GT is truly not suitable for sneak attacks, being one that stands out from a mile away. Rather, a dynamic wheeled hull just demands an extraordinary turret.",
-				"icon":"gt",
-				"emissionColor":"16745779",
-				"emissionColorSecond":"15772230",
-				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"xt_fake",
@@ -899,6 +899,32 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Грозный Молот XT своим видом напоминает голову носорога. С этим скином в поединке вам не будет равных — нацельте рог на вашего врага и сокрушите его мощным ударом.\n\nP.S. При создании этого скина ни один носорог не пострадал.",
+				"descriptionEN":"Fearsome Hammer XT's look is inspired by the rhino's head. With this skin, nobody can withstand your impact in a fight. Target the enemy and crush it with your powerful strike.\n\nP.S. No rhinoceros was harmed in the making of this skin.",
+				"icon":"xt"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Молот, выкованный из сверхпрочного сплава — что может быть опаснее? Только скилловый игрок, в руках которого этот молот окажется!",
+				"descriptionEN":"Hammer forged from a super high strength alloy — what could be more dangerous? Only the skillful player who owns it!",
+				"icon":"lc",
+				"emissionColor":"16741907",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"dc",
+				"name":"Demonic",
+				"descriptionRU":"Новичкам придётся несладко. Ничего не подозревая, невинно едешь по миру и вдруг сталкиваешься с этой мёртвой гримасой Молота. Своим суровым убийственным взглядом он исследует жертву, застывшую в страхе смерти, будто олень в свете фар. От такой атаки нежити невозможно спастись, и этот пристальный взгляд навсегда врежется в вашу память.",
+				"descriptionEN":"Beginners will have a hard time. Suspecting nothing, you innocently ride through the world - and suddenly you meet the dead grimace of this Hammer. With its stern and murderous gaze, it examines the body of a victim frozen in fear of death, like a deer in headlights. You cannot escape from such an attack by the undead and you will be haunted by the memory of this gaze for all eternity.",
+				"icon":"dc",
+				"emissionColor":"15884800",
+				"emissionColorSecond":"16685824",
+				"emissionColorThreshold":"0.4"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
@@ -965,37 +991,11 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
-			},
-			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Грозный Молот XT своим видом напоминает голову носорога. С этим скином в поединке вам не будет равных — нацельте рог на вашего врага и сокрушите его мощным ударом.\n\nP.S. При создании этого скина ни один носорог не пострадал.",
-				"descriptionEN":"Fearsome Hammer XT's look is inspired by the rhino's head. With this skin, nobody can withstand your impact in a fight. Target the enemy and crush it with your powerful strike.\n\nP.S. No rhinoceros was harmed in the making of this skin.",
-				"icon":"xt"
-			},
-			{
-				"id":"lc",
-				"name":"Legacy",
-				"descriptionRU":"Молот, выкованный из сверхпрочного сплава — что может быть опаснее? Только скилловый игрок, в руках которого этот молот окажется!",
-				"descriptionEN":"Hammer forged from a super high strength alloy — what could be more dangerous? Only the skillful player who owns it!",
-				"icon":"lc",
-				"emissionColor":"16741907",
-				"emissionColorThreshold":"0.6"
-			},
-			{
-				"id":"dc",
-				"name":"Demonic",
-				"descriptionRU":"Новичкам придётся несладко. Ничего не подозревая, невинно едешь по миру и вдруг сталкиваешься с этой мёртвой гримасой Молота. Своим суровым убийственным взглядом он исследует жертву, застывшую в страхе смерти, будто олень в свете фар. От такой атаки нежити невозможно спастись, и этот пристальный взгляд навсегда врежется в вашу память.",
-				"descriptionEN":"Beginners will have a hard time. Suspecting nothing, you innocently ride through the world - and suddenly you meet the dead grimace of this Hammer. With its stern and murderous gaze, it examines the body of a victim frozen in fear of death, like a deer in headlights. You cannot escape from such an attack by the undead and you will be haunted by the memory of this gaze for all eternity.",
-				"icon":"dc",
-				"emissionColor":"15884800",
-				"emissionColorSecond":"16685824",
-				"emissionColorThreshold":"0.4"
-			},
+			},		
 			{
 				"id":"xt_test_fake",
-				"nameRU":"XT (тестовый, неофициальный)",
-				"nameEN":"XT (test, unofficial)",
+				"nameRU":"XT (неофициальный тестовый)",
+				"nameEN":"XT (unofficial test)",
 				"description":"TODO",
 				"icon":"xt",
 				"emissionColor":"14442253",
@@ -1197,6 +1197,48 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Твинс XT покрыт шкурой динозавра, чудесным образом сохранившейся невредимой в пещерах Южной Африки. Также при изготовлении скина использовалась лава из индонезийских вулканов, благодаря которой плазма приобретает по-настоящему огненную силу!",
+				"descriptionEN":"Twins XT is covered in the dinosaur hide preserved in the excellent condition among the caves of South Africa. Also infused with lava from the Indonesian volcanos, this skin turns plasma shots into a truly melting firepower!",
+				"icon":"xt",
+				"emissionColor":"13314560",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"sp",
+				"name":"SP",
+				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным. \n\nУчёные со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберёте на себе тысячи восхищённых взглядов. \n\nБронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид. \n\nСочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
+				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artefacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. \n\nBronze plates made of the rarest alloy will make your tank look powerful and fearsome. \n\nThe combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
+				"icon":"sp",
+				"emissionColor":"16633877",
+				"emissionColorSecond":"15823378",
+				"emissionColorThreshold":"0.3"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Суровая внешность этого скина словно пронзает ледяным взглядом из двух тел, так что аж топливо стынет в трубах. Старая закалка, она такая!",
+				"descriptionEN":"The harsh appearance of this skin seems to pierce the hearts of enemies with a cold look that comes from the two barrels so that even the fuel freezes in the pipes. That's old school cool!",
+				"icon":"lc"
+			},
+			{
+				"id":"rt",
+				"name":"RT",
+				"descriptionRU":"Это смелое сочетание ретро-стиля и футуристических технологий, которое создаёт уникальный дизайн. Этот скин с лёгкостью игнорирует границы времени и привносит в игру элементы дизайна прошлого, сочетая их с современными технологиями. Прямо между двумя дулами орудия расположена высокоточная прицельная система наведения. Как только вражеский танк появляется на пересечении горизонтальной и вертикальной красных линий, единственное, о чём нужно позаботиться владельцу скина — это вовремя зажать кнопку выстрела. А противнику остаётся лишь думать о том, как избежать повторения этой ситуации после респауна. Ослепительный хромированный корпус, оформленный в стиле 80-х, а также неоновая подсветка создают неповторимую атмосферу на поле боя. Этот скин точно удивит и впечатлит всех, кто окажется рядом. Если вы любитель нестандартных решений, получение этого скина должно встать на первое место в вашем списке дел.",
+				"descriptionEN":"A bold combination of futuristic technology and retro style creates this one-of-a-kind design. This skin easily ignores the boundaries of time, incorporating design elements of a past era with modern technologies.\n\nThere is a high-precision guidance system just right between the two barrels of the turret. As soon as an enemy tank appears at the intersection of the horizontal and vertical red lines, the owner of the skin needs only hold down the fire button, and his turret will do the rest. As for the enemy, he'll really need to figure out a way to avoid repeating this situation after respawning.\n\nThe dazzling 80s-inspired chrome body and neon lighting create a unique atmosphere on the battlefield. Anyone around this skin will definitely be pleasantly surprised and impressed. If you're a fan of non-standard solutions, getting this skin should be the first point on your to-do list.",
+				"icon":"rt"
+			},
+			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Специальная линейка GT скинов для пушек - это не только отличное дополнение для любого колёсного корпуса, но и проявление особой смелости. Не каждый танкист готов пожертвовать скрытностью и осторожностью на поле боя, ради того, чтобы продемонстрировать всю уникальность и особенность своего танка. Серия GT скинов для пушек это мощное и красивое оружие, которое создано для самых решительных и смелых игроков. Пушки GT отличаются уникальным дизайном, который делает их узнаваемыми на поле боя, оснащены передовыми технологиями и материалами и имеют стильный дизайн, который подчеркивает их мощь и элегантность.",
+				"descriptionEN":"This special series of GT skins for turrets is not just a good addition to any wheeled hull but also a manifestation of extraordinary courage. Not every tanker is ready to sacrifice stealth and caution on the battlefield to flaunt the uniqueness and the peculiarity of their tank in its entirety. The GT series of skins for turrets are powerful and beautiful weapons designed for the most determined and daring players. GT turrets stand out with their unique design, making them recognizable on the battlefield. They are equipped with advanced technologies and materials, and have a stylish design that emphasizes their power and elegance.",
+				"icon":"gt",
+				"emissionColor":"65525",
+				"emissionColorThreshold":"0.6"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
@@ -1257,62 +1299,11 @@
 				"icon":"standard"
 			},
 			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Твинс XT покрыт шкурой динозавра, чудесным образом сохранившейся невредимой в пещерах Южной Африки. Также при изготовлении скина использовалась лава из индонезийских вулканов, благодаря которой плазма приобретает по-настоящему огненную силу!",
-				"descriptionEN":"Twins XT is covered in the dinosaur hide preserved in the excellent condition among the caves of South Africa. Also infused with lava from the Indonesian volcanos, this skin turns plasma shots into a truly melting firepower!",
-				"icon":"xt",
-				"emissionColor":"13314560",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"lc",
-				"name":"Legacy",
-				"descriptionRU":"Суровая внешность этого скина словно пронзает ледяным взглядом из двух тел, так что аж топливо стынет в трубах. Старая закалка, она такая!",
-				"descriptionEN":"The harsh appearance of this skin seems to pierce the hearts of enemies with a cold look that comes from the two barrels so that even the fuel freezes in the pipes. That's old school cool!",
-				"icon":"lc"
-			},
-			{
-				"id":"sp",
-				"name":"SP",
-				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным. \n\nУчёные со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберёте на себе тысячи восхищённых взглядов. \n\nБронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид. \n\nСочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
-				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artefacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. \n\nBronze plates made of the rarest alloy will make your tank look powerful and fearsome. \n\nThe combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
-				"icon":"sp",
-				"emissionColor":"16633877",
-				"emissionColorSecond":"15823378",
-				"emissionColorThreshold":"0.3"
-			},
-			{
-				"id":"rt",
-				"name":"RT",
-				"descriptionRU":"Это смелое сочетание ретро-стиля и футуристических технологий, которое создаёт уникальный дизайн. Этот скин с лёгкостью игнорирует границы времени и привносит в игру элементы дизайна прошлого, сочетая их с современными технологиями. Прямо между двумя дулами орудия расположена высокоточная прицельная система наведения. Как только вражеский танк появляется на пересечении горизонтальной и вертикальной красных линий, единственное, о чём нужно позаботиться владельцу скина — это вовремя зажать кнопку выстрела. А противнику остаётся лишь думать о том, как избежать повторения этой ситуации после респауна. Ослепительный хромированный корпус, оформленный в стиле 80-х, а также неоновая подсветка создают неповторимую атмосферу на поле боя. Этот скин точно удивит и впечатлит всех, кто окажется рядом. Если вы любитель нестандартных решений, получение этого скина должно встать на первое место в вашем списке дел.",
-				"descriptionEN":"A bold combination of futuristic technology and retro style creates this one-of-a-kind design. This skin easily ignores the boundaries of time, incorporating design elements of a past era with modern technologies.\n\nThere is a high-precision guidance system just right between the two barrels of the turret. As soon as an enemy tank appears at the intersection of the horizontal and vertical red lines, the owner of the skin needs only hold down the fire button, and his turret will do the rest. As for the enemy, he'll really need to figure out a way to avoid repeating this situation after respawning.\n\nThe dazzling 80s-inspired chrome body and neon lighting create a unique atmosphere on the battlefield. Anyone around this skin will definitely be pleasantly surprised and impressed. If you're a fan of non-standard solutions, getting this skin should be the first point on your to-do list.",
-				"icon":"rt"
-			},
-			{
-				"id":"gt",
-				"name":"GT",
-				"descriptionRU":"Специальная линейка GT скинов для пушек - это не только отличное дополнение для любого колёсного корпуса, но и проявление особой смелости. Не каждый танкист готов пожертвовать скрытностью и осторожностью на поле боя, ради того, чтобы продемонстрировать всю уникальность и особенность своего танка. Серия GT скинов для пушек это мощное и красивое оружие, которое создано для самых решительных и смелых игроков. Пушки GT отличаются уникальным дизайном, который делает их узнаваемыми на поле боя, оснащены передовыми технологиями и материалами и имеют стильный дизайн, который подчеркивает их мощь и элегантность.",
-				"descriptionEN":"This special series of GT skins for turrets is not just a good addition to any wheeled hull but also a manifestation of extraordinary courage. Not every tanker is ready to sacrifice stealth and caution on the battlefield to flaunt the uniqueness and the peculiarity of their tank in its entirety. The GT series of skins for turrets are powerful and beautiful weapons designed for the most determined and daring players. GT turrets stand out with their unique design, making them recognizable on the battlefield. They are equipped with advanced technologies and materials, and have a stylish design that emphasizes their power and elegance.",
-				"icon":"gt",
-				"emissionColor":"65525",
-				"emissionColorThreshold":"0.6"
-			},
-			{
 				"id":"xt_fake",
 				"nameRU":"XT (неофициальный)",
 				"nameEN":"XT (unofficial)",
 				"description":"TODO",
 				"icon":"xt"
-			},
-			{
-				"id":"tx_xt",
-				"name":"XT (Tanki X)",
-				"descriptionRU":"«Твинс» стала одной из первых пушек будущего корпорации «Антей». Появилась она благодаря упавшим с неба кристаллам. Двуствольный плазмомёт — оружие маневренного боя, идеальное для подавления противника огнем. Не даёт врагу возможности сориентироваться и прицелиться под шквальным обстрелом, незаменима в маневренном сражении.",
-				"descriptionEN":"The Twins turret was one of the first guns of the future produced by Antaeus. It was created using the crystals that fell to earth in meteor showers. The double-barrel plasma cannon is a tactical battlefield weapon that is perfect for suppressing enemy fire. Do not let the enemy find their bearings and aim during a heavy bombardment. This is an indispensable weapon for Blitzkrieg warfare.",
-				"icon":"tx",
-				"emissionColor":"4521983",
-				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"tx_sp",
@@ -1324,6 +1315,15 @@
 				"emissionColor":"4186194",
 				"emissionColorSecond":"7581738",
 				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"tx_xt",
+				"name":"XT (Tanki X)",
+				"descriptionRU":"«Твинс» стала одной из первых пушек будущего корпорации «Антей». Появилась она благодаря упавшим с неба кристаллам. Двуствольный плазмомёт — оружие маневренного боя, идеальное для подавления противника огнем. Не даёт врагу возможности сориентироваться и прицелиться под шквальным обстрелом, незаменима в маневренном сражении.",
+				"descriptionEN":"The Twins turret was one of the first guns of the future produced by Antaeus. It was created using the crystals that fell to earth in meteor showers. The double-barrel plasma cannon is a tactical battlefield weapon that is perfect for suppressing enemy fire. Do not let the enemy find their bearings and aim during a heavy bombardment. This is an indispensable weapon for Blitzkrieg warfare.",
+				"icon":"tx",
+				"emissionColor":"4521983",
+				"emissionColorThreshold":"0.6"
 			}
 		],
 		"devices":
@@ -1450,7 +1450,35 @@
                 "nameEN":"Blaster",
                 "descriptionRU":"Зелёные лучи межгалактического бластера будут наносить сокрушительные удары, не оставляя ничего живого на своём пути.",
                 "descriptionEN":"The green LED rays of intergalactic blaster will inflict devastating blows, leaving nothing on their way."
-            }
+            },
+			{
+				"id":"m0_legacy",
+				"name":"M0 (Legacy)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true
+			},
+			{
+				"id":"m1_legacy",
+				"name":"M1 (Legacy)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true
+			},
+			{
+				"id":"m2_legacy",
+				"name":"M2 (Legacy)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true
+			},
+			{
+				"id":"m3_legacy",
+				"name":"M3 (Legacy)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true
+			}
 		]
 	},
 	{
@@ -1471,6 +1499,30 @@
 				"icon":"standard",
 				"emissionColor":"16743168",
 				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Рикошет XT стилизован под крокодилью пасть. Крепкие острые зубы заставят ваших врагов сто раз подумать, прежде чем нападать.",
+				"descriptionEN":"Ricochet XT is made to look like a crocodile maw, with sharp and long teeth that will make your enemies double guess their decision to approach you in future battles.",
+				"icon":"xt"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Мы вернулись в осень 2010 года, отыскали Рикошет и позаимствовали его внешний вид. Теперь Рик в старой графике бродит среди нас.",
+				"descriptionEN":"Ricochet gets a throwback to its very first skin from 2010. Take a trip down memory lane with Ricochet legacy.",
+				"icon":"lc",
+				"emissionColor":"16429326",
+				"emissionColorSecond":"7004188",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"rt",
+				"name":"RT",
+				"descriptionRU":"Существует легенда, что эти скины привёз на планету один из танкистов, чей космический корабль потерпел крушение. Ему удалось спастись, добравшись по обломкам корабля до спасательной капсулы. Во время полёта он хватал все артефакты, попадавшиеся на его пути, среди которых оказались эти скины. Они получили название «RetroFuture». Глаз не оторвать, правда?",
+				"descriptionEN":"There is a legend that was brought to the planet by a tanker whose spaceship crashed. He managed to survive by climbing over the spaceship's remains to the escape pod. During his space journey, he was collecting all the artifacts on his way, and these skins were one of them. They were named «RetroFuture». They're very good, aren't they?",
+				"icon":"rt"
 			},
 			{
 				"id":"m0",
@@ -1531,30 +1583,6 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
-			},
-			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Рикошет XT стилизован под крокодилью пасть. Крепкие острые зубы заставят ваших врагов сто раз подумать, прежде чем нападать.",
-				"descriptionEN":"Ricochet XT is made to look like a crocodile maw, with sharp and long teeth that will make your enemies double guess their decision to approach you in future battles.",
-				"icon":"xt"
-			},
-			{
-				"id":"lc",
-				"name":"Legacy",
-				"descriptionRU":"Мы вернулись в осень 2010 года, отыскали Рикошет и позаимствовали его внешний вид. Теперь Рик в старой графике бродит среди нас.",
-				"descriptionEN":"Ricochet gets a throwback to its very first skin from 2010. Take a trip down memory lane with Ricochet legacy.",
-				"icon":"lc",
-				"emissionColor":"16429326",
-				"emissionColorSecond":"7004188",
-				"emissionColorThreshold":"0.6"
-			},
-			{
-				"id":"rt",
-				"name":"RT",
-				"descriptionRU":"Существует легенда, что эти скины привёз на планету один из танкистов, чей космический корабль потерпел крушение. Ему удалось спастись, добравшись по обломкам корабля до спасательной капсулы. Во время полёта он хватал все артефакты, попадавшиеся на его пути, среди которых оказались эти скины. Они получили название «RetroFuture». Глаз не оторвать, правда?",
-				"descriptionEN":"There is a legend that was brought to the planet by a tanker whose spaceship crashed. He managed to survive by climbing over the spaceship's remains to the escape pod. During his space journey, he was collecting all the artifacts on his way, and these skins were one of them. They were named «RetroFuture». They're very good, aren't they?",
-				"icon":"rt"
 			},
 			{
 				"id":"xt_fake",
@@ -1727,6 +1755,29 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Создатель XT-скина для Смоки провёл несколько лет в тропических лесах Южной Америки, изучая жизнь анаконд. Вернувшись домой, он решил воспроизвести образ этой огромной змеи в танковой пушке — так появился этот скин.",
+				"descriptionEN":"Creator of XT-skin for Smoky spent several years among the tropical forests of South America, learning anacondas. After returning home, he wanted to recreate the image of the giant snake in a tank turret — and that's how it's made.",
+				"icon":"xt"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Здравствуй, товарищ! Олдскул снова становится горячим трендом! Простой, без лишней вычурности, этот Legacy скин для Смоки вернёт теплоту и атмосферность прежних лет.",
+				"descriptionEN":"Hello, comrade! Old school is back in fashion. Simple and with no excessive pretentiousness, this Legacy skin for Smoky brings back the warmth and cosiness of the old times.",
+				"icon":"lc"
+			},
+			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Возьмите одну из самых популярных пушек в игре, добавьте передовые инженерные технологии и позвольте талантливым дизайнерам поколдовать над обликом. Это и есть рецепт неповторимого скина «Смоки GT».\n\nДля разработки этого скина использовался широкий спектр технологий моделирования и инновационных моделирующих комплексов. В результате появился уникальный скин, впечатляющий роскошными материалами отделки. Его корпус собирали вручную из-за сложной технологии производства. Это существенно подняло цену модели и повысило престижность скина.",
+				"descriptionEN":"Take one of the most popular turrets in the game, add some cutting-edge engineering technologies, and let the talented designers do their job.\n\nThat's the recipe for this unique Smoky GT skin.\n\nA wide range of modeling technologies and techniques were used to develop this skin. The result is a distinctive skin that catches the eye with its luxurious finishing. Its body was assembled by hand due to its difficult production technology. This significantly raised the price of this model, increasing the prestige associated with it.",
+				"icon":"gt",
+				"emissionColor":"64767",
+				"emissionColorThreshold":"0.4"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
@@ -1795,43 +1846,6 @@
 				"icon":"xt"
 			},
 			{
-				"id":"pumpkin_old",
-				"nameRU":"Тыква (старый)",
-				"nameEN":"Pumpkin (old)",
-				"description":"TODO",
-				"icon":"xt"
-			},
-			{
-				"id":"snowman_old",
-				"nameRU":"Снеговик (старый)",
-				"nameEN":"Snowman (old)",
-				"description":"TODO",
-				"icon":"xt"
-			},
-			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Создатель XT-скина для Смоки провёл несколько лет в тропических лесах Южной Америки, изучая жизнь анаконд. Вернувшись домой, он решил воспроизвести образ этой огромной змеи в танковой пушке — так появился этот скин.",
-				"descriptionEN":"Creator of XT-skin for Smoky spent several years among the tropical forests of South America, learning anacondas. After returning home, he wanted to recreate the image of the giant snake in a tank turret — and that's how it's made.",
-				"icon":"xt"
-			},
-			{
-				"id":"lc",
-				"name":"Legacy",
-				"descriptionRU":"Здравствуй, товарищ! Олдскул снова становится горячим трендом! Простой, без лишней вычурности, этот Legacy скин для Смоки вернёт теплоту и атмосферность прежних лет.",
-				"descriptionEN":"Hello, comrade! Old school is back in fashion. Simple and with no excessive pretentiousness, this Legacy skin for Smoky brings back the warmth and cosiness of the old times.",
-				"icon":"lc"
-			},
-			{
-				"id":"gt",
-				"name":"GT",
-				"descriptionRU":"Возьмите одну из самых популярных пушек в игре, добавьте передовые инженерные технологии и позвольте талантливым дизайнерам поколдовать над обликом. Это и есть рецепт неповторимого скина «Смоки GT».\n\nДля разработки этого скина использовался широкий спектр технологий моделирования и инновационных моделирующих комплексов. В результате появился уникальный скин, впечатляющий роскошными материалами отделки. Его корпус собирали вручную из-за сложной технологии производства. Это существенно подняло цену модели и повысило престижность скина.",
-				"descriptionEN":"Take one of the most popular turrets in the game, add some cutting-edge engineering technologies, and let the talented designers do their job.\n\nThat's the recipe for this unique Smoky GT skin.\n\nA wide range of modeling technologies and techniques were used to develop this skin. The result is a distinctive skin that catches the eye with its luxurious finishing. Its body was assembled by hand due to its difficult production technology. This significantly raised the price of this model, increasing the prestige associated with it.",
-				"icon":"gt",
-				"emissionColor":"64767",
-				"emissionColorThreshold":"0.4"
-			},
-			{
 				"id":"release_1.100_1",
 				"nameRU":"Релиз 1.100 (1)",
 				"nameEN":"Release 1.100 (1)",
@@ -1844,6 +1858,20 @@
 				"nameEN":"Release 1.100 (2)",
 				"description":"TODO",
 				"icon":"standard"
+			},
+			{
+				"id":"pumpkin_old",
+				"nameRU":"Тыква (старый)",
+				"nameEN":"Pumpkin (old)",
+				"description":"TODO",
+				"icon":"xt"
+			},
+			{
+				"id":"snowman_old",
+				"nameRU":"Снеговик (старый)",
+				"nameEN":"Snowman (old)",
+				"description":"TODO",
+				"icon":"xt"
 			},
 			{
 				"id":"xt_fake",
@@ -1995,6 +2023,23 @@
 				"icon":"standard"
 			},
 			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Создатели этого скина были вдохновлены подводным миром, полным опасностей, и его загадочными обитателями. Пронзительный взгляд морского демона словно держит врагов на прицеле, а хищная мурена готова вцепиться своими острыми зубами в любую мишень.",
+				"descriptionEN":"The designers of this skin were inspired by the marine underworld, full of dangers and mysterious inhabitants. The intimidating stare of a goliath as it muscles its way through thick schools of fish, and the rapacious moray eel as it prepares to sink its sharp teeth into its prey.",
+				"icon":"xt"
+			},
+			{
+				"id":"ut",
+				"name":"Ultra",
+				"descriptionRU":"Вам нравится свист и шипение набирающих скорость ракет Страйкера? С этим скином Ультра стрелять залпом станет вдвойне приятнее.",
+				"descriptionEN":"The \"whoooosh\" of a Striker's salvo is one of the coolest sounds in the game. Complete the picture by equipping this cool Ultra Skin.",
+				"icon":"ut",
+				"emissionColor":"14768643",
+				"emissionColorSecond":"1674186",
+				"emissionColorThreshold":"0.4"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
@@ -2017,29 +2062,11 @@
 			},
 			{
 				"id":"demo",
-				"nameRU":"Тестовая версия",
-				"nameEN":"Test version",
+				"nameRU":"M3 (тестовый)",
+				"nameEN":"M3 (test)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"isStandard":true,
 				"icon":"standard"
-			},
-			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Создатели этого скина были вдохновлены подводным миром, полным опасностей, и его загадочными обитателями. Пронзительный взгляд морского демона словно держит врагов на прицеле, а хищная мурена готова вцепиться своими острыми зубами в любую мишень.",
-				"descriptionEN":"The designers of this skin were inspired by the marine underworld, full of dangers and mysterious inhabitants. The intimidating stare of a goliath as it muscles its way through thick schools of fish, and the rapacious moray eel as it prepares to sink its sharp teeth into its prey.",
-				"icon":"xt"
-			},
-			{
-				"id":"ut",
-				"name":"Ultra",
-				"descriptionRU":"Вам нравится свист и шипение набирающих скорость ракет Страйкера? С этим скином Ультра стрелять залпом станет вдвойне приятнее.",
-				"descriptionEN":"The \"whoooosh\" of a Striker's salvo is one of the coolest sounds in the game. Complete the picture by equipping this cool Ultra Skin.",
-				"icon":"ut",
-				"emissionColor":"14768643",
-				"emissionColorSecond":"1674186",
-				"emissionColorThreshold":"0.4"
 			}
 		],
 		"devices":
@@ -2196,6 +2223,42 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Уникальная модель Вулкана, отличающаяся от стандартной версии пушки необычным внешним видом. Башня покрыта золотой змеиной кожей и инкрустирована рубинами, напоминающими глаза змеи.",
+				"descriptionEN":"A unique version of Vulcan, different from its standard counterpart thanks to its truly special looks. The turret is covered with golden armor plating resembling snakeskin. These aggressive looks are finished with two extremely rare rubies that look like the eyes of an ancient beast.",
+				"icon":"xt"
+			},
+			{
+				"id":"pr",
+				"name":"Prime",
+				"descriptionRU":"Вулкан в жарких сражениях всегда находится на стороне победителей. С этим скином вы будете не только доминировать в бою, но и потрясающе выглядеть.",
+				"descriptionEN":"The Vulcan turret is always on the winning side of a heated discussion. Now, your Vulcan can keep winning arguments, and look cool doing it.",
+				"icon":"pr",
+				"emissionColor":"4481477",
+				"emissionColorSecond":"14839070",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"ut",
+				"name":"Ultra",
+				"descriptionRU":"Король скорострельности — теперь с новым скином Ультра. Он поможет вам уничтожать вражеские танки не только эффективно, но и грациозно.",
+				"descriptionEN":"The king of rapid-firing gets a cool Ultra skin. Rip your enemies to shreds and look good doing it.",
+				"icon":"ut",
+				"emissionColor":"65269",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"dc",
+				"name":"Demonic",
+				"descriptionRU":"Позволь силам тьмы овладеть тобой и твоей пушкой! Умелые лапы этого монстра направят огонь вашего орудия прямо на противника. Он настолько горяч, что пули плавятся под эффектом этого огненного дыхания, вылетая из дула. Корпусу противника не поздоровится, сгусток чистой магмы пробьёт его насквозь! Враг, знай: увидев его глаза, можно смело прощаться с жизнью.",
+				"descriptionEN":"Let the forces of darkness envelop you and your turret! The mighty paws of the monsters will point the trajectory of your shots right onto the enemies! The pellets are so hot that they melt under the effect of fiery breath as they fly out of the muzzle. The hulls of your opponents will be in big trouble as clots of hot magma pierce through them. Let the enemy know that once you look into their eyes, the end is near!",
+				"icon":"dc",
+				"emissionColor":"15884800",
+				"emissionColorSecond":"16685824",
+				"emissionColorThreshold":"0.4"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
@@ -2256,42 +2319,6 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
-			},
-			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Уникальная модель Вулкана, отличающаяся от стандартной версии пушки необычным внешним видом. Башня покрыта золотой змеиной кожей и инкрустирована рубинами, напоминающими глаза змеи.",
-				"descriptionEN":"A unique version of Vulcan, different from its standard counterpart thanks to its truly special looks. The turret is covered with golden armor plating resembling snakeskin. These aggressive looks are finished with two extremely rare rubies that look like the eyes of an ancient beast.",
-				"icon":"xt"
-			},
-			{
-				"id":"pr",
-				"name":"Prime",
-				"descriptionRU":"Вулкан в жарких сражениях всегда находится на стороне победителей. С этим скином вы будете не только доминировать в бою, но и потрясающе выглядеть.",
-				"descriptionEN":"The Vulcan turret is always on the winning side of a heated discussion. Now, your Vulcan can keep winning arguments, and look cool doing it.",
-				"icon":"pr",
-				"emissionColor":"4481477",
-				"emissionColorSecond":"14839070",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"ut",
-				"name":"Ultra",
-				"descriptionRU":"Король скорострельности — теперь с новым скином Ультра. Он поможет вам уничтожать вражеские танки не только эффективно, но и грациозно.",
-				"descriptionEN":"The king of rapid-firing gets a cool Ultra skin. Rip your enemies to shreds and look good doing it.",
-				"icon":"ut",
-				"emissionColor":"65269",
-				"emissionColorThreshold":"0.6"
-			},
-			{
-				"id":"dc",
-				"name":"Demonic",
-				"descriptionRU":"Позволь силам тьмы овладеть тобой и твоей пушкой! Умелые лапы этого монстра направят огонь вашего орудия прямо на противника. Он настолько горяч, что пули плавятся под эффектом этого огненного дыхания, вылетая из дула. Корпусу противника не поздоровится, сгусток чистой магмы пробьёт его насквозь! Враг, знай: увидев его глаза, можно смело прощаться с жизнью.",
-				"descriptionEN":"Let the forces of darkness envelop you and your turret! The mighty paws of the monsters will point the trajectory of your shots right onto the enemies! The pellets are so hot that they melt under the effect of fiery breath as they fly out of the muzzle. The hulls of your opponents will be in big trouble as clots of hot magma pierce through them. Let the enemy know that once you look into their eyes, the end is near!",
-				"icon":"dc",
-				"emissionColor":"15884800",
-				"emissionColorSecond":"16685824",
-				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"tx_m0",
@@ -2355,7 +2382,7 @@
 				"descriptionEN":"Adds splash damage and increases angles of bullet ricochet. A version of machine gun filled with explosive bullets. It deals damage not only to the first target, but also to surrounding enemies increasing the chances of victory. Better bouncing settings of bullets lets you \"feel\" an enemy behind an obstacle with its shrapnel damage. Use this tactical element in combat to weaken or destroy your opponents."
 			},
 			{
-				"id":"large_caliber",
+				"id":"large_caliber_vulcan",
 				"nameRU":"Крупный калибр",
 				"nameEN":"Large caliber",
 				"descriptionRU":"Скорость стрельбы снижена. Стандартный урон повышен. Скорости раскрутки и торможения стволов, сила отдачи и сила удара — увеличены.\nМодификация тяжёлого пулемёта. Стреляет медленно, но очень больно для противника. Каждое попадание пули — настоящий вызов для стойкости врага!",
@@ -2413,6 +2440,60 @@
 				"icon":"standard",
 				"emissionColor":"64255",
 				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Эксклюзивный Гром XT заставит вас почувствовать себя в шкуре грозного хищного зверя.",
+				"descriptionEN":"The exclusive Thunder XT will give you the feeling of slipping into the skin of a seasoned northern predator.",
+				"icon":"xt",
+				"emissionColor":"16728349",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Legacy-скин для Грома поможет вам окунуться в атмосферу «старых Танков». А если вы старожил игры — сможете вспомнить ваши ощущения от первых боёв.",
+				"descriptionEN":"Legacy-skin for Thunder will help you return to the old atmosphere of Tanki, and if you're a veteran player -- remember your best times going into the first battle.",
+				"icon":"lc"
+			},
+			{
+				"id":"pr",
+				"name":"Prime",
+				"descriptionRU":"Гром — первая пушка, получившая скин из новой серии Prime. Этот скин подчёркивает брутальность пушки и серьёзность намерений её владельца. Зачем красоваться, когда можно сильно ударить!",
+				"descriptionEN":"Thunder is the first turret to receive a skin from the new Prime series. This skin reflects Thunder's no-nonsense and impactful style. Because a turret doesn't need to show off when it can punch hard.",
+				"icon":"pr",
+				"emissionColor":"16769857",
+				"emissionColorSecond":"907774",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"ut",
+				"name":"Ultra",
+				"descriptionRU":"В умелых руках Гром грациозен и смертоносен. А с новым скином Ультра он выглядит ещё круче!",
+				"descriptionEN":"In the right hands, Thunder is as graceful as it is deadly. And with this Ultra skin, it also looks downright cool.",
+				"icon":"ut",
+				"emissionColor":"720890",
+				"emissionColorSecond":"15243011",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Специальная линейка GT скинов для пушек - это не только отличное дополнение для любого колёсного корпуса, но и проявление особой смелости. Не каждый танкист готов пожертвовать скрытностью и осторожностью на поле боя, ради того, чтобы продемонстрировать всю уникальность и особенность своего танка.",
+				"descriptionEN":"This special series of GT skins for turrets is not just a good addition to any wheeled hull but also a manifestation of extraordinary courage. Not every tanker is ready to sacrifice stealth and caution on the battlefield to flaunt the uniqueness and the peculiarity of his tank in their entirety.\n\nThe latest developments in field tank construction and a special alloy of white metals \"unshackled the hands\" of designers of this product, allowing them for the first time in history to create not only powerful but also beautiful weapons that would otherwise just be gathering dust in a tanker's garage.",
+				"icon":"gt",
+				"emissionColor":"64255",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"xt_hd",
+				"name":"XT HD",
+				"descriptionRU":"Серия XT скинов представляет собой коллекцию эксклюзивных обликов для различных танков, каждый из которых обладает уникальными внешним видом. Более детально и масштабно прорисованная модель пушки придаёт ей мощный и эффектный вид. Учтены все, даже самые мелкие детали! Обладатель этого редкого скина всегда находится в центре внимания.",
+				"descriptionEN":"The XT series of skins is a collection of exclusive skins for various tanks, each with its own unique appearance. The model of the turret is more detailed and large-scale, which gives it a powerful and spectacular look. Even the smallest details are taken into account! The owners of these rare skins are always in the spotlight.",
+				"icon":"xt",
+				"emissionColor":"16476172",
+				"emissionColorThreshold":"0.3"
 			},
 			{
 				"id":"m0",
@@ -2475,60 +2556,6 @@
 				"icon":"standard"
 			},
 			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Эксклюзивный Гром XT заставит вас почувствовать себя в шкуре грозного хищного зверя.",
-				"descriptionEN":"The exclusive Thunder XT will give you the feeling of slipping into the skin of a seasoned northern predator.",
-				"icon":"xt",
-				"emissionColor":"16728349",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"xt_hd",
-				"name":"XT HD",
-				"descriptionRU":"Серия XT скинов представляет собой коллекцию эксклюзивных обликов для различных танков, каждый из которых обладает уникальными внешним видом. Более детально и масштабно прорисованная модель пушки придаёт ей мощный и эффектный вид. Учтены все, даже самые мелкие детали! Обладатель этого редкого скина всегда находится в центре внимания.",
-				"descriptionEN":"The XT series of skins is a collection of exclusive skins for various tanks, each with its own unique appearance. The model of the turret is more detailed and large-scale, which gives it a powerful and spectacular look. Even the smallest details are taken into account! The owners of these rare skins are always in the spotlight.",
-				"icon":"xt",
-				"emissionColor":"16476172",
-				"emissionColorThreshold":"0.3"
-			},
-			{
-				"id":"lc",
-				"name":"Legacy",
-				"descriptionRU":"Legacy-скин для Грома поможет вам окунуться в атмосферу «старых Танков». А если вы старожил игры — сможете вспомнить ваши ощущения от первых боёв.",
-				"descriptionEN":"Legacy-skin for Thunder will help you return to the old atmosphere of Tanki, and if you're a veteran player -- remember your best times going into the first battle.",
-				"icon":"lc"
-			},
-			{
-				"id":"pr",
-				"name":"Prime",
-				"descriptionRU":"Гром — первая пушка, получившая скин из новой серии Prime. Этот скин подчёркивает брутальность пушки и серьёзность намерений её владельца. Зачем красоваться, когда можно сильно ударить!",
-				"descriptionEN":"Thunder is the first turret to receive a skin from the new Prime series. This skin reflects Thunder's no-nonsense and impactful style. Because a turret doesn't need to show off when it can punch hard.",
-				"icon":"pr",
-				"emissionColor":"16769857",
-				"emissionColorSecond":"907774",
-				"emissionColorThreshold":"0.6"
-			},
-			{
-				"id":"ut",
-				"name":"Ultra",
-				"descriptionRU":"В умелых руках Гром грациозен и смертоносен. А с новым скином Ультра он выглядит ещё круче!",
-				"descriptionEN":"In the right hands, Thunder is as graceful as it is deadly. And with this Ultra skin, it also looks downright cool.",
-				"icon":"ut",
-				"emissionColor":"720890",
-				"emissionColorSecond":"15243011",
-				"emissionColorThreshold":"0.6"
-			},
-			{
-				"id":"gt",
-				"name":"GT",
-				"descriptionRU":"Специальная линейка GT скинов для пушек - это не только отличное дополнение для любого колёсного корпуса, но и проявление особой смелости. Не каждый танкист готов пожертвовать скрытностью и осторожностью на поле боя, ради того, чтобы продемонстрировать всю уникальность и особенность своего танка.",
-				"descriptionEN":"This special series of GT skins for turrets is not just a good addition to any wheeled hull but also a manifestation of extraordinary courage. Not every tanker is ready to sacrifice stealth and caution on the battlefield to flaunt the uniqueness and the peculiarity of his tank in their entirety.\n\nThe latest developments in field tank construction and a special alloy of white metals \"unshackled the hands\" of designers of this product, allowing them for the first time in history to create not only powerful but also beautiful weapons that would otherwise just be gathering dust in a tanker's garage.",
-				"icon":"gt",
-				"emissionColor":"64255",
-				"emissionColorThreshold":"0.6"
-			},
-			{
 				"id":"2.0_m3",
 				"name":"M3 (Tanki Online 2.0)",
 				"description":"TODO",
@@ -2544,8 +2571,9 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
-				"id":"tx_xt",
-				"name":"XT (Tanki X)",
+				"id":"tx_dreadnought",
+				"nameRU":"Дредноут (Tanki X)",
+				"nameEN":"Dreadnought (Tanki X)",
 				"descriptionRU":"«Гром» изобрели для ликвидации танковых армий последних государств Азии, когда «Антей» уже был готов объявить о полном контроле над миром. Танки «Х» проходили крещение боем, когда их еще было гораздо меньше, нежели техники прошлого поколения. В этих условиях залогом выживания новых машин войны стал «Гром» с возможностью поражать разрывными снарядами сразу группу противников. А быстрая перезарядка гарантировала быструю и сокрушительную победу.",
 				"descriptionEN":"The Thunder turret was invented to eliminate the tank armies of the most modern Asian states, when Antaeus was ready to announce that it had completely taken over the world. «X» Tanks underwent a baptism of fire at a time when there were still far fewer of them than the previous generation of tanks. Under these conditions, the Thunder turret provided some assurance that the new tanks would be able to survive. The Thunder turret can be used to strike a group of enemies at once using explosive shells. The quick recharge rate ensures that you will achieve a quick and decisive victory.",
 				"icon":"tx",
@@ -2553,9 +2581,8 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
-				"id":"tx_dreadnought",
-				"nameRU":"Дредноут (Tanki X)",
-				"nameEN":"Dreadnought (Tanki X)",
+				"id":"tx_xt",
+				"name":"XT (Tanki X)",
 				"descriptionRU":"«Гром» изобрели для ликвидации танковых армий последних государств Азии, когда «Антей» уже был готов объявить о полном контроле над миром. Танки «Х» проходили крещение боем, когда их еще было гораздо меньше, нежели техники прошлого поколения. В этих условиях залогом выживания новых машин войны стал «Гром» с возможностью поражать разрывными снарядами сразу группу противников. А быстрая перезарядка гарантировала быструю и сокрушительную победу.",
 				"descriptionEN":"The Thunder turret was invented to eliminate the tank armies of the most modern Asian states, when Antaeus was ready to announce that it had completely taken over the world. «X» Tanks underwent a baptism of fire at a time when there were still far fewer of them than the previous generation of tanks. Under these conditions, the Thunder turret provided some assurance that the new tanks would be able to survive. The Thunder turret can be used to strike a group of enemies at once using explosive shells. The quick recharge rate ensures that you will achieve a quick and decisive victory.",
 				"icon":"tx",
@@ -2743,66 +2770,6 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
-				"id":"m0",
-				"name":"M0",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m1",
-				"name":"M1",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m2",
-				"name":"M2",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m3",
-				"name":"M3",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m0_old",
-				"nameRU":"M0 (старый)",
-				"nameEN":"M0 (old)",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m1_old",
-				"nameRU":"M1 (старый)",
-				"nameEN":"M1 (old)",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m2_old",
-				"nameRU":"M2 (старый)",
-				"nameEN":"M2 (old)",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m3_old",
-				"nameRU":"M3 (старый)",
-				"nameEN":"M3 (old)",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
 				"id":"xt_m0",
 				"name":"XT M0",
 				"descriptionRU":"Уникальная Рельса XT примечательна боковым рисунком, стилизованным под голову орла с характерными хищными очертаниями клюва.",
@@ -2866,8 +2833,69 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"m0",
+				"name":"M0",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1",
+				"name":"M1",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2",
+				"name":"M2",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3",
+				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
 				"id":"rl",
-				"name":"Realgar",
+				"nameRU":"Realgar (неофициальный)",
+				"nameEN":"Realgar (unofficial)",
 				"descriptionRU":"По данным Всемирной Организации по Контролю Оружия данной модификации танка не существует. Принадлежавший некогда легендарному наёмнику этот танк побывал в самых коварных и безвыходных передрягах, как никто другой служивший своему владельцу ёмким словом в перепалке. Теперь чертежи этого танка выставлены в награду за турнир и только самые достойные получат право им обладать!",
 				"descriptionEN":"According to the World Organization for Weapons Control, this modification of the tank does not exist. Once owned by a legendary mercenary, this tank has been in the most insidious and hopeless troubles, like no other that served its owner with a capacious word in a skirmish. Now the blueprints of this tank are presented as a reward for the tournament, and only the most worthy will get the right to own it!",
 				"icon":"rl",
@@ -2877,6 +2905,16 @@
 			{
 				"id":"tx_m2",
 				"name":"M2 (Tanki X)",
+				"descriptionRU":"Кинетическое оружие и танк «Х» — идеальная комбинация для ведения сражений в условиях, когда любое другое оружие может дать сбой. Огромные открытые пространства стали прекрасным полигоном для формирования характеристик «Рельсы», способной прошить сразу несколько вражеских танков, когда они еще даже не вышли на дистанцию эффективной стрельбы.",
+				"descriptionEN":"A kinetic weapon and the «X» Tank are the ideal combination for waging battle in circumstances where any other weapon could fail. Huge open spaces proved to be excellent testing grounds for honing the performance properties of the Railgun. It is able to cut through several enemy tanks at once before they are even in range to offer counter fire.",
+				"icon":"tx",
+				"emissionColor":"4186194",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"tx_gold",
+				"nameRU":"Золото (Tanki X)",
+				"nameEN":"Gold (Tanki X)",
 				"descriptionRU":"Кинетическое оружие и танк «Х» — идеальная комбинация для ведения сражений в условиях, когда любое другое оружие может дать сбой. Огромные открытые пространства стали прекрасным полигоном для формирования характеристик «Рельсы», способной прошить сразу несколько вражеских танков, когда они еще даже не вышли на дистанцию эффективной стрельбы.",
 				"descriptionEN":"A kinetic weapon and the «X» Tank are the ideal combination for waging battle in circumstances where any other weapon could fail. Huge open spaces proved to be excellent testing grounds for honing the performance properties of the Railgun. It is able to cut through several enemy tanks at once before they are even in range to offer counter fire.",
 				"icon":"tx",
@@ -2901,16 +2939,6 @@
 				"icon":"tx",
 				"emissionColor":"6085887",
 				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"tx_gold",
-				"nameRU":"Золото (Tanki X)",
-				"nameEN":"Gold (Tanki X)",
-				"descriptionRU":"Кинетическое оружие и танк «Х» — идеальная комбинация для ведения сражений в условиях, когда любое другое оружие может дать сбой. Огромные открытые пространства стали прекрасным полигоном для формирования характеристик «Рельсы», способной прошить сразу несколько вражеских танков, когда они еще даже не вышли на дистанцию эффективной стрельбы.",
-				"descriptionEN":"A kinetic weapon and the «X» Tank are the ideal combination for waging battle in circumstances where any other weapon could fail. Huge open spaces proved to be excellent testing grounds for honing the performance properties of the Railgun. It is able to cut through several enemy tanks at once before they are even in range to offer counter fire.",
-				"icon":"tx",
-				"emissionColor":"4186194",
-				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"tx_victory_day",
@@ -3075,6 +3103,20 @@
 				"icon":"standard"
 			},
 			{
+				"id":"xt",
+				"name":"XT",	
+				"descriptionRU":"Обладатель Магнума XT выделяется на поле боя благодаря устрашающему виду этой разрушительной пушки. Опытные артиллеристы утверждают, что этот эксклюзивный скин помогает попадать прямо в яблочко даже на самых больших боевых аренах.",
+				"descriptionEN":"The owner of Magnum XT is easily recognized on the battlefield thanks to the menacing look of the turret. Experienced artillery users claim that this exclusive skin helps hit targets even on the largest battlefields.",
+				"icon":"xt"
+			},
+			{
+				"id":"sp",
+				"name":"SP",	
+				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным. \n\nУчёные со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберёте на себе тысячи восхищённых взглядов. \n\nБронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид. \n\nСочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
+				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artefacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. \n\nBronze plates made of the rarest alloy will make your tank look powerful and fearsome. \n\nThe combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
+				"icon":"sp"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
@@ -3094,20 +3136,6 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
-			},
-			{
-				"id":"xt",
-				"name":"XT",	
-				"descriptionRU":"Обладатель Магнума XT выделяется на поле боя благодаря устрашающему виду этой разрушительной пушки. Опытные артиллеристы утверждают, что этот эксклюзивный скин помогает попадать прямо в яблочко даже на самых больших боевых аренах.",
-				"descriptionEN":"The owner of Magnum XT is easily recognized on the battlefield thanks to the menacing look of the turret. Experienced artillery users claim that this exclusive skin helps hit targets even on the largest battlefields.",
-				"icon":"xt"
-			},
-			{
-				"id":"sp",
-				"name":"SP",	
-				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным. \n\nУчёные со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберёте на себе тысячи восхищённых взглядов. \n\nБронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид. \n\nСочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
-				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artefacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. \n\nBronze plates made of the rarest alloy will make your tank look powerful and fearsome. \n\nThe combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
-				"icon":"sp"
 			}
 		],
 		"devices":
@@ -3243,34 +3271,6 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
-				"id":"m0",
-				"name":"M0",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m1",
-				"name":"M1",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m2",
-				"name":"M2",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m3",
-				"name":"M3",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
 				"id":"xt",
 				"name":"XT",
 				"descriptionRU":"Говорят, что внешность — это не главное. Но когда наступает время битвы, запугивание становится хорошей тактикой. Гаусс XT вселяет в соперников ужас и предупреждает их о жёстких ударах, которые обязательно последуют.",
@@ -3314,7 +3314,35 @@
 				"icon":"ic",
 				"emissionColor":"51455",
 				"emissionColorThreshold":"0.6"
-			}
+			},
+			{
+				"id":"m0",
+				"name":"M0",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1",
+				"name":"M1",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2",
+				"name":"M2",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3",
+				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			}	
 		],
 		"devices":
 		[
@@ -3324,6 +3352,62 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"faster_horizontal_tracking",
+				"nameRU":"Улучшенное горизонтальное сопровождение",
+				"nameEN":"Faster horizontal tracking",
+				"descriptionRU":"Ускоряет поворот башни и увеличивает вертикальные углы наводки.\nНа снайперские пушки не ставят мощные приводы наведения, ведь цели обычно находятся очень далеко. Но если противник сильно хочет сражаться близко, увеличение углов вертикальной наводки и более быстрая башня могут дать критическое преимущество.",
+				"descriptionEN":"Accelerates turret rotation speed and increases vertical aiming angle. Snipers aren't usually equipped with powerful guidance systems, because the targets are normally far away. But if the enemy decides to fight up close, an increase in the vertical aiming angle and a faster turret rotation speed may give a critical advantage."
+			},
+			{
+				"id":"hacked_aiming_processor",
+				"nameRU":"Взломанный процессор наведения",
+				"nameEN":"Hacked aiming processor",
+				"descriptionRU":"Значительно увеличивает время удержания захвата цели при потери её из вида.\nНастройки по умолчанию всегда подбираются без воображения. Система наведения сбрасывает захват если не может надёжно удерживать контакт с целью. Для тех кто не умеет выбирать цели это упрощает наведение. А для тех кто умеет подходит этот маленький хак, который позволяет вручную выбирать удерживать цель или сменить цель.",
+				"descriptionEN":"Significantly increases the time that you remain locked onto a target when it moves out of sight. The default settings are always chosen without much imagination. The targeting system will release its target lock if it cannot securely maintain contact with the target. For those who do not know how to select targets, this augment simplifies the locking process. But for those who do know, this little hack will come in handy and let you decide whether to hold or change the target."
+			},
+			{
+				"id":"large_caliber_gauss",
+				"nameRU":"Крупный калибр",
+				"nameEN":"Large caliber",
+				"descriptionRU":"Увеличение урона и уменьшение скорострельности стандартных выстрелов.\nПростая конвертация для тех кто предпочитает калибр побольше, а стрелять пореже. Увеличение калибра никак не влияет на урон от залпового выстрела.",
+				"descriptionEN":"Increased damage and reload speed of regular shots. Simple conversion for those who prefer larger calibers over shooting quickly. The caliber increase does not affect the salvo shots."
+			},
+			{
+				"id":"incendiary_salvo",
+				"nameRU":"Поджигающий залп",
+				"nameEN":"Incendiary salvo",
+				"descriptionRU":"Критический урон поджигает цель. При залпе можно поджечь несколько целей.\nСнаряды с зажигательным сердечником позволяют поджигать противников. Использование прицельного выстрела увеличивает радиус срабатывания зажигательной смеси и позволяет поджечь сразу несколько целей.",
+				"descriptionEN":"Critical damage sets the target on fire. Salvo shots can set multiple targets on fire. Projectiles with an incendiary core allow you to burn the enemies alive. Launching a salvo shot increases the effective radius of the incendiary mixture and allows you to set fire to multiple targets at once."
+			},
+			{
+				"id":"freezing_salvo",
+				"nameRU":"Криозалп",
+				"nameEN":"Freezing salvo",
+				"descriptionRU":"Критический урон замораживает цель. При залпе можно заморозить несколько целей.\nСнаряды с криогенным сердечником. Кроме эффективной заморозки одиночной цели, способны замораживать сразу несколько противников, если применять прицельный выстрел.",
+				"descriptionEN":"Critical damage freezes the target. Salvo shots can freeze multiple targets. Projectiles contain a cryogenic core. In addition to effectively freezing individual enemies, it's possible to freeze many more of them by a well-timed salvo shot."
+			},
+			{
+				"id":"stunning_salvo",
+				"nameRU":"Оглушающий залп",
+				"nameEN":"Stunning salvo",
+				"descriptionRU":"Критический урон и прицельный выстрел накладывают статус-эффект «Оглушение» на вражеский танк.\nИспользование снарядов, издающих ультразвук, позволяет обездвижить соперника, лишая его возможности стрелять, активировать припасы, овердрайвы и самоуничтожаться на некоторое время.",
+				"descriptionEN":"Critical damage and salvo shots apply the Stun status effect to the enemy tank. Due to special types of missiles that emit ultrasound, it is possible to immobilize an opponent, leaving them unable to shoot, activate overdrives and supplies, or self-destruct for some time."
+			},
+			{
+				"id":"hyperspeed_shells",
+				"nameRU":"Гиперскоростные снаряды",
+				"nameEN":"Hyperspeed shells",
+				"descriptionRU":"С увеличением расстояния до цели урон стандартного выстрела увеличивается вместо того, чтобы уменьшаться. Урон вблизи значительно снижен. Урон снайперского выстрела не изменяется этим устройством.\nУправляемые снаряды с запредельной мощностью, урон которых увеличивается с расстоянием. Взрыв такого снаряда рядом с собственным танком может его уничтожить. Чтобы этого не произошло, начальная скорость снаряда значительно увеличена, а специальная система ограничивает урон до тех пор, пока снаряд не уйдёт далеко от танка.",
+				"descriptionEN":"Arcade mode damage dealt increases proportionally with the distance from the target, instead of decreased. Close-range damage is greatly reduced. Sniper mode damage is not affected by this augment. Guided projectiles with incredible power, dealing more damage as the distance increases. The explosion of such a projectile near your own tank can be deadly, and to prevent this, projectile speed is significantly increased, and a special system limits the damage dealt until the projectile travels far from your tank."
+			},
+			{
+				"id":"solenoid_cooling",
+				"nameRU":"Охлаждение соленоидов",
+				"nameEN":"Solenoid cooling",
+				"descriptionRU":"Ускорение перезарядки и наведения залпа, но залп наносит значительно меньше урона.\nУсовершенствованные системы охлаждения позволяют добиться значительной скорострельности залпового огня. С такой скорострельностью ускорители накапливают меньше энергии и снаряд наносит меньше урона, но зато какие возможности это открывает по угнетению противника на большой дистанции.",
+				"descriptionEN":"Accelerated reload and aiming time of salvo shots, but the salvo deals significantly less damage. Advanced cooling systems make it possible to achieve high rate of salvo fire. With such high rate of fire, boosters accumulate less energy and the projectile deals less damage, but it definitely opens up the possibility for oppressing the enemy at a long distance."
 			}
 		],
 		"shotSkins":
@@ -3369,6 +3453,22 @@
 				"isStandard":true,
 				"icon":"standard",
 				"emissionColor":"12849669",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Золотой лев с серебристой гривой, воплощённый в облике Шафта XT, станет вашим преданным боевым товарищем и поможет защитить ваш прайд.",
+				"descriptionEN":"Golden lion with a silver mane, shaped into the form of Shaft XT, will become your trusted battle friend and will help protect the pride of fellow lions from the enemies.",
+				"icon":"xt"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Ох уж этот снайпер с орлиным зрением! В новом брутальном образе бойца из стали он поразит ещё больше целей. Осторожно: вызывает зависть у противников!",
+				"descriptionEN":"Oh, what an eagle-eyed sniper! In a new brutal style of a fighter made of steel, the user of this skin will see increased kills and definitely increased jealousy!",
+				"icon":"lc",
+				"emissionColor":"16755200",
 				"emissionColorThreshold":"0.6"
 			},
 			{
@@ -3430,22 +3530,6 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
-			},
-			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Золотой лев с серебристой гривой, воплощённый в облике Шафта XT, станет вашим преданным боевым товарищем и поможет защитить ваш прайд.",
-				"descriptionEN":"Golden lion with a silver mane, shaped into the form of Shaft XT, will become your trusted battle friend and will help protect the pride of fellow lions from the enemies.",
-				"icon":"xt"
-			},
-			{
-				"id":"lc",
-				"name":"Legacy",
-				"descriptionRU":"Ох уж этот снайпер с орлиным зрением! В новом брутальном образе бойца из стали он поразит ещё больше целей. Осторожно: вызывает зависть у противников!",
-				"descriptionEN":"Oh, what an eagle-eyed sniper! In a new brutal style of a fighter made of steel, the user of this skin will see increased kills and definitely increased jealousy!",
-				"icon":"lc",
-				"emissionColor":"16755200",
-				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"xt_fake",
@@ -3575,8 +3659,8 @@
 			},
 			{
 				"id":"xt_fake_ilya_star",
-				"nameRU":"XT (неофициальный, работа Ilya Star)",
-				"nameEN":"XT (unofficial, Ilya Star's work)",
+				"nameRU":"XT (неофициальный by IlyaStar)",
+				"nameEN":"XT (unofficial by IlyaStar)",
 				"description":"TODO",
 				"icon":"xt"
 			}
@@ -3605,8 +3689,8 @@
 	},
 	{
 		"id":"bonk",
-		"nameRU":"Кувалда",
-		"nameEN":"B0-NK",
+		"nameRU":"B0-NK «Кувалда»",
+		"nameEN":"B0-NK «Sledgehammer»",
 		"descriptionRU":"Пневматический молот ближнего боя. Наносит чудовищный урон, но действует только на предельно малой дистанции.\n\nB0-NK «Кувалда» — отличный инструмент для промышленных строительных работ. Массивное зубило предназначено для разрушения бетонных и кирпичных стен, фундаментов, вскрытия дорожного полотна и демонтажа твёрдых покрытий. В конструкцию встроен реактивный разгонный элемент для повышения пробивающей способности зубила.\n\nПожалуйста, используйте инструмент только по назначению. Нестандартное применение может привести к непредвиденным последствиям и автоматически отменяет возможность гарантийного ремонта оборудования.\n\nСтраница пушки в <a href=\"https://ru.tankiwiki.com/%D0%9A%D1%83%D0%B2%D0%B0%D0%BB%D0%B4%D0%B0\" target=\"_blank\"><u>WikiTO</u></a>.",
 		"descriptionEN":"Close range pneumatic hammer. Deals monstrous damage but only works at extremely low distances.\n\nB0-NK «Sledgehammer» is a great tool for industrial construction work. This massive chisel was designed for breaking concrete, brick walls, foundations, as well as ripping up asphalt and dismantling hard surfaces. The accelerating reactive element was embedded to increase the penetrating power of the chisel.\n\nBe careful to only use this tool as intended. Non-standardized use may result in unforeseeable consequences and voids the possibility of a warranty service.\n\nMore information about this turret can be found in the <a href=\"https://en.tankiwiki.com/B0-NK\" target=\"_blank\"><u>Wiki</u></a>.",
 		"skins":
@@ -3635,10 +3719,11 @@
 			},
 			{
 				"id":"biomorphic_claw",
-				"nameRU":"Коготь",
-				"nameEN":"Claw",
+				"nameRU":"Биомеханический коготь",
+				"nameEN":"Biomorphic Claw",
 				"descriptionRU":"Уникальные настройки.",
 				"descriptionEN":"Unique settings.",
+				"isStandard":true,
 				"icon":"xt",
 				"emissionColor":"16640099",
 				"emissionColorThreshold":"0.4"
@@ -3650,6 +3735,13 @@
 				"id":"standard",
 				"nameRU":"Стандартные настройки",
 				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"standard_with_ability_rotate_turret",
+				"nameRU":"Нестандартные настройки (с возможностью вращать башню)",
+				"nameEN":"Non-standard settings (with ability rotate the turret)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects"
 			}
@@ -3675,14 +3767,14 @@
 		"skins":
 		[
 			{
-				"id":"hd_red",
-				"nameRU":"Стандартные настройки (красный)",
-				"nameEN":"Standard settings (red)",
+				"id":"hd_blue",
+				"nameRU":"Стандартные настройки (синий)",
+				"nameEN":"Standard settings (blue)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
 				"icon":"standard",
-				"emissionColor":"16581323",
+				"emissionColor":"131033",
 				"emissionColorThreshold":"0.4"
 			},
 			{
@@ -3697,16 +3789,16 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
-				"id":"hd_blue",
-				"nameRU":"Стандартные настройки (синий)",
-				"nameEN":"Standard settings (blue)",
+				"id":"hd_red",
+				"nameRU":"Стандартные настройки (красный)",
+				"nameEN":"Standard settings (red)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
 				"icon":"standard",
-				"emissionColor":"131033",
+				"emissionColor":"16581323",
 				"emissionColorThreshold":"0.4"
-			}
+			}	
 		],
 		"devices":
 		[
@@ -3748,6 +3840,83 @@
 				"icon":"standard",
 				"emissionColor":"65310",
 				"emissionColorThreshold":"0.4"
+			}
+		],
+		"devices":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects"
+			}
+		],
+		"shotSkins":
+		[
+			{
+				"id":"standard",
+				"nameRU":"Стандартные настройки",
+				"nameEN":"Standard settings",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true
+			}
+		]
+	},
+	{	
+		"id":"tanks",
+		"nameRU":"Пушка из «Tanks»",
+		"nameEN":"Turret from «Tanks»",
+		"description":"TODO",
+		"skins":
+		[
+			{
+				"id":"bluegray",
+				"nameRU":"Сине-серая",
+				"nameEN":"Bluegray",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard"
+			},
+			{
+				"id":"desert",
+				"nameRU":"Пустынная",
+				"nameEN":"Desert",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard"
+			},
+			{
+				"id":"green",
+				"nameRU":"Зелёная",
+				"nameEN":"Green",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard"
+			},
+			{
+				"id":"damaged",
+				"nameRU":"Подбитая",
+				"nameEN":"Damaged",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard"
+			},
+			{
+				"id":"alternativa",
+				"name":"Alternativa",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard",
+				"emissionColor":"9573120",
+				"emissionColorSecond":"12203776",
+				"emissionColorThreshold":"0.2"
 			}
 		],
 		"devices":

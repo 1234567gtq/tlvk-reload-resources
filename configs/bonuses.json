@@ -2,212 +2,470 @@
 	{
 		"type":"repair_kit",
 		"id":"hd",
-		"nameRU":"Ремкомплект (HD)",
-		"nameEN":"Repair Kit (HD)"
+		"nameRU":"Ремкомплект (стандартный)",
+		"nameEN":"Repair Kit (standard)"
 	},
 	{
 		"type":"boosted_armor",
 		"id":"hd",
-		"nameRU":"Повышенная защита (HD)",
-		"nameEN":"Boosted Armor (HD)"
+		"nameRU":"Повышенная защита (стандартная)",
+		"nameEN":"Boosted Armor (standard)"
 	},
 	{
 		"type":"boosted_damage",
 		"id":"hd",
-		"nameRU":"Повышенный урон (HD)",
-		"nameEN":"Boosted Damage (HD)"
+		"nameRU":"Повышенный урон (стандартный)",
+		"nameEN":"Boosted Damage (standard)"
 	},
 	{
 		"type":"speed_boost",
 		"id":"hd",
-		"nameRU":"Ускорение (HD)",
-		"nameEN":"Speed Boost (HD)"
+		"nameRU":"Ускорение (стандартное)",
+		"nameEN":"Speed Boost (standard)"
 	},
 	{
 		"type":"nuclear_energy",
 		"id":"hd",
-		"nameRU":"Ядерная энергия (HD)",
-		"nameEN":"Nuclear Energy (HD)"
+		"nameRU":"Ядерная энергия (стандартная)",
+		"nameEN":"Nuclear Energy (standard)"
 	},
 	{
 		"type":"crystal",
 		"id":"hd",
-		"nameRU":"Кристалл (HD)",
-		"nameEN":"Crystal (HD)"
+		"nameRU":"Кристалл (стандартный)",
+		"nameEN":"Crystal (standard)"
 	},
 	{
 		"type":"gold",
 		"id":"hd",
-		"nameRU":"Золотой ящик (HD)",
-		"nameEN":"Gold box (HD)"
+		"nameRU":"Золотой ящик (стандартный)",
+		"nameEN":"Gold Box (standard)"
 	},
 	{
 		"type":"gold",
 		"id":"container_hd",
-		"nameRU":"Контейнер (HD)",
-		"nameEN":"Container (HD)"
+		"nameRU":"Контейнер (стандартный)",
+		"nameEN":"Container (standard)"
 	},
 	{
 		"type":"gold",
 		"id":"megagold_hd",
-		"nameRU":"Мегаголд (HD)",
-		"nameEN":"Megagold (HD)"
+		"nameRU":"Мегаголд (стандартный)",
+		"nameEN":"Megagold (standard)"
+	},
+	{
+		"type":"repair_kit",
+		"id":"release_284",
+		"nameRU":"Ремкомплект (релиз 284)",
+		"nameEN":"Repair Kit (release 284)"
+	},
+	{
+		"type":"boosted_armor",
+		"id":"release_284",
+		"nameRU":"Повышенная защита (релиз 284)",
+		"nameEN":"Boosted Armor (release 284)"
+	},
+	{
+		"type":"boosted_damage",
+		"id":"release_284",
+		"nameRU":"Повышенный урон (релиз 284)",
+		"nameEN":"Boosted Damage (release 284)"
+	},
+	{
+		"type":"speed_boost",
+		"id":"release_284",
+		"nameRU":"Ускорение (релиз 284)",
+		"nameEN":"Speed Boost (release 284)"
+	},
+	{
+		"type":"nuclear_energy",
+		"id":"release_284",
+		"nameRU":"Ядерная энергия (релиз 284)",
+		"nameEN":"Nuclear Energy (release 284)"
+	},
+	{
+		"type":"crystal",
+		"id":"release_284",
+		"nameRU":"Кристалл (релиз 284)",
+		"nameEN":"Crystal (release 284)"
 	},
 	{
 		"type":"gold",
-		"id":"summer_festival_2024",
-		"nameRU":"Золотой ящик (Летний фестиваль 2024)",
-		"nameEN":"Gold box (Summer Festival 2024)"
+		"id":"release_284",
+		"nameRU":"Золотой ящик (релиз 284)",
+		"nameEN":"Gold Box (release 284)"
 	},
 	{
 		"type":"gold",
-		"id":"christmas_2014",
-		"nameRU":"Золотой ящик (Рождество 2014)",
-		"nameEN":"Gold box (Christmas 2014)"
+		"id":"release_284_updated",
+		"nameRU":"Золотой ящик (релиз 284 изменённый)",
+		"nameEN":"Gold Box (release 284 updated)"
+	},
+	{
+		"type":"gold",
+		"id":"container_release_284",
+		"nameRU":"Контейнер (релиз 284)",
+		"nameEN":"Container (release 284)"
+	},
+	{
+		"type":"crystal",
+		"id":"release_123",
+		"nameRU":"Кристалл (релиз 123)",
+		"nameEN":"Crystal (release 123)"
+	},
+	{
+		"type":"gold",
+		"id":"release_123",
+		"nameRU":"Золотой ящик (релиз 123)",
+		"nameEN":"Gold Box (release 123)"
+	},
+	{
+		"type":"repair_kit",
+		"id":"release_1.100",
+		"nameRU":"Ремкомплект (релиз 1.100)",
+		"nameEN":"Repair Kit (release 1.100)"
+	},
+	{
+		"type":"boosted_armor",
+		"id":"release_1.100",
+		"nameRU":"Повышенная защита (релиз 1.100)",
+		"nameEN":"Boosted Armor (release 1.100)"
+	},
+	{
+		"type":"boosted_damage",
+		"id":"release_1.100",
+		"nameRU":"Повышенный урон (релиз 1.100)",
+		"nameEN":"Boosted Damage (release 1.100)"
+	},
+	{
+		"type":"speed_boost",
+		"id":"release_1.100",
+		"nameRU":"Ускорение (релиз 1.100)",
+		"nameEN":"Speed Boost (release 1.100)"
+	},
+	{
+		"type":"crystal",
+		"id":"release_1.100",
+		"nameRU":"Кристалл (релиз 1.100)",
+		"nameEN":"Crystal (release 1.100)"
+	},
+	{
+		"type":"gold",
+		"id":"release_1.100",
+		"nameRU":"Золотой ящик (релиз 1.100)",
+		"nameEN":"Gold Box (release 1.100)"
+	},
+	{
+		"type":"repair_kit",
+		"id":"old",
+		"nameRU":"Ремкомплект (старый)",
+		"nameEN":"Repair Kit (old)"
+	},
+	{
+		"type":"boosted_armor",
+		"id":"old",
+		"nameRU":"Повышенная защита (старая)",
+		"nameEN":"Boosted Armor (old)"
+	},
+	{
+		"type":"boosted_damage",
+		"id":"old",
+		"nameRU":"Повышенный урон (старый)",
+		"nameEN":"Boosted Damage (old)"
+	},
+	{
+		"type":"speed_boost",
+		"id":"old",
+		"nameRU":"Ускорение (старое)",
+		"nameEN":"Speed Boost (old)"
+	},
+	{
+		"type":"crystal",
+		"id":"old",
+		"nameRU":"Кристалл (старый)",
+		"nameEN":"Crystal (old)"
+	},
+	{
+		"type":"gold",
+		"id":"old",
+		"nameRU":"Золотой ящик (старый)",
+		"nameEN":"Gold Box (old)"
+	},
+	{
+		"type":"repair_kit",
+		"id":"very_first",
+		"nameRU":"Ремкомплект (самый первый)",
+		"nameEN":"Repair Kit (very first)"
+	},
+	{
+		"type":"boosted_armor",
+		"id":"very_first",
+		"nameRU":"Повышенная защита (самая первая)",
+		"nameEN":"Boosted Armor (very first)"
+	},
+	{
+		"type":"boosted_damage",
+		"id":"very_first",
+		"nameRU":"Повышенный урон (самый первый)",
+		"nameEN":"Boosted Damage (very first)"
+	},
+	{
+		"type":"speed_boost",
+		"id":"very_first",
+		"nameRU":"Ускорение (самое первое)",
+		"nameEN":"Speed Boost (very first)"
+	},
+	{
+		"type":"crystal",
+		"id":"very_first",
+		"nameRU":"Кристалл (самый первый)",
+		"nameEN":"Crystal (very first)"
+	},
+	{
+		"type":"gold",
+		"id":"very_first",
+		"nameRU":"Золотой ящик (самый первый)",
+		"nameEN":"Gold Box (very first)"
+	},
+	{
+		"type":"repair_kit",
+		"id":"new_year_2011",
+		"nameRU":"Ремкомплект (Новый Год 2011)",
+		"nameEN":"Repair Kit (New Year 2011)"
+	},
+	{
+		"type":"boosted_armor",
+		"id":"new_year_2011",
+		"nameRU":"Повышенная защита (Новый Год 2011)",
+		"nameEN":"Boosted Armor (New Year 2011)"
+	},
+	{
+		"type":"boosted_damage",
+		"id":"new_year_2011",
+		"nameRU":"Повышенный урон (Новый Год 2011)",
+		"nameEN":"Boosted Damage (New Year 2011)"
+	},
+	{
+		"type":"speed_boost",
+		"id":"new_year_2011",
+		"nameRU":"Ускорение (Новый Год 2011)",
+		"nameEN":"Speed Boost (New Year 2011)"
+	},
+	{
+		"type":"crystal",
+		"id":"new_year_2011",
+		"nameRU":"Кристалл (Новый Год 2011)",
+		"nameEN":"Crystal (New Year 2011)"
 	},
 	{
 		"type":"gold",
 		"id":"new_year_2011",
 		"nameRU":"Золотой ящик (Новый Год 2011)",
-		"nameEN":"Gold box (New Year 2011)"
+		"nameEN":"Gold Box (New Year 2011)"
 	},
 	{
-		"type":"gold",
-		"id":"new_year_2013",
-		"nameRU":"Золотой ящик (Новый Год 2013)",
-		"nameEN":"Gold box (New Year 2013)"
+		"type":"repair_kit",
+		"id":"new_year_2015",
+		"nameRU":"Ремкомплект (Новый Год 2015)",
+		"nameEN":"Repair Kit (New Year 2015)"
 	},
 	{
-		"type":"gold",
-		"id":"new_year_2014",
-		"nameRU":"Золотой ящик (Новый Год 2014)",
-		"nameEN":"Gold box (New Year 2014)"
+		"type":"boosted_armor",
+		"id":"new_year_2015",
+		"nameRU":"Повышенная защита (Новый Год 2015)",
+		"nameEN":"Boosted Armor (New Year 2015)"
 	},
-		{
+	{
+		"type":"boosted_damage",
+		"id":"new_year_2015",
+		"nameRU":"Повышенный урон (Новый Год 2015)",
+		"nameEN":"Boosted Damage (New Year 2015)"
+	},
+	{
+		"type":"speed_boost",
+		"id":"new_year_2015",
+		"nameRU":"Ускорение (Новый Год 2015)",
+		"nameEN":"Speed Boost (New Year 2015)"
+	},
+	{
 		"type":"gold",
 		"id":"new_year_2015_common",
-		"nameRU":"Золотой ящик (Новый Год 2015) (обычный)",
-		"nameEN":"Gold box (New Year 2015) (common)"
+		"nameRU":"Золотой ящик (Новый Год 2015 обычный)",
+		"nameEN":"Gold Box (New Year 2015 common)"
 	},
 	{
 		"type":"gold",
 		"id":"new_year_2015_enlarged",
-		"nameRU":"Золотой ящик (Новый Год 2015) (увеличенный)",
-		"nameEN":"Gold box (New Year 2015) (enlarged)"
+		"nameRU":"Золотой ящик (Новый Год 2015 увеличенный)",
+		"nameEN":"Gold Box (New Year 2015 enlarged)"
 	},
 	{
 		"type":"gold",
-		"id":"new_year_2016",
-		"nameRU":"Золотой ящик (Новый Год 2016)",
-		"nameEN":"Gold box (New Year 2016)"
+		"id":"5_may_2015",
+		"nameRU":"Золотой ящик (5 мая 2015)",
+		"nameEN":"Gold Box (5 May 2015)"
 	},
 	{
 		"type":"gold",
-		"id":"new_year_2017",
-		"nameRU":"Золотой ящик (Новый Год 2017)",
-		"nameEN":"Gold box (New Year 2017)"
+		"id":"6_may_2015",
+		"nameRU":"Золотой ящик (6 мая 2015)",
+		"nameEN":"Gold Box (6 May 2015)"
+	},
+	{
+		"type":"gold",
+		"id":"7_may_2015",
+		"nameRU":"Золотой ящик (7 мая 2015)",
+		"nameEN":"Gold Box (7 May 2015)"
+	},
+	{
+		"type":"gold",
+		"id":"8_may_2015",
+		"nameRU":"Золотой ящик (8 мая 2015)",
+		"nameEN":"Gold Box (8 May 2015)"
+	},
+	{
+		"type":"gold",
+		"id":"9_may_2015",
+		"nameRU":"Золотой ящик (9 мая 2015)",
+		"nameEN":"Gold Box (9 May 2015)"
+	},
+	{
+		"type":"gold",
+		"id":"birthday_to_2011",
+		"nameRU":"Золотой ящик (День Рождения ТО 2011)",
+		"nameEN":"Gold Box (Birthday TO 2011)"
+	},
+	{
+		"type":"gold",
+		"id":"birthday_to_2012",
+		"nameRU":"Золотой ящик (День Рождения ТО 2012)",
+		"nameEN":"Gold Box (Birthday TO 2012)"
+	},
+	{
+		"type":"gold",
+		"id":"birthday_to_2014",
+		"nameRU":"Золотой ящик (День Рождения ТО 2014)",
+		"nameEN":"Gold Box (Birthday TO 2014)"
+	},
+	{
+		"type":"gold",
+		"id":"birthday_to_2015",
+		"nameRU":"Золотой ящик (День Рождения ТО 2015)",
+		"nameEN":"Gold Box (Birthday TO 2015)"
+	},
+	{
+		"type":"gold",
+		"id":"birthday_to_2016",
+		"nameRU":"Золотой ящик (День Рождения ТО 2016)",
+		"nameEN":"Gold Box (Birthday TO 2016)"
+	},
+	{
+		"type":"gold",
+		"id":"birthday_to_2017",
+		"nameRU":"Золотой ящик (День Рождения ТО 2017)",
+		"nameEN":"Gold Box (Birthday TO 2017)"
+	},
+	{
+		"type":"gold",
+		"id":"birthday_to_2019",
+		"nameRU":"Золотой ящик (День Рождения ТО 2019)",
+		"nameEN":"Gold Box (Birthday TO 2019)"
 	},
 	{
 		"type":"gold",
 		"id":"br_carnival_2016",
 		"nameRU":"Золотой ящик (Бразильский Карнавал 2016)",
-		"nameEN":"Gold box (Brazilian Carnival 2016)"
+		"nameEN":"Gold Box (Brazilian Carnival 2016)"
 	},
 	{
 		"type":"gold",
 		"id":"br_carnival_2017",
 		"nameRU":"Золотой ящик (Бразильский Карнавал 2017)",
-		"nameEN":"Gold box (Brazilian Carnival 2017)"
-	},
-	{
-		"type":"gold",
-		"id":"chinese_new_year_2022",
-		"nameRU":"Золотой ящик (Китайский Новый Год 2022)",
-		"nameEN":"Gold box (Chinese New Year 2022)"
-	},
-	{
-		"type":"gold",
-		"id":"chinese_new_year_2023",
-		"nameRU":"Золотой ящик (Китайский Новый Год 2023)",
-		"nameEN":"Gold box (Chinese New Year 2023)"
-	},
-	{
-		"type":"gold",
-		"id":"valentines_day_2015",
-		"nameRU":"Золотой ящик (День святого Валентина 2015)",
-		"nameEN":"Gold box (Valentine's Day 2015)"
-	},
-	{
-		"type":"gold",
-		"id":"valentines_day_2016",
-		"nameRU":"Золотой ящик (День святого Валентина 2016)",
-		"nameEN":"Gold box (Valentine's Day 2016)"
-	},
-	{
-		"type":"gold",
-		"id":"valentines_day_2017",
-		"nameRU":"Золотой ящик (День святого Валентина 2017)",
-		"nameEN":"Gold box (Valentine's Day 2017)"
-	},
-	{
-		"type":"gold",
-		"id":"valentines_day_2018",
-		"nameRU":"Золотой ящик (День святого Валентина 2018)",
-		"nameEN":"Gold box (Valentine's Day 2018)"
-	},
-	{
-		"type":"gold",
-		"id":"iron_days_2017",
-		"nameRU":"Золотой ящик (День Защитника Отечества 2017)",
-		"nameEN":"Gold box (Defender of the Fatherland Day 2017)"
-	},
-	{
-		"type":"gold",
-		"id":"iron_days_2022",
-		"nameRU":"Золотой ящик (День Защитника Отечества 2022)",
-		"nameEN":"Gold box (Defender of the Fatherland Day 2022)"
-	},
-	{
-		"type":"gold",
-		"id":"womens_day_2015",
-		"nameRU":"Золотой ящик (Женский день 2015)",
-		"nameEN":"Gold box (Women's Day 2015)"
-	},
-	{
-		"type":"gold",
-		"id":"womens_day_2016",
-		"nameRU":"Золотой ящик (Женский день 2016)",
-		"nameEN":"Gold box (Women's Day 2016)"
-	},
-	{
-		"type":"gold",
-		"id":"womens_day_2017",
-		"nameRU":"Золотой ящик (Женский день 2017)",
-		"nameEN":"Gold box (Women's Day 2017)"
-	},
-	{
-		"type":"gold",
-		"id":"womens_day_2022",
-		"nameRU":"Золотой ящик (Женский день 2022)",
-		"nameEN":"Gold box (Women's Day 2022)"
-	},
-	{
-		"type":"gold",
-		"id":"st_patricks_day_2022",
-		"nameRU":"Золотой ящик (День святого Патрика 2022)",
-		"nameEN":"Gold box (St. Patrick's Day 2022)"
+		"nameEN":"Gold Box (Brazilian Carnival 2017)"
 	},
 	{
 		"type":"gold",
 		"id":"br_easter_2016",
 		"nameRU":"Золотой ящик (Бразильская Пасха 2016)",
-		"nameEN":"Gold box (Brazilian Easter 2016)"
+		"nameEN":"Gold Box (Brazilian Easter 2016)"
+	},
+	{
+		"type":"gold",
+		"id":"br_independence_day_2015",
+		"nameRU":"Золотой ящик (День Независимости Бразилии 2015)",
+		"nameEN":"Gold Box (Brazil Independence Day 2015)"
+	},
+	{
+		"type":"gold",
+		"id":"cn_birthday_to_2015",
+		"nameRU":"Золотой ящик (Китайский День Рождения ТО 2015)",
+		"nameEN":"Gold Box (Chinese Birthday TO 2015)"
+	},
+	{
+		"type":"gold",
+		"id":"cn_national_day_2011",
+		"nameRU":"Золотой ящик (День образования КНР 2011)",
+		"nameEN":"Gold Box (Chinese National Day 2011)"
+	},
+	{
+		"type":"gold",
+		"id":"cn_national_day",
+		"nameRU":"Золотой ящик (День образования КНР)",
+		"nameEN":"Gold Box (Chinese National Day)"
+	},
+	{
+		"type":"gold",
+		"id":"chinese_new_year_2022",
+		"nameRU":"Золотой ящик (Китайский Новый Год 2022)",
+		"nameEN":"Gold Box (Chinese New Year 2022)"
+	},
+	{
+		"type":"gold",
+		"id":"chinese_new_year_2023",
+		"nameRU":"Золотой ящик (Китайский Новый Год 2023)",
+		"nameEN":"Gold Box (Chinese New Year 2023)"
+	},
+	{
+		"type":"gold",
+		"id":"christmas_2014",
+		"nameRU":"Золотой ящик (Рождество 2014)",
+		"nameEN":"Gold Box (Christmas 2014)"
+	},
+	{
+		"type":"gold",
+		"id":"cosmonautics_day_2017",
+		"nameRU":"Золотой ящик (День космонавтики 2017)",
+		"nameEN":"Gold Box (Cosmonautics Day 2017)"
+	},
+	{
+		"type":"gold",
+		"id":"crazy_weekend",
+		"nameRU":"Золотой ящик (Безумные выходные)",
+		"nameEN":"Gold Box (Crazy Weekend)"
+	},
+	{
+		"type":"gold",
+		"id":"day_of_the_dead_2022",
+		"nameRU":"Золотой ящик (День духов 2022)",
+		"nameEN":"Gold Box (Day of Spirits 2022)"
+	},
+	{
+		"type":"gold",
+		"id":"iron_days_2017",
+		"nameRU":"Золотой ящик (День Защитника Отечества 2017)",
+		"nameEN":"Gold Box (Defender of the Fatherland Day 2017)"
+	},
+	{
+		"type":"gold",
+		"id":"iron_days_2022",
+		"nameRU":"Золотой ящик (День Защитника Отечества 2022)",
+		"nameEN":"Gold Box (Defender of the Fatherland Day 2022)"
 	},
 	{
 		"type":"gold",
 		"id":"easter_2021",
 		"nameRU":"Золотой ящик (Пасха 2021)",
-		"nameEN":"Gold box (Easter 2021)"
+		"nameEN":"Gold Box (Easter 2021)"
 	},
 	{
 		"type":"gold",
@@ -217,297 +475,231 @@
 	},
 	{
 		"type":"gold",
-		"id":"energy_2022",
-		"nameRU":"Золотой ящик («Танки и тёмная материя» 2022)",
-		"nameEN":"Gold box («Tanks and Dark Matter» 2022)"
+		"id":"euro_2012",
+		"nameRU":"Золотой ящик (ЕВРО-2012)",
+		"nameEN":"Gold Box (EURO-2012)"
 	},
 	{
 		"type":"gold",
 		"id":"fools_day_2015",
 		"nameRU":"Золотой ящик (День смеха 2015)",
-		"nameEN":"Gold box (Fool's Day 2015)"
+		"nameEN":"Gold Box (Fool's Day 2015)"
 	},
 	{
 		"type":"gold",
 		"id":"fools_day_2016",
 		"nameRU":"Золотой ящик (День смеха 2016)",
-		"nameEN":"Gold box (Fool's Day 2016)"
+		"nameEN":"Gold Box (Fool's Day 2016)"
 	},
 	{
 		"type":"gold",
 		"id":"fools_day_2017",
 		"nameRU":"Золотой ящик (День смеха 2017)",
-		"nameEN":"Gold box (Fool's Day 2017)"
+		"nameEN":"Gold Box (Fool's Day 2017)"
 	},
 	{
 		"type":"gold",
-		"id":"cosmonautics_day_2017",
-		"nameRU":"Золотой ящик (День космонавтики 2017)",
-		"nameEN":"Gold box (Cosmonautics Day 2017)"
-	},
-	{
-		"type":"gold",
-		"id":"victory_day_2011",
-		"nameRU":"Золотой ящик (День Победы 2011)",
-		"nameEN":"Gold box (Victory Day 2011)"
-	},
-	{
-		"type":"gold",
-		"id":"may_holidays_2013",
-		"nameRU":"Золотой ящик (Майские праздники 2013)",
-		"nameEN":"Gold box (May Holidays 2013)"
-	},
-	{
-		"type":"gold",
-		"id":"victory_day_2013",
-		"nameRU":"Золотой ящик (День Победы 2013)",
-		"nameEN":"Gold box (Victory Day 2013)"
-	},
-	{
-		"type":"gold",
-		"id":"may_holidays_2014",
-		"nameRU":"Золотой ящик (Майские праздники 2014)",
-		"nameEN":"Gold box (May Holidays 2014)"
-	},
-	{
-		"type":"gold",
-		"id":"5_may_2015",
-		"nameRU":"Золотой ящик (5 мая 2015)",
-		"nameEN":"Gold box (5 May 2015)"
-	},
-	{
-		"type":"gold",
-		"id":"6_may_2015",
-		"nameRU":"Золотой ящик (6 мая 2015)",
-		"nameEN":"Gold box (6 May 2015)"
-	},
-	{
-		"type":"gold",
-		"id":"7_may_2015",
-		"nameRU":"Золотой ящик (7 мая 2015)",
-		"nameEN":"Gold box (7 May 2015)"
-	},
-	{
-		"type":"gold",
-		"id":"8_may_2015",
-		"nameRU":"Золотой ящик (8 мая 2015)",
-		"nameEN":"Gold box (8 May 2015)"
-	},
-	{
-		"type":"gold",
-		"id":"9_may_2015",
-		"nameRU":"Золотой ящик (9 мая 2015)",
-		"nameEN":"Gold box (9 May 2015)"
-	},
-	{
-		"type":"gold",
-		"id":"birthday_to_2011",
-		"nameRU":"Золотой ящик (День Рождения ТО 2011)",
-		"nameEN":"Gold box (Birthday TO 2011)"
-	},
-	{
-		"type":"gold",
-		"id":"birthday_to_2012",
-		"nameRU":"Золотой ящик (День Рождения ТО 2012)",
-		"nameEN":"Gold box (Birthday TO 2012)"
-	},
-	{
-		"type":"gold",
-		"id":"birthday_to_2014",
-		"nameRU":"Золотой ящик (День Рождения ТО 2014)",
-		"nameEN":"Gold box (Birthday TO 2014)"
-	},
-	{
-		"type":"gold",
-		"id":"birthday_to_2015",
-		"nameRU":"Золотой ящик (День Рождения ТО 2015)",
-		"nameEN":"Gold box (Birthday TO 2015)"
-	},
-	{
-		"type":"gold",
-		"id":"cn_birthday_to_2015",
-		"nameRU":"Золотой ящик (Китайский День Рождения ТО 2015)",
-		"nameEN":"Gold box (Chinese Birthday TO 2015)"
-	},
-	{
-		"type":"gold",
-		"id":"birthday_to_2016",
-		"nameRU":"Золотой ящик (День Рождения ТО 2016)",
-		"nameEN":"Gold box (Birthday TO 2016)"
-	},
-	{
-		"type":"gold",
-		"id":"birthday_to_2017",
-		"nameRU":"Золотой ящик (День Рождения ТО 2017)",
-		"nameEN":"Gold box (Birthday TO 2017)"
-	},
-	{
-		"type":"gold",
-		"id":"birthday_to_2019",
-		"nameRU":"Золотой ящик (День Рождения ТО 2019)",
-		"nameEN":"Gold box (Birthday TO 2019)"
-	},
-	{
-		"type":"gold",
-		"id":"ufo_day_2018",
-		"nameRU":"Золотой ящик (День НЛО 2018)",
-		"nameEN":"Gold box (UFO Day 2018)"
-	},
-	{
-		"type":"gold",
-		"id":"summer_sale_2017",
-		"nameRU":"Золотой ящик (Летняя распродажа 2017)",
-		"nameEN":"Gold box (Summer sale 2017)"
-	},
-	{
-		"type":"gold",
-		"id":"br_independence_day_2015",
-		"nameRU":"Золотой ящик (День Независимости Бразилии 2015)",
-		"nameEN":"Gold box (Brazil Independence Day 2015)"
-	},
-	{
-		"type":"gold",
-		"id":"tankers_day_2015",
-		"nameRU":"Золотой ящик (День танкиста 2015)",
-		"nameEN":"Gold box (Tanker's Day 2015)"
-	},
-	{
-		"type":"gold",
-		"id":"tankers_day_2017",
-		"nameRU":"Золотой ящик (День танкиста 2017)",
-		"nameEN":"Gold box (Tanker's Day 2017)"
-	},
-	{
-		"type":"gold",
-		"id":"tankers_day_2024",
-		"nameRU":"Золотой ящик (День танкиста 2024)",
-		"nameEN":"Gold box (Tanker's Day 2024)"
-	},
-	{
-		"type":"gold",
-		"id":"cn_national_day_2011",
-		"nameRU":"Золотой ящик (День образования КНР 2011)",
-		"nameEN":"Gold box (Chinese National Day 2011)"
-	},
-	{
-		"type":"gold",
-		"id":"cn_national_day",
-		"nameRU":"Золотой ящик (День образования КНР)",
-		"nameEN":"Gold box (Chinese National Day)"
-	},
-	{
-		"type":"gold",
-		"id":"moon_silence",
-		"nameRU":"Золотой ящик (Лунная Тишина)",
-		"nameEN":"Gold box (Moon Silence)"
+		"id":"gamescom",
+		"nameRU":"Золотой ящик (Gamescom)",
+		"nameEN":"Gold Box (Gamescom)"
 	},
 	{
 		"type":"gold",
 		"id":"halloween_2012",
 		"nameRU":"Золотой ящик (Хэллоуин 2012)",
-		"nameEN":"Gold box (Halloween 2012)"
+		"nameEN":"Gold Box (Halloween 2012)"
 	},
 	{
 		"type":"gold",
 		"id":"halloween_2013",
 		"nameRU":"Золотой ящик (Хэллоуин 2013)",
-		"nameEN":"Gold box (Halloween 2013)"
+		"nameEN":"Gold Box (Halloween 2013)"
 	},
 	{
 		"type":"gold",
 		"id":"halloween_2014",
 		"nameRU":"Золотой ящик (Хэллоуин 2014)",
-		"nameEN":"Gold box (Halloween 2014)"
+		"nameEN":"Gold Box (Halloween 2014)"
 	},
 	{
 		"type":"gold",
 		"id":"halloween_2015",
 		"nameRU":"Золотой ящик (Хэллоуин 2015)",
-		"nameEN":"Gold box (Halloween 2015)"
+		"nameEN":"Gold Box (Halloween 2015)"
 	},
 	{
 		"type":"gold",
 		"id":"halloween_2016",
 		"nameRU":"Золотой ящик (Хэллоуин 2016)",
-		"nameEN":"Gold box (Halloween 2016)"
+		"nameEN":"Gold Box (Halloween 2016)"
 	},
 	{
 		"type":"gold",
 		"id":"halloween_2022",
 		"nameRU":"Золотой ящик (Хэллоуин 2022)",
-		"nameEN":"Gold box (Halloween 2022)"
+		"nameEN":"Gold Box (Halloween 2022)"
 	},
 	{
 		"type":"gold",
-		"id":"day_of_the_dead_2022",
-		"nameRU":"Золотой ящик (День духов 2022)",
-		"nameEN":"Gold box (Day of Spirits 2022)"
+		"id":"may_holidays_2013",
+		"nameRU":"Золотой ящик (Майские праздники 2013)",
+		"nameEN":"Gold Box (May Holidays 2013)"
 	},
 	{
 		"type":"gold",
-		"id":"crazy_weekend",
-		"nameRU":"Золотой ящик (Безумные выходные)",
-		"nameEN":"Gold box (Crazy Weekend)"
+		"id":"may_holidays_2014",
+		"nameRU":"Золотой ящик (Майские праздники 2014)",
+		"nameEN":"Gold Box (May Holidays 2014)"
+	},
+	{
+		"type":"gold",
+		"id":"moon_silence",
+		"nameRU":"Золотой ящик (Лунная Тишина)",
+		"nameEN":"Gold Box (Moon Silence)"
+	},
+	{
+		"type":"gold",
+		"id":"new_year_2013",
+		"nameRU":"Золотой ящик (Новый Год 2013)",
+		"nameEN":"Gold Box (New Year 2013)"
+	},
+	{
+		"type":"gold",
+		"id":"new_year_2014",
+		"nameRU":"Золотой ящик (Новый Год 2014)",
+		"nameEN":"Gold Box (New Year 2014)"
+	},
+	{
+		"type":"gold",
+		"id":"new_year_2016",
+		"nameRU":"Золотой ящик (Новый Год 2016)",
+		"nameEN":"Gold Box (New Year 2016)"
+	},
+	{
+		"type":"gold",
+		"id":"new_year_2017",
+		"nameRU":"Золотой ящик (Новый Год 2017)",
+		"nameEN":"Gold Box (New Year 2017)"
 	},
 	{
 		"type":"gold",
 		"id":"sltv_ss_season_3",
-		"nameRU":"Золотой ящик (SLTV SS 3 сезон)",
-		"nameEN":"Gold box (SLTV SS season 3)"
+		"nameRU":"Золотой ящик (SLTV SS 3-ий сезон)",
+		"nameEN":"Gold Box (SLTV SS season 3rd)"
 	},	
+	{
+		"type":"gold",
+		"id":"st_patricks_day_2022",
+		"nameRU":"Золотой ящик (День святого Патрика 2022)",
+		"nameEN":"Gold Box (St. Patrick's Day 2022)"
+	},
+	{
+		"type":"gold",
+		"id":"summer_festival_2024",
+		"nameRU":"Золотой ящик (Летний фестиваль 2024)",
+		"nameEN":"Gold Box (Summer Festival 2024)"
+	},
+	{
+		"type":"gold",
+		"id":"summer_sale_2017",
+		"nameRU":"Золотой ящик (Летняя распродажа 2017)",
+		"nameEN":"Gold Box (Summer sale 2017)"
+	},
+	{
+		"type":"gold",
+		"id":"tankers_day_2015",
+		"nameRU":"Золотой ящик (День танкиста 2015)",
+		"nameEN":"Gold Box (Tanker's Day 2015)"
+	},
+	{
+		"type":"gold",
+		"id":"tankers_day_2017",
+		"nameRU":"Золотой ящик (День танкиста 2017)",
+		"nameEN":"Gold Box (Tanker's Day 2017)"
+	},
+	{
+		"type":"gold",
+		"id":"tankers_day_2024",
+		"nameRU":"Золотой ящик (День танкиста 2024)",
+		"nameEN":"Gold Box (Tanker's Day 2024)"
+	},
+	{
+		"type":"gold",
+		"id":"energy_2022",
+		"nameRU":"Золотой ящик («Танки и тёмная материя» 2022)",
+		"nameEN":"Gold Box («Tanks and Dark Matter» 2022)"
+	},
+	{
+		"type":"gold",
+		"id":"ufo_day_2018",
+		"nameRU":"Золотой ящик (День НЛО 2018)",
+		"nameEN":"Gold Box (UFO Day 2018)"
+	},
+	{
+		"type":"gold",
+		"id":"valentines_day_2015",
+		"nameRU":"Золотой ящик (День святого Валентина 2015)",
+		"nameEN":"Gold Box (Valentine's Day 2015)"
+	},
+	{
+		"type":"gold",
+		"id":"valentines_day_2016",
+		"nameRU":"Золотой ящик (День святого Валентина 2016)",
+		"nameEN":"Gold Box (Valentine's Day 2016)"
+	},
+	{
+		"type":"gold",
+		"id":"valentines_day_2017",
+		"nameRU":"Золотой ящик (День святого Валентина 2017)",
+		"nameEN":"Gold Box (Valentine's Day 2017)"
+	},
+	{
+		"type":"gold",
+		"id":"valentines_day_2018",
+		"nameRU":"Золотой ящик (День святого Валентина 2018)",
+		"nameEN":"Gold Box (Valentine's Day 2018)"
+	},
+	{
+		"type":"gold",
+		"id":"victory_day_2011",
+		"nameRU":"Золотой ящик (День Победы 2011)",
+		"nameEN":"Gold Box (Victory Day 2011)"
+	},
+	{
+		"type":"gold",
+		"id":"victory_day_2013",
+		"nameRU":"Золотой ящик (День Победы 2013)",
+		"nameEN":"Gold Box (Victory Day 2013)"
+	},
 	{
 		"type":"gold",
 		"id":"videoblog_100",
 		"nameRU":"Золотой ящик (Видеоблог №100)",
-		"nameEN":"Gold box (Videoblog №100)"
+		"nameEN":"Gold Box (Videoblog №100)"
 	},
 	{
 		"type":"gold",
-		"id":"gamescom",
-		"nameRU":"Золотой ящик (на Gamescom)",
-		"nameEN":"Gold box (at Gamescom)"
+		"id":"womens_day_2015",
+		"nameRU":"Золотой ящик (Женский день 2015)",
+		"nameEN":"Gold Box (Women's Day 2015)"
 	},
 	{
 		"type":"gold",
-		"id":"euro_2012",
-		"nameRU":"Золотой ящик (ЕВРО-2012)",
-		"nameEN":"Gold box (EURO-2012)"
+		"id":"womens_day_2016",
+		"nameRU":"Золотой ящик (Женский день 2016)",
+		"nameEN":"Gold Box (Women's Day 2016)"
 	},
 	{
 		"type":"gold",
-		"id":"release_284_updated",
-		"nameRU":"Золотой ящик (релиз 284) (изменённый)",
-		"nameEN":"Gold box (release 284) (updated)"
+		"id":"womens_day_2017",
+		"nameRU":"Золотой ящик (Женский день 2017)",
+		"nameEN":"Gold Box (Women's Day 2017)"
 	},
 	{
 		"type":"gold",
-		"id":"release_284",
-		"nameRU":"Золотой ящик (релиз 284)",
-		"nameEN":"Gold box (release 284)"
-	},
-	{
-		"type":"gold",
-		"id":"release_123",
-		"nameRU":"Золотой ящик (релиз 123)",
-		"nameEN":"Gold box (release 123)"
-	},
-	{
-		"type":"gold",
-		"id":"release_1.100",
-		"nameRU":"Золотой ящик (релиз 1.100)",
-		"nameEN":"Gold box (release 1.100)"
-	},
-	{
-		"type":"gold",
-		"id":"old",
-		"nameRU":"Золотой ящик (старый)",
-		"nameEN":"Gold box (old)"
-	},
-	{
-		"type":"gold",
-		"id":"very_first",
-		"nameRU":"Золотой ящик (самый первый)",
-		"nameEN":"Gold box (very first)"
+		"id":"womens_day_2022",
+		"nameRU":"Золотой ящик (Женский день 2022)",
+		"nameEN":"Gold Box (Women's Day 2022)"
 	},
 	{
 		"type":"nuclear_energy",
@@ -519,6 +711,6 @@
 		"type":"gold",
 		"id":"tx",
 		"nameRU":"Золотой ящик (Tanki X)",
-		"nameEN":"Gold box (Tanki X)"
+		"nameEN":"Gold Box (Tanki X)"
 	}
 ]

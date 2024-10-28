@@ -1,0 +1,22 @@
+[
+	{
+		"id":"hd",
+		"nameRU":"Стандартный",
+		"nameEN":"Standard"
+	},
+	{
+		"id":"old_blue",
+		"nameRU":"Стандартный (старый синий)",
+		"nameEN":"Standard (old blue)"
+	},
+	{
+		"id":"old_green",
+		"nameRU":"Стандартный (старый зелёный)",
+		"nameEN":"Standard (old green)"
+	},
+	{
+		"id":"easter",
+		"nameRU":"Пасха",
+		"nameEN":"Easter"
+	}
+]

@@ -416,6 +416,46 @@
 			"shotLight":"twins_blaster_shot",
 			"shellLight":"twins_blaster_shell",
 			"hitLight":"twins_blaster_hit"
+		},
+		{
+			"id":"m0_legacy",
+			"isLegacy":true,
+			"explosion":"shot_skin_twins_m0_legacy_explosion",
+			"shot":"shot_skin_twins_m0_legacy_shot",
+			"muzzle":"shot_skin_twins_m0_legacy_muzzle",
+			"shotLight":"twins_sky_shot",
+			"shellLight":"twins_sky_shell",
+			"hitLight":"twins_sky_hit"
+		},
+		{
+			"id":"m1_legacy",
+			"isLegacy":true,
+			"explosion":"shot_skin_twins_m1_legacy_explosion",
+			"shot":"shot_skin_twins_m1_legacy_shot",
+			"muzzle":"shot_skin_twins_m1_legacy_muzzle",
+			"shotLight":"twins_sky_shot",
+			"shellLight":"twins_sky_shell",
+			"hitLight":"twins_sky_hit"
+		},
+		{
+			"id":"m2_legacy",
+			"isLegacy":true,
+			"explosion":"shot_skin_twins_m2_legacy_explosion",
+			"shot":"shot_skin_twins_m2_legacy_shot",
+			"muzzle":"shot_skin_twins_m2_legacy_muzzle",
+			"shotLight":"twins_default_shot",
+			"shellLight":"twins_default_shell",
+			"hitLight":"twins_default_hit"
+		},
+		{
+			"id":"m3_legacy",
+			"isLegacy":true,
+			"explosion":"shot_skin_twins_m3_legacy_explosion",
+			"shot":"shot_skin_twins_m3_legacy_shot",
+			"muzzle":"shot_skin_twins_m3_legacy_muzzle",
+			"shotLight":"twins_default_shot",
+			"shellLight":"twins_default_shell",
+			"hitLight":"twins_default_hit"
 		}
 	],
 	"isida":
@@ -959,6 +999,15 @@
 			"lightningLight":"tesla_standard_lightning",
 			"ballPrepareLight":"tesla_standard_ball_prepare",
 			"ballLoopLight":"tesla_standard_ball_loop"
+		}	
+	],
+	"tanks":
+	[
+		{
+			"id":"standard",
+			"muzzle":"shot_skin_tanks_standard_muzzle",
+			"explosion":"shot_skin_tanks_standard_explosion",
+			"smoke":"shot_skin_tanks_standard_smoke"
 		}	
 	]
 }

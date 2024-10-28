@@ -2752,6 +2752,13 @@
 	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
 },
 {
+	"id":"pumpkin_puree",
+	"nameRU":"Тыквенное пюре",
+	"nameEN":"Pumpkin Puree",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
 	"id":"pumpkins",
 	"nameRU":"Сезон тыкв",
 	"nameEN":"Pumpkins",

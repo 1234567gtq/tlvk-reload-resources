@@ -1152,6 +1152,13 @@
 		"paintId":"devil"
 	},
 	{
+		"id":"realgar",
+		"name":"Realgar",
+		"hullId":"hornet", "hullSkinId":"rl",
+		"turretId":"railgun", "turretSkinId":"rl",
+		"paintId":"neo-cubes"
+	},
+	{
 		"id":"araumi",
 		"name":"Araumi",
 		"hullId":"hornet", "hullSkinId":"xt_m3",

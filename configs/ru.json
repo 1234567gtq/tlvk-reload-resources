@@ -41,7 +41,8 @@
 	"GARAGE":"Гараж:",
 	"CHANCE_OF_TURRET_BLOWN_OFF":"Шанс отрыва башни (%)",
 	"OPEN_OWN_MAP":"Открыть свою карту",
-	"FILE_FILTER_DESCRIPTION":"XML-карта",
+	"XML_FILTER_DESCRIPTION":"XML-карта",
+	"MP3_FILTER_DESCRIPTION":"Музыка",
 	"LET_S_FIGHT":"В бой!",
 	"SEARCH:":"Поиск:",
 	
@@ -71,6 +72,7 @@
 	"KITS":"Комплекты",
 	"UPGRADE":"Улучшить",
 	"EQUIP":"Установить",
+	"TAKE_OFF":"Снять",
 	"EQUIPPED":"Установлено",
 	"ITEMS_IN_KIT":"Состав комплекта",
 	"RANDOM_TANK":"Случайный танк",
@@ -134,6 +136,9 @@
 	"CREATE_BONUS_AFTER_EXPLOSION":"Создать припас после взрыва",
 	"FLIGHT_TIME":"Время полёта (мс)",
 	
+	"HEADER_BALLS":"МЯЧИ",
+	"BALL":"Мяч:",
+	
 	"HEADER_FUN_FUNCTIONS":"ВЕСЁЛЫЕ ФУНКЦИИ",
 	"CAMERA_SCALE_X":"Масштаб камеры по X:",
 	"CAMERA_SCALE_Y":"Масштаб камеры по Y:",
@@ -141,6 +146,7 @@
 	"SHOW_MAP":"Показывать карту",
 	"STANCE_WHEELS":"Stance-стиль для колёс GT-корпусов",
 	"CAMERA_COLLISION":"Коллизия камеры",
+	"TURN_ON_RADIO":"Включить радио",
 	
 	"HEADER_UPGRADES":"УЛУЧШЕНИЯ",
 	
@@ -348,6 +354,10 @@
 	"HORIZONTAL_TARGETING_SPEED":"Скорость прицеливания по горизонтали (рад/с)",
 	"VERTICAL_TARGETING_SPEED":"Скорость прицеливания по вертикали (рад/с)",
 	"TARGETING_ACCELERATION":"Ускорение поворота в прицельном состоянии (рад/с²)",
+	
+	"CHARGING_HOLDING_TIME":"Время выдержки зарядки (мс)",
+	"RISING_HOLDING_TIME":"Время выдержки поднятия молота (мс)",
+	"RISING_TIME":"Время поднятия молота",
 	
 	
 	

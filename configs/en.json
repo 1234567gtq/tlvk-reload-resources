@@ -41,7 +41,8 @@
 	"GARAGE":"Garage:",
 	"CHANCE_OF_TURRET_BLOWN_OFF":"Chance of turret blown off (%)",
 	"OPEN_OWN_MAP":"Open own map",
-	"FILE_FILTER_DESCRIPTION":"XML-map",
+	"XML_FILTER_DESCRIPTION":"XML-map",
+	"MP3_FILTER_DESCRIPTION":"Music",
 	"LET_S_FIGHT":"Let's fight",
 	"SEARCH:":"Search:",
 	
@@ -71,6 +72,7 @@
 	"KITS":"Kits",
 	"UPGRADE":"Upgrade",
 	"EQUIP":"Equip",
+	"TAKE_OFF":"Take off",
 	"EQUIPPED":"Equipped",
 	"ITEMS_IN_KIT":"Items in Kit",
 	"RANDOM_TANK":"Random tank",
@@ -134,6 +136,9 @@
 	"CREATE_BONUS_AFTER_EXPLOSION":"Create supply after explosion",
 	"FLIGHT_TIME":"Flight time (ms)",
 	
+	"HEADER_BALLS":"BALLS",
+	"BALL":"Ball:",
+	
 	"HEADER_FUN_FUNCTIONS":"FUN FUNCTIONS",
 	"CAMERA_SCALE_X":"Camera scale X:",
 	"CAMERA_SCALE_Y":"Camera scale Y:",
@@ -141,6 +146,8 @@
 	"SHOW_MAP":"Show map",
 	"STANCE_WHEELS":"Stance style for GT wheels",
 	"CAMERA_COLLISION":"Camera collision",
+	"TURN_ON_RADIO":"Turn on the radio",
+	
 	
 	"HEADER_UPGRADES":"UPGRADES",
 	
@@ -326,7 +333,9 @@
 	"VERTICAL_TARGETING_SPEED":"Vertical aiming speed (rad/s)",
 	"TARGETING_ACCELERATION":"Turning acceleration in sniping mode (rad/s²)",
 	
-	
+	"CHARGING_HOLDING_TIME":"Charging holding time (ms)",
+	"RISING_HOLDING_TIME":"Rising holding time (ms)",
+	"RISING_TIME":"Rising time (ms)",
 	
 	
 	

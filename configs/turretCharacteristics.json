@@ -86,8 +86,8 @@
 	},
 	{
 		"id":"bonk",
-		"maxSpeed":"0",
-		"acceleration":"0"
+		"maxSpeed":"1.571",
+		"acceleration":"1.571"
 	},
 	{
 		"id":"snowman",
@@ -96,6 +96,11 @@
 	},
 	{
 		"id":"tomato_gun",
+		"maxSpeed":"2.566",
+		"acceleration":"2.566"
+	},
+	{
+		"id":"tanks",
 		"maxSpeed":"2.566",
 		"acceleration":"2.566"
 	}

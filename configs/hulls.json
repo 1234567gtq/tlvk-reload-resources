@@ -31,6 +31,42 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Элитный Васп XT отличается уникальным боковым рисунком, напоминающим сложенные крылья древнего дракона.",
+				"descriptionEN":"The elite Wasp XT is special due to its unique side ornament, resembling the wings of an ancient dragon.",
+				"icon":"xt",
+				"emissionColor":"16729344",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"dc",
+				"name":"Demomic",
+				"descriptionRU":"Если ты любитель жутких вечеринок и ярких образов, то новая коллекция скинов в стиле Demonic — как раз то, что ты ищешь! Если начать рассматривать уникальное покрытие этих скинов, можно сильно удивиться используемым материалам. Глаз древней совы, рука злобного хейтера, и всё это под плащом летучей мыши. Конечно, это декорации, но обладатель таких скинов, несомненно, поразит всех на поле боя.",
+				"descriptionEN":"If you are a fan of spooky parties and vivid images, the new Demonic skin collection is exactly what you've been looking for! Take a closer look at the unique coating of these skins, you might be surprised by the materials used. Ancient owl's eye and evil hand hidden under a bat wing. While these may just be decorations, the owner of these skins will undoubtedly amaze everyone on the battlefield.",
+				"icon":"dc",
+				"emissionColor":"15884800",
+				"emissionColorSecond":"16685824",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"«Догнать и перегнать!» – этот девиз для владельцев Васпа остаётся неизменным, меняется только скин. Лаконичный дизайн подчёркивает естественность скина, в котором нет ничего лишнего.",
+				"descriptionEN":"«Catch up and overtake» — that's the constant motto for the owner of Wasp. The only thing to change is the skin. A minimalist design emphasises the naturalness of a skin with no superfluous features.",
+				"icon":"lc"
+			},
+			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Для путешествий на большие расстояния всегда лучше использовать колёса. Серия GT скинов для корпусов, которые созданы для самых смелых и решительных игроков.\n\nОни идеально подходят для тех, кто хочет выделиться на поле боя и продемонстрировать свою силу и уверенность.\n\nКорпуса GT оснащены передовыми технологиями и материалами и имеют уникальный дизайн, который подчёркивает их мощь и красоту.",
+				"descriptionEN":"It is always better to use wheels for long distance travels. The GT series of skins for hulls is designed for the boldest and most determined players.\n\nThey are perfect for those who want to stand out on the battlefield and demonstrate their strength and confidence.\n\nGT hulls are equipped with advanced technologies and materials and have a unique design that emphasizes their power and beauty.",
+				"icon":"gt",
+				"emissionColor":"196607",
+				"emissionColorSecond":"16751360",
+				"emissionColorThreshold":"0.6"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
@@ -91,42 +127,6 @@
 				"icon":"standard"
 			},
 			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Элитный Васп XT отличается уникальным боковым рисунком, напоминающим сложенные крылья древнего дракона.",
-				"descriptionEN":"The elite Wasp XT is special due to its unique side ornament, resembling the wings of an ancient dragon.",
-				"icon":"xt",
-				"emissionColor":"16729344",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"lc",
-				"name":"Legacy",
-				"descriptionRU":"«Догнать и перегнать!» – этот девиз для владельцев Васпа остаётся неизменным, меняется только скин. Лаконичный дизайн подчёркивает естественность скина, в котором нет ничего лишнего.",
-				"descriptionEN":"«Catch up and overtake» — that's the constant motto for the owner of Wasp. The only thing to change is the skin. A minimalist design emphasises the naturalness of a skin with no superfluous features.",
-				"icon":"lc"
-			},
-			{
-				"id":"dc",
-				"name":"Demomic",
-				"descriptionRU":"Если ты любитель жутких вечеринок и ярких образов, то новая коллекция скинов в стиле Demonic — как раз то, что ты ищешь! Если начать рассматривать уникальное покрытие этих скинов, можно сильно удивиться используемым материалам. Глаз древней совы, рука злобного хейтера, и всё это под плащом летучей мыши. Конечно, это декорации, но обладатель таких скинов, несомненно, поразит всех на поле боя.",
-				"descriptionEN":"If you are a fan of spooky parties and vivid images, the new Demonic skin collection is exactly what you've been looking for! Take a closer look at the unique coating of these skins, you might be surprised by the materials used. Ancient owl's eye and evil hand hidden under a bat wing. While these may just be decorations, the owner of these skins will undoubtedly amaze everyone on the battlefield.",
-				"icon":"dc",
-				"emissionColor":"15884800",
-				"emissionColorSecond":"16685824",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"gt",
-				"name":"GT",
-				"descriptionRU":"Для путешествий на большие расстояния всегда лучше использовать колёса. Серия GT скинов для корпусов, которые созданы для самых смелых и решительных игроков.\n\nОни идеально подходят для тех, кто хочет выделиться на поле боя и продемонстрировать свою силу и уверенность.\n\nКорпуса GT оснащены передовыми технологиями и материалами и имеют уникальный дизайн, который подчёркивает их мощь и красоту.",
-				"descriptionEN":"It is always better to use wheels for long distance travels. The GT series of skins for hulls is designed for the boldest and most determined players.\n\nThey are perfect for those who want to stand out on the battlefield and demonstrate their strength and confidence.\n\nGT hulls are equipped with advanced technologies and materials and have a unique design that emphasizes their power and beauty.",
-				"icon":"gt",
-				"emissionColor":"196607",
-				"emissionColorSecond":"16751360",
-				"emissionColorThreshold":"0.6"
-			},
-			{
 				"id":"release_1.100_1",
 				"nameRU":"Релиз 1.100 (1)",
 				"nameEN":"Release 1.100 (1)",
@@ -173,25 +173,6 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
-				"id":"tx_steel",
-				"nameRU":"Сталь (Tanki X)",
-				"nameEN":"Steel (Tanki X)",
-				"descriptionRU":"Этот корпус разрабатывался специально для продаж частным армиям по всему миру. «Васп» эффективно справлялся с танками старого образца, но и в современной войне ему легко найти применение. Быстро рвёт дистанцию, легко уходит из-под удара. Он предназначен для перехвата и вовлечения неповоротливого противника в маневренный бой. Этот корпус плохо держит удар и может даже перевернуться при попадании тяжелого мощного снаряда. Но верно служит тем, кто под удар не подставится.",
-				"descriptionEN":"This hull was specifically designed to cater to the needs of private armies around the world. The Wasp makes short work of old-style tanks, and it is also a valuable tool to fighting modern wars. It can quickly cover distances, and it is easily able to escape enemy fire. It is designed to intercept and engage a cornered enemy in a Blitzkrieg-style battle. This hull poorly resists blows and can even flip over when hit by heavy shells. But it will faithfully serve those that can avoid enemy fire.",
-				"icon":"tx",
-				"emissionColor":"4186194",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"tx_xt",
-				"name":"XT (Tanki X)",
-				"descriptionRU":"Этот корпус разрабатывался специально для продаж частным армиям по всему миру. «Васп» эффективно справлялся с танками старого образца, но и в современной войне ему легко найти применение. Быстро рвёт дистанцию, легко уходит из-под удара. Он предназначен для перехвата и вовлечения неповоротливого противника в маневренный бой. Этот корпус плохо держит удар и может даже перевернуться при попадании тяжелого мощного снаряда. Но верно служит тем, кто под удар не подставится.",
-				"descriptionEN":"This hull was specifically designed to cater to the needs of private armies around the world. The Wasp makes short work of old-style tanks, and it is also a valuable tool to fighting modern wars. It can quickly cover distances, and it is easily able to escape enemy fire. It is designed to intercept and engage a cornered enemy in a Blitzkrieg-style battle. This hull poorly resists blows and can even flip over when hit by heavy shells. But it will faithfully serve those that can avoid enemy fire.",
-				"icon":"tx",
-				"emissionColor":"4521983",
-				"emissionColorThreshold":"0.6"
-			},
-			{
 				"id":"tx_bumblebee-83",
 				"nameRU":"Шмель-83 (Tanki X)",
 				"nameEN":"Bumblebee-83 (Tanki X)",
@@ -220,7 +201,26 @@
 				"icon":"tx",
 				"emissionColor":"65535",
 				"emissionColorThreshold":"0.4"
-			}	
+			},
+			{
+				"id":"tx_steel",
+				"nameRU":"Сталь (Tanki X)",
+				"nameEN":"Steel (Tanki X)",
+				"descriptionRU":"Этот корпус разрабатывался специально для продаж частным армиям по всему миру. «Васп» эффективно справлялся с танками старого образца, но и в современной войне ему легко найти применение. Быстро рвёт дистанцию, легко уходит из-под удара. Он предназначен для перехвата и вовлечения неповоротливого противника в маневренный бой. Этот корпус плохо держит удар и может даже перевернуться при попадании тяжелого мощного снаряда. Но верно служит тем, кто под удар не подставится.",
+				"descriptionEN":"This hull was specifically designed to cater to the needs of private armies around the world. The Wasp makes short work of old-style tanks, and it is also a valuable tool to fighting modern wars. It can quickly cover distances, and it is easily able to escape enemy fire. It is designed to intercept and engage a cornered enemy in a Blitzkrieg-style battle. This hull poorly resists blows and can even flip over when hit by heavy shells. But it will faithfully serve those that can avoid enemy fire.",
+				"icon":"tx",
+				"emissionColor":"4186194",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"tx_xt",
+				"name":"XT (Tanki X)",
+				"descriptionRU":"Этот корпус разрабатывался специально для продаж частным армиям по всему миру. «Васп» эффективно справлялся с танками старого образца, но и в современной войне ему легко найти применение. Быстро рвёт дистанцию, легко уходит из-под удара. Он предназначен для перехвата и вовлечения неповоротливого противника в маневренный бой. Этот корпус плохо держит удар и может даже перевернуться при попадании тяжелого мощного снаряда. Но верно служит тем, кто под удар не подставится.",
+				"descriptionEN":"This hull was specifically designed to cater to the needs of private armies around the world. The Wasp makes short work of old-style tanks, and it is also a valuable tool to fighting modern wars. It can quickly cover distances, and it is easily able to escape enemy fire. It is designed to intercept and engage a cornered enemy in a Blitzkrieg-style battle. This hull poorly resists blows and can even flip over when hit by heavy shells. But it will faithfully serve those that can avoid enemy fire.",
+				"icon":"tx",
+				"emissionColor":"4521983",
+				"emissionColorThreshold":"0.6"
+			}
 		],
 		"devices":
 		[
@@ -335,66 +335,6 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
-				"id":"m0",
-				"name":"M0",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m1",
-				"name":"M1",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m2",
-				"name":"M2",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m3",
-				"name":"M3",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m0_old",
-				"nameRU":"M0 (старый)",
-				"nameEN":"M0 (old)",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m1_old",
-				"nameRU":"M1 (старый)",
-				"nameEN":"M1 (old)",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m2_old",
-				"nameRU":"M2 (старый)",
-				"nameEN":"M2 (old)",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m3_old",
-				"nameRU":"M3 (старый)",
-				"nameEN":"M3 (old)",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
 				"id":"xt_m0",
 				"name":"XT M0",
 				"descriptionRU":"Элитный Хорнет XT отличается уникальным внешним видом. Эффектные бронепластины, стилизованные под крылья, подчёркивают его стремительность и элегантность.",
@@ -460,8 +400,78 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"m0",
+				"name":"M0",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1",
+				"name":"M1",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2",
+				"name":"M2",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3",
+				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m0_old",
+				"nameRU":"M0 (старый)",
+				"nameEN":"M0 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m1_old",
+				"nameRU":"M1 (старый)",
+				"nameEN":"M1 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2_old",
+				"nameRU":"M2 (старый)",
+				"nameEN":"M2 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m3_old",
+				"nameRU":"M3 (старый)",
+				"nameEN":"M3 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"xt_fake",
+				"nameRU":"XT (неофициальный)",
+				"nameEN":"XT (unofficial)",
+				"description":"TODO",
+				"icon":"xt",
+				"emissionColor":"11955212",
+				"emissionColorThreshold":"0.4"
+			},
+			{
 				"id":"rl",
-				"name":"Realgar",
+				"nameRU":"Realgar (неофициальный)",
+				"nameEN":"Realgar (unofficial)",
 				"descriptionRU":"По данным Всемирной Организации по Контролю Оружия данной модификации танка не существует. Принадлежавший некогда легендарному наёмнику этот танк побывал в самых коварных и безвыходных передрягах, как никто другой служивший своему владельцу ёмким словом в перепалке. Теперь чертежи этого танка выставлены в награду за турнир и только самые достойные получат право им обладать!",
 				"descriptionEN":"According to the World Organization for Weapons Control, this modification of the tank does not exist. Once owned by a legendary mercenary, this tank has been in the most insidious and hopeless troubles, like no other that served its owner with a capacious word in a skirmish. Now the blueprints of this tank are presented as a reward for the tournament, and only the most worthy will get the right to own it!",
 				"icon":"rl",
@@ -487,6 +497,15 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"tx_beta",
+				"name":"β (Tanki X)",
+				"descriptionRU":"Разработан «Антеем» для эффектной рекламы танков «Х» на полях сражений по всему миру. «Хорнеты» на высоких скоростях появляются перед носом у врага и молниеносно громят его позиции. Этот корпус может получить по зубам и остаться на ходу, но эффективные маневры «на пятачке» — это не про него.",
+				"descriptionEN":"It was developed by Antaeus to effectively promote their «Х» Tanks on battlefields around the world. Hornets can appear right in front of the enemy's nose at lightning speed and smash their position. This hull can withstand direct hits and still stay on track, but it is not good for performing quick maneuvers on a dime.",
+				"icon":"tx",
+				"emissionColor":"65280",
+				"emissionColorThreshold":"0.6"
+			},
+			{
 				"id":"tx_steel",
 				"nameRU":"Сталь (Tanki X)",
 				"nameEN":"Steel (Tanki X)",
@@ -505,15 +524,6 @@
 				"emissionColor":"6085887",
 				"emissionColorThreshold":"0.4"
 			},
-			{
-				"id":"tx_beta",
-				"name":"β (Tanki X)",
-				"descriptionRU":"Разработан «Антеем» для эффектной рекламы танков «Х» на полях сражений по всему миру. «Хорнеты» на высоких скоростях появляются перед носом у врага и молниеносно громят его позиции. Этот корпус может получить по зубам и остаться на ходу, но эффективные маневры «на пятачке» — это не про него.",
-				"descriptionEN":"It was developed by Antaeus to effectively promote their «Х» Tanks on battlefields around the world. Hornets can appear right in front of the enemy's nose at lightning speed and smash their position. This hull can withstand direct hits and still stay on track, but it is not good for performing quick maneuvers on a dime.",
-				"icon":"tx",
-				"emissionColor":"65280",
-				"emissionColorThreshold":"0.6"
-			},	
 			{
 				"id":"tx_victory_day",
 				"nameRU":"День Победы (Tanki X)",
@@ -763,6 +773,81 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Эксклюзивный Викинг XT примечателен своим необычным внешним видом. Характерный рисунок брони выполнен в суровом скандинавском стиле.",
+				"descriptionEN":"The exclusive Viking XT is memorable thanks to its exterior, featuring a distinct armor pattern that conveys northern strength and stability.",
+				"icon":"xt"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Готовьтесь ловить на себе удивлённые взгляды! Ведь все игроки в битве подумают, что к ним явился призрак из прошлого. Так и есть — это корпус Викинг в старой графике.",
+				"descriptionEN":"Get ready to gather surprised stares on the battlefield! All players will think they saw a ghost from the past, as you roll by with a Viking hull from the old game graphics.",
+				"icon":"lc"
+			},
+			{
+				"id":"pr",
+				"name":"Prime",
+				"descriptionRU":"Викинг — первый корпус, получивший скин из новой серии Prime. Этот скин отражает универсальность Викинга — его способность приспосабливаться к любым условиям битвы, и отлично выглядит с любой краской.",
+				"descriptionEN":"Viking is the first hull to receive a skin from the new Prime series. Viking is known for its adaptability in battle, and this Prime skin reflects this quality by looking great with any paint.",
+				"icon":"pr",
+				"emissionColor":"8388605",
+				"emissionColorSecond": "14649088",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"ut",
+				"name":"Ultra",
+				"descriptionRU":"Один из самых универсальных корпусов в игре теперь станет ещё и одним из самых ярких с новым скином Ультра. Благородный воин, верный своему имени.",
+				"descriptionEN":"One of the most versatile hulls in the game now also becomes one of the hottest-looking with this Ultra skin. A noble warrior true to its name.",
+				"icon":"ut",
+				"emissionColor":"516349",
+				"emissionColorSecond":"16762192",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Для путешествий на большие расстояния всегда лучше использовать колёса. Викинг GT — это адаптированный под автодороги танк, которому не страшны путешествия на любые расстояния. За фюзеляжем данного корпуса скрывается салон необычайной комфортабельности и красоты. Стоимости материалов, из которых изготовлены внутренние стены танка, хватило бы на производство десятка боевых машин пониженного класса кофмортности. Описание внутренних удобств корпусов серии GT занимает десятки страниц инструкции по применению. Максимальная комплектация включает: ABS, круиз-контроль, кондиционер, мультимедийная система и ёлочку... на удачу! Раздвоенные передние колёсные пары, усиленные радиаторы охлаждения и высокая бронированность задней части танка делают его суперуниверсальной боевой машиной для оснастки практически любым видом вооружения, способной быстро и манёвренно покидать поле боя для возобновления боекомплекта.",
+				"descriptionEN":"It is always better to use wheels for long distance travels. Viking GT is a customized version of a tank for the highway and is not afraid of any distance.\n\nUnder the armor of this hull you will find an interior of extraordinary comfort and great beauty. The cost of materials from which interior walls of the tank are made would be enough to produce a dozen less comfy battle vehicles. The description of interior amenities of GT series skins takes up dozens of pages in the service manual. The ultimate configuration includes ABS, cruise control, air conditioning, multimedia system, and… a tree air freshener, for good luck!\n\nA pair of forked front wheels, enhanced cooling radiators, and boosted armor at the back of the tank make Viking GT a super versatile battle vehicle to be used with any type of equipment. It is capable of quickly and nimbly rushing back to base to restock on ammunition.",
+				"icon":"gt",
+				"emissionColor":"983039",
+				"emissionColorSecond":"11599872",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"gt_concept",
+				"nameRU":"GT (концепт)",
+				"nameEN":"GT (concept)",
+				"descriptionRU":"Для путешествий на большие расстояния всегда лучше использовать колёса. Викинг GT — это адаптированный под автодороги танк, которому не страшны путешествия на любые расстояния. За фюзеляжем данного корпуса скрывается салон необычайной комфортабельности и красоты. Стоимости материалов, из которых изготовлены внутренние стены танка, хватило бы на производство десятка боевых машин пониженного класса кофмортности. Описание внутренних удобств корпусов серии GT занимает десятки страниц инструкции по применению. Максимальная комплектация включает: ABS, круиз-контроль, кондиционер, мультимедийная система и ёлочку... на удачу! Раздвоенные передние колёсные пары, усиленные радиаторы охлаждения и высокая бронированность задней части танка делают его суперуниверсальной боевой машиной для оснастки практически любым видом вооружения, способной быстро и манёвренно покидать поле боя для возобновления боекомплекта.",
+				"descriptionEN":"It is always better to use wheels for long distance travels. Viking GT is a customized version of a tank for the highway and is not afraid of any distance.\n\nUnder the armor of this hull you will find an interior of extraordinary comfort and great beauty. The cost of materials from which interior walls of the tank are made would be enough to produce a dozen less comfy battle vehicles. The description of interior amenities of GT series skins takes up dozens of pages in the service manual. The ultimate configuration includes ABS, cruise control, air conditioning, multimedia system, and… a tree air freshener, for good luck!\n\nA pair of forked front wheels, enhanced cooling radiators, and boosted armor at the back of the tank make Viking GT a super versatile battle vehicle to be used with any type of equipment. It is capable of quickly and nimbly rushing back to base to restock on ammunition.",
+				"icon":"gt",
+				"emissionColor":"983039",
+				"emissionColorSecond":"11599872",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"dc",
+				"name":"Demomic",
+				"descriptionRU":"Когда живые кости гремят на улицах, лучше оставаться дома. Опасность внезапного столкновения с этим монстром довольно высока. Тот, кто всё-таки осмелится сделать это, вернётся уже другим. Заправленный кипящей лавой, гусеницы из раскаленной стали, украшенные черепами своих жертв, острые клыки, скалящиеся свежим моторным маслом. Даже самому матёрому танкисту не удастся избежать этого взгляда. Так что даже не пытайтесь.",
+				"descriptionEN":"When living bones rattle in the streets, the best option for you is to stay at home. The danger of a sudden encounter with this monster is extremely high. Anyone who still dares to leave shelter will return a completely different person. It's fueled with boiling lava, has tracks made of hot steel and decorated with skulls of their victims, and sharp fangs covered with fresh engine oil. Even the most seasoned tanker won't manage to avoid this beast. Don't even try.",
+				"icon":"dc",
+				"emissionColor":"15884800",
+				"emissionColorSecond":"16685824",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"xt_hd",
+				"name":"XT HD",
+				"descriptionRU":"Космические исследователи нашли на Луне новый высокопрочный сплав золота, который заряжен лунной энергией. Наши конструкторы не стали терять время зря и сразу же разработали новые металлические пластины небывалой прочности для Викинга и добавили красное свечение от алмазного камня. Теперь этот скин не только привлекает к себе внимание блистательно-дорогим золотистым цветом, но и не оставляет соперникам шансов при столкновении.",
+				"descriptionEN":"Space explorers found a new highly durable gold alloy on the moon that is charged with moon energy. Our constructors did not waste time and immediately developed new metal plates of unprecedented strength for Viking and added red glow of the diamond stone. This skin attracts attention with its brilliantly-expensive golden color and leaves no chance of escape for opponents when confronted.",
+				"isInvertTracksDirection":true,
+				"icon":"xt",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.4"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
@@ -821,81 +906,6 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
-			},
-			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Эксклюзивный Викинг XT примечателен своим необычным внешним видом. Характерный рисунок брони выполнен в суровом скандинавском стиле.",
-				"descriptionEN":"The exclusive Viking XT is memorable thanks to its exterior, featuring a distinct armor pattern that conveys northern strength and stability.",
-				"icon":"xt"
-			},
-			{
-				"id":"xt_hd",
-				"name":"XT HD",
-				"descriptionRU":"Космические исследователи нашли на Луне новый высокопрочный сплав золота, который заряжен лунной энергией. Наши конструкторы не стали терять время зря и сразу же разработали новые металлические пластины небывалой прочности для Викинга и добавили красное свечение от алмазного камня. Теперь этот скин не только привлекает к себе внимание блистательно-дорогим золотистым цветом, но и не оставляет соперникам шансов при столкновении.",
-				"descriptionEN":"Space explorers found a new highly durable gold alloy on the moon that is charged with moon energy. Our constructors did not waste time and immediately developed new metal plates of unprecedented strength for Viking and added red glow of the diamond stone. This skin attracts attention with its brilliantly-expensive golden color and leaves no chance of escape for opponents when confronted.",
-				"isInvertTracksDirection":true,
-				"icon":"xt",
-				"emissionColor":"16711680",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"lc",
-				"name":"Legacy",
-				"descriptionRU":"Готовьтесь ловить на себе удивлённые взгляды! Ведь все игроки в битве подумают, что к ним явился призрак из прошлого. Так и есть — это корпус Викинг в старой графике.",
-				"descriptionEN":"Get ready to gather surprised stares on the battlefield! All players will think they saw a ghost from the past, as you roll by with a Viking hull from the old game graphics.",
-				"icon":"lc"
-			},
-			{
-				"id":"pr",
-				"name":"Prime",
-				"descriptionRU":"Викинг — первый корпус, получивший скин из новой серии Prime. Этот скин отражает универсальность Викинга — его способность приспосабливаться к любым условиям битвы, и отлично выглядит с любой краской.",
-				"descriptionEN":"Viking is the first hull to receive a skin from the new Prime series. Viking is known for its adaptability in battle, and this Prime skin reflects this quality by looking great with any paint.",
-				"icon":"pr",
-				"emissionColor":"8388605",
-				"emissionColorSecond": "14649088",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"ut",
-				"name":"Ultra",
-				"descriptionRU":"Один из самых универсальных корпусов в игре теперь станет ещё и одним из самых ярких с новым скином Ультра. Благородный воин, верный своему имени.",
-				"descriptionEN":"One of the most versatile hulls in the game now also becomes one of the hottest-looking with this Ultra skin. A noble warrior true to its name.",
-				"icon":"ut",
-				"emissionColor":"516349",
-				"emissionColorSecond":"16762192",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"dc",
-				"name":"Demomic",
-				"descriptionRU":"Когда живые кости гремят на улицах, лучше оставаться дома. Опасность внезапного столкновения с этим монстром довольно высока. Тот, кто всё-таки осмелится сделать это, вернётся уже другим. Заправленный кипящей лавой, гусеницы из раскаленной стали, украшенные черепами своих жертв, острые клыки, скалящиеся свежим моторным маслом. Даже самому матёрому танкисту не удастся избежать этого взгляда. Так что даже не пытайтесь.",
-				"descriptionEN":"When living bones rattle in the streets, the best option for you is to stay at home. The danger of a sudden encounter with this monster is extremely high. Anyone who still dares to leave shelter will return a completely different person. It's fueled with boiling lava, has tracks made of hot steel and decorated with skulls of their victims, and sharp fangs covered with fresh engine oil. Even the most seasoned tanker won't manage to avoid this beast. Don't even try.",
-				"icon":"dc",
-				"emissionColor":"15884800",
-				"emissionColorSecond":"16685824",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"gt",
-				"name":"GT",
-				"descriptionRU":"Для путешествий на большие расстояния всегда лучше использовать колёса. Викинг GT — это адаптированный под автодороги танк, которому не страшны путешествия на любые расстояния. За фюзеляжем данного корпуса скрывается салон необычайной комфортабельности и красоты. Стоимости материалов, из которых изготовлены внутренние стены танка, хватило бы на производство десятка боевых машин пониженного класса кофмортности. Описание внутренних удобств корпусов серии GT занимает десятки страниц инструкции по применению. Максимальная комплектация включает: ABS, круиз-контроль, кондиционер, мультимедийная система и ёлочку... на удачу! Раздвоенные передние колёсные пары, усиленные радиаторы охлаждения и высокая бронированность задней части танка делают его суперуниверсальной боевой машиной для оснастки практически любым видом вооружения, способной быстро и манёвренно покидать поле боя для возобновления боекомплекта.",
-				"descriptionEN":"It is always better to use wheels for long distance travels. Viking GT is a customized version of a tank for the highway and is not afraid of any distance.\n\nUnder the armor of this hull you will find an interior of extraordinary comfort and great beauty. The cost of materials from which interior walls of the tank are made would be enough to produce a dozen less comfy battle vehicles. The description of interior amenities of GT series skins takes up dozens of pages in the service manual. The ultimate configuration includes ABS, cruise control, air conditioning, multimedia system, and… a tree air freshener, for good luck!\n\nA pair of forked front wheels, enhanced cooling radiators, and boosted armor at the back of the tank make Viking GT a super versatile battle vehicle to be used with any type of equipment. It is capable of quickly and nimbly rushing back to base to restock on ammunition.",
-				"icon":"gt",
-				"emissionColor":"983039",
-				"emissionColorSecond":"11599872",
-				"emissionColorThreshold":"0.6"
-			},
-			{
-				"id":"gt_concept",
-				"nameRU":"GT (концепт)",
-				"nameEN":"GT (concept)",
-				"descriptionRU":"Для путешествий на большие расстояния всегда лучше использовать колёса. Викинг GT — это адаптированный под автодороги танк, которому не страшны путешествия на любые расстояния. За фюзеляжем данного корпуса скрывается салон необычайной комфортабельности и красоты. Стоимости материалов, из которых изготовлены внутренние стены танка, хватило бы на производство десятка боевых машин пониженного класса кофмортности. Описание внутренних удобств корпусов серии GT занимает десятки страниц инструкции по применению. Максимальная комплектация включает: ABS, круиз-контроль, кондиционер, мультимедийная система и ёлочку... на удачу! Раздвоенные передние колёсные пары, усиленные радиаторы охлаждения и высокая бронированность задней части танка делают его суперуниверсальной боевой машиной для оснастки практически любым видом вооружения, способной быстро и манёвренно покидать поле боя для возобновления боекомплекта.",
-				"descriptionEN":"It is always better to use wheels for long distance travels. Viking GT is a customized version of a tank for the highway and is not afraid of any distance.\n\nUnder the armor of this hull you will find an interior of extraordinary comfort and great beauty. The cost of materials from which interior walls of the tank are made would be enough to produce a dozen less comfy battle vehicles. The description of interior amenities of GT series skins takes up dozens of pages in the service manual. The ultimate configuration includes ABS, cruise control, air conditioning, multimedia system, and… a tree air freshener, for good luck!\n\nA pair of forked front wheels, enhanced cooling radiators, and boosted armor at the back of the tank make Viking GT a super versatile battle vehicle to be used with any type of equipment. It is capable of quickly and nimbly rushing back to base to restock on ammunition.",
-				"icon":"gt",
-				"emissionColor":"983039",
-				"emissionColorSecond":"11599872",
-				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"2.0_m1",
@@ -1046,6 +1056,59 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Боковые пластины Хантера XT напоминают перья хищной птицы, готовой в любой момент отправиться на охоту, и при этом придают танку роскошный внешний вид.",
+				"descriptionEN":"The side panels of the Hunter XT are a stylized representation of the feathers on a bird of prey as it dives with sharp talons to make the kill. This skin embodies its owner's predatory skills.",
+				"icon":"xt"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Брутальный вид Хантера из прошлого. Лёгкие потёртости, подчёркивающие опытность обладателя скина, вызывают уважение как у друзей, так и у врагов.",
+				"descriptionEN":"A brutal version of Hunter from the past. Slight scrapes emphasise the professionalism of the skin owner and command respect from both friends and enemies.",
+				"icon":"lc"
+			},
+			{
+				"id":"pr",
+				"name":"Prime",
+				"descriptionRU":"С этим скином Prime корпус Хантер обретает новый стильный вид. В умелых руках Хантер достойно проявляет себя в любых битвах, а высокотехнологичный облик позволит ему и вовсе доминировать.",
+				"descriptionEN":"Next in line for the Prime series is Hunter - known for its swift acceleration and agile structure. Now, more than ever, using this skin in battle will reflect the owner's grasp over key game mechanics and near-perfect aim.",
+				"icon":"pr",
+				"emissionColor":"624580",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"ut",
+				"name":"Ultra",
+				"descriptionRU":"Охотники носят камуфляж, чтобы подкрадываться к цели незаметно. Но не вы, ведь у вас есть победоносный скин Ультра для Хантера.",
+				"descriptionEN":"Hunters wear camouflage to sneak up on prey. Not this one. This one wears an Ultra skin that says, \"Be very afraid\".",
+				"icon":"ut",
+				"emissionColor":"3075071",
+				"emissionColorSecond":"16486943",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Это олицетворение современности и элегантности в мире танкостроения. Он воплощает в себе инновационный дизайн и стиль, позволяющий выделиться на поле боя. Созданный из самых передовых материалов, «Хантер GT» обеспечивает не только великолепный внешний вид, но и непревзойдённую защиту!",
+				"descriptionEN":"This is the embodiment of modernity and elegance in the world of tank-building. It stands for innovative design and style, letting the bearer stand out on the battlefield. Made from the most high-end materials, Hunter GT delivers not only a great look, but also an unrivaled performance!",
+				"icon":"gt",
+				"emissionColor":"983039",
+				"emissionColorSecond":"15763456",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"dc",
+				"name":"Demomic",
+				"descriptionRU":"Видели когда-нибудь жерло вулкана? С данным скином это будет последнее, что увидят ваши враги перед неминуемой гибелью. Тысячи шестерёнок находятся прямо в лаве и обеспечивают бесперебойное движение вестника смерти. Шипы по всему периметру корпуса и зловещие морды сзади отпугнут всех, кто осмелится бросить вам вызов.",
+				"descriptionEN":"Have you ever seen the vent of a volcano? With this skin, it will be the last thing your enemies see before their inevitable death. Thousands of gears are located directly in the lava and ensure the uninterrupted movement of the messenger of death. Spikes along the entire perimeter of the body and ominous faces at the back will scare off anyone who dares to challenge you.",
+				"icon":"dc",
+				"emissionColor":"15884800",
+				"emissionColorSecond":"16685824",
+				"emissionColorThreshold":"0.4"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
@@ -1104,59 +1167,6 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
-			},
-			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Боковые пластины Хантера XT напоминают перья хищной птицы, готовой в любой момент отправиться на охоту, и при этом придают танку роскошный внешний вид.",
-				"descriptionEN":"The side panels of the Hunter XT are a stylized representation of the feathers on a bird of prey as it dives with sharp talons to make the kill. This skin embodies its owner's predatory skills.",
-				"icon":"xt"
-			},
-			{
-				"id":"lc",
-				"name":"Legacy",
-				"descriptionRU":"Брутальный вид Хантера из прошлого. Лёгкие потёртости, подчёркивающие опытность обладателя скина, вызывают уважение как у друзей, так и у врагов.",
-				"descriptionEN":"A brutal version of Hunter from the past. Slight scrapes emphasise the professionalism of the skin owner and command respect from both friends and enemies.",
-				"icon":"lc"
-			},
-			{
-				"id":"pr",
-				"name":"Prime",
-				"descriptionRU":"С этим скином Prime корпус Хантер обретает новый стильный вид. В умелых руках Хантер достойно проявляет себя в любых битвах, а высокотехнологичный облик позволит ему и вовсе доминировать.",
-				"descriptionEN":"Next in line for the Prime series is Hunter - known for its swift acceleration and agile structure. Now, more than ever, using this skin in battle will reflect the owner's grasp over key game mechanics and near-perfect aim.",
-				"icon":"pr",
-				"emissionColor":"624580",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"ut",
-				"name":"Ultra",
-				"descriptionRU":"Охотники носят камуфляж, чтобы подкрадываться к цели незаметно. Но не вы, ведь у вас есть победоносный скин Ультра для Хантера.",
-				"descriptionEN":"Hunters wear camouflage to sneak up on prey. Not this one. This one wears an Ultra skin that says, \"Be very afraid\".",
-				"icon":"ut",
-				"emissionColor":"3075071",
-				"emissionColorSecond":"16486943",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"gt",
-				"name":"GT",
-				"descriptionRU":"Это олицетворение современности и элегантности в мире танкостроения. Он воплощает в себе инновационный дизайн и стиль, позволяющий выделиться на поле боя. Созданный из самых передовых материалов, «Хантер GT» обеспечивает не только великолепный внешний вид, но и непревзойдённую защиту!",
-				"descriptionEN":"This is the embodiment of modernity and elegance in the world of tank-building. It stands for innovative design and style, letting the bearer stand out on the battlefield. Made from the most high-end materials, Hunter GT delivers not only a great look, but also an unrivaled performance!",
-				"icon":"gt",
-				"emissionColor":"983039",
-				"emissionColorSecond":"15763456",
-				"emissionColorThreshold":"0.6"
-			},
-			{
-				"id":"dc",
-				"name":"Demomic",
-				"descriptionRU":"Видели когда-нибудь жерло вулкана? С данным скином это будет последнее, что увидят ваши враги перед неминуемой гибелью. Тысячи шестерёнок находятся прямо в лаве и обеспечивают бесперебойное движение вестника смерти. Шипы по всему периметру корпуса и зловещие морды сзади отпугнут всех, кто осмелится бросить вам вызов.",
-				"descriptionEN":"Have you ever seen the vent of a volcano? With this skin, it will be the last thing your enemies see before their inevitable death. Thousands of gears are located directly in the lava and ensure the uninterrupted movement of the messenger of death. Spikes along the entire perimeter of the body and ominous faces at the back will scare off anyone who dares to challenge you.",
-				"icon":"dc",
-				"emissionColor":"15884800",
-				"emissionColorSecond":"16685824",
-				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"xt_fake",
@@ -1543,6 +1553,40 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Экипируйте элитный Диктатор XT, и вы легко сможете повести за собой команду, прикрыть союзников, и ничто не ускользнёт от вашего зоркого взгляда. Сияние золотых крыльев по бокам корпуса заметно за километр.",
+				"descriptionEN":"Equip the elite Dictator XT and you will easily lead the charge for your team, cover your allies, and nothing will hide from your keen sight. The shine of golden wings on the sides of the hull can be seen from a mile away!",
+				"icon":"xt"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Кто из олдов не любит этот корпус? Легендарные ДикоРельсы до сих пор остаются в памяти тысяч игроков. А новички, увидев идеальное сочетание пропорций, с удовольствием примерят этот скин на себя. Ведь он заряжен скиллом на 100%!",
+				"descriptionEN":"Who among the old players doesn't like this hull? The legendary Dictator Railgun combo is still fondly remembered by thousands of players. When newcomers see this perfect combination of proportions, they are happy to try this skin on themselves because it is 100% loaded with skill!",
+				"icon":"lc"
+			},
+			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Этот колёсный вездеход поможет покорить вам все танковые просторы! Двухосевые передние колёса добавляют танку устойчивости и манёвренности, карбоновые дуги — прочности, при любом столкновении вы окажетесь в выигрыше. Задний спойлер сделан по чертежам гоночных болидов, поэтому скорости этому скину тоже не занимать. Мало того, что внешний вид не оставит никого равнодушным, так ещё и технические характеристики самого корпуса сделают танк грозой всех битв!",
+				"descriptionEN":"This wheel rover will help you to conqeur all Tanki expanses! Biaxial front wheels add sustainability and maneuverability to your tank, while carbon arcs add strength. Thus in any collision you will probably win. The back spoiler is inspired by schematics of racing cars, making your tank a beast of speed. Not only will the appearance not leave anyone indifferent, but also the technical characteristics of this hull will make the tank a thunderstorm in battle!",
+				"icon":"gt",
+				"emissionColor":"15763456",
+				"emissionColorSecond":"196607",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"sp",
+				"name":"SP",
+				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным.\n\nУчёные со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберёте на себе тысячи восхищённых взглядов.\n\nБронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид.\n\n Сочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
+				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artifacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only a few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. Bronze plates made of the rarest alloy will make your tank look powerful and fearsome. The combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
+				"isInvertTracksDirection":true,
+				"icon":"sp",
+				"emissionColor":"47359",
+				"emissionColorThreshold":"0.6"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
@@ -1601,40 +1645,6 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
-			},
-			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Экипируйте элитный Диктатор XT, и вы легко сможете повести за собой команду, прикрыть союзников, и ничто не ускользнёт от вашего зоркого взгляда. Сияние золотых крыльев по бокам корпуса заметно за километр.",
-				"descriptionEN":"Equip the elite Dictator XT and you will easily lead the charge for your team, cover your allies, and nothing will hide from your keen sight. The shine of golden wings on the sides of the hull can be seen from a mile away!",
-				"icon":"xt"
-			},
-			{
-				"id":"lc",
-				"name":"Legacy",
-				"descriptionRU":"Кто из олдов не любит этот корпус? Легендарные ДикоРельсы до сих пор остаются в памяти тысяч игроков. А новички, увидев идеальное сочетание пропорций, с удовольствием примерят этот скин на себя. Ведь он заряжен скиллом на 100%!",
-				"descriptionEN":"Who among the old players doesn't like this hull? The legendary Dictator Railgun combo is still fondly remembered by thousands of players. When newcomers see this perfect combination of proportions, they are happy to try this skin on themselves because it is 100% loaded with skill!",
-				"icon":"lc"
-			},
-			{
-				"id":"sp",
-				"name":"SP",
-				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным.\n\nУчёные со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберёте на себе тысячи восхищённых взглядов.\n\nБронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид.\n\n Сочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
-				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artifacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only a few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. Bronze plates made of the rarest alloy will make your tank look powerful and fearsome. The combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
-				"isInvertTracksDirection":true,
-				"icon":"sp",
-				"emissionColor":"47359",
-				"emissionColorThreshold":"0.6"
-			},
-			{
-				"id":"gt",
-				"name":"GT",
-				"descriptionRU":"Этот колёсный вездеход поможет покорить вам все танковые просторы! Двухосевые передние колёса добавляют танку устойчивости и манёвренности, карбоновые дуги — прочности, при любом столкновении вы окажетесь в выигрыше. Задний спойлер сделан по чертежам гоночных болидов, поэтому скорости этому скину тоже не занимать. Мало того, что внешний вид не оставит никого равнодушным, так ещё и технические характеристики самого корпуса сделают танк грозой всех битв!",
-				"descriptionEN":"This wheel rover will help you to conqeur all Tanki expanses! Biaxial front wheels add sustainability and maneuverability to your tank, while carbon arcs add strength. Thus in any collision you will probably win. The back spoiler is inspired by schematics of racing cars, making your tank a beast of speed. Not only will the appearance not leave anyone indifferent, but also the technical characteristics of this hull will make the tank a thunderstorm in battle!",
-				"icon":"gt",
-				"emissionColor":"15763456",
-				"emissionColorSecond":"196607",
-				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"xt_fake",
@@ -1768,6 +1778,13 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Легендарный парящий корпус в особом облике! При создании элитного XT-скина для Ареса были применены новейшие технологии, неизвестный сплав с засекреченным химическим составом и очень много чистейшего золота — всё ради эксклюзивности и элегантности. Как правило, обладатели элитного Ареса XT — очень занятые танкисты, которые не любят, когда их тревожат. Так что если посчастливится встретить их в бою — фотографируйте издали и не забудьте отключить вспышку.",
+				"descriptionEN":"A legendary hovering hull in a very special appearance! In the creation of this elite XT skin for Ares, the latest technology, an unknown alloy with classified chemical composition, and a lot of pure gold were used in order to make this skin even more exclusive and elegant. As a general rule, owners of this elite Ares XT skin are busy tankers who don't like being disturbed. If you see one of them in a battle, take a picture from a distance and don't use flash!",
+				"icon":"xt"
+			},
+			{
 				"id":"m0_prototype",
 				"nameRU":"M0 (прототип)",
 				"nameEN":"M0 (prototype)",
@@ -1808,13 +1825,6 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
-			},
-			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Легендарный парящий корпус в особом облике! При создании элитного XT-скина для Ареса были применены новейшие технологии, неизвестный сплав с засекреченным химическим составом и очень много чистейшего золота — всё ради эксклюзивности и элегантности. Как правило, обладатели элитного Ареса XT — очень занятые танкисты, которые не любят, когда их тревожат. Так что если посчастливится встретить их в бою — фотографируйте издали и не забудьте отключить вспышку.",
-				"descriptionEN":"A legendary hovering hull in a very special appearance! In the creation of this elite XT skin for Ares, the latest technology, an unknown alloy with classified chemical composition, and a lot of pure gold were used in order to make this skin even more exclusive and elegant. As a general rule, owners of this elite Ares XT skin are busy tankers who don't like being disturbed. If you see one of them in a battle, take a picture from a distance and don't use flash!",
-				"icon":"xt"
 			}
 		],
 		"devices":
@@ -1932,6 +1942,40 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Мифический XT-скин для Титана олицетворяет выносливость и несокрушимость этого корпуса. Скин придаёт своему обладателю по-настоящему титаническую силу. Враги, трепещите!",
+				"descriptionEN":"Mythical XT-skin for Titan that personifies tenacity and the unbreakable will of the hull. This skin also grants its owner a truly titanic strength. Enemies, you better watch out!",
+				"icon":"xt"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Мощный, не замечающий преград на своём пути Титан Legacy проторит своему владельцу путь в ТОП команды. А старая графика придаёт ему особый шарм!",
+				"descriptionEN":"A powerful skin for those who see no obstacles on their path to victory. Titan Legacy will pave the way to the top teams for its owner. In addition, the old graphics give it a special charm.",
+				"icon":"lc"
+			},
+			{
+				"id":"pr",
+				"name":"Prime",
+				"descriptionRU":"Скин Prime отражает устойчивость и силу Титана в бою.",
+				"descriptionEN":"Titan by name and reputation, this hull now has its very own Prime skin, reflecting its resilience and power in battle.",
+				"icon":"pr",
+				"emissionColor":"3308733",
+				"emissionColorSecond":"12676397",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"sp",
+				"name":"SP",
+				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным. \n\nУчёные со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберёте на себе тысячи восхищённых взглядов. \n\nБронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид. \n\nСочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
+				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artefacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. \n\nBronze plates made of the rarest alloy will make your tank look powerful and fearsome. \n\nThe combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
+				"isInvertTracksDirection":true,
+				"icon":"sp",
+				"emissionColor":"913906",
+				"emissionColorThreshold":"0.6"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
@@ -1990,40 +2034,6 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
-			},
-			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Мифический XT-скин для Титана олицетворяет выносливость и несокрушимость этого корпуса. Скин придаёт своему обладателю по-настоящему титаническую силу. Враги, трепещите!",
-				"descriptionEN":"Mythical XT-skin for Titan that personifies tenacity and the unbreakable will of the hull. This skin also grants its owner a truly titanic strength. Enemies, you better watch out!",
-				"icon":"xt"
-			},
-			{
-				"id":"lc",
-				"name":"Legacy",
-				"descriptionRU":"Мощный, не замечающий преград на своём пути Титан Legacy проторит своему владельцу путь в ТОП команды. А старая графика придаёт ему особый шарм!",
-				"descriptionEN":"A powerful skin for those who see no obstacles on their path to victory. Titan Legacy will pave the way to the top teams for its owner. In addition, the old graphics give it a special charm.",
-				"icon":"lc"
-			},
-			{
-				"id":"pr",
-				"name":"Prime",
-				"descriptionRU":"Скин Prime отражает устойчивость и силу Титана в бою.",
-				"descriptionEN":"Titan by name and reputation, this hull now has its very own Prime skin, reflecting its resilience and power in battle.",
-				"icon":"pr",
-				"emissionColor":"3308733",
-				"emissionColorSecond":"12676397",
-				"emissionColorThreshold":"0.4"
-			},
-			{
-				"id":"sp",
-				"name":"SP",
-				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным. \n\nУчёные со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберёте на себе тысячи восхищённых взглядов. \n\nБронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид. \n\nСочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
-				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artefacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. \n\nBronze plates made of the rarest alloy will make your tank look powerful and fearsome. \n\nThe combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
-				"isInvertTracksDirection":true,
-				"icon":"sp",
-				"emissionColor":"913906",
-				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"xt_fake",
@@ -2155,6 +2165,52 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"xt",
+				"name":"XT",
+				"descriptionRU":"Элитный Мамонт XT примечателен своим уникальным внешним видом. Корпус закован в золотые пластины, символизирующие стабильность и огромный запас здоровья этого сверхтяжёлого танка.",
+				"descriptionEN":"This elite Mammoth XT is special due to its unique texture. The hull is covered with additional golden plating that symbolizes the stability and unprecedented protection of this extremely heavy tank.",
+				"icon":"xt",
+				"emissionColor":"12729393",
+				"emissionColorThreshold":"0.3"
+			},
+			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Учёные провели раскопки в Барде и нашли хорошо сохранившиеся останки древнего скина для Мамонта. Наши инженеры почистили его, отреставрировали, и теперь этот скин есть в игре под названием Мамонт Legacy.",
+				"descriptionEN":"Archeologists have done excavation work in Barda and found well-preserved remains of an ancient Mammoth skin. Our engineers cleaned it, restored it and released to the game as the Mammoth Legacy skin.",
+				"icon":"lc"
+			},
+			{
+				"id":"ut",
+				"name":"Ultra",
+				"descriptionRU":"Хоть в этом скине Ультра для Мамонта нет ничего доисторического, он сохраняет всю удивительность корпуса, который дал ему имя.",
+				"descriptionEN":"Its appearance resembles a strong wall that can easily fend off any attack on your team’s base. Though there might not be anything prehistoric about Mammoth Ultra, it retains all the splendor of its namesake.",
+				"icon":"ut",
+				"emissionColor":"16775936",
+				"emissionColorSecond":"13268224",
+				"emissionColorThreshold":"0.6"
+			},
+			{
+				"id":"sp",
+				"name":"SP",
+				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным. \n\nУчёные со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберёте на себе тысячи восхищённых взглядов. \n\nБронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид. \n\nСочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
+				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artefacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. \n\nBronze plates made of the rarest alloy will make your tank look powerful and fearsome. \n\nThe combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
+				"icon":"sp",
+				"emissionColor":"16633877",
+				"emissionColorSecond":"15823378",
+				"emissionColorThreshold":"0.3"
+			},
+			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Для путешествий на большие расстояния всегда лучше использовать колёса. Серия GT скинов для корпусов, которые созданы для самых смелых и решительных игроков. Они идеально подходят для тех, кто хочет выделиться на поле боя и продемонстрировать свою силу и уверенность. Корпуса GT оснащены передовыми технологиями и материалами и имеют уникальный дизайн, который подчёркивает их мощь и красоту.",
+				"descriptionEN":"It is always better to use wheels for long distance travels. The GT series of skins for hulls is designed for the boldest and most determined players. They are perfect for those who want to stand out on the battlefield and demonstrate their strength and confidence. GT hulls are equipped with advanced technologies and materials and have a unique design that emphasizes their power and beauty.",
+				"icon":"gt",
+				"emissionColor":"15559437",
+				"emissionColorSecond":"64510",
+				"emissionColorThreshold":"0.6"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
@@ -2213,52 +2269,6 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
-			},
-			{
-				"id":"xt",
-				"name":"XT",
-				"descriptionRU":"Элитный Мамонт XT примечателен своим уникальным внешним видом. Корпус закован в золотые пластины, символизирующие стабильность и огромный запас здоровья этого сверхтяжёлого танка.",
-				"descriptionEN":"This elite Mammoth XT is special due to its unique texture. The hull is covered with additional golden plating that symbolizes the stability and unprecedented protection of this extremely heavy tank.",
-				"icon":"xt",
-				"emissionColor":"12729393",
-				"emissionColorThreshold":"0.3"
-			},
-			{
-				"id":"lc",
-				"name":"Legacy",
-				"descriptionRU":"Учёные провели раскопки в Барде и нашли хорошо сохранившиеся останки древнего скина для Мамонта. Наши инженеры почистили его, отреставрировали, и теперь этот скин есть в игре под названием Мамонт Legacy.",
-				"descriptionEN":"Archeologists have done excavation work in Barda and found well-preserved remains of an ancient Mammoth skin. Our engineers cleaned it, restored it and released to the game as the Mammoth Legacy skin.",
-				"icon":"lc"
-			},
-			{
-				"id":"ut",
-				"name":"Ultra",
-				"descriptionRU":"Хоть в этом скине Ультра для Мамонта нет ничего доисторического, он сохраняет всю удивительность корпуса, который дал ему имя.",
-				"descriptionEN":"Its appearance resembles a strong wall that can easily fend off any attack on your team’s base. Though there might not be anything prehistoric about Mammoth Ultra, it retains all the splendor of its namesake.",
-				"icon":"ut",
-				"emissionColor":"16775936",
-				"emissionColorSecond":"13268224",
-				"emissionColorThreshold":"0.6"
-			},
-			{
-				"id":"sp",
-				"name":"SP",
-				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным. \n\nУчёные со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберёте на себе тысячи восхищённых взглядов. \n\nБронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид. \n\nСочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
-				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artefacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. \n\nBronze plates made of the rarest alloy will make your tank look powerful and fearsome. \n\nThe combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
-				"icon":"sp",
-				"emissionColor":"16633877",
-				"emissionColorSecond":"15823378",
-				"emissionColorThreshold":"0.3"
-			},
-			{
-				"id":"gt",
-				"name":"GT",
-				"descriptionRU":"Для путешествий на большие расстояния всегда лучше использовать колёса. Серия GT скинов для корпусов, которые созданы для самых смелых и решительных игроков. Они идеально подходят для тех, кто хочет выделиться на поле боя и продемонстрировать свою силу и уверенность. Корпуса GT оснащены передовыми технологиями и материалами и имеют уникальный дизайн, который подчёркивает их мощь и красоту.",
-				"descriptionEN":"It is always better to use wheels for long distance travels. The GT series of skins for hulls is designed for the boldest and most determined players. They are perfect for those who want to stand out on the battlefield and demonstrate their strength and confidence. GT hulls are equipped with advanced technologies and materials and have a unique design that emphasizes their power and beauty.",
-				"icon":"gt",
-				"emissionColor":"15559437",
-				"emissionColorSecond":"64510",
-				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"2.0_m3",
@@ -2395,8 +2405,8 @@
 			},
 			{
 				"id":"xt_fake_ilya_star",
-				"nameRU":"XT (неофициальный, яркий)",
-				"nameEN":"XT (unofficial, bright)",
+				"nameRU":"XT (неофициальный by IlyaStar)",
+				"nameEN":"XT (unofficial by IlyaStar)",
 				"description":"TODO",
 				"icon":"xt"
 			}
@@ -2493,8 +2503,8 @@
 		[
 			{
 				"id":"hd",
-				"nameRU":"Стандартные настройки",
-				"nameEN":"Standard settings",
+				"nameRU":"Стандартные настройки (неофициальные)",
+				"nameEN":"Standard settings (unofficial)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
@@ -2504,22 +2514,9 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
-				"id":"m1",
-				"name":"M1",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"m2",
-				"name":"M2",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
 				"id":"mx",
-				"name":"MX",
+				"nameRU":"MX (неофициальный)",
+				"nameEN":"MX (unofficial)",
 				"description":"TODO",
 				"icon":"xt",
 				"emissionColor":"13652484",
@@ -2527,18 +2524,36 @@
 			},
 			{
 				"id":"lc",
-				"name":"Legacy",
+				"nameRU":"Legacy (неофициальный)",
+				"nameEN":"Legacy (unofficial)",
 				"descriptionRU":"Молодого конструктора попросили сделать в кратчайшие сроки корпус в новом обличии. Было принято решение сделать его из старых, уже немного проржавевших, частей танков. За несколько дней получился изящный и в своем роде уникальный вид корпуса, но он все так же оставался легким, быстрым и устойчивым.",
 				"descriptionEN":"The young designer was asked to make a hull in a new guise as soon as possible. It was decided to make it from old, already slightly rusty parts of the tanks. In just a few days, the hull had a sleek and unique look, but it was still light, fast, and stable.",
 				"icon":"lc"
 			},
 			{
 				"id":"pr",
-				"name":"Prime",
+				"nameRU":"Prime (неофициальный)",
+				"nameEN":"Prime (unofficial)",
 				"description":"TODO",
 				"icon":"pr",
 				"emissionColor":"5490148",
 				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"m1",
+				"nameRU":"M1 (неофициальный)",
+				"nameEN":"M1 (unofficial)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
+			},
+			{
+				"id":"m2",
+				"nameRU":"M2 (неофициальный)",
+				"nameEN":"M2 (unofficial)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"standard"
 			}
 		],
 		"devices":
@@ -2731,19 +2746,12 @@
 		"skins":
 		[
 			{
-				"id":"light_green",
-				"nameRU":"Лёгкий (зелёный)",
-				"nameEN":"Light (green)",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
 				"id":"light_bluegray",
 				"nameRU":"Лёгкий (сине-серый)",
 				"nameEN":"Light (bluegray)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard"
 			},
 			{
@@ -2752,6 +2760,16 @@
 				"nameEN":"Light (desert)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard"
+			},
+			{
+				"id":"light_green",
+				"nameRU":"Лёгкий (зелёный)",
+				"nameEN":"Light (green)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard"
 			},
 			{
@@ -2760,14 +2778,7 @@
 				"nameEN":"Light (damaged)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"middle_green",
-				"nameRU":"Средний (зелёный)",
-				"nameEN":"Middle (green)",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard"
 			},
 			{
@@ -2776,6 +2787,7 @@
 				"nameEN":"Middle (bluegray)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard"
 			},
 			{
@@ -2784,6 +2796,16 @@
 				"nameEN":"Middle (desert)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard"
+			},
+			{
+				"id":"middle_green",
+				"nameRU":"Средний (зелёный)",
+				"nameEN":"Middle (green)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard"
 			},
 			{
@@ -2792,14 +2814,7 @@
 				"nameEN":"Middle (damaged)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
-			},
-			{
-				"id":"heavy_green",
-				"nameRU":"Тяжёлый (зелёный)",
-				"nameEN":"Heavy (green)",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard"
 			},
 			{
@@ -2808,6 +2823,7 @@
 				"nameEN":"Heavy (bluegray)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard"
 			},
 			{
@@ -2816,6 +2832,16 @@
 				"nameEN":"Heavy (desert)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
+				"icon":"standard"
+			},
+			{
+				"id":"heavy_green",
+				"nameRU":"Тяжёлый (зелёный)",
+				"nameEN":"Heavy (green)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard"
 			},
 			{
@@ -2824,15 +2850,19 @@
 				"nameEN":"Heavy (damaged)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
+				"isStandard":true,
 				"icon":"standard"
 			},
 			{
 				"id":"heavy_alternativa",
-				"nameRU":"Тяжёлый (Альтернатива)",
+				"nameRU":"Тяжёлый (Alternativa)",
 				"nameEN":"Heavy (Alternativa)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"isStandard":true,
+				"icon":"standard",
+				"emissionColor":"8847360",
+				"emissionColorThreshold":"0.3"
 			}
 		],
 		"devices":
