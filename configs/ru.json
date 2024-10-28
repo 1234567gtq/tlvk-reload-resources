@@ -436,6 +436,7 @@
 	"GAME_ACTION_BONUSES_WINDOW":"Настройки припаса",
 	"GAME_ACTION_USE_METEOR":"Сбросить метеорит",
 	"GAME_ACTION_METEORS_WINDOW":"Настройки метеорита",
+	"GAME_ACTION_BALLS_WINDOW":"Настройки регби мяча",
 	
 	"GAME_ACTION_TOGGLE_CAMERA_CONTROLLER":"Переключить режим камеры (спектатор/следящая)",
 	"GAME_ACTION_CAMERA_UP":"Поднять камеру",

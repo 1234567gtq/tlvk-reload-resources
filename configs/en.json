@@ -415,6 +415,7 @@
 	"GAME_ACTION_BONUSES_WINDOW":"Supply settings",
 	"GAME_ACTION_USE_METEOR":"Drop meteorite",
 	"GAME_ACTION_METEORS_WINDOW":"Meteor settings",
+	"GAME_ACTION_BALLS_WINDOW":"Rugby ball settings",
 	
 	"GAME_ACTION_TOGGLE_CAMERA_CONTROLLER":"Switch camera mode (spectator/follow)",
 	"GAME_ACTION_CAMERA_UP":"Move camera up",
