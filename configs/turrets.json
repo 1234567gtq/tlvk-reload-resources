@@ -664,6 +664,15 @@
 				"icon":"xt"
 			},
 			{
+				"id":"tod_fake",
+				"nameRU":"TOD (неофициальный)",
+				"nameEN":"TOD (unofficial)",
+				"description":"TODO",
+				"icon":"xt",
+				"emissionColor":"16450564",
+				"emissionColorThreshold":"0.6"
+			},
+			{
 				"id":"tx_bumblebee-83",
 				"nameRU":"Шмель-83 (Tanki X)",
 				"nameEN":"Bumblebee-83 (Tanki X)",
@@ -1304,6 +1313,23 @@
 				"nameEN":"XT (unofficial)",
 				"description":"TODO",
 				"icon":"xt"
+			},
+			{
+				"id":"pr_fake",
+				"nameRU":"Prime (неофициальный)",
+				"nameEN":"Prime (unofficial)",
+				"description":"TODO",
+				"icon":"pr",
+				"emissionColor":"16750676",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"trins_fake",
+				"nameRU":"Тринс (неофициальный)",
+				"nameEN":"Trins (unofficial)",
+				"description":"TODO",
+				"isStandard":true,
+				"icon":"standard"
 			},
 			{
 				"id":"tx_sp",
@@ -2556,6 +2582,16 @@
 				"icon":"standard"
 			},
 			{
+				"id":"pr_fake",
+				"nameRU":"Prime (неофициальный)",
+				"nameEN":"Prime (unofficial)",
+				"description":"TODO",
+				"icon":"pr",
+				"emissionColor":"14198546",
+				"emissionColorSecond":"15716442",
+				"emissionColorThreshold":"0.4"
+			},
+			{
 				"id":"2.0_m3",
 				"name":"M3 (Tanki Online 2.0)",
 				"description":"TODO",
@@ -2891,6 +2927,13 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
+			},
+			{
+				"id":"pr_fake",
+				"nameRU":"Prime (неофициальный)",
+				"nameEN":"Prime (unofficial)",
+				"description":"TODO",
+				"icon":"pr"
 			},
 			{
 				"id":"rl",
@@ -3472,6 +3515,16 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"dc",
+				"name":"Demonic",
+				"descriptionRU":"Сквозь прицел этого демонического Шафта тьма находит свою цель. С холодной точностью он наводится на врагов, нанося сокрушительные выстрелы и не оставляя шанса на спасение. Пусть противники почувствуют всю мощь твоей меткости и поймут, что как только они окажутся в прицеле, их конец близок. Поле боя будет наполнено шёпотом тех, кого поразила твоя смертельная точность. С этим скином ты внушаешь страх своим врагам, делая каждый выстрел шагом к победе.",
+				"descriptionEN":"Through the sight of this demonic Shaft, darkness finds its target. With cold precision, it aims at enemies, delivering crushing shots and leaving no chance for salvation. Let your opponents feel the full power of your marksmanship and understand that as soon as they are in your sight, their end is near. The battlefield will be filled with the whispers of those who were struck by your deadly accuracy. With this skin, you inspire fear in your enemies, making every shot a step towards victory.",
+				"icon":"dc",
+				"emissionColor":"15884800",
+				"emissionColorSecond":"16685824",
+				"emissionColorThreshold":"0.4"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
@@ -3556,6 +3609,55 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"short-band_emitter",
+				"nameRU":"Короткополосный эмиттер",
+				"nameEN":"Short-band emitter",
+				"descriptionRU":"Модификация для танкистов, любящих ближний бой и привыкших к стрелковым пушкам. Повышает урон и увеличивает время перезарядки выстрелов навскидку.",
+				"descriptionEN":"Modification for tankers that prefer close-range battles and who are used to precise turrets. Increases damage and reloading time in Arcade mode."
+			},
+			{
+				"id":"heavy_capacitors",
+				"nameRU":"Тяжёлые конденсаторы",
+				"nameEN":"Heavy capacitors",
+				"descriptionRU":"Замена стандартных конденсаторов на тяжёлые. Заряд накапливается медленнее, но конечный урон заметно повышается.",
+				"descriptionEN":"Replacement for standard capacitors with a heavy type. The shot is charged slower, but the final damage is noticeably increased."
+			},
+			{
+				"id":"light_capacitors",
+				"nameRU":"Лёгкие конденсаторы",
+				"nameEN":"Light capacitors",
+				"descriptionRU":"Замена стандартных конденсаторов на облегчённые. Заряд накапливается быстрее, но конечный урон заметно понижается.",
+				"descriptionEN":"Replacement for standard capacitors with a light type. The shot is charged faster, but the final damage is noticeably reduced."
+			},
+			{
+				"id":"incendiary_sight",
+				"nameRU":"Поджигающая фокусировка",
+				"nameEN":"Incendiary sight",
+				"descriptionRU":"Каждый выстрел в снайперском режиме поджигает цель. Цель, получившая критический урон аркадным выстрелом, также поджигается.\nОсобая фокусировка линз позволяет охватить соперника языками пламени, отнимающими несколько единиц урона в секунду в течение некоторого время. Позволяет наносить урон сопернику даже во время перезарядки.",
+				"descriptionEN":"Each shot in the sniping mode sets the target on fire. Critical shots in the arcade mode also ignite the target. A special sight that lets you engulf your opponent in flames, dealing continuous damage per second for some time. Thus, you can deal damage to an opponent even while reloading."
+			},
+			{
+				"id":"freezing_sight",
+				"nameRU":"Замораживающая фокусировка",
+				"nameEN":"Freezing sight",
+				"descriptionRU":"Каждый выстрел в снайперском режиме замораживает цель. Цель, получившая критический урон аркадным выстрелом, также замораживается.\nОсобая фокусировка линз позволяет замедлить передвижение противника по полю боя критическим уроном или прицельным выстрелом, а также едва ли не приварить его башню к корпусу на некоторое время. Позволяет помешать противнику отступить в укрытие или повернуться на атакующего.",
+				"descriptionEN":"Each shot in the sniping mode applies the «Freezing» status effect to the target. Critical shots in the arcade mode also apply the «Freezing» status effect. A special sight that lets you slow down the movement of the enemy on the battlefield with critical damage or an arcade shot, and also almost weld his turret to the hull for some time. This makes it possible to prevent the enemy from retreating into cover or turning towards the attacker."
+			},
+			{
+				"id":"stunning_sight",
+				"nameRU":"Оглушающая фокусировка",
+				"nameEN":"Stunning sight",
+				"descriptionRU":"Каждый выстрел в снайперском режиме оглушает цель. Цель, получившая критический урон аркадным выстрелом, также оглушается.\nОсобая фокусировка линз позволяет обездвижить соперника, лишая его возможности стрелять, активировать припасы и овердрайвы или самоуничтожаться на некоторое время. Добить такого соперника аркадными выстрелами станет гораздо проще.",
+				"descriptionEN":"Each shot in the sniping mode applies the Stun status effect to the target. Critical shots in the arcade mode also apply the Stun status effect. A special sight that lets you immobilize an opponent, leaving them unable to shoot, activate overdrives and supplies, or self-destruct for some time. Thus, finishing off such an opponent with arcade shots will become much easier."
+			},
+			{
+				"id":"rapid-fire_mode",
+				"nameRU":"Режим серийного огня",
+				"nameEN":"Rapid-fire mode",
+				"descriptionRU":"Штурмовая модификация, позволяющая вести огонь навскидку быстрыми сериями по 3 выстрела. Энергозапаса при этом хватает только на одну очередь.",
+				"descriptionEN":"Assault modification that allows firing in Arcade mode with a quick series of shots, 3 in each. At the same time the energy tank capacity is enough for one series of shots."
 			}
 		],
 		"shotSkins":

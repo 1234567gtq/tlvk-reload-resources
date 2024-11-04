@@ -50,8 +50,14 @@
 	{
 		"type":"gold",
 		"id":"megagold_hd",
-		"nameRU":"Мегаголд (стандартный)",
-		"nameEN":"Megagold (standard)"
+		"nameRU":"Кристальный мегаголд (стандартный)",
+		"nameEN":"Crystal Megagold (standard)"
+	},
+	{
+		"type":"gold",
+		"id":"ruby_megagold_hd",
+		"nameRU":"Рубиновый мегаголд (стандартный)",
+		"nameEN":"Ruby Megagold (standard)"
 	},
 	{
 		"type":"repair_kit",
@@ -88,6 +94,36 @@
 		"id":"release_284",
 		"nameRU":"Кристалл (релиз 284)",
 		"nameEN":"Crystal (release 284)"
+	},
+	{
+		"type":"crystal",
+		"id":"1_release_284",
+		"nameRU":"Кристалл (релиз 284, 1 кристалл)",
+		"nameEN":"Crystal (release 284, 1 crystal)"
+	},
+	{
+		"type":"crystal",
+		"id":"5_release_284",
+		"nameRU":"Кристалл (релиз 284, 5 кристаллов)",
+		"nameEN":"Crystal (release 284, 5 crystals)"
+	},
+	{
+		"type":"crystal",
+		"id":"20_release_284",
+		"nameRU":"Кристалл (релиз 284, 20 кристаллов)",
+		"nameEN":"Crystal (release 284, 20 crystals)"
+	},
+	{
+		"type":"crystal",
+		"id":"50_release_284",
+		"nameRU":"Кристалл (релиз 284, 50 кристаллов)",
+		"nameEN":"Crystal (release 284, 50 crystals)"
+	},
+	{
+		"type":"crystal",
+		"id":"100_release_284",
+		"nameRU":"Кристалл (релиз 284, 100 кристаллов)",
+		"nameEN":"Crystal (release 284, 100 crystals)"
 	},
 	{
 		"type":"gold",
@@ -538,6 +574,12 @@
 		"id":"halloween_2022",
 		"nameRU":"Золотой ящик (Хэллоуин 2022)",
 		"nameEN":"Gold Box (Halloween 2022)"
+	},
+	{
+		"type":"gold",
+		"id":"halloween_2024",
+		"nameRU":"Золотой ящик (Хэллоуин 2024)",
+		"nameEN":"Gold Box (Halloween 2024)"
 	},
 	{
 		"type":"gold",

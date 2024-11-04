@@ -1159,6 +1159,13 @@
 		"paintId":"neo-cubes"
 	},
 	{
+		"id":"t-800",
+		"name":"T-800",
+		"hullId":"viking", "hullSkinId":"pr_fake",
+		"turretId":"thunder", "turretSkinId":"pr_fake",
+		"paintId":"cyborg"
+	},
+	{
 		"id":"araumi",
 		"name":"Araumi",
 		"hullId":"hornet", "hullSkinId":"xt_m3",

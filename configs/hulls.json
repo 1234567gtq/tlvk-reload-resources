@@ -469,6 +469,22 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"pr_fake",
+				"nameRU":"Prime (неофициальный)",
+				"nameEN":"Prime (unofficial)",
+				"description":"TODO",
+				"icon":"pr",
+				"emissionColor":"14655014",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"gt_fake",
+				"nameRU":"GT (неофициальный)",
+				"nameEN":"GT (unofficial)",
+				"description":"TODO",
+				"icon":"gt"
+			},
+			{
 				"id":"rl",
 				"nameRU":"Realgar (неофициальный)",
 				"nameEN":"Realgar (unofficial)",
@@ -906,6 +922,23 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"standard"
+			},
+			{
+				"id":"pr_fake",
+				"nameRU":"Prime (неофициальный)",
+				"nameEN":"Prime (unofficial)",
+				"description":"TODO",
+				"icon":"pr",
+				"emissionColor":"10389272",
+				"emissionColorSecond":"8547095",
+				"emissionColorThreshold":"0.3"
+			},
+			{
+				"id":"gt_fake",
+				"nameRU":"GT (неофициальный)",
+				"nameEN":"GT (unofficial)",
+				"description":"TODO",
+				"icon":"gt"
 			},
 			{
 				"id":"2.0_m1",
@@ -1663,6 +1696,13 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"sm_fake",
+				"nameRU":"SM (неофициальный)",
+				"nameEN":"SM (unofficial)",
+				"description":"TODO",
+				"icon":"xt"
+			},
+			{
 				"id":"tx_dreadnought",
 				"nameRU":"Дредноут (Tanki X)",
 				"nameEN":"Dreadnought (Tanki X)",
@@ -2041,6 +2081,16 @@
 				"nameEN":"XT (unofficial)",
 				"description":"TODO",
 				"icon":"xt"
+			},
+			{
+				"id":"pr_fake",
+				"nameRU":"Prime (неофициальный)",
+				"nameEN":"Prime (unofficial)",
+				"description":"TODO",
+				"icon":"pr",
+				"emissionColor":"16777215",
+				"emissionColorSecond":"12181995",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"tx_xt",

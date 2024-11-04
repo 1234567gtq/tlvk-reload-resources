@@ -789,8 +789,7 @@
 		"nameEN":"Construction",
 		"skyBox":"urban_day",
 		"theme":"summer_day",
-		"category":"unofficial",
-		"isNew":true
+		"category":"unofficial"
 	},
 	{
 		"id":"containers_summer",
@@ -2134,8 +2133,7 @@
 		"nameEN":"Luxembourg (winter)",
 		"skyBox":"winter_day",
 		"theme":"winter_day",
-		"category":"unofficial",
-		"isNew":true
+		"category":"unofficial"
 	},
 	{
 		"id":"madness_old_summer",
