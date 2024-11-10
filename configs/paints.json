@@ -4925,6 +4925,13 @@
 	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
 },
 {
+	"id":"fools_day_2013",
+	"nameRU":"День смеха",
+	"nameEN":"Fools' Day",
+	"descriptionRU":"Это уникальное «умное» покрытие умеет изменять свой вид в зависимости от конкретного повода. В обычный день это чёрно-белая клетка, но с наступлением праздника разительно преображается.",
+	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
+},
+{
 	"id":"fools_day_2014",
 	"nameRU":"День смеха",
 	"nameEN":"Fools' Day",
@@ -5281,6 +5288,24 @@
 	"description":"<a href=\"https://araumi.org/\" target=\"_blank\"><u>https://araumi.org/</u></a>."
 },
 {
+	"id":"crystal_pit",
+	"nameRU":"Кристальная яма",
+	"nameEN":"Crystal Pit",
+	"description":"TODO"
+},
+{
+	"id":"dawn",
+	"nameRU":"Рассвет",
+	"nameEN":"Dawn",
+	"description":"TODO"
+},
+{
+	"id":"dynamic_juice",
+	"nameRU":"Динамический сок",
+	"nameEN":"Dynamic Juice",
+	"description":"TODO"
+},
+{
 	"id":"goldolov",
 	"nameRU":"Голдолов",
 	"nameEN":"Goldolov",
@@ -5296,6 +5321,12 @@
 {
 	"id":"iphone_11",
 	"name":"iPhone 11",
+	"description":"TODO"
+},
+{
+	"id":"jackpot",
+	"nameRU":"Джекпот!",
+	"nameEN":"Jackpot!",
 	"description":"TODO"
 },
 {
@@ -5347,6 +5378,12 @@
 	"description":"TODO"
 },
 {
+	"id":"sunrise",
+	"nameRU":"Восход",
+	"nameEN":"Sunrise",
+	"description":"TODO"
+},
+{
 	"id":"tlvkr",
 	"name":"TLVK: RELOAD",
 	"description":"<a href=\"https://tlvkreload.gq/\" target=\"_blank\"><u>https://tlvkreload.gq/</u></a>."
@@ -5368,6 +5405,12 @@
 	"description":"TODO"
 },
 {
+	"id":"witch",
+	"nameRU":"Ведьма",
+	"nameEN":"Witch",
+	"description":"TODO"
+},
+{
 	"id":"tx_sport",
 	"nameRU":"Спорт (Tanki X)",
 	"nameEN":"Sport (Tanki X)",
@@ -5383,6 +5426,13 @@
 	"id":"destroyed_tank",
 	"nameRU":"Уничтоженный танк",
 	"nameEN":"Destroyed tank",
+	"descriptionRU":"Текстура уничтоженного танка.",
+	"descriptionEN":"Texture of a destroyed tank."
+},
+{
+	"id":"destroyed_tank_critical_hit",
+	"nameRU":"Уничтоженный танк (крит. удар)",
+	"nameEN":"Destroyed tank (critical hit)",
 	"descriptionRU":"Текстура уничтоженного танка.",
 	"descriptionEN":"Texture of a destroyed tank."
 }

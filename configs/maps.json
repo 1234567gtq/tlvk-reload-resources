@@ -731,7 +731,7 @@
 		"id":"cologne_mm_winter",
 		"nameRU":"Кёльн ММ",
 		"nameEN":"Cologne MM",
-		"skyBox":"winter_day",
+		"skyBox":"cologne_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -3470,6 +3470,15 @@
 		"skyBox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
+	},
+	{
+		"id":"silence_mirror_summer",
+		"nameRU":"Тишина (зеркальная)",
+		"nameEN":"Silence (mirror)",
+		"skyBox":"mountains_day",
+		"theme":"summer_day",
+		"category":"unofficial",
+		"isNew":true
 	},
 	{
 		"id":"silence_mm_summer",

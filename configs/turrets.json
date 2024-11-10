@@ -2772,6 +2772,62 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"missile_launcher_wolfpack",
+				"nameRU":"Пусковая установка «Стая»",
+				"nameEN":"Missile launcher «Wolfpack»",
+				"descriptionRU":"Более манёвренные и скоростные ракеты для оперативного перехвата быстрых целей. Почти исключает возможность уклониться от ракет и упрощает добивание.",
+				"descriptionEN":"More manoeuvrable and faster rockets for rapid interception capabilities. Almost excludes the possibility of evading rockets and makes it easier to finish enemies off."
+			},
+			{
+				"id":"incendiary_shells",
+				"nameRU":"Поджигающие снаряды",
+				"nameEN":"Incendiary shells",
+				"descriptionRU":"Снаряд, несущий критический урон, и ракеты артиллерийской пушки содержат в себе зажигательную смесь и при попадании воспламеняются, поджигая цель.",
+				"descriptionEN":"Аrtillery turret's shells contain an incendiary mixture and on a critical hit, ignite the target."
+			},
+			{
+				"id":"cryo_shells",
+				"nameRU":"Замораживающие снаряды",
+				"nameEN":"Cryo shells",
+				"descriptionRU":"Заменяет стандартные снаряды на криокапсулы. Критические попадания и выстрелы из артиллерийской установки позволяют не только наносить урон, но и замораживать цель.",
+				"descriptionEN":"A replacement of the standard artillery turret's shells with cryopods. On explosion, critically low temperatures not only deal damage but also freeze the target."
+			},
+			{
+				"id":"stun_shells",
+				"nameRU":"Стан-снаряды",
+				"nameEN":"Stun shells",
+				"descriptionRU":"В ствол артиллерийской пушки загружается дополнительный взрыватель, благодаря чему вылетающие снаряды обладают огромной ударной силой. Критическое попадание из основной пушки и ракетный залп оглушает противника.",
+				"descriptionEN":"An additional fuse is added to the barrel of the artillery turret, giving shells a huge impact force. A critical hit from the main turret stuns the target."
+			},
+			{
+				"id":"missile_launcher_tornado",
+				"nameRU":"Пусковая установка «Торнадо»",
+				"nameEN":"Missile launcher «Tornado»",
+				"descriptionRU":"Ослабление боекомплекта основной пушки в пользу механизмов ускоренной погрузки дальнобойных ракет с разрывными боеголовками. Держитесь позади союзников и осыпайте врагов ракетами.",
+				"descriptionEN":"The main turret’s ammunition is weakened in favour of accelerated loading mechanisms for long-range rockets with explosive warheads. Stay behind your teammates and flood your enemies with rockets."
+			},
+			{
+				"id":"missile_launcher_swarm",
+				"nameRU":"Пусковая установка «Рой»",
+				"nameEN":"Missile launcher «Swarm»",
+				"descriptionRU":"Замена артиллерийских ракет на микроракеты ближнего боя. Дальность и мощность ракет значительно снижена, зато их можно эффективно применять в ближнем бою.",
+				"descriptionEN":"A replacement of artillery rockets with melee-range micro-rockets. Range and power of fire decreased, but they can be used effectively in close combat."
+			},
+			{
+				"id":"missile_launcher_spear",
+				"nameRU":"Пусковая установка «Копьё»",
+				"nameEN":"Missile launcher «Spear»",
+				"descriptionRU":"Установка высокоточных скоростных ракет. Огромная скорость вместе с потрясающей манёвренностью позволяют таким ракетам очень быстро поражать сверху даже очень скоростные цели. Более развитые рули ракет занимают больше места в установке, потому размер одновременного залпа уменьшен до предела.",
+				"descriptionEN":"A high-speed, high-precision rocket setup. Tremendous speed combined with amazing maneuverability allows rockets to hit even the fastest targets out of the air in a matter of seconds. However, the required improvements to the rocket rudders take up more space, thus fewer rockets are launched per salvo."
+			},
+			{
+				"id":"uranium_shells",
+				"nameRU":"Урановые снаряды",
+				"nameEN":"Uranium shells",
+				"descriptionRU":"Невероятная плотность урановых снарядов позволяет им эффективно рикошетить. Боеукладка распределена аккуратно с учётом опасной природы этих снарядов. Гарантируется нанесение критического урона цели каждые несколько попаданий.",
+				"descriptionEN":"Incredible density of uranium shells allows them to ricochet effectively. Ammunition is neatly distributed, taking into account the dangerous nature of these shells. Every few hits, you are guaranteed to deal critical damage."
 			}
 		],
 		"shotSkins":
@@ -3224,6 +3280,13 @@
 				"nameEN":"Bombard",
 				"descriptionRU":"Минимальный и начальный угол пушки 45 градусов. Минимальная и максимальная скорости снаряда снижены. Перезарядка значительно ускорена. Магнум превращается в мощное орудие для ведения огня из-за укрытий. С этим устройством невозможно стрелять прямой наводкой — ствол всегда направлен под углом 45 градусов или выше. Такая конструкция позволяет эффективно поражать врагов, находящихся за укрытиями, благодаря накрывающей траектории снарядов. Сниженная мощность выстрела улучшает контроль арки полёта, а уменьшенное время перезарядки позволяет вести быстрый и постоянный огонь, создавая настоящий «дождь» из снарядов.",
 				"descriptionEN":"Minimum and initial angles of the turret are 45 degrees. Minimum and maximum projectile speeds are reduced. Reloading is significantly accelerated. With this augment, Magnum becomes a powerful weapon for firing from behind cover. It is impossible to shoot directly ahead — your turret is always at an angle of 45 degrees or more. This design allows you to effectively hit enemies hiding behind cover thanks to the trajectory of projectiles. Reduced shot power improves control over the shot trajectory, and reduced reload time allows for quick and constant fire, creating a real \"rain\" of shells."
+			},
+			{
+				"id":"destroyer",
+				"nameRU":"Разрушитель",
+				"nameEN":"Destroyer",
+				"descriptionRU":"Стандартный и критический урон увеличены. Сила удара, взрыва и отдачи увеличены. Перезарядка становится дольше. Скорость поворота башни, скорость снаряда и радиус взрыва уменьшены.\nУстройство превращает пушку в настоящую осадную артиллерию, способную одним выстрелом сокрушить противника. Снаряды становятся невероятно мощными! Но как известно, с большой силой приходит и большая ответственность. За мощные тяжёлые снаряды приходится отплачивать долгой перезарядкой. Будьте осторожными между залпами!",
+				"descriptionEN":"Regular and critical damage are increased. Impact, explosion force and recoil force are also increased. Reload takes longer. Turret rotation speed, projectile speed and explosion radius are decreased.\nThe augment turns the turret into a real siege artillery capable of crushing an enemy with one shot. Projectiles become incredibly powerful! But as you know, with great power comes great responsibility. You have to pay for powerful heavy projectiles with a long reload time. Be careful between volleys!"
 			},
 			{
 				"id":"incendiary_core",
