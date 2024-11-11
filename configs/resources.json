@@ -4695,6 +4695,7 @@
 { "id":"proplib_nubu_3", "version":"1", "type":"proplibs" },
 { "id":"proplib_nubu_3_winter", "version":"1", "type":"proplibs" },
 { "id":"proplib_nubu_4", "version":"1", "type":"proplibs" },
+{ "id":"proplib_nubu_4_winter", "version":"1", "type":"proplibs" },
 { "id":"proplib_nubu_5", "version":"1", "type":"proplibs" },
 { "id":"proplib_nubu_5_winter", "version":"1", "type":"proplibs" },
 { "id":"proplib_nubu_6", "version":"1", "type":"proplibs" },
