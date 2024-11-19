@@ -454,5 +454,6 @@
 	"GAME_ACTION_TAKE_SCREENSHOT":"Сделать скриншот",
 	"GAME_ACTION_SPEED_UP_TIME":"Ускорить время",
 	"GAME_ACTION_SLOW_DOWN_TIME":"Замедлить время",
-	"GAME_ACTION_FUN_FUNCTIONS_WINDOW":"Весёлые функции"
+	"GAME_ACTION_FUN_FUNCTIONS_WINDOW":"Весёлые функции",
+	"GAME_ACTION_OPEN_CONSOLE":"Открыть консоль"
 }

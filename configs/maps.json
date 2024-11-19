@@ -3477,8 +3477,7 @@
 		"nameEN":"Silence (mirror)",
 		"skyBox":"mountains_day",
 		"theme":"summer_day",
-		"category":"unofficial",
-		"isNew":true
+		"category":"unofficial"
 	},
 	{
 		"id":"silence_mm_summer",
