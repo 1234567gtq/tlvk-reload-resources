@@ -3149,6 +3149,7 @@
 { "id":"device_critical_mix_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_corrosive_mix_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_shock_freeze_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_critical_mix_freeze_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_broadband_radiators_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_vampire_nanobots_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_stunning_nanobots_icon", "version":"1", "type":"images", "isLazy":true },

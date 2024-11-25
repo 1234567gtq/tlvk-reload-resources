@@ -494,6 +494,13 @@
 				"nameEN":"Paralyzing mix",
 				"descriptionRU":"Дополнение хладагента парализующим реактивом. При критической концентрации реактив вызывает короткий паралич всех систем цели, при этом критический урон и скорость заморозки снижаются вдвое.",
 				"descriptionEN":"Adds a paralyzing mixture into the cooling agent. A critical concentration of the mixture may cause all of the target's systems to be paralyzed, but critical damage and freezing speed are halved."
+			},
+			{
+				"id":"critical_mix_freeze",
+				"nameRU":"Критическая смесь",
+				"nameEN":"Critical mix",
+				"descriptionRU":"Шанс критического урона повышен. Сила заморозки снижена. Дополнение замораживающей смеси критической смесью. При сборке устройства инженеры ошиблись в пропорциях смесей, в результате чего критический урон наносится гораздо чаще, чем планировалось при разработке данной модификации. Но есть и обратный эффект: доля холодильного агента стала меньше.",
+				"descriptionEN":"Critical hit chance is increased. Freezing power is in turn decreased."
 			}
 		],
 		"shotSkins":

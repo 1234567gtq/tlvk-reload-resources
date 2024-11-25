@@ -151,6 +151,19 @@
 	"CAMERA_COLLISION":"Коллизия камеры",
 	"TURN_ON_RADIO":"Включить радио",
 	
+	"HEADER_USER_TITLE":"ИНТЕРФЕЙС ПОЛЬЗОВАТЕЛЯ",
+	"NICKNAME":"Никнейм:",
+	"HEALTH":"Здоровье (%):",
+	"TEAM":"Команда:",
+	"TEAM_DM":"Каждый сам за себя",
+	"TEAM_TDM_BLUE":"Командный бой (синяя)",
+	"TEAM_TDM_RED":"Командный бой (красная)",
+	"TEAM_YELLOW_UNOFFICIAL":"Жёлтая (неофициальная)",
+	"SUSPICIOUS":"Подозрительный",
+	"SUSPICIOUS_BY_IP":"Подозрительный по IP",
+	"TANK":"Танк",
+	
+	
 	"HEADER_UPGRADES":"УЛУЧШЕНИЯ",
 	
 	
@@ -373,6 +386,7 @@
 	"AXIS_INDICATOR":"Индикатор осей",
 	"SHOW_TANK_PREVIEW_IN_GARAGE":"Показать предпросмотр танка в гараже",
 	"PNG_SCREENSHOTS":"PNG-скриншоты (экспериментальная функция)",
+	"SHOW_USER_TITLES":"Показывать интерфейсы пользователей",
 	
 	"SOUND_VOLUME":"Громкость:",
 	"BACKGROUND_SOUND":"Фоновый звук",
@@ -441,6 +455,7 @@
 	"GAME_ACTION_USE_METEOR":"Сбросить метеорит",
 	"GAME_ACTION_METEORS_WINDOW":"Настройки метеорита",
 	"GAME_ACTION_BALLS_WINDOW":"Настройки регби мяча",
+	"GAME_ACTION_USER_TITLE_WINDOW":"Настройки интерфейса пользователя",
 	
 	"GAME_ACTION_TOGGLE_CAMERA_CONTROLLER":"Переключить режим камеры (спектатор/следящая)",
 	"GAME_ACTION_CAMERA_UP":"Поднять камеру",

@@ -151,6 +151,18 @@
 	"CAMERA_COLLISION":"Camera collision",
 	"TURN_ON_RADIO":"Turn on the radio",
 	
+	"HEADER_USER_TITLE":"USER TITLE",
+	"NICKNAME":"Nickname:",
+	"HEALTH":"Health (%):",
+	"TEAM":"Team:",
+	"TEAM_DM":"Deathmatch",
+	"TEAM_TDM_BLUE":"Team Deathmatch (blue)",
+	"TEAM_TDM_RED":"Team Deathmatch (red)",
+	"TEAM_YELLOW_UNOFFICIAL":"Yellow (unofficial)",
+	"SUSPICIOUS":"Suspicious",
+	"SUSPICIOUS_BY_IP":"Suspicious by IP",
+	"TANK":"Tank",
+	
 	
 	"HEADER_UPGRADES":"UPGRADES",
 	
@@ -352,6 +364,7 @@
 	"AXIS_INDICATOR":"Axis indicator",
 	"SHOW_TANK_PREVIEW_IN_GARAGE":"Show tank preview in garage",
 	"PNG_SCREENSHOTS":"PNG-screenshots (experimental function)",
+	"SHOW_USER_TITLES":"Show user titles",
 	
 	"SOUND_VOLUME":"Sound volume:",
 	"BACKGROUND_SOUND":"Background sound",
@@ -420,6 +433,7 @@
 	"GAME_ACTION_USE_METEOR":"Drop meteorite",
 	"GAME_ACTION_METEORS_WINDOW":"Meteor settings",
 	"GAME_ACTION_BALLS_WINDOW":"Rugby ball settings",
+	"GAME_ACTION_USER_TITLE_WINDOW":"User title settings",
 	
 	"GAME_ACTION_TOGGLE_CAMERA_CONTROLLER":"Switch camera mode (spectator/follow)",
 	"GAME_ACTION_CAMERA_UP":"Move camera up",
