@@ -4409,6 +4409,13 @@
 	"descriptionEN":"This paint is awarded to teams in the International Community for outstanding performance in Parkour. It may only be worn by the craziest daredevils, and due to the highly volatile nature of its particles, it will abandon the owner’s tank if it's not fed a regular dose of concentrated adrenaline. It was designed for parkour specialists. The team \"German Tanki Tutorials\" kept this paint for a long time due to their extraordinary performance. Currently, the paint is owned by the international parkour team \"Fly to High\"."
 },
 {
+	"id":"black_ruby",
+	"nameRU":"Чёрный рубин",
+	"nameEN":"Black Ruby",
+	"descriptionRU":"Это покрытие чернее души твоего потенциального противника. Наши лучшие специалисты скрупулезно крепят каждую рубиновую пластину на гравитационные стяжки среди частиц темной материи.",
+	"descriptionEN":"This paint is blacker than the soul of your potential enemy. Our best specialists scrupulously attached each Ruby piece to gravity fields among dark matter particles."
+},
+{
 	"id":"blaze",
 	"nameRU":"Блейз",
 	"nameEN":"Blaze",

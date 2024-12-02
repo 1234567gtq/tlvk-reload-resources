@@ -123,6 +123,8 @@
 	"IMPACT_FORCE":"Сила удара (усл. ед.)",
 	"REMOVE_ALL_MINES":"Удалить все мины",
 	
+	"MESSAGE_GOLD_BOX_SPAWN":"Скоро будет сброшен золотой ящик",
+	"MESSAGE_GOLD_BOX_TAKEN":"%TEXT% взял золотой ящик",
 	"HEADER_BONUSES":"ПРИПАСЫ",
 	"BONUS":"Припас:",
 	"SIREN":"Сирена:",
@@ -470,5 +472,14 @@
 	"GAME_ACTION_SPEED_UP_TIME":"Ускорить время",
 	"GAME_ACTION_SLOW_DOWN_TIME":"Замедлить время",
 	"GAME_ACTION_FUN_FUNCTIONS_WINDOW":"Весёлые функции",
-	"GAME_ACTION_OPEN_CONSOLE":"Открыть консоль"
+	"GAME_ACTION_OPEN_CONSOLE":"Открыть консоль",
+	
+	"CONTAINER_OPEN":"Открыть",
+	"CONTAINER_OPEN_MORE":"Открыть ещё",
+	"CONTAINER_TURRET":"Пушка ",
+	"CONTAINER_HULL":"Корпус ",
+	"CONTAINER_DRONE":"Дрон ",
+	"CONTAINER_PAINT":"Краска ",
+	"CONTAINER_KIT":"Комплект ",
+	"CONTAINER_ALAS":"Увы :("
 }

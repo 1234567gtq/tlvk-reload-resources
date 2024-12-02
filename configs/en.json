@@ -123,6 +123,8 @@
 	"IMPACT_FORCE":"Impact force (cond. units)",
 	"REMOVE_ALL_MINES":"Remove all mines",
 	
+	"MESSAGE_GOLD_BOX_SPAWN":"Gold box will be dropped soon",
+	"MESSAGE_GOLD_BOX_TAKEN":"%TEXT% has taken the gold box",
 	"HEADER_BONUSES":"SUPPLIES",
 	"BONUS":"Supply:",
 	"SIREN":"Siren:",
@@ -448,5 +450,14 @@
 	"GAME_ACTION_SPEED_UP_TIME":"Speed ​​up time",
 	"GAME_ACTION_SLOW_DOWN_TIME":"Slow down time",
 	"GAME_ACTION_FUN_FUNCTIONS_WINDOW":"Fun functions",
-	"GAME_ACTION_OPEN_CONSOLE":"Open console"
+	"GAME_ACTION_OPEN_CONSOLE":"Open console",
+	
+	"CONTAINER_OPEN":"Open",
+	"CONTAINER_OPEN_MORE":"Open more",
+	"CONTAINER_TURRET":"Turret ",
+	"CONTAINER_HULL":"Hull ",
+	"CONTAINER_DRONE":"Drone ",
+	"CONTAINER_PAINT":"Paint ",
+	"CONTAINER_KIT":"Kit ",
+	"CONTAINER_ALAS":"Alas :("
 }
