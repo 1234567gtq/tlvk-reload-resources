@@ -1,8 +1,8 @@
 [
-	{
-		"id":"black_friday_2024",
-		"nameRU":"Чёрная пятница 2024",
-		"nameEN":"Black Friday 2024"
+	{	
+		"id":"winter_festival_2024",
+		"nameRU":"Зимний фестиваль 2024",
+		"nameEN":"Winter Festival 2024"
 	},
 	{
 		"id":"standard",
@@ -48,6 +48,11 @@
 		"id":"black_friday_2023",
 		"nameRU":"Чёрная пятница 2023",
 		"nameEN":"Black Friday 2023"
+	},
+	{
+		"id":"black_friday_2024",
+		"nameRU":"Чёрная пятница 2024",
+		"nameEN":"Black Friday 2024"
 	},
 	{
 		"id":"carnival_2021",

@@ -47,6 +47,9 @@
 	"LET_S_FIGHT":"Let's fight",
 	"SEARCH:":"Search:",
 	
+	"OPEN_NEWS":"Open news",
+	"CLOSE_NEWS":"Close news",
+	
 	"TIME_SCALE":"Time scale",
 	"CAMERA_MODE":"Camera mode",
 	"SPECTATOR":"spectator",
@@ -398,6 +401,8 @@
 	"INVERSE_TURN_CONTROL":"Inverse turn controls while moving back",
 	"RESTORE_DEFAULT_BUTTONS":"Restore default buttons",
 	
+	"SWITCH_LANGUAGE":"Переключиться на Русский",
+	
 	"KEYBOARD_KEY_LEFT":"Left",
 	"KEYBOARD_KEY_RIGHT":"Right",
 	"KEYBOARD_KEY_UP":"Up",
@@ -424,6 +429,7 @@
 	"GAME_ACTION_FLIP_TANK":"Flip tank",
 	"GAME_ACTION_RESTORE_TANK_STATE":"Restore tank position",
 	"GAME_ACTION_MOVE_TANK_TO_CURSOR_POSITION":"Teleport a tank by mouse cursor",
+	"GAME_ACTION_FREEZE_TANK":"Freeze tank",
 	"GAME_ACTION_TOGGLE_VISIBLE_DRONE":"Show/hide drone",
 	"GAME_ACTION_OPEN_GARAGE":"Open garage",
 	

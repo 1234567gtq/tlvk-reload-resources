@@ -47,6 +47,9 @@
 	"LET_S_FIGHT":"В бой!",
 	"SEARCH:":"Поиск:",
 	
+	"OPEN_NEWS":"Открыть новости",
+	"CLOSE_NEWS":"Закрыть новости",
+	
 	"TIME_SCALE":"Масштаб времени",
 	"CAMERA_MODE":"Режим камеры",
 	"SPECTATOR":"спектатор",
@@ -420,6 +423,8 @@
 	"INVERSE_TURN_CONTROL":"Инверсное управление при движении назад",
 	"RESTORE_DEFAULT_BUTTONS":"Восстановить кнопки по умолчанию",
 	
+	"SWITCH_LANGUAGE":"Switch to English",
+	
 	"KEYBOARD_KEY_LEFT":"Влево",
 	"KEYBOARD_KEY_RIGHT":"Вправо",
 	"KEYBOARD_KEY_UP":"Вверх",
@@ -446,6 +451,7 @@
 	"GAME_ACTION_FLIP_TANK":"Перевернуть танк",
 	"GAME_ACTION_RESTORE_TANK_STATE":"Восстановить положение танка/башни",
 	"GAME_ACTION_MOVE_TANK_TO_CURSOR_POSITION":"Телепортировать танк по курсору мыши",
+	"GAME_ACTION_FREEZE_TANK":"Заморозить танк",
 	"GAME_ACTION_TOGGLE_VISIBLE_DRONE":"Показать/скрыть дрон",
 	"GAME_ACTION_OPEN_GARAGE":"Открыть гараж",
 	

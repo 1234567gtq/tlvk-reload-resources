@@ -732,6 +732,7 @@
 { "id":"turret_hammer_xt", "version":"1", "type":"models" },
 { "id":"turret_hammer_lc", "version":"1", "type":"models" },
 { "id":"turret_hammer_dc", "version":"3", "type":"models" },
+{ "id":"turret_hammer_ic", "version":"1", "type":"models_a3d" },
 { "id":"turret_hammer_m0", "version":"1", "type":"models" },
 { "id":"turret_hammer_m1", "version":"1", "type":"models" },
 { "id":"turret_hammer_m2", "version":"1", "type":"models" },
@@ -3067,8 +3068,11 @@
 { "id":"skin_sp_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"skin_se_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"skin_ic_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"skin_m0_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"skin_m1_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"skin_m2_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"skin_m3_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"skin_2.0_icon", "version":"1", "type":"images", "isLazy":true },
-
 
 { "id":"shot_skin_freeze_darkmoon_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"shot_skin_freeze_toxic_icon", "version":"1", "type":"images", "isLazy":true },
@@ -3482,7 +3486,7 @@
 { "id":"skybox_tx_moon_night_top", "version":"1", "type":"textures" },
 { "id":"skybox_garage_front_side", "version":"1", "type":"textures", "isLazy":true },
 
-{ "id":"billboard_black_friday_2024", "version":"1", "type":"textures" },
+{ "id":"billboard_winter_festival_2024", "version":"1", "type":"textures" },
 { "id":"billboard_standard", "version":"1", "type":"textures" },
 { "id":"billboard_standard_without_logo", "version":"1", "type":"textures" },
 { "id":"billboard_standard_old", "version":"1", "type":"textures" },
@@ -3492,6 +3496,7 @@
 { "id":"billboard_autumn_festival_2023", "version":"1", "type":"textures" },
 { "id":"billboard_autumn_festival_2024", "version":"1", "type":"textures" },
 { "id":"billboard_black_friday_2023", "version":"1", "type":"textures" },
+{ "id":"billboard_black_friday_2024", "version":"1", "type":"textures" },
 { "id":"billboard_carnival_2021", "version":"1", "type":"textures" },
 { "id":"billboard_chinise_new_year_2022", "version":"1", "type":"textures" },
 { "id":"billboard_lunar_new_year_2024", "version":"1", "type":"textures" },

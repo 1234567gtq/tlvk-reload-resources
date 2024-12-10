@@ -72,28 +72,28 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"m0_old",
@@ -101,7 +101,7 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1_old",
@@ -109,7 +109,7 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2_old",
@@ -117,7 +117,7 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3_old",
@@ -125,7 +125,7 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"ut_old",
@@ -359,28 +359,28 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"m0_old",
@@ -388,7 +388,7 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1_old",
@@ -396,7 +396,7 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2_old",
@@ -404,7 +404,7 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3_old",
@@ -412,7 +412,7 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"xt_fake_blue",
@@ -608,28 +608,28 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"m0_old",
@@ -637,7 +637,7 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1_old",
@@ -645,7 +645,7 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2_old",
@@ -653,7 +653,7 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3_old",
@@ -661,7 +661,7 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"xt_fake",
@@ -941,32 +941,41 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"ic",
+				"name":"IC",
+				"descriptionRU":"Молот IC — скин, который сочетает холодную силу и мощь. Он покрыт толстым слоем антарктического льда, создающим образ устрашающего кристального носорога.\n\nКаждый выстрел передаёт беспощадную силу вечной мерзлоты, оставляя на врагах ледяной след. Созданный для самых суровых условий, Молот IC превращает любое поле боя в замёрзшую пустошь, бросая вызов врагам встретиться с холодом лицом к лицу. Экипируйте его и дайте врагам почувствовать морозную мощь.",
+				"descriptionEN":"Hammer IC is a skin that combines cold strength and power. It is covered with a thick layer of Antarctic ice, creating the image of a fearsome crystal rhino.\n\nEach shot delivers the merciless force of permafrost, leaving an icy trail on enemies. Designed for the harshest conditions, Hammer IC turns any battlefield into a frozen wasteland, challenging enemies to face the cold head-on. Equip it and let your enemies feel your frosty might.",
+				"icon":"ic",
+				"emissionColor":"51455",
+				"emissionColorThreshold":"0.6"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"m0_old",
@@ -974,7 +983,7 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1_old",
@@ -982,7 +991,7 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2_old",
@@ -990,7 +999,7 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3_old",
@@ -998,7 +1007,7 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"m3_test",
@@ -1006,7 +1015,7 @@
 				"nameEN":"M3 (test)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},		
 			{
 				"id":"xt_test_fake",
@@ -1259,28 +1268,28 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"m0_old",
@@ -1288,7 +1297,7 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1_old",
@@ -1296,7 +1305,7 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2_old",
@@ -1304,7 +1313,7 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3_old",
@@ -1312,7 +1321,7 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"xt_fake",
@@ -1562,28 +1571,28 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"m0_old",
@@ -1591,7 +1600,7 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1_old",
@@ -1599,7 +1608,7 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2_old",
@@ -1607,7 +1616,7 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3_old",
@@ -1615,7 +1624,7 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"xt_fake",
@@ -1815,28 +1824,28 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"m0_old",
@@ -1844,7 +1853,7 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1_old",
@@ -1852,7 +1861,7 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2_old",
@@ -1860,7 +1869,7 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3_old",
@@ -1868,7 +1877,7 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"xt_old",
@@ -1883,14 +1892,14 @@
 				"nameRU":"Релиз 1.100 (1)",
 				"nameEN":"Release 1.100 (1)",
 				"description":"TODO",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"release_1.100_2",
 				"nameRU":"Релиз 1.100 (2)",
 				"nameEN":"Release 1.100 (2)",
 				"description":"TODO",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"pumpkin_old",
@@ -2077,21 +2086,21 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"demo",
@@ -2099,7 +2108,7 @@
 				"nameEN":"M3 (test)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			}
 		],
 		"devices":
@@ -2296,28 +2305,28 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard",
+				"icon":"m3",
 				"emissionColor":"441097",
 				"emissionColorThreshold":"0.6"
 			},
@@ -2327,7 +2336,7 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1_old",
@@ -2335,7 +2344,7 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2_old",
@@ -2343,7 +2352,7 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3_old",
@@ -2351,7 +2360,7 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"tx_m0",
@@ -2533,28 +2542,28 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"m0_old",
@@ -2562,7 +2571,7 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1_old",
@@ -2570,7 +2579,7 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2_old",
@@ -2578,7 +2587,7 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3_old",
@@ -2586,7 +2595,7 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"pr_fake",
@@ -2936,28 +2945,28 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"m0_old",
@@ -2965,7 +2974,7 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1_old",
@@ -2973,7 +2982,7 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2_old",
@@ -2981,7 +2990,7 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3_old",
@@ -2989,7 +2998,7 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"pr_fake",
@@ -3227,21 +3236,21 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			}
 		],
 		"devices":
@@ -3433,28 +3442,28 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			}	
 		],
 		"devices":
@@ -3599,28 +3608,28 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"m0_old",
@@ -3628,7 +3637,7 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m0"
 			},
 			{
 				"id":"m1_old",
@@ -3636,7 +3645,7 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m1"
 			},
 			{
 				"id":"m2_old",
@@ -3644,7 +3653,7 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m2"
 			},
 			{
 				"id":"m3_old",
@@ -3652,7 +3661,7 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"standard"
+				"icon":"m3"
 			},
 			{
 				"id":"xt_fake",
