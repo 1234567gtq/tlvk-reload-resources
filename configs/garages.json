@@ -2,8 +2,7 @@
 	{
 		"id":"standard",
 		"nameRU":"Стандартный",
-		"nameEN":"Standard",
-		"isStandardTankPreview":true
+		"nameEN":"Standard"
 	},
 	{
 		"id":"1.100",

@@ -10,7 +10,7 @@
 	"DISCORD_RPC_SELECTING_KIT":"Selecting kit",
 	"DISCORD_RPC_MAP":"Map: ",
 	
-	"LOADING...":"LOADING...",
+	"LOADING":"LOADING...",
 	"TIP_0":"The project was founded in 2020 and included very little content",
 	"TIP_1":"Previously, the project was called «TLVK TOP» and didn't receive new functionality from «Tanki Online»",
 	"TIP_2":"Update «2.5» — rebranding and the beginning of a series of updates on the «reload» of this project",
@@ -81,9 +81,9 @@
 	"ITEMS_IN_KIT":"Items in Kit",
 	"RANDOM_TANK":"Random tank",
 	"RANDOM_ITEMS":"Random items",
-	"DEVICES":"Devices",
+	"DEVICES":"Augments",
 	"DESCRIPTION":"Description",
-	"HEADER_DEVICES":"DEVICES",
+	"HEADER_DEVICES":"AUGMENTS",
 	"SKIN":"Skin",
 	"EQUIP_OWN_PAINT":"Equip own paint",
 	
@@ -287,8 +287,14 @@
 	"SALVO_RELOAD_TIME":"Reload time after salvo (ms)",
 	"SALVO_SIZE":"Amount of rockets in a salvo",
 	"TIME_BETWEEN_SHOTS_OF_SALVO":"Pause between the rockets in a salvo (ms)",
+	"DAMAGE_HP":"Damage (hp)",
+	"DAMAGE_LIGHTNING_HP":"Lightning damage (hp)",
+	"DAMAGE_GLOBE_LIGHTNING_HP":"Globe lightning damage (hp)",
+	"DAMAGE_SHELL_HP":"Shell damage (hp)",
+	"DAMAGE_ROCKET_HP":"Rocket damage (hp)",
 	
-	
+	"DAMAGE_AIM_HP":"Aim shot damage (hp)",
+	"HEALTH":"Health (hp)",
 	
 	
 	
@@ -393,6 +399,9 @@
 	"DYNAMIC_LIGHTING":"Dynamic lighting",
 	"GRAPHICS_AUTO_QUALITY":"Automatic graphics quality",
 	"3D_BUSHES":"3D-bushes",
+	"LIGHTING":"Ambient lighting",
+	"DAMAGE":"Damage",
+	"SHOW_DAMAGE":"Show damage",
 	
 	"MOUSE_CONTROL":"Mouse controls",
 	"MOUSE_SENSITIVITY":"Mouse look sensitivity",

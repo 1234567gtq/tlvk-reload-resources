@@ -1,8 +1,8 @@
 [
 	{	
-		"id":"winter_festival_2024",
-		"nameRU":"Зимний фестиваль 2024",
-		"nameEN":"Winter Festival 2024"
+		"id":"new_year_2025",
+		"nameRU":"Новый Год 2025",
+		"nameEN":"New Year 2025"
 	},
 	{
 		"id":"standard",
@@ -345,6 +345,11 @@
 		"nameRU":"День святого Валентина 2024",
 		"nameEN":"Valentine's Day 2024"
 	},
+	{	
+		"id":"winter_festival_2024",
+		"nameRU":"Зимний фестиваль 2024",
+		"nameEN":"Winter Festival 2024"
+	},
 	{
 		"id":"8_march_2021",
 		"nameRU":"Женский день 2021",
@@ -391,14 +396,29 @@
 		"nameEN":"Runet Award"
 	},
 	{
+		"id":"syava_production",
+		"nameRU":"«Сява продакшн»",
+		"nameEN":"«Syava production»"
+	},
+	{
 		"id":"standard_new_logo",
 		"nameRU":"Стандартный (новый логотип)",
 		"nameEN":"Standard (new logo)"
 	},
 	{
+		"id":"thunder",
+		"nameRU":"Гром",
+		"nameEN":"Thunder"
+	},
+	{
 		"id":"vasya_was_here",
 		"nameRU":"Здесь был Вася",
 		"nameEN":"Vasya was here"
+	},
+	{
+		"id":"viking",
+		"nameRU":"Викинг",
+		"nameEN":"Viking"
 	},
 	{
 		"id":"volvo_club",
@@ -417,11 +437,6 @@
 		"id":"tlvk_reload_4_years",
 		"nameRU":"TLVK: RELOAD (4 года)",
 		"nameEN":"TLVK: RELOAD (4 years)"
-	},
-	{
-		"id":"tlvk_reload_old",
-		"nameRU":"TLVK: RELOAD (старый)",
-		"nameEN":"TLVK: RELOAD (old)"
 	},
 	{
 		"id":"vint",

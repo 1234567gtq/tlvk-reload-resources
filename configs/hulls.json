@@ -400,6 +400,16 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"xt_hd",
+				"name":"XT HD",
+				"descriptionRU":"Серия XT скинов представляет собой коллекцию эксклюзивных обликов для различных танков, каждый из которых обладает уникальными внешним видом.\n\nБолее детально и масштабно прорисованная модель корпуса придаёт ему мощный и эффектный вид. Учтены все, даже самые мелкие детали!\n\nОбладатель этого редкого скина всегда находится в центре внимания.",
+				"descriptionEN":"The XT series of skins is a collection of exclusive skins for various tanks, each of which has a unique appearance.\n\nA more detailed and large-scale drawn hull model gives it a powerful and spectacular look. Even the smallest details are taken into account!\n\nThe owner of this rare skin is always in the spotlight.",
+				"isInvertTracksDirection":true,
+				"icon":"xt",
+				"emissionColor":"13632266",
+				"emissionColorThreshold":"0.4"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",

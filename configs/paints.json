@@ -4577,6 +4577,13 @@
 	"descriptionEN":"Silver is a unique paint composed of silver fiber and secret nano-ingredients developed in advanced science labs. This paint can’t be bought in the Garage and is issued only to those who distinguished themselves in cybersport battles."
 },
 {
+	"id":"snowy_surprise",
+	"nameRU":"Снежный сюрприз",
+	"nameEN":"Snowy Surprise",
+	"descriptionRU":"Обычная (неанимированная) краска — это покрытие для вашего танка. Краска выполняет исключительно эстетическую функцию. В зависимости от цветовой гаммы, она может замаскировать вас на поле боя. Но никаких других преимуществ в игре она не даёт.",
+	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
+},
+{
 	"id":"sky",
 	"nameRU":"Облака",
 	"nameEN":"Sky",
@@ -5398,7 +5405,7 @@
 {
 	"id":"vint",
 	"name":"Vint",
-	"description":"<a href=\"https://vint-official.site/\" target=\"_blank\"><u>https://vint-official.site/</u></a>."
+	"description":"<a href=\"https://vint.win/\" target=\"_blank\"><u>https://vint.win/</u></a>."
 },
 {
 	"id":"windows_11",

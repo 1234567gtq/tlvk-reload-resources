@@ -2536,6 +2536,14 @@
 		"category":"special"
 	},
 	{
+		"id":"new_year_2021_winter",
+		"nameRU":"Новый Год 2021",
+		"nameEN":"New Year 2021",
+		"skyBox":"new_year",
+		"theme":"new_year",
+		"category":"special"
+	},
+	{
 		"id":"new_year_2022_winter",
 		"nameRU":"Новый Год 2022",
 		"nameEN":"New Year 2022",
@@ -3165,7 +3173,7 @@
 		"nameEN":"Sandbox MM Remaster",
 		"skyBox":"remaster_autumn",
 		"theme":"summer_day_mm",
-		"category":"autumn"
+		"category":"summer"
 	},
 	{
 		"id":"sandbox_mm_remaster_summer",
@@ -3438,6 +3446,14 @@
 		"skyBox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
+	},
+	{
+		"id":"silence_remake_cy95v_summer",
+		"nameRU":"Тишина Remake (by CY95v)",
+		"nameEN":"Silence Remake (by CY95v)",
+		"skyBox":"mountains_day",
+		"theme":"summer_day",
+		"category":"unofficial"
 	},
 	{
 		"id":"silence_i_old_summer",

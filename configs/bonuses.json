@@ -625,6 +625,12 @@
 	},
 	{
 		"type":"gold",
+		"id":"new_year_2025",
+		"nameRU":"Золотой ящик (Новый Год 2025)",
+		"nameEN":"Gold Box (New Year 2025)"
+	},
+	{
+		"type":"gold",
 		"id":"sltv_ss_season_3",
 		"nameRU":"Золотой ящик (SLTV SS 3-ий сезон)",
 		"nameEN":"Gold Box (SLTV SS season 3rd)"
