@@ -383,7 +383,7 @@
 				"name":"Ultra",
 				"descriptionRU":"Этот скин Ultra всем своим видом показывает: «Не связывайся со мной, а то будет хуже».",
 				"descriptionEN":"The appearance of this Ultra Skin really says: «You don’t want to mess with me».",
-				"isInvertTracksDirection":true,
+				"isInvertedTracksDirection":true,
 				"icon":"ut",
 				"emissionColor":"16753208",
 				"emissionColorSecond":"6085887",
@@ -404,7 +404,7 @@
 				"name":"XT HD",
 				"descriptionRU":"Серия XT скинов представляет собой коллекцию эксклюзивных обликов для различных танков, каждый из которых обладает уникальными внешним видом.\n\nБолее детально и масштабно прорисованная модель корпуса придаёт ему мощный и эффектный вид. Учтены все, даже самые мелкие детали!\n\nОбладатель этого редкого скина всегда находится в центре внимания.",
 				"descriptionEN":"The XT series of skins is a collection of exclusive skins for various tanks, each of which has a unique appearance.\n\nA more detailed and large-scale drawn hull model gives it a powerful and spectacular look. Even the smallest details are taken into account!\n\nThe owner of this rare skin is always in the spotlight.",
-				"isInvertTracksDirection":true,
+				"isInvertedTracksDirection":true,
 				"icon":"xt",
 				"emissionColor":"13632266",
 				"emissionColorThreshold":"0.4"
@@ -779,7 +779,7 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
-				"isInvertTracksDirection":true,
+				"isInvertedTracksDirection":true,
 				"icon":"standard",
 				"emissionColor":"14649088",
 				"emissionColorSecond":"8388605",
@@ -792,7 +792,7 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
-				"isInvertTracksDirection":true,
+				"isInvertedTracksDirection":true,
 				"icon":"standard",
 				"emissionColor":"14649088",
 				"emissionColorSecond":"8388605",
@@ -868,7 +868,7 @@
 				"name":"XT HD",
 				"descriptionRU":"Космические исследователи нашли на Луне новый высокопрочный сплав золота, который заряжен лунной энергией. Наши конструкторы не стали терять время зря и сразу же разработали новые металлические пластины небывалой прочности для Викинга и добавили красное свечение от алмазного камня. Теперь этот скин не только привлекает к себе внимание блистательно-дорогим золотистым цветом, но и не оставляет соперникам шансов при столкновении.",
 				"descriptionEN":"Space explorers found a new highly durable gold alloy on the moon that is charged with moon energy. Our constructors did not waste time and immediately developed new metal plates of unprecedented strength for Viking and added red glow of the diamond stone. This skin attracts attention with its brilliantly-expensive golden color and leaves no chance of escape for opponents when confronted.",
-				"isInvertTracksDirection":true,
+				"isInvertedTracksDirection":true,
 				"icon":"xt",
 				"emissionColor":"16711680",
 				"emissionColorThreshold":"0.4"
@@ -980,7 +980,7 @@
 				"nameEN":"Victory Day (Tanki X)",
 				"descriptionRU":"Создавался в условиях замершей без результатов войны. Необходимо было переламывать ситуацию на фронте, где требуется побеждать тактикой. Этот корпус — «универсальная тактическая единица», второе поколение танков «Х», инструмент успешной борьбы за выполнение любых задач на поле боя. «Викинг» надолго стал основой для элитных соединений профессионалов.",
 				"descriptionEN":"This hull was created during a war that was reaching a stalemate. A tank was needed that could break through the stagnating situation on the front, where winning tactics were needed. This hull is the «universal tactical unit», representing the second generation of «X» Tanks. It is tool that can be used to successfully achieve all tasks on the battlefield. For a long time the Viking formed the basis for bonds between elite professional tank operators.",
-				"isInvertTracksDirection":true,
+				"isInvertedTracksDirection":true,
 				"icon":"tx",	
 				"emissionColor":"4521983",
 				"emissionColorThreshold":"0.4"
@@ -1223,7 +1223,7 @@
 				"name":"XT (Tanki X)",
 				"descriptionRU":"«Хантер» — точка отсчета для всех танков «Х». Это первый корпус, который пошел в массовое производство. Он повсеместно применяется по сей день. Это корпус танков первой волны, попытка достигнуть эффективного компромисса между бронированностью и маневренностью. «Хантер» появляется там, где нужно сражаться, а не отстреливаться.",
 				"descriptionEN":"The Hunter is the gold standard for all «X» Tanks. This was the first hull to go into mass production. It is widely used to this day. This is the first generation tank shell. It represents an attempt to reach an effective compromise between armor and maneuverability. The Hunter is good for when you need to fight and do not need to return fire.",
-				"isInvertTracksDirection":true,
+				"isInvertedTracksDirection":true,
 				"icon":"tx",
 				"emissionColor":"65535",
 				"emissionColorThreshold":"0.6"
@@ -1578,7 +1578,7 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
-				"isInvertTracksDirection":true,
+				"isInvertedTracksDirection":true,
 				"icon":"standard",
 				"emissionColor":"131071",
 				"emissionColorThreshold":"0.6"
@@ -1590,7 +1590,7 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
-				"isInvertTracksDirection":true,
+				"isInvertedTracksDirection":true,
 				"icon":"standard",
 				"emissionColor":"131071",
 				"emissionColorThreshold":"0.6"
@@ -1624,7 +1624,7 @@
 				"name":"SP",
 				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным.\n\nУчёные со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберёте на себе тысячи восхищённых взглядов.\n\nБронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид.\n\n Сочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
 				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artifacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only a few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. Bronze plates made of the rarest alloy will make your tank look powerful and fearsome. The combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
-				"isInvertTracksDirection":true,
+				"isInvertedTracksDirection":true,
 				"icon":"sp",
 				"emissionColor":"47359",
 				"emissionColorThreshold":"0.6"
@@ -1718,7 +1718,7 @@
 				"nameEN":"Dreadnought (Tanki X)",
 				"descriptionRU":"Когда «Антей» перевел войну в стадию доминирования и удержания территорий, на заводах стал производиться «Диктатор». Многослойное покрытие кристаллическими сплавами и солидные габариты дают себя заметить. Танку с таким корпусом нужно только одно — вызвать удар на себя и ответить.",
 				"descriptionEN":"When Antaeus transformed the war into a struggle to dominate and hold territory, its plants began to produce the Dictator. Its multi-layer armor made of crystalline alloys and solid dimensions make Dictator noticed. A tank with this kind of hull needs only one thing: the ability to sustain impacts and return fire.",
-				"isInvertTracksDirection":true,
+				"isInvertedTracksDirection":true,
 				"icon":"tx",
 				"emissionColor":"4521983",
 				"emissionColorThreshold":"0.4"
@@ -1974,7 +1974,7 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
-				"isInvertTracksDirection":true,
+				"isInvertedTracksDirection":true,
 				"icon":"standard",
 				"emissionColor":"913906",
 				"emissionColorThreshold":"0.6"
@@ -1986,7 +1986,7 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
-				"isInvertTracksDirection":true,
+				"isInvertedTracksDirection":true,
 				"icon":"standard",
 				"emissionColor":"913906",
 				"emissionColorThreshold":"0.6"
@@ -2020,7 +2020,7 @@
 				"name":"SP",
 				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным. \n\nУчёные со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберёте на себе тысячи восхищённых взглядов. \n\nБронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид. \n\nСочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
 				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artefacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. \n\nBronze plates made of the rarest alloy will make your tank look powerful and fearsome. \n\nThe combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
-				"isInvertTracksDirection":true,
+				"isInvertedTracksDirection":true,
 				"icon":"sp",
 				"emissionColor":"913906",
 				"emissionColorThreshold":"0.6"

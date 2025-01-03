@@ -168,22 +168,27 @@
 	"SUSPICIOUS_BY_IP":"Подозрительный по IP",
 	"TANK":"Танк",
 	
-	
 	"HEADER_UPGRADES":"УЛУЧШЕНИЯ",
 	
-	
-	
-	
-	
-	"ULTIMATE_CHARACTERISTICS":"Характеристики овердрайва",
 	"WEAPON_CHARACTERISTICS":"Характеристики выстрела",
 	
-	
-	
-	
-	
-	
-	
+	"HULL_HEALTH":"Броня (hp)",
+	"HULL_MASS":"Масса (усл. ед.)",
+	"HULL_DAMPING":"Демпфирование (усл. ед.)",
+	"HULL_MAX_SPEED":"Максимальная скорость (см/с)",
+	"HULL_ACCELERATION":"Ускорение (см/с²)",
+	"HULL_DECELERATION":"Торможение (см/с²)",
+	"HULL_REVERSE_ACCELERATION":"Противоинерционное ускорение (см/с²)",
+	"HULL_SIDE_ACCELERATION":"Боковое ускорение (см/с²)",
+	"HULL_MAX_TURN_SPEED":"Максимальная скорость поворота (рад/с)",
+	"HULL_TURN_ACCELERATION":"Ускорение поворота (рад/с²)",
+	"HULL_TURN_DECELERATION":"Торможение поворота (рад/с²)",
+	"HULL_TURN_REVERSE_ACCELERATION":"Противоинерционное ускорение поворота (рад/с²)",
+	"HULL_OPTIMAL_SURFACE_DISTANCE":"Оптимальное расстояние до поверхности (см)",
+	"HULL_TILT_STABILIZATION":"Стабилизация наклона (усл. ед.)",
+	"HULL_ULTIMATE_CHARACTERISTICS":"Характеристики овердрайва",
+	"APPLY_PRESET":"Применить пресет:",
+	"OWN":"Свой",
 	
 	
 	
@@ -224,19 +229,13 @@
 	
 	
 	
-	"MASS":"Масса (усл. ед.)",
-	"DAMPING":"Демпфирование (усл. ед.)",
-	"MAX_SPEED":"Максимальная скорость (см/с)",
-	"ACCELERATION":"Ускорение (см/с²)",
-	"DECELERATION":"Торможение (см/с²)",
-	"REVERSE_ACCELERATION":"Противоинерционное ускорение (см/с²)",
-	"SIDE_ACCELERATION":"Боковое ускорение (см/с²)",
-	"TURN_MAX_SPEED":"Скорость поворота (рад/с)",
-	"TURN_ACCELERATION":"Ускорение поворота (рад/с²)",
-	"TURN_DECELERATION":"Торможение поворота (рад/с²)",
-	"TURN_REVERSE_ACCELERATION":"Противоинерционное ускорение поворота (рад/с²)",
-	"OPTIMAL_SURFACE_DISTANCE":"Оптимальное расстояние до поверхности (см)",
-	"TILT_STABILITY_SCALE":"Масштаб стабилизации наклона (усл. ед.)",
+	
+	
+	
+	
+	
+	
+	
 	
 	"DELAY_BEFORE_EXPLOSION":"Задержка перед взрывом (мс)",
 	"DAMAGE_RADIUS":"Радиус поражения (см)",
@@ -301,7 +300,7 @@
 	"DAMAGE_ROCKET_HP":"Урон ракеты (hp)",
 	
 	"DAMAGE_AIM_HP":"Урон прицельного выстрела (hp)",
-	"HEALTH_HP":"Здоровье (hp)",
+	
 	
 	
 	

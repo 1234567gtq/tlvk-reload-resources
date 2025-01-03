@@ -168,14 +168,27 @@
 	"SUSPICIOUS_BY_IP":"Suspicious by IP",
 	"TANK":"Tank",
 	
-	
 	"HEADER_UPGRADES":"UPGRADES",
 	
-	
-	
-	"ULTIMATE_CHARACTERISTICS":"Ultimate characteristics",
 	"WEAPON_CHARACTERISTICS":"Weapon characteristics",
 	
+	"HULL_HEALTH":"Protection (hp)",
+	"HULL_MASS":"Weight (cond. units)",
+	"HULL_DAMPING":"Damping (cond. units)",
+	"HULL_MAX_SPEED":"Max speed (cm/s)",
+	"HULL_ACCELERATION":"Acceleration (cm/s²)",
+	"HULL_DECELERATION":"Deceleration (cm/s²)",
+	"HULL_REVERSE_ACCELERATION":"Reverse acceleration (cm/s²)",
+	"HULL_SIDE_ACCELERATION":"Side acceleration (cm/s²)",
+	"HULL_MAX_TURN_SPEED":"Max turn speed (rad/s)",
+	"HULL_TURN_ACCELERATION":"Turn acceleration (rad/s²)",
+	"HULL_TURN_DECELERATION":"Turn deceleration (rad/s²)",
+	"HULL_TURN_REVERSE_ACCELERATION":"Turn reverse acceleration (rad/s²)",
+	"HULL_OPTIMAL_SURFACE_DISTANCE":"Optimal surface distance (cm)",
+	"HULL_TILT_STABILIZATION":"Tilt stabilization (cond. units)",
+	"HULL_ULTIMATE_CHARACTERISTICS":"Ultimate characteristics",
+	"APPLY_PRESET":"Apply preset:",
+	"OWN":"Own",
 	
 	
 	
@@ -217,19 +230,6 @@
 	
 	
 	
-	"MASS":"Mass (cond. units)",
-	"DAMPING":"Damping (cond. units)",
-	"MAX_SPEED":"Max speed (cm/s)",
-	"ACCELERATION":"Acceleration (cm/s²)",
-	"DECELERATION":"Deceleration (cm/s²)",
-	"REVERSE_ACCELERATION":"Reverse acceleration (cm/s²)",
-	"SIDE_ACCELERATION":"Side acceleration (cm/s²)",
-	"TURN_MAX_SPEED":"Turn max speed (rad/s)",
-	"TURN_ACCELERATION":"Turn acceleration (rad/s²)",
-	"TURN_DECELERATION":"Turn deceleration (rad/s²)",
-	"TURN_REVERSE_ACCELERATION":"Turn reverse acceleration (rad/s²)",
-	"OPTIMAL_SURFACE_DISTANCE":"Optimal surface distance (cm)",
-	"TILT_STABILITY_SCALE":"Tilt stability scale (cond. units)",
 	
 	"DELAY_BEFORE_EXPLOSION":"Delay before explosion (ms)",
 	"DAMAGE_RADIUS":"Damage radius (cm)",
@@ -294,7 +294,7 @@
 	"DAMAGE_ROCKET_HP":"Rocket damage (hp)",
 	
 	"DAMAGE_AIM_HP":"Aim shot damage (hp)",
-	"HEALTH":"Health (hp)",
+	
 	
 	
 	
