@@ -2336,6 +2336,20 @@
 		"category":"special"
 	},
 	{
+		"id":"mishin870_summer",
+		"name":"Mishin870",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
+		"id":"mishin872_summer",
+		"name":"Mishin872",
+		"skyBox":"hills_day",
+		"theme":"summer_day",
+		"category":"unofficial"
+	},
+	{
 		"id":"molotov_1.100_summer",
 		"nameRU":"Молотов",
 		"nameEN":"Molotov",
