@@ -941,6 +941,15 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Специальная линейка GT скинов для пушек - это не только отличное дополнение для любого колёсного корпуса, но и проявление особой смелости. Не каждый танкист готов пожертвовать скрытностью и осторожностью на поле боя, ради того, чтобы продемонстрировать всю уникальность и особенность своего танка.\n\nСерия GT скинов для пушек это мощное и красивое оружие, которое создано для самых решительных и смелых игроков.\n\nПушки GT отличаются уникальным дизайном, который делает их узнаваемыми на поле боя, оснащены передовыми технологиями и материалами и имеют стильный дизайн, который подчеркивает их мощь и элегантность.",
+				"descriptionEN":"The special GT series of turret skins is not only a great addition to any wheeled hull, but also a show of special courage. Not every tanker can sacrifice being concealed and cautious on the battle field to show the uniqueness and specialty of their tank.\n\nThe GT series of turret skins is a powerful and beautiful weapon made for the most determined and brave players.\n\nGT turrets have a unique design that makes them recognized on the battlefield, advanced technologies and materials and have a stylish design that highlights their power and elegance.",
+				"icon":"gt",
+				"emissionColor":"16009217",
+				"emissionColorThreshold":"0.6"
+			},
+			{
 				"id":"ic",
 				"name":"IC",
 				"descriptionRU":"Молот IC — скин, который сочетает холодную силу и мощь. Он покрыт толстым слоем антарктического льда, создающим образ устрашающего кристального носорога.\n\nКаждый выстрел передаёт беспощадную силу вечной мерзлоты, оставляя на врагах ледяной след. Созданный для самых суровых условий, Молот IC превращает любое поле боя в замёрзшую пустошь, бросая вызов врагам встретиться с холодом лицом к лицу. Экипируйте его и дайте врагам почувствовать морозную мощь.",
@@ -1565,6 +1574,15 @@
 				"descriptionRU":"Существует легенда, что эти скины привёз на планету один из танкистов, чей космический корабль потерпел крушение. Ему удалось спастись, добравшись по обломкам корабля до спасательной капсулы. Во время полёта он хватал все артефакты, попадавшиеся на его пути, среди которых оказались эти скины. Они получили название «RetroFuture». Глаз не оторвать, правда?",
 				"descriptionEN":"There is a legend that was brought to the planet by a tanker whose spaceship crashed. He managed to survive by climbing over the spaceship's remains to the escape pod. During his space journey, he was collecting all the artifacts on his way, and these skins were one of them. They were named «RetroFuture». They're very good, aren't they?",
 				"icon":"rt"
+			},
+			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Специальная линейка GT скинов для пушек - это не только отличное дополнение для любого колёсного корпуса, но и проявление особой смелости. Не каждый танкист готов пожертвовать скрытностью и осторожностью на поле боя, ради того, чтобы продемонстрировать всю уникальность и особенность своего танка.\n\nСерия GT скинов для пушек это мощное и красивое оружие, которое создано для самых решительных и смелых игроков.\n\nПушки GT отличаются уникальным дизайном, который делает их узнаваемыми на поле боя, оснащены передовыми технологиями и материалами и имеют стильный дизайн, который подчеркивает их мощь и элегантность.",
+				"descriptionEN":"The special GT series of turret skins is not only a great addition to any wheeled hull, but also a show of special courage. Not every tanker can sacrifice being concealed and cautious on the battle field to show the uniqueness and specialty of their tank.\n\nThe GT series of turret skins is a powerful and beautiful weapon made for the most determined and brave players.\n\nGT turrets have a unique design that makes them recognized on the battlefield, advanced technologies and materials and have a stylish design that highlights their power and elegance.",
+				"icon":"gt",
+				"emissionColor":"16743168",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"m0",
@@ -3602,6 +3620,15 @@
 				"emissionColor":"15884800",
 				"emissionColorSecond":"16685824",
 				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"gt",
+				"name":"GT",
+				"descriptionRU":"Специальная линейка GT скинов для пушек - это не только отличное дополнение для любого колёсного корпуса, но и проявление особой смелости. Не каждый танкист готов пожертвовать скрытностью и осторожностью на поле боя, ради того, чтобы продемонстрировать всю уникальность и особенность своего танка.\n\nСерия GT скинов для пушек это мощное и красивое оружие, которое создано для самых решительных и смелых игроков.\n\nПушки GT отличаются уникальным дизайном, который делает их узнаваемыми на поле боя, оснащены передовыми технологиями и материалами и имеют стильный дизайн, который подчеркивает их мощь и элегантность.",
+				"descriptionEN":"The special GT series of turret skins is not only a great addition to any wheeled hull, but also a show of special courage. Not every tanker can sacrifice being concealed and cautious on the battle field to show the uniqueness and specialty of their tank.\n\nThe GT series of turret skins is a powerful and beautiful weapon made for the most determined and brave players.\n\nGT turrets have a unique design that makes them recognized on the battlefield, advanced technologies and materials and have a stylish design that highlights their power and elegance.",
+				"icon":"gt",
+				"emissionColor":"12849669",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"m0",
