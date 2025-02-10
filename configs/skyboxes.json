@@ -10,14 +10,19 @@
 		"nameEN":"Hills night"
 	},
 	{
-		"id":"hills_old_gray",
-		"nameRU":"Холмы (старые серые)",
-		"nameEN":"Hills (old gray)"
-	},
-	{
 		"id":"hills_old",
 		"nameRU":"Холмы (старые зелёные)",
 		"nameEN":"Hills (old green)"
+	},
+	{
+		"id":"hills_old_gray",
+		"nameRU":"Холмы (старые)",
+		"nameEN":"Hills (old)"
+	},
+	{
+		"id":"hills_old_gray_quest",
+		"nameRU":"Холмы (старые квестовые)",
+		"nameEN":"Hills (old quest)"
 	},
 	{
 		"id":"mountains_day",
@@ -55,26 +60,6 @@
 		"nameEN":"Rio night"
 	},
 	{
-		"id":"cologne_day",
-		"nameRU":"Кёльн",
-		"nameEN":"Cologne"
-	},
-	{
-		"id":"desert_day",
-		"nameRU":"Пустыня",
-		"nameEN":"Desert"
-	},
-	{
-		"id":"winter_day",
-		"nameRU":"Зима",
-		"nameEN":"Winter"
-	},
-	{
-		"id":"winter_old",
-		"nameRU":"Зима (старая)",
-		"nameEN":"Winter (old)"
-	},
-	{
 		"id":"iran_day",
 		"nameRU":"Иран",
 		"nameEN":"Iran"
@@ -90,29 +75,51 @@
 		"nameEN":"Iran winter"
 	},
 	{
+		"id":"desert_day",
+		"nameRU":"Пустыня",
+		"nameEN":"Desert"
+	},
+	{
+		"id":"cologne_day",
+		"nameRU":"Кёльн",
+		"nameEN":"Cologne"
+	},
+	{
 		"id":"remaster_day",
-		"nameRU":"Ремастер день",
+		"nameRU":"Remaster день",
 		"nameEN":"Remaster day"
 	},
 	{
 		"id":"remaster_evening",
-		"nameRU":"Ремастер вечер",
+		"nameRU":"Remaster вечер",
 		"nameEN":"Remaster evening"
 	},
 	{
 		"id":"remaster_autumn",
-		"nameRU":"Ремастер осень",
+		"nameRU":"Remaster осень",
 		"nameEN":"Remaster autumn"
+	},
+	{
+		"id":"winter_day",
+		"nameRU":"Зима",
+		"nameEN":"Winter"
+	},
+	{
+		"id":"winter_old",
+		"nameRU":"Зима (старая)",
+		"nameEN":"Winter (old)"
 	},
 	{
 		"id":"space_day",
 		"nameRU":"Космос",
-		"nameEN":"Space"
+		"nameEN":"Space",
+		"revolutionSpeed":0.015
 	},
 	{
 		"id":"space_halloween_day",
 		"nameRU":"Космос (хэллоуин)",
-		"nameEN":"Space (halloween)"
+		"nameEN":"Space (halloween)",
+		"revolutionSpeed":0.015
 	},
 	{
 		"id":"halloween",

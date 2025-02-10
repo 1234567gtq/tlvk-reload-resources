@@ -3,7 +3,7 @@
 		"id":"3th_library_summer",
 		"nameRU":"3-я библиотека",
 		"nameEN":"3th library",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -11,7 +11,7 @@
 		"id":"abyss_old_summer",
 		"nameRU":"Бездна",
 		"nameEN":"Abyss",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -19,7 +19,7 @@
 		"id":"abyss_summer",
 		"nameRU":"Бездна",
 		"nameEN":"Abyss",
-		"skyBox":"mountains",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -27,7 +27,7 @@
 		"id":"aleksandrovsk_mm_summer",
 		"nameRU":"Александровск ММ",
 		"nameEN":"Aleksandrovsk MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -35,7 +35,7 @@
 		"id":"aleksandrovsk_mm_winter",
 		"nameRU":"Александровск ММ",
 		"nameEN":"Aleksandrovsk MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -43,7 +43,7 @@
 		"id":"aleksandrovsk_summer",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -51,7 +51,7 @@
 		"id":"aleksandrovsk_winter",
 		"nameRU":"Александровск",
 		"nameEN":"Aleksandrovsk",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -59,7 +59,7 @@
 		"id":"archipelago_mm_old_summer",
 		"nameRU":"Архипелаг ММ (старый)",
 		"nameEN":"Archipelago MM (old)",
-		"skyBox":"rio_day",
+		"skybox":"rio_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -67,7 +67,7 @@
 		"id":"archipelago_mm_old_winter",
 		"nameRU":"Архипелаг ММ (старый)",
 		"nameEN":"Archipelago MM (old)",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -75,7 +75,7 @@
 		"id":"archipelago_mm_summer",
 		"nameRU":"Архипелаг ММ",
 		"nameEN":"Archipelago MM",
-		"skyBox":"rio_day",
+		"skybox":"rio_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -83,7 +83,7 @@
 		"id":"archipelago_mm_winter",
 		"nameRU":"Архипелаг ММ",
 		"nameEN":"Archipelago MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -91,7 +91,7 @@
 		"id":"arena_2.0_summer",
 		"nameRU":"Арена 2.0",
 		"nameEN":"Arena 2.0",
-		"skyBox":"2.0_arena_night",
+		"skybox":"2.0_arena_night",
 		"theme":"summer_night",
 		"category":"unofficial"
 	},
@@ -99,7 +99,7 @@
 		"id":"arena_ii_old_summer",
 		"nameRU":"Арена II",
 		"nameEN":"Arena II",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -107,7 +107,7 @@
 		"id":"arena_old_summer",
 		"nameRU":"Арена",
 		"nameEN":"Arena",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -115,7 +115,7 @@
 		"id":"arena_old_winter",
 		"nameRU":"Арена",
 		"nameEN":"Arena",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -123,7 +123,7 @@
 		"id":"arena_summer",
 		"nameRU":"Арена",
 		"nameEN":"Arena",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -131,7 +131,7 @@
 		"id":"arena_winter",
 		"nameRU":"Арена",
 		"nameEN":"Arena",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -139,7 +139,7 @@
 		"id":"astrella_old_summer",
 		"nameRU":"Астрелла",
 		"nameEN":"Astrella",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -147,7 +147,7 @@
 		"id":"atra_i_old_summer",
 		"nameRU":"Атра I",
 		"nameEN":"Atra I",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -155,7 +155,7 @@
 		"id":"atra_i_old_winter",
 		"nameRU":"Атра I",
 		"nameEN":"Atra I",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -163,7 +163,7 @@
 		"id":"atra_ii_old_summer",
 		"nameRU":"Атра II",
 		"nameEN":"Atra II",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -171,7 +171,7 @@
 		"id":"atra_ii_old_winter",
 		"nameRU":"Атра II",
 		"nameEN":"Atra II",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -179,7 +179,7 @@
 		"id":"atra_summer",
 		"nameRU":"Атра",
 		"nameEN":"Atra",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -187,7 +187,7 @@
 		"id":"atra_winter",
 		"nameRU":"Атра",
 		"nameEN":"Atra",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -195,7 +195,7 @@
 		"id":"babylon_old_summer",
 		"nameRU":"Вавилон",
 		"nameEN":"Babylon",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -203,7 +203,7 @@
 		"id":"barda_1.100_summer",
 		"nameRU":"Барда",
 		"nameEN":"Barda",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -211,7 +211,7 @@
 		"id":"barda_mm_summer",
 		"nameRU":"Барда ММ",
 		"nameEN":"Barda MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -219,7 +219,7 @@
 		"id":"barda_mm_winter",
 		"nameRU":"Барда ММ",
 		"nameEN":"Barda MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -227,7 +227,7 @@
 		"id":"barda_old_summer",
 		"nameRU":"Барда",
 		"nameEN":"Barda",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -235,7 +235,7 @@
 		"id":"barda_old_winter",
 		"nameRU":"Барда",
 		"nameEN":"Barda",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -243,7 +243,7 @@
 		"id":"barda_summer",
 		"nameRU":"Барда",
 		"nameEN":"Barda",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -251,7 +251,7 @@
 		"id":"barda_winter",
 		"nameRU":"Барда",
 		"nameEN":"Barda",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -259,7 +259,7 @@
 		"id":"bastion_summer",
 		"nameRU":"Бастион",
 		"nameEN":"Bastion",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -267,7 +267,7 @@
 		"id":"berlin_1.100_summer",
 		"nameRU":"Берлин",
 		"nameEN":"Berlin",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -275,7 +275,7 @@
 		"id":"berlin_mm_summer",
 		"nameRU":"Берлин ММ",
 		"nameEN":"Berlin MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -283,7 +283,7 @@
 		"id":"berlin_mm_winter",
 		"nameRU":"Берлин ММ",
 		"nameEN":"Berlin MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -291,7 +291,7 @@
 		"id":"berlin_old_summer",
 		"nameRU":"Берлин",
 		"nameEN":"Berlin",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -299,7 +299,7 @@
 		"id":"berlin_old_winter",
 		"nameRU":"Берлин",
 		"nameEN":"Berlin",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -307,7 +307,7 @@
 		"id":"berlin_summer",
 		"nameRU":"Берлин",
 		"nameEN":"Berlin",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -315,7 +315,7 @@
 		"id":"berlin_winter",
 		"nameRU":"Берлин",
 		"nameEN":"Berlin",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -323,7 +323,7 @@
 		"id":"bobruisk_1.100_summer",
 		"nameRU":"Бобруйск",
 		"nameEN":"Bobruisk",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -331,7 +331,7 @@
 		"id":"bobruisk_mm_summer",
 		"nameRU":"Бобруйск ММ",
 		"nameEN":"Bobruisk MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -339,7 +339,7 @@
 		"id":"bobruisk_mm_winter",
 		"nameRU":"Бобруйск ММ",
 		"nameEN":"Bobruisk MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -347,7 +347,7 @@
 		"id":"bobruisk_old_summer",
 		"nameRU":"Бобруйск",
 		"nameEN":"Bobruisk",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -355,7 +355,7 @@
 		"id":"bobruisk_old_winter",
 		"nameRU":"Бобруйск",
 		"nameEN":"Bobruisk",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -363,7 +363,7 @@
 		"id":"bobruisk_summer",
 		"nameRU":"Бобруйск",
 		"nameEN":"Bobruisk",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -371,7 +371,7 @@
 		"id":"bobruisk_winter",
 		"nameRU":"Бобруйск",
 		"nameEN":"Bobruisk",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -379,7 +379,7 @@
 		"id":"boombox_1.100_summer",
 		"nameRU":"Бумбокс",
 		"nameEN":"Boombox",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -387,7 +387,7 @@
 		"id":"boombox_old_summer",
 		"nameRU":"Бумбокс",
 		"nameEN":"Boombox",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -395,7 +395,7 @@
 		"id":"boombox_old_winter",
 		"nameRU":"Бумбокс",
 		"nameEN":"Boombox",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -403,7 +403,7 @@
 		"id":"boombox_summer",
 		"nameRU":"Бумбокс",
 		"nameEN":"Boombox",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -411,7 +411,7 @@
 		"id":"boombox_winter",
 		"nameRU":"Бумбокс",
 		"nameEN":"Boombox",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -419,7 +419,7 @@
 		"id":"brest_i_1.100_summer",
 		"nameRU":"Брест I",
 		"nameEN":"Brest I",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -427,7 +427,7 @@
 		"id":"brest_i_old_summer",
 		"nameRU":"Брест I",
 		"nameEN":"Brest I",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -435,7 +435,7 @@
 		"id":"brest_i_old_winter",
 		"nameRU":"Брест I",
 		"nameEN":"Brest I",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -443,7 +443,7 @@
 		"id":"brest_ii_1.100_summer",
 		"nameRU":"Брест II",
 		"nameEN":"Brest II",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -451,7 +451,7 @@
 		"id":"brest_ii_old_summer",
 		"nameRU":"Брест II",
 		"nameEN":"Brest II",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -459,7 +459,7 @@
 		"id":"brest_ii_old_winter",
 		"nameRU":"Брест II",
 		"nameEN":"Brest II",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -467,7 +467,7 @@
 		"id":"brest_mm_summer",
 		"nameRU":"Брест ММ",
 		"nameEN":"Brest MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -475,7 +475,7 @@
 		"id":"brest_mm_winter",
 		"nameRU":"Брест ММ",
 		"nameEN":"Brest MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -483,7 +483,7 @@
 		"id":"brest_summer",
 		"nameRU":"Брест",
 		"nameEN":"Brest",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -491,7 +491,7 @@
 		"id":"brest_winter",
 		"nameRU":"Брест",
 		"nameEN":"Brest",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -499,7 +499,7 @@
 		"id":"bridge_city_old_summer",
 		"nameRU":"Бридж-Сити (лето)",
 		"nameEN":"Bridge City (summer)",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -507,7 +507,7 @@
 		"id":"bridge_city_old_winter",
 		"nameRU":"Бридж-Сити (зима)",
 		"nameEN":"Bridge City (winter)",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"unofficial"
 	},
@@ -515,7 +515,7 @@
 		"id":"bridges_1.100_summer",
 		"nameRU":"Мосты",
 		"nameEN":"Bridges",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -523,7 +523,7 @@
 		"id":"bridges_mm_summer",
 		"nameRU":"Мосты ММ",
 		"nameEN":"Bridges MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -531,7 +531,7 @@
 		"id":"bridges_mm_winter",
 		"nameRU":"Мосты ММ",
 		"nameEN":"Bridges MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -539,7 +539,7 @@
 		"id":"bridges_old_summer",
 		"nameRU":"Мосты",
 		"nameEN":"Bridges",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -547,7 +547,7 @@
 		"id":"bridges_old_winter",
 		"nameRU":"Мосты",
 		"nameEN":"Bridges",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -555,7 +555,7 @@
 		"id":"bridges_summer",
 		"nameRU":"Мосты",
 		"nameEN":"Bridges",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -563,7 +563,7 @@
 		"id":"bridges_winter",
 		"nameRU":"Мосты",
 		"nameEN":"Bridges",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -571,7 +571,7 @@
 		"id":"bryansk_old_summer",
 		"nameRU":"Брянск",
 		"nameEN":"Bryansk",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -579,7 +579,7 @@
 		"id":"bunker_vektor_tv_summer",
 		"nameRU":"Бункер (by Vektor TV)",
 		"nameEN":"Bunker (by Vektor TV)",
-		"skyBox":"iran_day",
+		"skybox":"iran_day",
 		"theme":"iran",
 		"category":"unofficial"
 	},
@@ -587,7 +587,7 @@
 		"id":"camp_old_summer",
 		"nameRU":"Лагерь",
 		"nameEN":"Camp",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -595,7 +595,7 @@
 		"id":"camp_old_winter",
 		"nameRU":"Лагерь",
 		"nameEN":"Camp",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -603,7 +603,7 @@
 		"id":"camp_summer",
 		"nameRU":"Лагерь",
 		"nameEN":"Camp",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -611,7 +611,7 @@
 		"id":"camp_winter",
 		"nameRU":"Лагерь",
 		"nameEN":"Camp",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -619,7 +619,7 @@
 		"id":"canyon_old_summer",
 		"nameRU":"Каньон",
 		"nameEN":"Canyon",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -627,7 +627,7 @@
 		"id":"canyon_old_winter",
 		"nameRU":"Каньон",
 		"nameEN":"Canyon",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -635,7 +635,7 @@
 		"id":"canyon_summer",
 		"nameRU":"Каньон",
 		"nameEN":"Canyon",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -643,7 +643,7 @@
 		"id":"canyon_winter",
 		"nameRU":"Каньон",
 		"nameEN":"Canyon",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -651,7 +651,7 @@
 		"id":"carousel_old_summer",
 		"nameRU":"Карусель",
 		"nameEN":"Carousel",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -659,7 +659,7 @@
 		"id":"caves_old_summer",
 		"nameRU":"Пещеры",
 		"nameEN":"Caves",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -667,7 +667,7 @@
 		"id":"chernobyl_1.100_summer",
 		"nameRU":"Чернобыль",
 		"nameEN":"Chernobyl",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -675,7 +675,7 @@
 		"id":"chernobyl_mm_summer",
 		"nameRU":"Чернобыль ММ",
 		"nameEN":"Chernobyl MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -683,7 +683,7 @@
 		"id":"chernobyl_old_summer",
 		"nameRU":"Чернобыль",
 		"nameEN":"Chernobyl",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -691,7 +691,7 @@
 		"id":"chernobyl_old_winter",
 		"nameRU":"Чернобыль",
 		"nameEN":"Chernobyl",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -699,7 +699,7 @@
 		"id":"chernobyl_summer",
 		"nameRU":"Чернобыль",
 		"nameEN":"Chernobyl",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -707,7 +707,7 @@
 		"id":"chernobyl_winter",
 		"nameRU":"Чернобыль",
 		"nameEN":"Chernobyl",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -715,7 +715,7 @@
 		"id":"chernushka_mm_summer",
 		"nameRU":"Чернушка ММ",
 		"nameEN":"Chernushka MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -723,7 +723,7 @@
 		"id":"cologne_mm_summer",
 		"nameRU":"Кёльн ММ",
 		"nameEN":"Cologne MM",
-		"skyBox":"cologne_day",
+		"skybox":"cologne_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -731,7 +731,7 @@
 		"id":"cologne_mm_winter",
 		"nameRU":"Кёльн ММ",
 		"nameEN":"Cologne MM",
-		"skyBox":"cologne_day",
+		"skybox":"cologne_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -739,7 +739,7 @@
 		"id":"cologne_summer",
 		"nameRU":"Кёльн",
 		"nameEN":"Cologne",
-		"skyBox":"cologne_day",
+		"skybox":"cologne_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -747,7 +747,7 @@
 		"id":"colony_old_summer",
 		"nameRU":"Колония",
 		"nameEN":"Colony",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -755,7 +755,7 @@
 		"id":"combe_old_summer",
 		"nameRU":"Овраг",
 		"nameEN":"Combe",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -763,7 +763,7 @@
 		"id":"combe_old_winter",
 		"nameRU":"Овраг",
 		"nameEN":"Combe",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -771,7 +771,7 @@
 		"id":"combe_summer",
 		"nameRU":"Овраг",
 		"nameEN":"Combe",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -779,7 +779,7 @@
 		"id":"combe_winter",
 		"nameRU":"Овраг",
 		"nameEN":"Combe",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -787,7 +787,7 @@
 		"id":"construction_summer",
 		"nameRU":"Стройка",
 		"nameEN":"Construction",
-		"skyBox":"urban_day",
+		"skybox":"urban_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -795,7 +795,7 @@
 		"id":"containers_summer",
 		"nameRU":"Контейнеры",
 		"nameEN":"Containers",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -803,7 +803,7 @@
 		"id":"courage_old_summer",
 		"nameRU":"Кураж",
 		"nameEN":"Courage",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -811,7 +811,7 @@
 		"id":"courage_old_winter",
 		"nameRU":"Кураж",
 		"nameEN":"Courage",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -819,7 +819,7 @@
 		"id":"courage_summer",
 		"nameRU":"Кураж",
 		"nameEN":"Courage",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -827,7 +827,7 @@
 		"id":"courage_winter",
 		"nameRU":"Кураж",
 		"nameEN":"Courage",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -835,7 +835,7 @@
 		"id":"crash_alpha_1_old_summer",
 		"nameRU":"Крушение (альфа 1)",
 		"nameEN":"Crash (alpha 1)",
-		"skyBox":"2.0_crash_day",
+		"skybox":"2.0_crash_day",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -843,7 +843,7 @@
 		"id":"crash_alpha_2_old_summer",
 		"nameRU":"Крушение (альфа 2)",
 		"nameEN":"Crash (alpha 2)",
-		"skyBox":"2.0_crash_day",
+		"skybox":"2.0_crash_day",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -851,7 +851,7 @@
 		"id":"crash_summer",
 		"nameRU":"Крушение",
 		"nameEN":"Crash",
-		"skyBox":"urban_day",
+		"skybox":"urban_day",
 		"theme":"gray",
 		"category":"special"
 	},
@@ -859,7 +859,7 @@
 		"id":"cross_1.100_summer",
 		"nameRU":"Перекрёсток",
 		"nameEN":"Cross",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -867,7 +867,7 @@
 		"id":"cross_mm_summer",
 		"nameRU":"Перекрёсток ММ",
 		"nameEN":"Cross MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -875,7 +875,7 @@
 		"id":"cross_mm_winter",
 		"nameRU":"Перекрёсток ММ",
 		"nameEN":"Cross MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -883,7 +883,7 @@
 		"id":"cross_old_summer",
 		"nameRU":"Перекрёсток",
 		"nameEN":"Cross",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -891,7 +891,7 @@
 		"id":"cross_old_winter",
 		"nameRU":"Перекрёсток",
 		"nameEN":"Cross",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -899,7 +899,7 @@
 		"id":"cross_summer",
 		"nameRU":"Перекрёсток",
 		"nameEN":"Cross",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -907,7 +907,7 @@
 		"id":"cross_test_old_summer",
 		"nameRU":"Крест",
 		"nameEN":"Cross",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -915,7 +915,7 @@
 		"id":"cross_winter",
 		"nameRU":"Перекрёсток",
 		"nameEN":"Cross",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -923,7 +923,7 @@
 		"id":"cryto_summer",
 		"nameRU":"Круто",
 		"nameEN":"Cryto",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -931,7 +931,7 @@
 		"id":"deathtrack_1.100_summer",
 		"nameRU":"Трек",
 		"nameEN":"Deathtrack",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -939,7 +939,7 @@
 		"id":"deathtrack_old_summer",
 		"nameRU":"Трек",
 		"nameEN":"Deathtrack",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -947,7 +947,7 @@
 		"id":"deathtrack_old_winter",
 		"nameRU":"Трек",
 		"nameEN":"Deathtrack",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -955,7 +955,7 @@
 		"id":"deathtrack_summer",
 		"nameRU":"Трек",
 		"nameEN":"Deathtrack",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -963,7 +963,7 @@
 		"id":"deathtrack_winter",
 		"nameRU":"Трек",
 		"nameEN":"Deathtrack",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -971,7 +971,7 @@
 		"id":"deck_10_summer",
 		"nameRU":"Палуба 10",
 		"nameEN":"Deck-10",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -979,7 +979,7 @@
 		"id":"deck-9_old_summer",
 		"nameRU":"Палуба 9",
 		"nameEN":"Deck-9",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -987,7 +987,7 @@
 		"id":"deck-9_old_winter",
 		"nameRU":"Палуба 9",
 		"nameEN":"Deck-9",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -995,7 +995,7 @@
 		"id":"deck-9_summer",
 		"nameRU":"Палуба 9",
 		"nameEN":"Deck-9",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1003,15 +1003,23 @@
 		"id":"deck-9_winter",
 		"nameRU":"Палуба 9",
 		"nameEN":"Deck-9",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
+	},
+	{
+		"id":"demo_1.100_summer",
+		"nameRU":"Демо",
+		"nameEN":"Demo",
+		"skybox":"release_1.100_day",
+		"theme":"summer_day",
+		"category":"release_1.100"
 	},
 	{
 		"id":"depo_summer",
 		"nameRU":"Депо",
 		"nameEN":"Depo",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -1019,7 +1027,7 @@
 		"id":"desert_mm_summer",
 		"nameRU":"Пустыня ММ",
 		"nameEN":"Desert MM",
-		"skyBox":"desert_day",
+		"skybox":"desert_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -1027,7 +1035,7 @@
 		"id":"desert_old_summer",
 		"nameRU":"Пустыня",
 		"nameEN":"Desert",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1035,7 +1043,7 @@
 		"id":"desert_summer",
 		"nameRU":"Пустыня",
 		"nameEN":"Desert",
-		"skyBox":"desert_day",
+		"skybox":"desert_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1043,7 +1051,7 @@
 		"id":"dmitrievsk_summer",
 		"nameRU":"Дмитриевск",
 		"nameEN":"Dmitrievsk",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -1051,7 +1059,7 @@
 		"id":"domburg_summer",
 		"nameRU":"Домбург (лето)",
 		"nameEN":"Domburg (summer)",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -1059,7 +1067,7 @@
 		"id":"domburg_winter",
 		"nameRU":"Домбург (зима)",
 		"nameEN":"Domburg (winter)",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"unofficial"
 	},
@@ -1067,7 +1075,7 @@
 		"id":"duality_old_summer",
 		"nameRU":"Дуалити",
 		"nameEN":"Duality",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1075,7 +1083,7 @@
 		"id":"duality_old_winter",
 		"nameRU":"Дуалити",
 		"nameEN":"Duality",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -1083,7 +1091,7 @@
 		"id":"duality_summer",
 		"nameRU":"Дуалити",
 		"nameEN":"Duality",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1091,7 +1099,7 @@
 		"id":"duality_winter",
 		"nameRU":"Дуалити",
 		"nameEN":"Duality",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -1099,7 +1107,7 @@
 		"id":"duel_1.100_summer",
 		"nameRU":"Дуэль",
 		"nameEN":"Duel",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -1107,7 +1115,7 @@
 		"id":"duel_old_summer",
 		"nameRU":"Дуэль",
 		"nameEN":"Duel",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1115,7 +1123,7 @@
 		"id":"duel_old_winter",
 		"nameRU":"Дуэль",
 		"nameEN":"Duel",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -1123,7 +1131,7 @@
 		"id":"duel_summer",
 		"nameRU":"Дуэль",
 		"nameEN":"Duel",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1131,7 +1139,7 @@
 		"id":"duel_winter",
 		"nameRU":"Дуэль",
 		"nameEN":"Duel",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -1139,7 +1147,7 @@
 		"id":"dusseldorf_1.100_summer",
 		"nameRU":"Дюссельдорф",
 		"nameEN":"Dusseldorf",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -1147,7 +1155,7 @@
 		"id":"dusseldorf_mm_summer",
 		"nameRU":"Дюссельдорф ММ",
 		"nameEN":"Dusseldorf MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -1155,7 +1163,7 @@
 		"id":"dusseldorf_mm_winter",
 		"nameRU":"Дюссельдорф ММ",
 		"nameEN":"Dusseldorf MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -1163,7 +1171,7 @@
 		"id":"dusseldorf_old_summer",
 		"nameRU":"Дюссельдорф",
 		"nameEN":"Dusseldorf",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1171,7 +1179,7 @@
 		"id":"dusseldorf_old_winter",
 		"nameRU":"Дюссельдорф",
 		"nameEN":"Dusseldorf",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -1179,7 +1187,7 @@
 		"id":"dusseldorf_summer",
 		"nameRU":"Дюссельдорф",
 		"nameEN":"Dusseldorf",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1187,7 +1195,7 @@
 		"id":"dusseldorf_winter",
 		"nameRU":"Дюссельдорф",
 		"nameEN":"Dusseldorf",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -1195,7 +1203,7 @@
 		"id":"edinburgh_summer",
 		"nameRU":"Эдинбург",
 		"nameEN":"Edinburgh",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1203,7 +1211,7 @@
 		"id":"edinburgh_winter",
 		"nameRU":"Эдинбург",
 		"nameEN":"Edinburgh",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -1211,7 +1219,7 @@
 		"id":"esplanade_old_summer",
 		"nameRU":"Эспланада",
 		"nameEN":"Esplanade",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1219,7 +1227,7 @@
 		"id":"esplanade_summer",
 		"nameRU":"Эспланада",
 		"nameEN":"Esplanade",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1227,7 +1235,7 @@
 		"id":"esplanade_winter",
 		"nameRU":"Эспланада",
 		"nameEN":"Esplanade",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -1235,7 +1243,7 @@
 		"id":"factory_summer",
 		"nameRU":"Фабрика",
 		"nameEN":"Factory",
-		"skyBox":"urban_day",
+		"skybox":"urban_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1243,7 +1251,7 @@
 		"id":"farm_old_summer",
 		"nameRU":"Ферма",
 		"nameEN":"Farm",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1251,7 +1259,7 @@
 		"id":"farm_old_winter",
 		"nameRU":"Ферма",
 		"nameEN":"Farm",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -1259,7 +1267,7 @@
 		"id":"farm_summer",
 		"nameRU":"Ферма",
 		"nameEN":"Farm",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1267,7 +1275,7 @@
 		"id":"farm_winter",
 		"nameRU":"Ферма",
 		"nameEN":"Farm",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -1275,7 +1283,7 @@
 		"id":"flying_test_old_summer",
 		"nameRU":"Тестовая карта",
 		"nameEN":"Flying test",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -1283,7 +1291,7 @@
 		"id":"football_summer",
 		"nameRU":"Футбол",
 		"nameEN":"Football",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -1291,7 +1299,7 @@
 		"id":"forest_1.100_summer",
 		"nameRU":"Форест",
 		"nameEN":"Forest",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -1299,7 +1307,7 @@
 		"id":"forest_mm_remaster_summer",
 		"nameRU":"Форест ММ Remaster",
 		"nameEN":"Forest MM Remaster",
-		"skyBox":"remaster_day",
+		"skybox":"remaster_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -1307,7 +1315,7 @@
 		"id":"forest_mm_summer",
 		"nameRU":"Форест ММ",
 		"nameEN":"Forest MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -1315,7 +1323,7 @@
 		"id":"forest_mm_winter",
 		"nameRU":"Форест ММ",
 		"nameEN":"Forest MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -1323,7 +1331,7 @@
 		"id":"forest_old_summer",
 		"nameRU":"Форест",
 		"nameEN":"Forest",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1331,7 +1339,7 @@
 		"id":"forest_old_winter",
 		"nameRU":"Форест",
 		"nameEN":"Forest",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -1339,7 +1347,7 @@
 		"id":"forest_summer",
 		"nameRU":"Форест",
 		"nameEN":"Forest",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1347,7 +1355,7 @@
 		"id":"forest_winter",
 		"nameRU":"Форест",
 		"nameEN":"Forest",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -1355,7 +1363,7 @@
 		"id":"fort_knox_i_old_summer",
 		"nameRU":"Форт Нокс I",
 		"nameEN":"Fort Knox I",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1363,7 +1371,7 @@
 		"id":"fort_knox_i_old_winter",
 		"nameRU":"Форт Нокс I",
 		"nameEN":"Fort Knox I",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -1371,7 +1379,7 @@
 		"id":"fort_knox_ii_old_summer",
 		"nameRU":"Форт Нокс II",
 		"nameEN":"Fort Knox II",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1379,7 +1387,7 @@
 		"id":"fort_knox_ii_old_winter",
 		"nameRU":"Форт Нокс II",
 		"nameEN":"Fort Knox II",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -1387,7 +1395,7 @@
 		"id":"fort_knox_iii_old_summer",
 		"nameRU":"Форт Нокс III",
 		"nameEN":"Fort Knox III",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1395,7 +1403,7 @@
 		"id":"fort_knox_summer",
 		"nameRU":"Форт Нокс",
 		"nameEN":"Fort Knox",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1403,7 +1411,7 @@
 		"id":"fort_knox_winter",
 		"nameRU":"Форт Нокс",
 		"nameEN":"Fort Knox",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -1411,7 +1419,7 @@
 		"id":"future_mm_summer",
 		"nameRU":"Будущее ММ",
 		"nameEN":"Future MM",
-		"skyBox":"urban_day",
+		"skybox":"urban_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -1419,7 +1427,7 @@
 		"id":"future_summer",
 		"nameRU":"Будущее",
 		"nameEN":"Future",
-		"skyBox":"urban_day",
+		"skybox":"urban_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1427,7 +1435,7 @@
 		"id":"gallery_summer",
 		"nameRU":"Галерея",
 		"nameEN":"Gallery",
-		"skyBox":"urban_day",
+		"skybox":"urban_day",
 		"theme":"gray",
 		"category":"special"
 	},
@@ -1435,7 +1443,7 @@
 		"id":"garder_old_summer",
 		"nameRU":"Гардер",
 		"nameEN":"Garder",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1443,7 +1451,7 @@
 		"id":"garder_old_winter",
 		"nameRU":"Гардер",
 		"nameEN":"Garder",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -1451,7 +1459,7 @@
 		"id":"garder_summer",
 		"nameRU":"Гардер",
 		"nameEN":"Garder",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1459,7 +1467,7 @@
 		"id":"garder_winter",
 		"nameRU":"Гардер",
 		"nameEN":"Garder",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -1467,7 +1475,7 @@
 		"id":"gigabarda_summer",
 		"nameRU":"Гигабарда",
 		"nameEN":"Gigabarda",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -1475,7 +1483,7 @@
 		"id":"gladiator_old_summer",
 		"nameRU":"Гладиатор",
 		"nameEN":"Gladiator",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -1483,7 +1491,7 @@
 		"id":"gravity_old_summer",
 		"nameRU":"Гравити",
 		"nameEN":"Gravity",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1491,7 +1499,7 @@
 		"id":"gravity_old_winter",
 		"nameRU":"Гравити",
 		"nameEN":"Gravity",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -1499,7 +1507,7 @@
 		"id":"gravity_summer",
 		"nameRU":"Гравити",
 		"nameEN":"Gravity",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1507,7 +1515,7 @@
 		"id":"gravity_winter",
 		"nameRU":"Гравити",
 		"nameEN":"Gravity",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -1515,7 +1523,7 @@
 		"id":"gubakha_1.100_summer",
 		"nameRU":"Губаха",
 		"nameEN":"Gubakha",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -1523,7 +1531,7 @@
 		"id":"gubakha_old_summer",
 		"nameRU":"Губаха",
 		"nameEN":"Gubakha",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1531,7 +1539,7 @@
 		"id":"gubakha_old_winter",
 		"nameRU":"Губаха",
 		"nameEN":"Gubakha",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -1539,7 +1547,7 @@
 		"id":"gubakha_summer",
 		"nameRU":"Губаха",
 		"nameEN":"Gubakha",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1547,7 +1555,7 @@
 		"id":"gubakha_winter",
 		"nameRU":"Губаха",
 		"nameEN":"Gubakha",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -1555,7 +1563,7 @@
 		"id":"halloween_2012_summer",
 		"nameRU":"Хэллоуин 2012",
 		"nameEN":"Halloween 2012",
-		"skyBox":"halloween",
+		"skybox":"halloween",
 		"theme":"halloween",
 		"category":"special"
 	},
@@ -1563,7 +1571,7 @@
 		"id":"halloween_2013_summer",
 		"nameRU":"Хэллоуин 2013",
 		"nameEN":"Halloween 2013",
-		"skyBox":"halloween",
+		"skybox":"halloween",
 		"theme":"halloween",
 		"category":"special"
 	},
@@ -1571,7 +1579,7 @@
 		"id":"halloween_2014_summer",
 		"nameRU":"Хэллоуин 2014",
 		"nameEN":"Halloween 2014",
-		"skyBox":"halloween",
+		"skybox":"halloween",
 		"theme":"halloween",
 		"category":"special"
 	},
@@ -1579,7 +1587,7 @@
 		"id":"halloween_2015_summer",
 		"nameRU":"Хэллоуин 2015",
 		"nameEN":"Halloween 2015",
-		"skyBox":"halloween",
+		"skybox":"halloween",
 		"theme":"halloween",
 		"category":"special"
 	},
@@ -1587,7 +1595,7 @@
 		"id":"halloween_2016_summer",
 		"nameRU":"Хэллоуин 2016",
 		"nameEN":"Halloween 2016",
-		"skyBox":"halloween",
+		"skybox":"halloween",
 		"theme":"halloween",
 		"category":"special"
 	},
@@ -1595,7 +1603,7 @@
 		"id":"halloween_2016_vektor_tv_summer",
 		"nameRU":"Хэллоуин 2016 (by Vektor TV)",
 		"nameEN":"Halloween 2016 (by Vektor TV)",
-		"skyBox":"halloween",
+		"skybox":"halloween",
 		"theme":"halloween",
 		"category":"unofficial"
 	},
@@ -1603,7 +1611,7 @@
 		"id":"halloween_2018_summer",
 		"nameRU":"Хэллоуин 2018",
 		"nameEN":"Halloween 2018",
-		"skyBox":"halloween",
+		"skybox":"halloween",
 		"theme":"halloween",
 		"category":"special"
 	},
@@ -1611,7 +1619,7 @@
 		"id":"halloween_2019_summer",
 		"nameRU":"Хэллоуин 2019",
 		"nameEN":"Halloween 2019",
-		"skyBox":"halloween",
+		"skybox":"halloween",
 		"theme":"halloween",
 		"category":"special"
 	},
@@ -1619,7 +1627,7 @@
 		"id":"halloween_2023_sandbox_mm_remaster_autumn",
 		"nameRU":"Хэллоуин 2023",
 		"nameEN":"Halloween 2023",
-		"skyBox":"remaster_autumn",
+		"skybox":"remaster_autumn",
 		"theme":"summer_day_mm",
 		"category":"special"
 	},
@@ -1627,7 +1635,7 @@
 		"id":"hangars_old_summer",
 		"nameRU":"Ангары",
 		"nameEN":"Hangars",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -1635,7 +1643,7 @@
 		"id":"harino_summer",
 		"nameRU":"Харино",
 		"nameEN":"Harino",
-		"skyBox":"urban_day",
+		"skybox":"urban_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -1643,7 +1651,7 @@
 		"id":"headspinners_race_summer",
 		"nameRU":"Гонка головокрутов",
 		"nameEN":"Headspinners Race",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -1651,7 +1659,7 @@
 		"id":"highland_i_old_summer",
 		"nameRU":"Плато I",
 		"nameEN":"Highland I",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1659,7 +1667,7 @@
 		"id":"highland_i_old_winter",
 		"nameRU":"Плато I",
 		"nameEN":"Highland I",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -1667,7 +1675,7 @@
 		"id":"highland_ii_old_summer",
 		"nameRU":"Плато II",
 		"nameEN":"Highland II",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1675,7 +1683,7 @@
 		"id":"highland_ii_old_winter",
 		"nameRU":"Плато II",
 		"nameEN":"Highland II",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -1683,7 +1691,7 @@
 		"id":"highland_mm_summer",
 		"nameRU":"Плато ММ",
 		"nameEN":"Highland MM",
-		"skyBox":"desert_day",
+		"skybox":"desert_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -1691,7 +1699,7 @@
 		"id":"highland_mm_winter",
 		"nameRU":"Плато ММ",
 		"nameEN":"Highland MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -1699,7 +1707,7 @@
 		"id":"highland_summer",
 		"nameRU":"Плато",
 		"nameEN":"Highland",
-		"skyBox":"desert_day",
+		"skybox":"desert_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1707,7 +1715,7 @@
 		"id":"highland_winter",
 		"nameRU":"Плато",
 		"nameEN":"Highland",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -1715,7 +1723,7 @@
 		"id":"highways_1.100_summer",
 		"nameRU":"Шоссе",
 		"nameEN":"Highways",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -1723,7 +1731,7 @@
 		"id":"highways_mm_summer",
 		"nameRU":"Шоссе ММ",
 		"nameEN":"Highways MM",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -1731,7 +1739,7 @@
 		"id":"highways_mm_winter",
 		"nameRU":"Шоссе ММ",
 		"nameEN":"Highways MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -1739,7 +1747,7 @@
 		"id":"highways_old_summer",
 		"nameRU":"Шоссе",
 		"nameEN":"Highways",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1747,7 +1755,7 @@
 		"id":"highways_old_winter",
 		"nameRU":"Шоссе",
 		"nameEN":"Highways",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -1755,7 +1763,7 @@
 		"id":"highways_summer",
 		"nameRU":"Шоссе",
 		"nameEN":"Highways",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1763,7 +1771,7 @@
 		"id":"highways_winter",
 		"nameRU":"Шоссе",
 		"nameEN":"Highways",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -1771,7 +1779,7 @@
 		"id":"hill_old_summer",
 		"nameRU":"Холм",
 		"nameEN":"Hill",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1779,7 +1787,7 @@
 		"id":"hill_summer",
 		"nameRU":"Холм",
 		"nameEN":"Hill",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1787,7 +1795,7 @@
 		"id":"hill_winter",
 		"nameRU":"Холм",
 		"nameEN":"Hill",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -1795,7 +1803,7 @@
 		"id":"home_1_summer",
 		"nameRU":"Дом 1",
 		"nameEN":"Home 1",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -1803,7 +1811,7 @@
 		"id":"home_2_summer",
 		"nameRU":"Дом 2",
 		"nameEN":"Home 2",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -1811,7 +1819,7 @@
 		"id":"industrial_zone_mm_summer",
 		"nameRU":"Промзона ММ",
 		"nameEN":"Industrial Zone MM",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -1819,7 +1827,7 @@
 		"id":"industrial_zone_mm_winter",
 		"nameRU":"Промзона ММ",
 		"nameEN":"Industrial Zone MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -1827,7 +1835,7 @@
 		"id":"industrial_zone_old_summer",
 		"nameRU":"Промзона",
 		"nameEN":"Industrial Zone",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1835,7 +1843,7 @@
 		"id":"industrial_zone_old_winter",
 		"nameRU":"Промзона",
 		"nameEN":"Industrial Zone",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -1843,7 +1851,7 @@
 		"id":"industrial_zone_summer",
 		"nameRU":"Промзона",
 		"nameEN":"Industrial Zone",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1851,7 +1859,7 @@
 		"id":"industrial_zone_winter",
 		"nameRU":"Промзона",
 		"nameEN":"Industrial Zone",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -1859,7 +1867,7 @@
 		"id":"iran_mm_summer",
 		"nameRU":"Иран ММ",
 		"nameEN":"Iran MM",
-		"skyBox":"iran_day",
+		"skybox":"iran_day",
 		"theme":"iran_mm",
 		"category":"summer"
 	},
@@ -1867,7 +1875,7 @@
 		"id":"iran_old_summer",
 		"nameRU":"Иран",
 		"nameEN":"Iran",
-		"skyBox":"iran_day",
+		"skybox":"iran_day",
 		"theme":"iran",
 		"category":"summer_old"
 	},
@@ -1875,7 +1883,7 @@
 		"id":"iran_summer",
 		"nameRU":"Иран",
 		"nameEN":"Iran",
-		"skyBox":"iran_day",
+		"skybox":"iran_day",
 		"theme":"iran",
 		"category":"summer"
 	},
@@ -1883,7 +1891,7 @@
 		"id":"iran_winter",
 		"nameRU":"Иран",
 		"nameEN":"Iran",
-		"skyBox":"iran_winter_day",
+		"skybox":"iran_winter_day",
 		"theme":"winter_day",
 		"category":"special"
 	},
@@ -1891,7 +1899,7 @@
 		"id":"island_old_summer",
 		"nameRU":"Остров",
 		"nameEN":"Island",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1899,7 +1907,7 @@
 		"id":"island_old_winter",
 		"nameRU":"Остров",
 		"nameEN":"Island",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -1907,7 +1915,7 @@
 		"id":"island_summer",
 		"nameRU":"Остров",
 		"nameEN":"Island",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1915,7 +1923,7 @@
 		"id":"island_winter",
 		"nameRU":"Остров",
 		"nameEN":"Island",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -1923,7 +1931,7 @@
 		"id":"kingdom_old_summer",
 		"nameRU":"Королевство",
 		"nameEN":"Kingdom",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -1931,7 +1939,7 @@
 		"id":"kolhoz_1.100_summer",
 		"nameRU":"Колхоз",
 		"nameEN":"Kolhoz",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -1939,7 +1947,7 @@
 		"id":"kolhoz_old_summer",
 		"nameRU":"Колхоз",
 		"nameEN":"Kolhoz",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -1947,7 +1955,7 @@
 		"id":"kolhoz_old_winter",
 		"nameRU":"Колхоз",
 		"nameEN":"Kolhoz",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -1955,7 +1963,7 @@
 		"id":"kolhoz_summer",
 		"nameRU":"Колхоз",
 		"nameEN":"Kolhoz",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -1963,7 +1971,7 @@
 		"id":"kolhoz_winter",
 		"nameRU":"Колхоз",
 		"nameEN":"Kolhoz",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -1971,7 +1979,7 @@
 		"id":"kungur_1.100_summer",
 		"nameRU":"Кунгур",
 		"nameEN":"Kungur",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -1979,7 +1987,7 @@
 		"id":"kungur_mm_summer",
 		"nameRU":"Кунгур ММ",
 		"nameEN":"Kungur MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -1987,7 +1995,7 @@
 		"id":"kungur_mm_winter",
 		"nameRU":"Кунгур ММ",
 		"nameEN":"Kungur MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -1995,7 +2003,7 @@
 		"id":"kungur_old_summer",
 		"nameRU":"Кунгур",
 		"nameEN":"Kungur",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -2003,7 +2011,7 @@
 		"id":"kungur_old_winter",
 		"nameRU":"Кунгур",
 		"nameEN":"Kungur",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -2011,7 +2019,7 @@
 		"id":"kungur_summer",
 		"nameRU":"Кунгур",
 		"nameEN":"Kungur",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -2019,7 +2027,7 @@
 		"id":"kungur_tx_summer",
 		"nameRU":"Кунгур (Tanki X)",
 		"nameEN":"Kungur (Tanki X)",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -2027,7 +2035,7 @@
 		"id":"kungur_winter",
 		"nameRU":"Кунгур",
 		"nameEN":"Kungur",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -2035,7 +2043,7 @@
 		"id":"kurgan_summer",
 		"nameRU":"Курган",
 		"nameEN":"Kurgan",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -2043,7 +2051,7 @@
 		"id":"labyrinth_old_summer",
 		"nameRU":"Лабиринт",
 		"nameEN":"Labyrinth",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -2051,7 +2059,7 @@
 		"id":"legacy_summer",
 		"nameRU":"Наследие",
 		"nameEN":"Legacy",
-		"skyBox":"urban_day",
+		"skybox":"urban_day",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -2059,7 +2067,7 @@
 		"id":"lisevsk_old_summer",
 		"nameRU":"Лисевск",
 		"nameEN":"Lisevsk",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -2067,7 +2075,7 @@
 		"id":"lost_temple_1.100_summer",
 		"nameRU":"Тэмпл",
 		"nameEN":"Lost Temple",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -2075,7 +2083,7 @@
 		"id":"lost_temple_old_summer",
 		"nameRU":"Тэмпл",
 		"nameEN":"Lost Temple",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -2083,7 +2091,7 @@
 		"id":"lost_temple_old_winter",
 		"nameRU":"Тэмпл",
 		"nameEN":"Lost Temple",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -2091,7 +2099,7 @@
 		"id":"lost_temple_summer",
 		"nameRU":"Тэмпл",
 		"nameEN":"Lost Temple",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -2099,7 +2107,7 @@
 		"id":"lost_temple_winter",
 		"nameRU":"Тэмпл",
 		"nameEN":"Lost Temple",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -2107,7 +2115,7 @@
 		"id":"luxembourg_mm_summer",
 		"nameRU":"Люксембург ММ (лето)",
 		"nameEN":"Luxembourg MM (summer)",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"unofficial"
 	},
@@ -2115,7 +2123,7 @@
 		"id":"luxembourg_mm_winter",
 		"nameRU":"Люксембург ММ (зима)",
 		"nameEN":"Luxembourg MM (winter)",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"unofficial"
 	},
@@ -2123,7 +2131,7 @@
 		"id":"luxembourg_summer",
 		"nameRU":"Люксембург (лето)",
 		"nameEN":"Luxembourg (summer)",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -2131,7 +2139,7 @@
 		"id":"luxembourg_winter",
 		"nameRU":"Люксембург (зима)",
 		"nameEN":"Luxembourg (winter)",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"unofficial"
 	},
@@ -2139,7 +2147,7 @@
 		"id":"madness_old_summer",
 		"nameRU":"Безумие",
 		"nameEN":"Madness",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -2147,7 +2155,7 @@
 		"id":"madness_summer",
 		"nameRU":"Безумие",
 		"nameEN":"Madness",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -2155,7 +2163,7 @@
 		"id":"madness_with_floor_summer",
 		"nameRU":"Безумие (с полом)",
 		"nameEN":"Madness (with floor)",
-		"skyBox":"space_day",
+		"skybox":"space_day",
 		"theme":"space",
 		"category":"summer"
 	},
@@ -2163,7 +2171,7 @@
 		"id":"magadan_1.100_summer",
 		"nameRU":"Магадан",
 		"nameEN":"Magadan",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -2171,7 +2179,7 @@
 		"id":"magadan_old_summer",
 		"nameRU":"Магадан",
 		"nameEN":"Magadan",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -2179,7 +2187,7 @@
 		"id":"magadan_old_winter",
 		"nameRU":"Магадан",
 		"nameEN":"Magadan",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -2187,7 +2195,7 @@
 		"id":"magadan_summer",
 		"nameRU":"Магадан",
 		"nameEN":"Magadan",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -2195,7 +2203,7 @@
 		"id":"magadan_winter",
 		"nameRU":"Магадан",
 		"nameEN":"Magadan",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -2203,7 +2211,7 @@
 		"id":"magistral_1.100_summer",
 		"nameRU":"Магистраль",
 		"nameEN":"Magistral",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -2211,7 +2219,7 @@
 		"id":"magistral_mm_summer",
 		"nameRU":"Магистраль ММ",
 		"nameEN":"Magistral MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -2219,7 +2227,7 @@
 		"id":"magistral_mm_winter",
 		"nameRU":"Магистраль ММ",
 		"nameEN":"Magistral MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -2227,7 +2235,7 @@
 		"id":"magistral_old_summer",
 		"nameRU":"Магистраль",
 		"nameEN":"Magistral",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -2235,7 +2243,7 @@
 		"id":"magistral_old_winter",
 		"nameRU":"Магистраль",
 		"nameEN":"Magistral",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -2243,7 +2251,7 @@
 		"id":"magistral_summer",
 		"nameRU":"Магистраль",
 		"nameEN":"Magistral",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -2251,7 +2259,7 @@
 		"id":"magistral_winter",
 		"nameRU":"Магистраль",
 		"nameEN":"Magistral",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -2259,7 +2267,7 @@
 		"id":"massacre_mm_summer",
 		"nameRU":"Бойня ММ",
 		"nameEN":"Massacre MM",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -2267,7 +2275,7 @@
 		"id":"massacre_mm_winter",
 		"nameRU":"Бойня ММ",
 		"nameEN":"Massacre MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -2275,7 +2283,7 @@
 		"id":"massacre_old_summer",
 		"nameRU":"Бойня",
 		"nameEN":"Massacre",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -2283,7 +2291,7 @@
 		"id":"massacre_old_winter",
 		"nameRU":"Бойня",
 		"nameEN":"Massacre",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -2291,7 +2299,7 @@
 		"id":"massacre_summer",
 		"nameRU":"Бойня",
 		"nameEN":"Massacre",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -2299,7 +2307,7 @@
 		"id":"massacre_winter",
 		"nameRU":"Бойня",
 		"nameEN":"Massacre",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -2307,7 +2315,7 @@
 		"id":"medyanka_summer",
 		"nameRU":"Медянка",
 		"nameEN":"Medyanka",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -2315,7 +2323,7 @@
 		"id":"megaprops_1_old_summer",
 		"nameRU":"Мегапропс 1",
 		"nameEN":"Megaprops 1",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -2323,7 +2331,7 @@
 		"id":"megaprops_2_old_summer",
 		"nameRU":"Мегапропс 2",
 		"nameEN":"Megaprops 2",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -2331,21 +2339,21 @@
 		"id":"mini_brest_old_summer",
 		"nameRU":"Мини Брест",
 		"nameEN":"Mini Brest",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
 	{
 		"id":"mishin870_summer",
 		"name":"Mishin870",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
 	{
 		"id":"mishin872_summer",
 		"name":"Mishin872",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -2353,7 +2361,7 @@
 		"id":"molotov_1.100_summer",
 		"nameRU":"Молотов",
 		"nameEN":"Molotov",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -2361,7 +2369,7 @@
 		"id":"molotov_mm_summer",
 		"nameRU":"Молотов ММ",
 		"nameEN":"Molotov MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -2369,7 +2377,7 @@
 		"id":"molotov_mm_winter",
 		"nameRU":"Молотов ММ",
 		"nameEN":"Molotov MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -2377,7 +2385,7 @@
 		"id":"molotov_old_summer",
 		"nameRU":"Молотов",
 		"nameEN":"Molotov",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -2385,7 +2393,7 @@
 		"id":"molotov_old_winter",
 		"nameRU":"Молотов",
 		"nameEN":"Molotov",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -2393,7 +2401,7 @@
 		"id":"molotov_summer",
 		"nameRU":"Молотов",
 		"nameEN":"Molotov",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -2401,7 +2409,7 @@
 		"id":"molotov_winter",
 		"nameRU":"Молотов",
 		"nameEN":"Molotov",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -2409,7 +2417,7 @@
 		"id":"monte_carlo_1.100_summer",
 		"nameRU":"Монте-Карло",
 		"nameEN":"Monte Carlo",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -2417,7 +2425,7 @@
 		"id":"monte_carlo_old_summer",
 		"nameRU":"Монте-Карло",
 		"nameEN":"Monte Carlo",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -2425,7 +2433,7 @@
 		"id":"monte_carlo_old_winter",
 		"nameRU":"Монте-Карло",
 		"nameEN":"Monte Carlo",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -2433,7 +2441,7 @@
 		"id":"monte_carlo_summer",
 		"nameRU":"Монте-Карло",
 		"nameEN":"Monte Carlo",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -2441,7 +2449,7 @@
 		"id":"monte_carlo_winter",
 		"nameRU":"Монте-Карло",
 		"nameEN":"Monte Carlo",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -2449,7 +2457,7 @@
 		"id":"moon_silence_summer",
 		"nameRU":"Лунная Тишина",
 		"nameEN":"Moon Silence",
-		"skyBox":"space_day",
+		"skybox":"space_day",
 		"theme":"space",
 		"category":"special"
 	},
@@ -2457,7 +2465,7 @@
 		"id":"new_kungur_old_summer",
 		"nameRU":"Новый Кунгур",
 		"nameEN":"New Kungur",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -2465,7 +2473,7 @@
 		"id":"new_props_old_summer",
 		"nameRU":"Новые Пропы",
 		"nameEN":"New Props",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -2473,7 +2481,7 @@
 		"id":"new_sandbox_old_summer",
 		"nameRU":"Новая Песочница",
 		"nameEN":"New Sandbox",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -2481,7 +2489,7 @@
 		"id":"new_tribute_old_summer",
 		"nameRU":"Новый Трибьют",
 		"nameEN":"New Tribute",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -2489,7 +2497,7 @@
 		"id":"new_year_2011_winter",
 		"nameRU":"Новый Год 2011",
 		"nameEN":"New Year 2011",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"special"
 	},
@@ -2497,7 +2505,7 @@
 		"id":"new_year_2012_winter",
 		"nameRU":"Новый Год 2012",
 		"nameEN":"New Year 2012",
-		"skyBox":"new_year",
+		"skybox":"new_year",
 		"theme":"winter_day",
 		"category":"special"
 	},
@@ -2505,7 +2513,7 @@
 		"id":"new_year_2013_winter",
 		"nameRU":"Новый Год 2013",
 		"nameEN":"New Year 2013",
-		"skyBox":"new_year",
+		"skybox":"new_year",
 		"theme":"new_year",
 		"category":"special"
 	},
@@ -2513,7 +2521,7 @@
 		"id":"new_year_2014_winter",
 		"nameRU":"Новый Год 2014",
 		"nameEN":"New Year 2014",
-		"skyBox":"new_year",
+		"skybox":"new_year",
 		"theme":"new_year",
 		"category":"special"
 	},
@@ -2521,7 +2529,7 @@
 		"id":"new_year_2015_sandbox_winter",
 		"nameRU":"Новый Год 2015 (Песочница)",
 		"nameEN":"New Year 2015 (Sandbox)",
-		"skyBox":"new_year",
+		"skybox":"new_year",
 		"theme":"new_year",
 		"category":"special"
 	},
@@ -2529,7 +2537,7 @@
 		"id":"new_year_2015_winter",
 		"nameRU":"Новый Год 2015",
 		"nameEN":"New Year 2015",
-		"skyBox":"new_year",
+		"skybox":"new_year",
 		"theme":"new_year",
 		"category":"special"
 	},
@@ -2537,7 +2545,7 @@
 		"id":"new_year_2016-2017_winter",
 		"nameRU":"Новый Год 2016",
 		"nameEN":"New Year 2016",
-		"skyBox":"new_year",
+		"skybox":"new_year",
 		"theme":"new_year",
 		"category":"special"
 	},
@@ -2545,7 +2553,7 @@
 		"id":"new_year_2018_winter",
 		"nameRU":"Новый Год 2018",
 		"nameEN":"New Year 2018",
-		"skyBox":"new_year",
+		"skybox":"new_year",
 		"theme":"new_year",
 		"category":"special"
 	},
@@ -2553,7 +2561,7 @@
 		"id":"new_year_2021_winter",
 		"nameRU":"Новый Год 2021",
 		"nameEN":"New Year 2021",
-		"skyBox":"new_year",
+		"skybox":"new_year",
 		"theme":"new_year",
 		"category":"special"
 	},
@@ -2561,7 +2569,7 @@
 		"id":"new_year_2022_winter",
 		"nameRU":"Новый Год 2022",
 		"nameEN":"New Year 2022",
-		"skyBox":"new_year",
+		"skybox":"new_year",
 		"theme":"new_year",
 		"category":"special"
 	},
@@ -2569,7 +2577,7 @@
 		"id":"noise_old_summer",
 		"nameRU":"Шум",
 		"nameEN":"Noise",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -2577,7 +2585,7 @@
 		"id":"noise_old_winter",
 		"nameRU":"Шум",
 		"nameEN":"Noise",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -2585,7 +2593,7 @@
 		"id":"noise_summer",
 		"nameRU":"Шум",
 		"nameEN":"Noise",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -2593,7 +2601,7 @@
 		"id":"noise_winter",
 		"nameRU":"Шум",
 		"nameEN":"Noise",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -2601,7 +2609,7 @@
 		"id":"novel_old_summer",
 		"nameRU":"Новэл",
 		"nameEN":"Novel",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -2609,7 +2617,7 @@
 		"id":"novel_old_winter",
 		"nameRU":"Новэл",
 		"nameEN":"Novel",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -2617,7 +2625,7 @@
 		"id":"novel_summer",
 		"nameRU":"Новэл",
 		"nameEN":"Novel",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -2625,7 +2633,7 @@
 		"id":"novel_winter",
 		"nameRU":"Новэл",
 		"nameEN":"Novel",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -2633,7 +2641,7 @@
 		"id":"old_harbor_summer",
 		"nameRU":"Старая Гавань",
 		"nameEN":"Old Harbor",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -2641,7 +2649,7 @@
 		"id":"opposition_old_summer",
 		"nameRU":"Противостояние",
 		"nameEN":"Opposition",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -2649,7 +2657,7 @@
 		"id":"opposition_old_winter",
 		"nameRU":"Противостояние",
 		"nameEN":"Opposition",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -2657,7 +2665,7 @@
 		"id":"opposition_summer",
 		"nameRU":"Противостояние",
 		"nameEN":"Opposition",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -2665,7 +2673,7 @@
 		"id":"opposition_winter",
 		"nameRU":"Противостояние",
 		"nameEN":"Opposition",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -2673,7 +2681,7 @@
 		"id":"osa_1.100_summer",
 		"nameRU":"Оса",
 		"nameEN":"Osa",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -2681,7 +2689,7 @@
 		"id":"osa_mm_summer",
 		"nameRU":"Оса ММ",
 		"nameEN":"Osa MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -2689,7 +2697,7 @@
 		"id":"osa_mm_winter",
 		"nameRU":"Оса ММ",
 		"nameEN":"Osa MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -2697,7 +2705,7 @@
 		"id":"osa_old_summer",
 		"nameRU":"Оса",
 		"nameEN":"Osa",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -2705,7 +2713,7 @@
 		"id":"osa_old_winter",
 		"nameRU":"Оса",
 		"nameEN":"Osa",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -2713,7 +2721,7 @@
 		"id":"osa_summer",
 		"nameRU":"Оса",
 		"nameEN":"Osa",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -2721,7 +2729,7 @@
 		"id":"osa_winter",
 		"nameRU":"Оса",
 		"nameEN":"Osa",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -2729,7 +2737,7 @@
 		"id":"parma_1.100_summer",
 		"nameRU":"Парма",
 		"nameEN":"Parma",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -2737,7 +2745,7 @@
 		"id":"parma_mm_summer",
 		"nameRU":"Парма ММ",
 		"nameEN":"Parma MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -2745,7 +2753,7 @@
 		"id":"parma_mm_winter",
 		"nameRU":"Парма ММ",
 		"nameEN":"Parma MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -2753,7 +2761,7 @@
 		"id":"parma_old_summer",
 		"nameRU":"Парма",
 		"nameEN":"Parma",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -2761,7 +2769,7 @@
 		"id":"parma_old_winter",
 		"nameRU":"Парма",
 		"nameEN":"Parma",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -2769,7 +2777,7 @@
 		"id":"parma_summer",
 		"nameRU":"Парма",
 		"nameEN":"Parma",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -2777,7 +2785,7 @@
 		"id":"parma_winter",
 		"nameRU":"Парма",
 		"nameEN":"Parma",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -2785,7 +2793,7 @@
 		"id":"pass_old_summer",
 		"nameRU":"Перевал",
 		"nameEN":"Pass",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -2793,7 +2801,7 @@
 		"id":"pass_old_winter",
 		"nameRU":"Перевал",
 		"nameEN":"Pass",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -2801,7 +2809,7 @@
 		"id":"pass_summer",
 		"nameRU":"Перевал",
 		"nameEN":"Pass",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -2809,7 +2817,7 @@
 		"id":"pass_winter",
 		"nameRU":"Перевал",
 		"nameEN":"Pass",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -2817,7 +2825,7 @@
 		"id":"peak_summer",
 		"nameRU":"Вершина (лето)",
 		"nameEN":"Peak (summer)",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -2825,7 +2833,7 @@
 		"id":"peak_winter",
 		"nameRU":"Вершина (зима)",
 		"nameEN":"Peak (winter)",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"unofficial"
 	},
@@ -2833,7 +2841,7 @@
 		"id":"pedestal_old_summer",
 		"nameRU":"Пьедестал",
 		"nameEN":"Pedestal",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -2841,7 +2849,7 @@
 		"id":"persia_old_summer",
 		"nameRU":"Персия",
 		"nameEN":"Persia",
-		"skyBox":"iran_day",
+		"skybox":"iran_day",
 		"theme":"iran",
 		"category":"special"
 	},
@@ -2849,7 +2857,7 @@
 		"id":"ping-pong_old_summer",
 		"nameRU":"Пинг-Понг",
 		"nameEN":"Ping-Pong",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -2857,7 +2865,7 @@
 		"id":"ping-pong_old_winter",
 		"nameRU":"Пинг-Понг",
 		"nameEN":"Ping-Pong",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -2865,7 +2873,7 @@
 		"id":"ping-pong_summer",
 		"nameRU":"Пинг-Понг",
 		"nameEN":"Ping-Pong",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -2873,7 +2881,7 @@
 		"id":"ping-pong_winter",
 		"nameRU":"Пинг-Понг",
 		"nameEN":"Ping-Pong",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -2881,7 +2889,7 @@
 		"id":"plant_old_summer",
 		"nameRU":"Завод",
 		"nameEN":"Plant",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -2889,7 +2897,7 @@
 		"id":"platform_summer",
 		"nameRU":"Платформа",
 		"nameEN":"Platform",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -2897,7 +2905,7 @@
 		"id":"polygon_mm_summer",
 		"nameRU":"Полигон ММ",
 		"nameEN":"Polygon MM",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -2905,7 +2913,7 @@
 		"id":"polygon_mm_winter",
 		"nameRU":"Полигон ММ",
 		"nameEN":"Polygon MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -2913,7 +2921,7 @@
 		"id":"polygon_old_summer",
 		"nameRU":"Полигон",
 		"nameEN":"Polygon",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -2921,7 +2929,7 @@
 		"id":"polygon_old_winter",
 		"nameRU":"Полигон",
 		"nameEN":"Polygon",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -2929,7 +2937,7 @@
 		"id":"polygon_summer",
 		"nameRU":"Полигон",
 		"nameEN":"Polygon",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -2937,7 +2945,7 @@
 		"id":"polygon_winter",
 		"nameRU":"Полигон",
 		"nameEN":"Polygon",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -2945,7 +2953,7 @@
 		"id":"port_2048_summer",
 		"nameRU":"Порт 2048",
 		"nameEN":"Port 2048",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -2953,7 +2961,7 @@
 		"id":"port_old_summer",
 		"nameRU":"Порт",
 		"nameEN":"Port",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -2961,7 +2969,7 @@
 		"id":"position_old_summer",
 		"nameRU":"Позиция",
 		"nameEN":"Position",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -2969,7 +2977,7 @@
 		"id":"province_summer",
 		"nameRU":"Провинция",
 		"nameEN":"Province",
-		"skyBox":"urban_day",
+		"skybox":"urban_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -2977,7 +2985,7 @@
 		"id":"red_alert_1.100_summer",
 		"nameRU":"Ред Алерт",
 		"nameEN":"Red Alert",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -2985,7 +2993,7 @@
 		"id":"red_alert_mm_summer",
 		"nameRU":"Ред Алерт ММ",
 		"nameEN":"Red Alert MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -2993,7 +3001,7 @@
 		"id":"red_alert_mm_winter",
 		"nameRU":"Ред Алерт ММ",
 		"nameEN":"Red Alert MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -3001,7 +3009,7 @@
 		"id":"red_alert_old_summer",
 		"nameRU":"Ред Алерт",
 		"nameEN":"Red Alert",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -3009,7 +3017,7 @@
 		"id":"red_alert_old_winter",
 		"nameRU":"Ред Алерт",
 		"nameEN":"Red Alert",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -3017,7 +3025,7 @@
 		"id":"red_alert_summer",
 		"nameRU":"Ред Алерт",
 		"nameEN":"Red Alert",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -3025,7 +3033,7 @@
 		"id":"red_alert_winter",
 		"nameRU":"Ред Алерт",
 		"nameEN":"Red Alert",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -3033,7 +3041,7 @@
 		"id":"relay_race_summer",
 		"nameRU":"Эстафета",
 		"nameEN":"Relay Race",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -3041,7 +3049,7 @@
 		"id":"relay_race_winter",
 		"nameRU":"Эстафета",
 		"nameEN":"Relay Race",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"special"
 	},
@@ -3049,7 +3057,7 @@
 		"id":"rift_old_summer",
 		"nameRU":"Ущелье",
 		"nameEN":"Rift",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -3057,7 +3065,7 @@
 		"id":"rift_summer",
 		"nameRU":"Ущелье",
 		"nameEN":"Rift",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -3065,7 +3073,7 @@
 		"id":"rift_winter",
 		"nameRU":"Ущелье",
 		"nameEN":"Rift",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -3073,7 +3081,7 @@
 		"id":"rio_mm_summer",
 		"nameRU":"Рио ММ",
 		"nameEN":"Rio MM",
-		"skyBox":"rio_day",
+		"skybox":"rio_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -3081,7 +3089,7 @@
 		"id":"rio_old_summer",
 		"nameRU":"Рио",
 		"nameEN":"Rio",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -3089,7 +3097,7 @@
 		"id":"rio_summer",
 		"nameRU":"Рио",
 		"nameEN":"Rio",
-		"skyBox":"rio_day",
+		"skybox":"rio_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -3097,7 +3105,7 @@
 		"id":"route_vektor_tv_summer",
 		"nameRU":"Трасса (by Vektor TV)",
 		"nameEN":"Route (by Vektor TV)",
-		"skyBox":"space_day",
+		"skybox":"space_day",
 		"theme":"space",
 		"category":"unofficial"
 	},
@@ -3105,7 +3113,7 @@
 		"id":"ruins_old_summer",
 		"nameRU":"Руины",
 		"nameEN":"Ruins",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -3113,7 +3121,7 @@
 		"id":"sandal_1.100_summer",
 		"nameRU":"Сандал",
 		"nameEN":"Sandal",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -3121,7 +3129,7 @@
 		"id":"sandal_mm_summer",
 		"nameRU":"Сандал ММ",
 		"nameEN":"Sandal MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -3129,7 +3137,7 @@
 		"id":"sandal_mm_winter",
 		"nameRU":"Сандал ММ",
 		"nameEN":"Sandal MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -3137,7 +3145,7 @@
 		"id":"sandal_old_summer",
 		"nameRU":"Сандал",
 		"nameEN":"Sandal",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -3145,7 +3153,7 @@
 		"id":"sandal_old_winter",
 		"nameRU":"Сандал",
 		"nameEN":"Sandal",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -3153,7 +3161,7 @@
 		"id":"sandal_summer",
 		"nameRU":"Сандал",
 		"nameEN":"Sandal",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -3161,7 +3169,7 @@
 		"id":"sandal_winter",
 		"nameRU":"Сандал",
 		"nameEN":"Sandal",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -3169,7 +3177,7 @@
 		"id":"sandbox_1.100_summer",
 		"nameRU":"Песочница",
 		"nameEN":"Sandbox",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -3177,7 +3185,7 @@
 		"id":"sandbox_2.0_summer",
 		"nameRU":"Песочница 2.0",
 		"nameEN":"Sandbox 2.0",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -3185,7 +3193,7 @@
 		"id":"sandbox_mm_remaster_autumn",
 		"nameRU":"Песочница ММ Remaster",
 		"nameEN":"Sandbox MM Remaster",
-		"skyBox":"remaster_autumn",
+		"skybox":"remaster_autumn",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -3193,7 +3201,7 @@
 		"id":"sandbox_mm_remaster_summer",
 		"nameRU":"Песочница ММ Remaster",
 		"nameEN":"Sandbox MM Remaster",
-		"skyBox":"remaster_day",
+		"skybox":"remaster_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -3201,7 +3209,7 @@
 		"id":"sandbox_mm_summer",
 		"nameRU":"Песочница ММ",
 		"nameEN":"Sandbox MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -3209,7 +3217,7 @@
 		"id":"sandbox_mm_winter",
 		"nameRU":"Песочница ММ",
 		"nameEN":"Sandbox MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -3217,7 +3225,7 @@
 		"id":"sandbox_old_summer",
 		"nameRU":"Песочница",
 		"nameEN":"Sandbox",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -3225,7 +3233,7 @@
 		"id":"sandbox_old_winter",
 		"nameRU":"Песочница",
 		"nameEN":"Sandbox",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -3233,7 +3241,7 @@
 		"id":"sandbox_summer",
 		"nameRU":"Песочница",
 		"nameEN":"Sandbox",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -3241,7 +3249,7 @@
 		"id":"sandbox_winter",
 		"nameRU":"Песочница",
 		"nameEN":"Sandbox",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -3249,7 +3257,7 @@
 		"id":"scope_mm_summer",
 		"nameRU":"Простор ММ",
 		"nameEN":"Scope MM",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -3257,7 +3265,7 @@
 		"id":"scope_mm_winter",
 		"nameRU":"Простор ММ",
 		"nameEN":"Scope MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -3265,7 +3273,7 @@
 		"id":"scope_old_summer",
 		"nameRU":"Простор",
 		"nameEN":"Scope",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -3273,7 +3281,7 @@
 		"id":"scope_old_winter",
 		"nameRU":"Простор",
 		"nameEN":"Scope",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -3281,7 +3289,7 @@
 		"id":"scope_summer",
 		"nameRU":"Простор",
 		"nameEN":"Scope",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -3289,7 +3297,7 @@
 		"id":"scope_winter",
 		"nameRU":"Простор",
 		"nameEN":"Scope",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -3297,7 +3305,7 @@
 		"id":"seiva_summer",
 		"nameRU":"Сейва",
 		"nameEN":"Seiva",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -3305,7 +3313,7 @@
 		"id":"serpuhov_1.100_summer",
 		"nameRU":"Серпухов",
 		"nameEN":"Serpuhov",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -3313,7 +3321,7 @@
 		"id":"serpuhov_mm_summer",
 		"nameRU":"Серпухов ММ",
 		"nameEN":"Serpuhov MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -3321,7 +3329,7 @@
 		"id":"serpuhov_mm_winter",
 		"nameRU":"Серпухов ММ",
 		"nameEN":"Serpuhov MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -3329,7 +3337,7 @@
 		"id":"serpuhov_old_summer",
 		"nameRU":"Серпухов",
 		"nameEN":"Serpuhov",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -3337,7 +3345,7 @@
 		"id":"serpuhov_old_winter",
 		"nameRU":"Серпухов",
 		"nameEN":"Serpuhov",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -3345,7 +3353,7 @@
 		"id":"serpuhov_summer",
 		"nameRU":"Серпухов",
 		"nameEN":"Serpuhov",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -3353,7 +3361,7 @@
 		"id":"serpuhov_winter",
 		"nameRU":"Серпухов",
 		"nameEN":"Serpuhov",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -3361,7 +3369,7 @@
 		"id":"short_bridge_1.100_summer",
 		"nameRU":"Мостик",
 		"nameEN":"Short Bridge",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -3369,7 +3377,7 @@
 		"id":"short_bridge_mm_summer",
 		"nameRU":"Мостик ММ",
 		"nameEN":"Short Bridge MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"unofficial"
 	},
@@ -3377,7 +3385,7 @@
 		"id":"short_bridge_old_summer",
 		"nameRU":"Мостик",
 		"nameEN":"Short Bridge",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -3385,7 +3393,7 @@
 		"id":"short_bridge_old_winter",
 		"nameRU":"Мостик",
 		"nameEN":"Short Bridge",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -3393,7 +3401,7 @@
 		"id":"short_bridge_summer",
 		"nameRU":"Мостик",
 		"nameEN":"Short Bridge",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -3401,7 +3409,7 @@
 		"id":"short_bridge_winter",
 		"nameRU":"Мостик",
 		"nameEN":"Short Bridge",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -3409,7 +3417,7 @@
 		"id":"siege_1.100_summer",
 		"nameRU":"Осада",
 		"nameEN":"Siege",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -3417,7 +3425,7 @@
 		"id":"siege_mm_summer",
 		"nameRU":"Осада ММ",
 		"nameEN":"Siege MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -3425,7 +3433,7 @@
 		"id":"siege_mm_winter",
 		"nameRU":"Осада ММ",
 		"nameEN":"Siege MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -3433,7 +3441,7 @@
 		"id":"siege_old_summer",
 		"nameRU":"Осада",
 		"nameEN":"Siege",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -3441,7 +3449,7 @@
 		"id":"siege_old_winter",
 		"nameRU":"Осада",
 		"nameEN":"Siege",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -3449,7 +3457,7 @@
 		"id":"siege_summer",
 		"nameRU":"Осада",
 		"nameEN":"Siege",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -3457,7 +3465,7 @@
 		"id":"siege_winter",
 		"nameRU":"Осада",
 		"nameEN":"Siege",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -3465,7 +3473,7 @@
 		"id":"silence_remake_cy95v_summer",
 		"nameRU":"Тишина Remake (by CY95v)",
 		"nameEN":"Silence Remake (by CY95v)",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -3473,7 +3481,7 @@
 		"id":"silence_i_old_summer",
 		"nameRU":"Тишина I",
 		"nameEN":"Silence I",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -3481,7 +3489,7 @@
 		"id":"silence_i_old_winter",
 		"nameRU":"Тишина I",
 		"nameEN":"Silence I",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -3489,7 +3497,7 @@
 		"id":"silence_ii_old_summer",
 		"nameRU":"Тишина II",
 		"nameEN":"Silence II",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -3497,7 +3505,7 @@
 		"id":"silence_ii_old_winter",
 		"nameRU":"Тишина II",
 		"nameEN":"Silence II",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -3505,7 +3513,7 @@
 		"id":"silence_mirror_summer",
 		"nameRU":"Тишина (зеркальная)",
 		"nameEN":"Silence (mirror)",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -3513,7 +3521,7 @@
 		"id":"silence_mm_summer",
 		"nameRU":"Тишина ММ",
 		"nameEN":"Silence MM",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -3521,7 +3529,7 @@
 		"id":"silence_mm_winter",
 		"nameRU":"Тишина ММ",
 		"nameEN":"Silence MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -3529,7 +3537,7 @@
 		"id":"silence_summer",
 		"nameRU":"Тишина",
 		"nameEN":"Silence",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -3537,7 +3545,7 @@
 		"id":"silence_winter",
 		"nameRU":"Тишина",
 		"nameEN":"Silence",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -3545,7 +3553,7 @@
 		"id":"skylark_1.100_summer",
 		"nameRU":"Жаворонки",
 		"nameEN":"Skylark",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -3553,7 +3561,7 @@
 		"id":"skylark_mm_summer",
 		"nameRU":"Жаворонки ММ",
 		"nameEN":"Skylark MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -3561,7 +3569,7 @@
 		"id":"skylark_mm_winter",
 		"nameRU":"Жаворонки ММ",
 		"nameEN":"Skylark MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -3569,7 +3577,7 @@
 		"id":"skylark_old_summer",
 		"nameRU":"Жаворонки",
 		"nameEN":"Skylark",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -3577,7 +3585,7 @@
 		"id":"skylark_old_winter",
 		"nameRU":"Жаворонки",
 		"nameEN":"Skylark",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -3585,7 +3593,7 @@
 		"id":"skylark_summer",
 		"nameRU":"Жаворонки",
 		"nameEN":"Skylark",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -3593,7 +3601,7 @@
 		"id":"skylark_winter",
 		"nameRU":"Жаворонки",
 		"nameEN":"Skylark",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -3601,7 +3609,7 @@
 		"id":"skyscrapers_summer",
 		"nameRU":"Небоскрёбы",
 		"nameEN":"Skyscrapers",
-		"skyBox":"urban_day",
+		"skybox":"urban_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -3609,7 +3617,7 @@
 		"id":"solikamsk_1.100_summer",
 		"nameRU":"Соликамск",
 		"nameEN":"Solikamsk",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -3617,7 +3625,7 @@
 		"id":"solikamsk_mm_summer",
 		"nameRU":"Соликамск ММ",
 		"nameEN":"Solikamsk MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -3625,7 +3633,7 @@
 		"id":"solikamsk_mm_winter",
 		"nameRU":"Соликамск ММ",
 		"nameEN":"Solikamsk MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -3633,7 +3641,7 @@
 		"id":"solikamsk_old_summer",
 		"nameRU":"Соликамск",
 		"nameEN":"Solikamsk",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -3641,7 +3649,7 @@
 		"id":"solikamsk_old_winter",
 		"nameRU":"Соликамск",
 		"nameEN":"Solikamsk",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -3649,7 +3657,7 @@
 		"id":"solikamsk_summer",
 		"nameRU":"Соликамск",
 		"nameEN":"Solikamsk",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -3657,7 +3665,7 @@
 		"id":"solikamsk_winter",
 		"nameRU":"Соликамск",
 		"nameEN":"Solikamsk",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -3665,7 +3673,7 @@
 		"id":"stadium_mm_summer",
 		"nameRU":"Стадион ММ",
 		"nameEN":"Stadium MM",
-		"skyBox":"urban_day",
+		"skybox":"urban_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -3673,7 +3681,7 @@
 		"id":"stadium_old_summer",
 		"nameRU":"Стадион",
 		"nameEN":"Stadium",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -3681,7 +3689,7 @@
 		"id":"stadium_old_winter",
 		"nameRU":"Стадион",
 		"nameEN":"Stadium",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -3689,7 +3697,7 @@
 		"id":"stadium_summer",
 		"nameRU":"Стадион",
 		"nameEN":"Stadium",
-		"skyBox":"urban_day",
+		"skybox":"urban_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -3697,7 +3705,7 @@
 		"id":"station_old_summer",
 		"nameRU":"Станция",
 		"nameEN":"Station",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -3705,7 +3713,7 @@
 		"id":"station_old_winter",
 		"nameRU":"Станция",
 		"nameEN":"Station",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -3713,7 +3721,7 @@
 		"id":"station_summer",
 		"nameRU":"Станция",
 		"nameEN":"Station",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -3721,7 +3729,7 @@
 		"id":"station_winter",
 		"nameRU":"Станция",
 		"nameEN":"Station",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -3729,7 +3737,7 @@
 		"id":"subway_old_summer",
 		"nameRU":"Подземка",
 		"nameEN":"Subway",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -3737,7 +3745,7 @@
 		"id":"subway_old_winter",
 		"nameRU":"Подземка",
 		"nameEN":"Subway",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -3745,7 +3753,7 @@
 		"id":"subway_summer",
 		"nameRU":"Подземка",
 		"nameEN":"Subway",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -3753,7 +3761,7 @@
 		"id":"subway_winter",
 		"nameRU":"Подземка",
 		"nameEN":"Subway",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -3761,7 +3769,7 @@
 		"id":"test_old_summer",
 		"nameRU":"Тест",
 		"nameEN":"Test",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -3769,21 +3777,21 @@
 		"id":"testbox_summer",
 		"nameRU":"Тестбокс",
 		"nameEN":"Testbox",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"special"
 	},
 	{
 		"id":"testing_ground_1_old_summer",
 		"name":"Testing Ground 1",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
 	{
 		"id":"testing_ground_2_old_summer",
 		"name":"Testing Ground 2",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -3791,7 +3799,7 @@
 		"id":"tps_old_summer",
 		"nameRU":"ТЭЦ",
 		"nameEN":"TPS",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -3799,7 +3807,7 @@
 		"id":"train_station_old_summer",
 		"nameRU":"Вокзал (лето)",
 		"nameEN":"Train Station (summer)",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -3807,7 +3815,7 @@
 		"id":"train_station_old_winter",
 		"nameRU":"Вокзал (зима)",
 		"nameEN":"Train Station (winter)",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"special"
 	},
@@ -3815,7 +3823,7 @@
 		"id":"tribute_1.100_summer",
 		"nameRU":"Трибьют",
 		"nameEN":"Tribute",
-		"skyBox":"release_1.100_day",
+		"skybox":"release_1.100_day",
 		"theme":"summer_day",
 		"category":"release_1.100"
 	},
@@ -3823,7 +3831,7 @@
 		"id":"tribute_mm_summer",
 		"nameRU":"Трибьют ММ",
 		"nameEN":"Tribute MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -3831,7 +3839,7 @@
 		"id":"tribute_mm_winter",
 		"nameRU":"Трибьют ММ",
 		"nameEN":"Tribute MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -3839,7 +3847,7 @@
 		"id":"tribute_old_summer",
 		"nameRU":"Трибьют",
 		"nameEN":"Tribute",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -3847,7 +3855,7 @@
 		"id":"tribute_old_winter",
 		"nameRU":"Трибьют",
 		"nameEN":"Tribute",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -3855,7 +3863,7 @@
 		"id":"tribute_summer",
 		"nameRU":"Трибьют",
 		"nameEN":"Tribute",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -3863,7 +3871,7 @@
 		"id":"tribute_winter",
 		"nameRU":"Трибьют",
 		"nameEN":"Tribute",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -3871,7 +3879,7 @@
 		"id":"tutorial_summer",
 		"nameRU":"Обучение",
 		"nameEN":"Tutorial",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -3879,7 +3887,7 @@
 		"id":"unicorns_and_rainbow_summer",
 		"nameRU":"Единороги и Радуга",
 		"nameEN":"Unicorns and Rainbow",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -3887,7 +3895,7 @@
 		"id":"valley_old_summer",
 		"nameRU":"Долина",
 		"nameEN":"Valley",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -3895,7 +3903,7 @@
 		"id":"valley_old_winter",
 		"nameRU":"Долина",
 		"nameEN":"Valley",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -3903,7 +3911,7 @@
 		"id":"valley_summer",
 		"nameRU":"Долина",
 		"nameEN":"Valley",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -3911,7 +3919,7 @@
 		"id":"valley_winter",
 		"nameRU":"Долина",
 		"nameEN":"Valley",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -3919,7 +3927,7 @@
 		"id":"village_summer",
 		"nameRU":"Деревня",
 		"nameEN":"Village",
-		"skyBox":"space_day",
+		"skybox":"space_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -3927,7 +3935,7 @@
 		"id":"water_utility_summer",
 		"nameRU":"Водоканал",
 		"nameEN":"Water Utility",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -3935,7 +3943,7 @@
 		"id":"wave_old_summer",
 		"nameRU":"Волна",
 		"nameEN":"Wave",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -3943,7 +3951,7 @@
 		"id":"wave_old_winter",
 		"nameRU":"Волна",
 		"nameEN":"Wave",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -3951,7 +3959,7 @@
 		"id":"wave_summer",
 		"nameRU":"Волна",
 		"nameEN":"Wave",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -3959,7 +3967,7 @@
 		"id":"wave_winter",
 		"nameRU":"Волна",
 		"nameEN":"Wave",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -3967,7 +3975,7 @@
 		"id":"westfield_summer",
 		"nameRU":"Вестфилд",
 		"nameEN":"Westfield",
-		"skyBox":"urban_day",
+		"skybox":"urban_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -3975,7 +3983,7 @@
 		"id":"wolfenstein_mm_summer",
 		"nameRU":"Вольфенштейн ММ",
 		"nameEN":"Wolfenstein MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -3983,7 +3991,7 @@
 		"id":"wolfenstein_mm_winter",
 		"nameRU":"Вольфенштейн ММ",
 		"nameEN":"Wolfenstein MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -3991,7 +3999,7 @@
 		"id":"wolfenstein_old_summer",
 		"nameRU":"Вольфенштейн",
 		"nameEN":"Wolfenstein",
-		"skyBox":"hills_old",
+		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -3999,7 +4007,7 @@
 		"id":"wolfenstein_old_winter",
 		"nameRU":"Вольфенштейн",
 		"nameEN":"Wolfenstein",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -4007,7 +4015,7 @@
 		"id":"wolfenstein_summer",
 		"nameRU":"Вольфенштейн",
 		"nameEN":"Wolfenstein",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -4015,7 +4023,7 @@
 		"id":"wolfenstein_winter",
 		"nameRU":"Вольфенштейн",
 		"nameEN":"Wolfenstein",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -4023,7 +4031,7 @@
 		"id":"yard_summer",
 		"nameRU":"Площадь",
 		"nameEN":"Yard",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"unofficial"
 	},
@@ -4031,7 +4039,7 @@
 		"id":"year_2042_mm_summer",
 		"nameRU":"Год 2042 ММ",
 		"nameEN":"Year 2042 MM",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -4039,21 +4047,21 @@
 		"id":"year_2042_mm_winter",
 		"nameRU":"Год 2042 ММ",
 		"nameEN":"Year 2042 MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
 	{
 		"id":"year_2042_old_summer",
 		"name":"2042",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
 	{
 		"id":"year_2042_old_winter",
 		"name":"2042",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -4061,7 +4069,7 @@
 		"id":"year_2042_summer",
 		"nameRU":"Год 2042",
 		"nameEN":"Year 2042",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -4069,7 +4077,7 @@
 		"id":"year_2042_winter",
 		"nameRU":"Год 2042",
 		"nameEN":"Year 2042",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	},
@@ -4077,7 +4085,7 @@
 		"id":"yekaterinburg_summer",
 		"nameRU":"Екатеринбург",
 		"nameEN":"Yekaterinburg",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day",
 		"category":"special"
 	},
@@ -4085,7 +4093,7 @@
 		"id":"yorkshire_mm_summer",
 		"nameRU":"Йоркшир ММ",
 		"nameEN":"Yorkshire MM",
-		"skyBox":"hills_day",
+		"skybox":"hills_day",
 		"theme":"summer_day_mm",
 		"category":"summer"
 	},
@@ -4093,7 +4101,7 @@
 		"id":"yorkshire_mm_winter",
 		"nameRU":"Йоркшир ММ",
 		"nameEN":"Yorkshire MM",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day_mm",
 		"category":"winter"
 	},
@@ -4101,7 +4109,7 @@
 		"id":"zone_old_summer",
 		"nameRU":"Зона",
 		"nameEN":"Zone",
-		"skyBox":"mountains_old",
+		"skybox":"mountains_old",
 		"theme":"summer_day",
 		"category":"summer_old"
 	},
@@ -4109,7 +4117,7 @@
 		"id":"zone_old_winter",
 		"nameRU":"Зона",
 		"nameEN":"Zone",
-		"skyBox":"winter_old",
+		"skybox":"winter_old",
 		"theme":"winter_day",
 		"category":"winter_old"
 	},
@@ -4117,7 +4125,7 @@
 		"id":"zone_summer",
 		"nameRU":"Зона",
 		"nameEN":"Zone",
-		"skyBox":"mountains_day",
+		"skybox":"mountains_day",
 		"theme":"summer_day",
 		"category":"summer"
 	},
@@ -4125,7 +4133,7 @@
 		"id":"zone_winter",
 		"nameRU":"Зона",
 		"nameEN":"Zone",
-		"skyBox":"winter_day",
+		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
 	}

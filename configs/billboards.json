@@ -291,6 +291,11 @@
 		"nameEN":"Tanker's Day 2024"
 	},
 	{
+		"id":"5_years",
+		"nameRU":"День рождения ТО – 5 лет",
+		"nameEN":"TO Birthday – 5 years"
+	},
+	{
 		"id":"12_years",
 		"nameRU":"День рождения ТО – 12 лет",
 		"nameEN":"TO Birthday – 12 years"
