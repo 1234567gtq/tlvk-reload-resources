@@ -1,8 +1,13 @@
 [
 	{
-		"id":"standard",
+		"id":"new_standard",
 		"nameRU":"Стандартный",
 		"nameEN":"Standard"
+	},
+	{
+		"id":"standard",
+		"nameRU":"Стандартный (старый)",
+		"nameEN":"Standard (old)"
 	},
 	{
 		"id":"1.100",
@@ -15,8 +20,23 @@
 		"nameEN":"Old"
 	},
 	{
+		"id":"new_birthday_to_2023",
+		"nameRU":"День Рождения ТО - 14 лет",
+		"nameEN":"TO Birthday - 14 years"
+	},
+	{
+		"id":"new_birthday_to_2024",
+		"nameRU":"День Рождения ТО - 15 лет",
+		"nameEN":"TO Birthday - 15 years"
+	},
+	{
+		"id":"new_new_year_2024",
+		"nameRU":"Новый Год 2024",
+		"nameEN":"New Year 2024"
+	},
+	{
 		"id":"new_year",
-		"nameRU":"Новогодний",
-		"nameEN":"New Year"
+		"nameRU":"Новогодний (старый)",
+		"nameEN":"New Year (old)"
 	}
 ]

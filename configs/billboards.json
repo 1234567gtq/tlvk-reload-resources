@@ -1,8 +1,8 @@
 [
-	{	
-		"id":"chinese_new_year_2025",
-		"nameRU":"Китайский Новый Год 2025",
-		"nameEN":"Chinese New Year 2025"
+	{
+		"id":"valentine's_day_2025",
+		"nameRU":"День святого Валентина 2025",
+		"nameEN":"Valentine's Day 2025"
 	},
 	{
 		"id":"standard",
@@ -68,6 +68,11 @@
 		"id":"lunar_new_year_2024",
 		"nameRU":"Китайский Новый Год 2024",
 		"nameEN":"Chinese New Year 2024"
+	},
+	{	
+		"id":"chinese_new_year_2025",
+		"nameRU":"Китайский Новый Год 2025",
+		"nameEN":"Chinese New Year 2025"
 	},
 	{	
 		"id":"circus_day_2022",

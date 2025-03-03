@@ -568,14 +568,6 @@
 		"category":"winter"
 	},
 	{
-		"id":"bryansk_old_summer",
-		"nameRU":"Брянск",
-		"nameEN":"Bryansk",
-		"skybox":"mountains_old",
-		"theme":"summer_day",
-		"category":"unofficial"
-	},
-	{
 		"id":"bunker_vektor_tv_summer",
 		"nameRU":"Бункер (by Vektor TV)",
 		"nameEN":"Bunker (by Vektor TV)",
@@ -2064,14 +2056,6 @@
 		"category":"special"
 	},
 	{
-		"id":"lisevsk_old_summer",
-		"nameRU":"Лисевск",
-		"nameEN":"Lisevsk",
-		"skybox":"hills_old",
-		"theme":"summer_day",
-		"category":"unofficial"
-	},
-	{
 		"id":"lost_temple_1.100_summer",
 		"nameRU":"Тэмпл",
 		"nameEN":"Lost Temple",
@@ -2264,6 +2248,20 @@
 		"category":"winter"
 	},
 	{
+		"id":"map_old_summer",
+		"name":"Map",
+		"skybox":"hills_day",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	{
+		"id":"map1_old_summer",
+		"name":"Map1",
+		"skybox":"hills_day",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	{
 		"id":"massacre_mm_summer",
 		"nameRU":"Бойня ММ",
 		"nameEN":"Massacre MM",
@@ -2342,20 +2340,6 @@
 		"skybox":"hills_old",
 		"theme":"summer_day",
 		"category":"special"
-	},
-	{
-		"id":"mishin870_summer",
-		"name":"Mishin870",
-		"skybox":"hills_day",
-		"theme":"summer_day",
-		"category":"unofficial"
-	},
-	{
-		"id":"mishin872_summer",
-		"name":"Mishin872",
-		"skybox":"hills_day",
-		"theme":"summer_day",
-		"category":"unofficial"
 	},
 	{
 		"id":"molotov_1.100_summer",
@@ -3764,6 +3748,23 @@
 		"skybox":"winter_day",
 		"theme":"winter_day",
 		"category":"winter"
+	},
+	
+	{
+		"id":"tankistograd_old_summer",
+		"nameRU":"Танкистоград",
+		"nameEN":"Tankistograd",
+		"skybox":"hills_old",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	
+	{
+		"id":"test_map_old_summer",
+		"name":"Test Map",
+		"skybox":"hills_old",
+		"theme":"summer_day",
+		"category":"special"
 	},
 	{
 		"id":"test_old_summer",
