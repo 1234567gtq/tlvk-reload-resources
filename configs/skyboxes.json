@@ -127,6 +127,12 @@
 		"nameEN":"Halloween"
 	},
 	{
+		"id":"moon_night",
+		"nameRU":"Луна",
+		"nameEN":"Moon",
+		"revolutionSpeed":0.015
+	},
+	{
 		"id":"new_year",
 		"nameRU":"Новый Год",
 		"nameEN":"New Year"

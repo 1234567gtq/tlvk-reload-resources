@@ -3022,6 +3022,13 @@
 		"category":"winter"
 	},
 	{
+		"id":"refmap_summer",
+		"name":"Refmap",
+		"skybox":"hills_old",
+		"theme":"summer_day",
+		"category":"special"
+	},
+	{
 		"id":"relay_race_summer",
 		"nameRU":"Эстафета",
 		"nameEN":"Relay Race",

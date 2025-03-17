@@ -1,0 +1,38 @@
+[
+	{
+		"id":"container_standard",
+		"nameRU":"Контейнер",
+		"nameEN":"Container",
+		"description":"TODO"
+	},
+	{
+		"id":"container_weekly",
+		"nameRU":"Недельный контейнер",
+		"nameEN":"Weekly container",
+		"description":"TODO"
+	},
+	{
+		"id":"container_ultra",
+		"nameRU":"Ультраконтейнер",
+		"nameEN":"Ultra container",
+		"description":"TODO"
+	},
+	{
+		"id":"container_coinbox",
+		"nameRU":"Коинбокс",
+		"nameEN":"Coinbox",
+		"description":"TODO"
+	},
+	{
+		"id":"container_pitstop",
+		"nameRU":"Пит-стоп ящик",
+		"nameEN":"Pitstop box",
+		"description":"TODO"
+	},
+	{
+		"id":"container_skin_old",
+		"nameRU":"Старый Скин-контейнер",
+		"nameEN":"Old Skin container",
+		"description":"TODO"
+	}
+]

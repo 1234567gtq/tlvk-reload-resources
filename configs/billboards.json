@@ -1,8 +1,8 @@
 [
-	{
-		"id":"valentine's_day_2025",
-		"nameRU":"День святого Валентина 2025",
-		"nameEN":"Valentine's Day 2025"
+	{	
+		"id":"spring_festival_2025",
+		"nameRU":"Весенний фестиваль 2025",
+		"nameEN":"Spring Festival 2025"
 	},
 	{
 		"id":"standard",
@@ -375,6 +375,11 @@
 		"nameRU":"День святого Валентина 2024",
 		"nameEN":"Valentine's Day 2024"
 	},
+	{
+		"id":"valentine's_day_2025",
+		"nameRU":"День святого Валентина 2025",
+		"nameEN":"Valentine's Day 2025"
+	},
 	{	
 		"id":"winter_festival_2024",
 		"nameRU":"Зимний фестиваль 2024",
@@ -395,12 +400,17 @@
 		"name":"Alternativa"
 	},
 	{
-		"id":"alternativa3d",
-		"name":"Alternativa3d"
-	},
-	{
 		"id":"alternativaplatform",
 		"name":"AlternativaPlatform"
+	},
+	{
+		"id":"club_volvo",
+		"nameRU":"Клуб «Volvo»",
+		"nameEN":"Club «Volvo»"
+	},
+	{
+		"id":"coming_soon",
+		"name":"Coming soon..."
 	},
 	{
 		"id":"demolisher",
@@ -408,22 +418,14 @@
 		"nameEN":"Demolisher"
 	},
 	{
-		"id":"fwa",
-		"name":"FWA"
+		"id":"new_coats_1",
+		"nameRU":"Новые покрытия (1)",
+		"nameEN":"New coats (1)"
 	},
 	{
-		"id":"mashable_awards",
-		"name":"Mashable Awards"
-	},
-	{
-		"id":"mashable_awards_final",
-		"nameRU":"Mashable Awards (финал)",
-		"nameEN":"Mashable Awards (final)"
-	},
-	{
-		"id":"runet_award",
-		"nameRU":"Премия Рунета",
-		"nameEN":"Runet Award"
+		"id":"new_coats_2",
+		"nameRU":"Новые покрытия (2)",
+		"nameEN":"New coats (2)"
 	},
 	{
 		"id":"syava_production",
@@ -449,6 +451,15 @@
 		"id":"viking",
 		"nameRU":"Викинг",
 		"nameEN":"Viking"
+	},
+	{
+		"id":"viking_thunder",
+		"nameRU":"Викинг Гром",
+		"nameEN":"Viking Thunder"
+	},
+	{
+		"id":"woodhouse_cafe",
+		"name":"Woodhouse Cafe"
 	},
 	{
 		"id":"araumi",

@@ -1008,6 +1008,13 @@
 	"descriptionEN":"This camouflage not only looks like a tiger's fur, but also feels soft and fluffy to the touch. It will also inspire you to achieve the eye of the tiger and terrorize your enemies."
 },
 {
+	"id":"tiger_old",
+	"nameRU":"Тигр (старая)",
+	"nameEN":"Tiger (old)",
+	"descriptionRU":"Это покрытие не только внешне похоже на шкуру тигра, но и на ощупь делает ваш танк мягким и пушистым. Смотря на танк в этом покрытии, вы можете тренировать свой взгляд тигра, который позволит вам обездвиживать испуганных противников.",
+	"descriptionEN":"This camouflage not only looks like a tiger's fur, but also feels soft and fluffy to the touch. It will also inspire you to achieve the eye of the tiger and terrorize your enemies."
+},
+{
 	"id":"tundra",
 	"nameRU":"Тундра",
 	"nameEN":"Tundra",
@@ -4157,6 +4164,12 @@
 	"id":"matrix",
 	"nameRU":"Матрица",
 	"nameEN":"Matrix",
+	"description":"\"スプーンを試したり曲げたりしないでください。 それ無理。 代わりに、真実を実現しようとするだけです。 どのような真実？ スプーンはありません。スプーンはありませんか？それから、あなたが曲がるスプーンではないことがわかります。それは自分だけです。\""
+},
+{
+	"id":"matrix_old",
+	"nameRU":"Матрица (старая)",
+	"nameEN":"Matrix (old)",
 	"description":"\"スプーンを試したり曲げたりしないでください。 それ無理。 代わりに、真実を実現しようとするだけです。 どのような真実？ スプーンはありません。スプーンはありませんか？それから、あなたが曲がるスプーンではないことがわかります。それは自分だけです。\""
 },
 {

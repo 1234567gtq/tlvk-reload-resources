@@ -61,6 +61,12 @@
 			"loopLight":"freeze_standard_loop"
 		},
 		{
+			"id":"new_year_2010",
+			"particle":"shot_skin_flamethrower_new_year_2010_particle",
+			"startLight":"flamethrower_rainbow_fake_start",
+			"loopLight":"flamethrower_rainbow_fake_loop"
+		},
+		{
 			"id":"rainbow_fake",
 			"muzzle":"shot_skin_flamethrower_rainbow_fake_muzzle",
 			"particle":"shot_skin_flamethrower_rainbow_fake_particle",

@@ -266,6 +266,13 @@
 				"isStandard":true
 			},
 			{
+				"id":"new_year_2010",
+				"nameRU":"Новый Год 2010",
+				"nameEN":"New Year 2010",
+				"description":"TODO",
+				"isStandard":true
+			},
+			{
 				"id":"rainbow_fake",
 				"nameRU":"Радужный (неофициальный)",
 				"nameEN":"Rainbow (unofficial)",
@@ -2290,6 +2297,13 @@
 				"icon":"xt"
 			},
 			{
+				"id":"lc",
+				"name":"Legacy",
+				"descriptionRU":"Пушка из линейки Legacy — это гармоничное сочетание простоты и классики, воплощённое в стильной ретро-оболочке. Идеальный выбор для ценителей старинного вооружения и ностальгирующих по эпохам былых битв. Надёжная стальная конструкция, лаконичный дизайн и скрытая мощь делают его маст-хэвом для тех, кто предпочитает проверенные временем технологии и брутальный внешний вид.",
+				"descriptionEN":"A Legacy turret is a harmonious blend of simplicity and classicism, embodied in a stylish retro shell. An ideal choice for fans of ancient equipment and those who feel nostalgia for the epochs of past battles. A reliable steel structure, a laconic design, and hidden power make it a must-have for those who prefer time-tested technology and a brutal appearance.",
+				"icon":"lc"
+			},
+			{
 				"id":"pr",
 				"name":"Prime",
 				"descriptionRU":"Вулкан в жарких сражениях всегда находится на стороне победителей. С этим скином вы будете не только доминировать в бою, но и потрясающе выглядеть.",
@@ -3686,6 +3700,38 @@
 				"id":"m3_old",
 				"nameRU":"M3 (старый)",
 				"nameEN":"M3 (old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"m3"
+			},
+			{
+				"id":"m0_very_old",
+				"nameRU":"M0 (самый старый)",
+				"nameEN":"M0 (very old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"m0"
+			},
+			{
+				"id":"m1_very_old",
+				"nameRU":"M1 (самый старый)",
+				"nameEN":"M1 (very old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"m1"
+			},
+			{
+				"id":"m2_very_old",
+				"nameRU":"M2 (самый старый)",
+				"nameEN":"M2 (very old)",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"m2"
+			},
+			{
+				"id":"m3_very_old",
+				"nameRU":"M3 (самый старый)",
+				"nameEN":"M3 (very old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"m3"
