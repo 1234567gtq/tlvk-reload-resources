@@ -697,6 +697,7 @@
 { "id":"turret_freeze_ic", "version":"2", "type":"models" },
 { "id":"turret_freeze_xt_hd", "version":"2", "type":"models" },
 { "id":"turret_freeze_gt", "version":"1", "type":"models" },
+{ "id":"turret_freeze_dk", "version":"1", "type":"models" },
 { "id":"turret_freeze_m0", "version":"1", "type":"models" },
 { "id":"turret_freeze_m1", "version":"1", "type":"models" },
 { "id":"turret_freeze_m2", "version":"1", "type":"models" },
