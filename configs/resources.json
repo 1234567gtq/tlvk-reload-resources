@@ -818,6 +818,7 @@
 { "id":"turret_striker_hd", "version":"1", "type":"models_a3d" },
 { "id":"turret_striker_xt", "version":"2", "type":"models" },
 { "id":"turret_striker_ut", "version":"2", "type":"models" },
+{ "id":"turret_striker_xt_hd", "version":"2", "type":"models" },
 { "id":"turret_striker_m0", "version":"1", "type":"models" },
 { "id":"turret_striker_m1", "version":"1", "type":"models" },
 { "id":"turret_striker_m2", "version":"1", "type":"models" },
