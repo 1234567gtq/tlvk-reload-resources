@@ -2168,8 +2168,7 @@
 			},
 			{
 				"id":"m3",
-				"nameRU":"Стандартные настройки",
-				"nameEN":"Standard settings",
+				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"m3"
