@@ -906,6 +906,7 @@
 { "id":"turret_gauss_ut", "version":"2", "type":"models" },
 { "id":"turret_gauss_gt", "version":"2", "type":"models" },
 { "id":"turret_gauss_ic", "version":"1", "type":"models" },
+{ "id":"turret_gauss_lc", "version":"1", "type":"models_a3d" },
 { "id":"turret_gauss_m0", "version":"1", "type":"models" },
 { "id":"turret_gauss_m1", "version":"1", "type":"models" },
 { "id":"turret_gauss_m2", "version":"1", "type":"models" },

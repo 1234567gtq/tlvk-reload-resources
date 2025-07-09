@@ -3535,6 +3535,15 @@
 				"emissionColorThreshold":"0.6"
 			},
 			{
+				"id":"lc",
+				"name":"LC",
+				"descriptionRU":"Пушка из линейки Legacy — это гармоничное сочетание простоты и классики, воплощённое в стильной ретро-оболочке. Идеальный выбор для ценителей старинного вооружения и ностальгирующих по эпохам былых битв. Надёжная стальная конструкция, лаконичный дизайн и скрытая мощь делают его маст-хэвом для тех, кто предпочитает проверенные временем технологии и брутальный внешний вид.",
+				"descriptionEN":"A Legacy turret is a harmonious blend of simplicity and classicism, embodied in a stylish retro shell. An ideal choice for fans of ancient equipment and those who feel nostalgia for the epochs of past battles. A reliable steel structure, a laconic design, and hidden power make it a must-have for those who prefer time-tested technology and a brutal appearance.",
+				"icon":"lc",
+				"emissionColor":"16755200",
+				"emissionColorThreshold":"0.6"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
