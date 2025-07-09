@@ -1855,6 +1855,13 @@
 				"icon":"xt"
 			},
 			{
+				"id":"dk",
+				"name":"DK",
+				"descriptionRU":"Современность. Элегантность. Бесстрашие. Новый взгляд на инженерное искусство танков, сочетающий футуристическую эстетику с готовностью к бою. Этот дизайн превращает ваш корпус в настоящий шедевр инноваций и прочности.",
+				"descriptionEN":"Modernity. Elegance. Fearlessness. A new look at the engineering art of tanks, combining futuristic aesthetics with combat readiness. This design turns your hull into a true masterpiece of innovation and strength.",
+				"icon":"xt"
+			},
+			{
 				"id":"m0_prototype",
 				"nameRU":"M0 (прототип)",
 				"nameEN":"M0 (prototype)",

@@ -600,6 +600,7 @@
 { "id":"hull_ares_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"hull_ares_hd", "version":"2", "type":"models" },
 { "id":"hull_ares_xt", "version":"2", "type":"models" },
+{ "id":"hull_ares_dk", "version":"1", "type":"models_a3d" },
 { "id":"hull_ares_m0_prototype", "version":"1", "type":"models" },
 { "id":"hull_ares_m1_prototype", "version":"1", "type":"models" },
 { "id":"hull_ares_m2_prototype", "version":"1", "type":"models" },
