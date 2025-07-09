@@ -884,6 +884,16 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"dk",
+				"name":"DK",
+				"descriptionRU":"Современность. Элегантность. Бесстрашие. Новый взгляд на инженерное искусство танков, сочетающий футуристическую эстетику с готовностью к бою. Этот дизайн превращает ваш корпус в настоящий шедевр инноваций и прочности.",
+				"descriptionEN":"Modernity. Elegance. Fearlessness. A new look at the engineering art of tanks, combining futuristic aesthetics with combat readiness. This design turns your hull into a true masterpiece of innovation and strength.",
+				"isInvertedTracksDirection":true,
+				"icon":"xt",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.4"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",

@@ -535,6 +535,7 @@
 { "id":"hull_viking_gt_concept", "version":"2", "type":"models" },
 { "id":"hull_viking_dc", "version":"2", "type":"models" },
 { "id":"hull_viking_xt_hd", "version":"2", "type":"models" },
+{ "id":"hull_viking_dk", "version":"1", "type":"models_a3d" },
 { "id":"hull_viking_m0", "version":"1", "type":"models" },
 { "id":"hull_viking_m1", "version":"1", "type":"models" },
 { "id":"hull_viking_m2", "version":"1", "type":"models" },
