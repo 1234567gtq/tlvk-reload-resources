@@ -366,7 +366,7 @@
 				"name":"DK",
 				"descriptionRU":"Сила в сочетании с элегантным дизайном. Эта пушка не просто выглядит устрашающе, она создана для доминирования и точных ударов. Символ контроля на каждом поле боя.",
 				"descriptionEN":"Power combined with an elegant design. This turret doesn't just look intimidating, it is designed for domination and precise strikes. A symbol of control on every battlefield.",
-				"icon":"XT",
+				"icon":"xt",
 				"emissionColor":"16726016",
 				"emissionColorThreshold":"0.4"
 			},
@@ -838,6 +838,13 @@
 				"descriptionRU":"Существует легенда, что эти скины привёз на планету один из танкистов, чей космический корабль потерпел крушение. Ему удалось спастись, добравшись по обломкам корабля до спасательной капсулы. Во время полёта он хватал все артефакты, попадавшиеся на его пути, среди которых оказались эти скины. Они получили название «RetroFuture». Глаз не оторвать, правда?",
 				"descriptionEN":"There is a legend that was brought to the planet by a tanker whose spaceship crashed. He managed to survive by climbing over the wreckage to the escape pod. During his space journey, he collected all the artifacts that came across his way, and these skins were one of them. Named «RetroFuture», they're very good, aren't they?",
 				"icon":"rt"
+			},
+			{
+				"id":"dk",
+				"name":"DK",
+				"descriptionRU":"Сила в сочетании с элегантным дизайном. Эта пушка не просто выглядит устрашающе, она создана для доминирования и точных ударов. Символ контроля на каждом поле боя.",
+				"descriptionEN":"Power combined with an elegant design. This turret doesn't just look intimidating, it is designed for domination and precise strikes. A symbol of control on every battlefield.",
+				"icon":"xt"
 			}
 		],
 		"devices":

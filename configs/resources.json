@@ -732,6 +732,7 @@
 { "id":"turret_tesla_xt", "version":"3", "type":"models" },
 { "id":"turret_tesla_lc", "version":"1", "type":"models" },
 { "id":"turret_tesla_rt", "version":"1", "type":"models" },
+  { "id":"turret_tesla_dk", "version":"1", "type":"models_a3d" },
 
 { "id":"turret_hammer_preview", "version":"2", "type":"images", "isLazy":true },
 { "id":"turret_hammer_hd", "version":"2", "type":"models" },
