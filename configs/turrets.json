@@ -2866,6 +2866,15 @@
 				"icon":"xt",
 				"emissionColor":"16726016",
 				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"dk",
+				"name":"DK",
+				"descriptionRU":"Сила в сочетании с элегантным дизайном. Эта пушка не просто выглядит устрашающе, она создана для доминирования и точных ударов. Символ контроля на каждом поле боя.",
+				"descriptionEN":"Power combined with an elegant design. This turret doesn't just look intimidating, it is designed for domination and precise strikes. A symbol of control on every battlefield.",
+				"icon":"xt",
+				"emissionColor":"16726016",
+				"emissionColorThreshold":"0.4"
 			}
 		],
 		"devices":
