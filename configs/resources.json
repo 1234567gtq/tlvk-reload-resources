@@ -742,6 +742,7 @@
 { "id":"turret_hammer_dc", "version":"3", "type":"models" },
 { "id":"turret_hammer_gt", "version":"1", "type":"models_a3d" },
 { "id":"turret_hammer_ic", "version":"1", "type":"models_a3d" },
+{ "id":"turret_hammer_sp", "version":"1", "type":"models_a3d" },
 { "id":"turret_hammer_m0", "version":"1", "type":"models" },
 { "id":"turret_hammer_m1", "version":"1", "type":"models" },
 { "id":"turret_hammer_m2", "version":"1", "type":"models" },
