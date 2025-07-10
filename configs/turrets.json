@@ -366,7 +366,7 @@
 				"name":"DK",
 				"descriptionRU":"Сила в сочетании с элегантным дизайном. Эта пушка не просто выглядит устрашающе, она создана для доминирования и точных ударов. Символ контроля на каждом поле боя.",
 				"descriptionEN":"Power combined with an elegant design. This turret doesn't just look intimidating, it is designed for domination and precise strikes. A symbol of control on every battlefield.",
-				"icon":"xt",
+				"icon":"dk",
 				"emissionColor":"16726016",
 				"emissionColorThreshold":"0.4"
 			},
@@ -844,7 +844,7 @@
 				"name":"DK",
 				"descriptionRU":"Сила в сочетании с элегантным дизайном. Эта пушка не просто выглядит устрашающе, она создана для доминирования и точных ударов. Символ контроля на каждом поле боя.",
 				"descriptionEN":"Power combined with an elegant design. This turret doesn't just look intimidating, it is designed for domination and precise strikes. A symbol of control on every battlefield.",
-				"icon":"xt"
+				"icon":"dk"
 			},
 			{
 				"id":"gt",
@@ -2620,7 +2620,7 @@
 				"name":"DK",
 				"descriptionRU":"Сила в сочетании с элегантным дизайном. Эта пушка не просто выглядит устрашающе, она создана для доминирования и точных ударов. Символ контроля на каждом поле боя.",
 				"descriptionEN":"Power combined with an elegant design. This turret doesn't just look intimidating, it is designed for domination and precise strikes. A symbol of control on every battlefield.",
-				"icon":"xt",
+				"icon":"dk",
 				"emissionColor":"16476172",
 				"emissionColorThreshold":"0.3"
 			},
@@ -2871,7 +2871,7 @@
 				"name":"DK",
 				"descriptionRU":"Сила в сочетании с элегантным дизайном. Эта пушка не просто выглядит устрашающе, она создана для доминирования и точных ударов. Символ контроля на каждом поле боя.",
 				"descriptionEN":"Power combined with an elegant design. This turret doesn't just look intimidating, it is designed for domination and precise strikes. A symbol of control on every battlefield.",
-				"icon":"xt",
+				"icon":"dk",
 				"emissionColor":"16726016",
 				"emissionColorThreshold":"0.4"
 			}

@@ -3287,6 +3287,7 @@
 { "id":"skin_sp_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"skin_se_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"skin_ic_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"skin_dk_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"skin_m0_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"skin_m1_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"skin_m2_icon", "version":"1", "type":"images", "isLazy":true },
