@@ -1,8 +1,8 @@
 [
-	{	
-		"id":"spring_festival_2025",
-		"nameRU":"Весенний фестиваль 2025",
-		"nameEN":"Spring Festival 2025"
+	{
+		"id":"ufo_day_2025",
+		"nameRU":"День НЛО 2025",
+		"nameEN":"UFO Day 2025"
 	},
 	{
 		"id":"standard",
@@ -228,6 +228,11 @@
 		"id":"spring_fever_2024",
 		"nameRU":"Весеннее обострение 2024",
 		"nameEN":"Spring Fever 2024"
+	},
+	{
+		"id":"spring_festival_2025",
+		"nameRU":"Весенний фестиваль 2025",
+		"nameEN":"Spring Festival 2025"
 	},
 	{	
 		"id":"star_week",
