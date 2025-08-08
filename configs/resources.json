@@ -3768,6 +3768,7 @@
 { "id":"billboard_star_week", "version":"1", "type":"textures" },
 { "id":"billboard_summer_festival_2022-2023", "version":"1", "type":"textures" },
 { "id":"billboard_summer_festival_2024", "version":"1", "type":"textures" },
+{ "id":"billboard_summer_festival_2025", "version":"1", "type":"textures" },
 { "id":"billboard_summer_sale", "version":"1", "type":"textures" },
 { "id":"billboard_summer_sport_games_2021", "version":"1", "type":"textures" },
 { "id":"billboard_summer_sport_games_2022", "version":"1", "type":"textures" },

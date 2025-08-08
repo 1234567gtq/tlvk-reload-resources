@@ -1,7 +1,8 @@
 [
     {
-        "id":"summer_sport_games_2025",
-        "name":"Summer Sport Games 2025"
+       "id":"summer_festival_2025",
+		"nameRU":"Летний фестиваль 2025",
+		"nameEN":"Summer Festival 2025"
     },
 	{
 		"id":"standard",
@@ -269,6 +270,10 @@
 		"id":"summer_sport_games_2024",
 		"name":"Summer Sport Games 2024"
 	},
+	 {
+        "id":"summer_sport_games_2025",
+        "name":"Summer Sport Games 2025"
+    },
 	{	
 		"id":"tanker's_day_2016",
 		"nameRU":"День танкиста 2016",
