@@ -801,6 +801,7 @@
 { "id":"turret_smoky_xt", "version":"1", "type":"models" },
 { "id":"turret_smoky_lc", "version":"1", "type":"models" },
 { "id":"turret_smoky_gt", "version":"2", "type":"models" },
+{ "id":"turret_smoky_vt", "version":"1", "type":"models" },
 { "id":"turret_smoky_m0", "version":"1", "type":"models" },
 { "id":"turret_smoky_m1", "version":"1", "type":"models" },
 { "id":"turret_smoky_m2", "version":"1", "type":"models" },
