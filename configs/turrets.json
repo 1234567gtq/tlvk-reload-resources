@@ -1881,7 +1881,7 @@
 				"name":"VT",
 				"descriptionRU":"Скин VT для пушки — это история возвращения. Потёртая поверхность, следы битв и вмятины на металле говорят о том, через что прошёл этот танк и его владелец. Это не новенький глянцевый блеск, а сдержанная сила и уважение к опыту. Каждая деталь напоминает о сражениях, выдержанных и пережитых, о моментах, когда всё решалось в один выстрел. Линейка VT — для тех, кто ценит не внешнюю показную силу, а глубину, стойкость и характер, проверенный временем.",
 				"descriptionEN":"The VT lineup of skins for turrets is a story of revival. The worn surface, battle scars, and dents on the metal speak of what this tank and its owner have been through. This is not a brand new glossy shine, but a restrained strength and respect for experience. Every detail reminds us of battles endured and lived through, of moments when a single shot decided everything. The VT lineup is for those who value not external flashy strength, but depth, resilience, and a character tested by time.",
-				"icon":"ut",
+				"icon":"vt",
 				"emissionColor":"65279",
 				"emissionColorThreshold":"0.6"
 			},
