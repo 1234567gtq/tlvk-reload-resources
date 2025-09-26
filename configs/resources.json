@@ -3731,6 +3731,7 @@
 { "id":"billboard_standard_winter_2012", "version":"1", "type":"textures" },
 { "id":"billboard_autumn_festival_2023", "version":"1", "type":"textures" },
 { "id":"billboard_autumn_festival_2024", "version":"1", "type":"textures" },
+{ "id":"billboard_autumn_festival_2025", "version":"1", "type":"textures" },
 { "id":"billboard_black_friday_2023", "version":"1", "type":"textures" },
 { "id":"billboard_black_friday_2024", "version":"1", "type":"textures" },
 { "id":"billboard_carnival_2021", "version":"1", "type":"textures" },

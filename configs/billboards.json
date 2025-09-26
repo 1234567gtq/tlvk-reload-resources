@@ -1,8 +1,8 @@
 [
    {
-		"id":"tanker's_day_2025",
-		"nameRU":"День танкиста 2025",
-		"nameEN":"Tanker's Day 2025"
+		"id":"autumn_festival_2025",
+		"nameRU":"Осенний фестиваль 2025",
+		"nameEN":"Autumn Festival 2025"
 	},
 	{
 		"id":"standard",
@@ -308,6 +308,11 @@
 		"id":"tanker's_day_2024",
 		"nameRU":"День танкиста 2024",
 		"nameEN":"Tanker's Day 2024"
+	},
+	{
+		"id":"tanker's_day_2025",
+		"nameRU":"День танкиста 2025",
+		"nameEN":"Tanker's Day 2025"
 	},
 	{
 		"id":"5_years",
