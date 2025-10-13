@@ -341,7 +341,9 @@
 				"nameEN":"Legacy (before correction)",
 				"descriptionRU":"Этот скин, разработанный давным-давно, обходится самыми простыми технологиями. Гладкая броня из толстых стальных пластин надёжно скреплена и обеспечивает наилучшую защиту для встроенных охлаждающих устройств. Хоть они и потребляют много энергии, это не останавливает любителей старой боевой техники.",
 				"descriptionEN":"Designed eons ago, this skin makes the most of primitive technology. Riveted steel plates provide excellent protection for the onboard cooling apparatus. The extra weight increases fuel consumption dramatically, but that won't stop collectors of old combat antiques.",
-				"icon":"lc"
+				"icon":"lc",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"se",
@@ -393,28 +395,36 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m0_old",
@@ -422,7 +432,9 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1_old",
@@ -430,7 +442,9 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2_old",
@@ -438,7 +452,9 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3_old",
@@ -446,21 +462,27 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"xt_fake_blue",
 				"nameRU":"XT (неофициальный синий)",
 				"nameEN":"XT (unofficial blue)",
 				"description":"TODO",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"xt_fake_red",
 				"nameRU":"XT (неофициальный красный)",
 				"nameEN":"XT (unofficial red)",
 				"description":"TODO",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"pr_fake",
@@ -616,7 +638,9 @@
 				"name":"XT",
 				"descriptionRU":"Элегантная Изида XT стилизована под голову ворона. Считается, что этот облик достаётся только лучшим боевым медикам, способным молниеносно прийти на помощь раненому бойцу.",
 				"descriptionEN":"This elegant Isida XT is styled to look like the head of a raven. It is worn with pride exclusively by the most dedicated field medics — those who are always in the line of fire to help those in need.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"gt",
@@ -642,28 +666,36 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m0_old",
@@ -671,7 +703,9 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1_old",
@@ -679,7 +713,9 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2_old",
@@ -687,7 +723,9 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3_old",
@@ -695,14 +733,18 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"xt_fake",
 				"nameRU":"XT (неофициальный)",
 				"nameEN":"XT (unofficial)",
 				"description":"TODO",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"tod_fake",
@@ -834,42 +876,54 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
-				"icon":"standard"
+				"icon":"standard",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"xt",
 				"name":"XT",
 				"descriptionRU":"В чертежах изобретателя Николы Теслы было найдено несколько совершенно пустых пожелтевших страниц. По неосторожности одного из учёных, изучавшего их, на пустые страницы был пролит цитрусовый раствор. Как оказалось, это было не зря! Началась химическая реакция, и на страницах проявились записи, раскрывающие возможные модификации транзисторных катушек.",
 				"descriptionEN":"A few blank yellowed pages were found in the collection of blueprints from the famous inventor Nikola Tesla. As a result of the negligence of one of the scientists examining the found blueprints, a citrus solution was spilled on the pages. As it turned out, it was not in vain. A chemical reaction happened and some notes appeared on the pages, revealing some possible ways of modifying transistor coils. The blueprints were used to create this XT skin for the Tesla turret, which is completely covered with gold. During the experiments, these high voltage charges endured continuous exposure to balls of lightning, forging a totally transformed turret. Not only does Tesla XT feature a more luxurious gold-plated look, it also boasts an improved transfer of electric current.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"lc",
 				"name":"Legacy",
 				"descriptionRU":"Этот скин Теслы отдает дань уважения началу эпохи электрических войн — классический электрошокер существует уже более 50 лет! Пусть старомодная оболочка этого оружия не пугает вас, внутри оно оснащено передовыми технологиями. Маст-хэв для всех, кто хочет противостоять духу времени и предпочитает четкие очертания.",
 				"descriptionEN":"This Tesla skin pays tribute to the beginning of the Electric Wars era - the classic stun gun that has been around for over 50 years! Don't let the old-fashioned look of this turret scare you, it's loaded with cutting-edge technology inside. This is a must-have for everyone who wants to resist the spirit of the times and prefer clear shapes.",
-				"icon":"lc"
+				"icon":"lc",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"rt",
 				"name":"RT",
 				"descriptionRU":"Существует легенда, что эти скины привёз на планету один из танкистов, чей космический корабль потерпел крушение. Ему удалось спастись, добравшись по обломкам корабля до спасательной капсулы. Во время полёта он хватал все артефакты, попадавшиеся на его пути, среди которых оказались эти скины. Они получили название «RetroFuture». Глаз не оторвать, правда?",
 				"descriptionEN":"There is a legend that was brought to the planet by a tanker whose spaceship crashed. He managed to survive by climbing over the wreckage to the escape pod. During his space journey, he collected all the artifacts that came across his way, and these skins were one of them. Named «RetroFuture», they're very good, aren't they?",
-				"icon":"rt"
+				"icon":"rt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"dk",
 				"name":"DK",
 				"descriptionRU":"Сила в сочетании с элегантным дизайном. Эта пушка не просто выглядит устрашающе, она создана для доминирования и точных ударов. Символ контроля на каждом поле боя.",
 				"descriptionEN":"Power combined with an elegant design. This turret doesn't just look intimidating, it is designed for domination and precise strikes. A symbol of control on every battlefield.",
-				"icon":"dk"
+				"icon":"dk",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"gt",
 				"name":"GT",
 				"descriptionRU":"Специальная линейка GT скинов для пушек - это не только отличное дополнение для любого колёсного корпуса, но и проявление особой смелости. Не каждый танкист готов пожертвовать скрытностью и осторожностью на поле боя, ради того, чтобы продемонстрировать всю уникальность и особенность своего танка. Серия GT скинов для пушек это мощное и красивое оружие, которое создано для самых решительных и смелых игроков. Пушки GT отличаются уникальным дизайном, который делает их узнаваемыми на поле боя, оснащены передовыми технологиями и материалами и имеют стильный дизайн, который подчеркивает их мощь и элегантность.",
 				"descriptionEN":"This special series of GT skins for turrets is not just a good addition to any wheeled hull but also a manifestation of extraordinary courage. Not every tanker is ready to sacrifice stealth and caution on the battlefield to flaunt the uniqueness and the peculiarity of their tank in its entirety. The GT series of skins for turrets are powerful and beautiful weapons designed for the most determined and daring players. GT turrets stand out with their unique design, making them recognizable on the battlefield. They are equipped with advanced technologies and materials, and have a stylish design that emphasizes their power and elegance.",
-				"icon":"gt"
+				"icon":"gt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			}
 		],
 		"devices":
@@ -967,7 +1021,9 @@
 				"name":"XT",
 				"descriptionRU":"Грозный Молот XT своим видом напоминает голову носорога. С этим скином в поединке вам не будет равных — нацельте рог на вашего врага и сокрушите его мощным ударом.\n\nP.S. При создании этого скина ни один носорог не пострадал.",
 				"descriptionEN":"Fearsome Hammer XT's look is inspired by the rhino's head. With this skin, nobody can withstand your impact in a fight. Target the enemy and crush it with your powerful strike.\n\nP.S. No rhinoceros was harmed in the making of this skin.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"lc",
@@ -1020,28 +1076,36 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m0_old",
@@ -1049,7 +1113,9 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1_old",
@@ -1057,7 +1123,9 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2_old",
@@ -1065,7 +1133,9 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3_old",
@@ -1073,7 +1143,9 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3_test",
@@ -1081,7 +1153,9 @@
 				"nameEN":"M3 (test)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},		
 			{
 				"id":"xt_test_fake",
@@ -1311,14 +1385,18 @@
 				"name":"Legacy",
 				"descriptionRU":"Суровая внешность этого скина словно пронзает ледяным взглядом из двух тел, так что аж топливо стынет в трубах. Старая закалка, она такая!",
 				"descriptionEN":"The harsh appearance of this skin seems to pierce the hearts of enemies with a cold look that comes from the two barrels so that even the fuel freezes in the pipes. That's old school cool!",
-				"icon":"lc"
+				"icon":"lc",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"rt",
 				"name":"RT",
 				"descriptionRU":"Это смелое сочетание ретро-стиля и футуристических технологий, которое создаёт уникальный дизайн. Этот скин с лёгкостью игнорирует границы времени и привносит в игру элементы дизайна прошлого, сочетая их с современными технологиями. Прямо между двумя дулами орудия расположена высокоточная прицельная система наведения. Как только вражеский танк появляется на пересечении горизонтальной и вертикальной красных линий, единственное, о чём нужно позаботиться владельцу скина — это вовремя зажать кнопку выстрела. А противнику остаётся лишь думать о том, как избежать повторения этой ситуации после респауна. Ослепительный хромированный корпус, оформленный в стиле 80-х, а также неоновая подсветка создают неповторимую атмосферу на поле боя. Этот скин точно удивит и впечатлит всех, кто окажется рядом. Если вы любитель нестандартных решений, получение этого скина должно встать на первое место в вашем списке дел.",
 				"descriptionEN":"A bold combination of futuristic technology and retro style creates this one-of-a-kind design. This skin easily ignores the boundaries of time, incorporating design elements of a past era with modern technologies.\n\nThere is a high-precision guidance system just right between the two barrels of the turret. As soon as an enemy tank appears at the intersection of the horizontal and vertical red lines, the owner of the skin needs only hold down the fire button, and his turret will do the rest. As for the enemy, he'll really need to figure out a way to avoid repeating this situation after respawning.\n\nThe dazzling 80s-inspired chrome body and neon lighting create a unique atmosphere on the battlefield. Anyone around this skin will definitely be pleasantly surprised and impressed. If you're a fan of non-standard solutions, getting this skin should be the first point on your to-do list.",
-				"icon":"rt"
+				"icon":"rt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"gt",
@@ -1334,28 +1412,36 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m0_old",
@@ -1363,7 +1449,9 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1_old",
@@ -1371,7 +1459,9 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2_old",
@@ -1379,7 +1469,9 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3_old",
@@ -1387,14 +1479,18 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"xt_fake",
 				"nameRU":"XT (неофициальный)",
 				"nameEN":"XT (unofficial)",
 				"description":"TODO",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"pr_fake",
@@ -1411,7 +1507,9 @@
 				"nameEN":"Trins (unofficial)",
 				"description":"TODO",
 				"isStandard":true,
-				"icon":"standard"
+				"icon":"standard",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"tx_sp",
@@ -1613,7 +1711,9 @@
 				"name":"XT",
 				"descriptionRU":"Рикошет XT стилизован под крокодилью пасть. Крепкие острые зубы заставят ваших врагов сто раз подумать, прежде чем нападать.",
 				"descriptionEN":"Ricochet XT is made to look like a crocodile maw, with sharp and long teeth that will make your enemies double guess their decision to approach you in future battles.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"lc",
@@ -1630,7 +1730,9 @@
 				"name":"RT",
 				"descriptionRU":"Существует легенда, что эти скины привёз на планету один из танкистов, чей космический корабль потерпел крушение. Ему удалось спастись, добравшись по обломкам корабля до спасательной капсулы. Во время полёта он хватал все артефакты, попадавшиеся на его пути, среди которых оказались эти скины. Они получили название «RetroFuture». Глаз не оторвать, правда?",
 				"descriptionEN":"There is a legend that was brought to the planet by a tanker whose spaceship crashed. He managed to survive by climbing over the spaceship's remains to the escape pod. During his space journey, he was collecting all the artifacts on his way, and these skins were one of them. They were named «RetroFuture». They're very good, aren't they?",
-				"icon":"rt"
+				"icon":"rt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"gt",
@@ -1646,28 +1748,36 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m0_old",
@@ -1675,7 +1785,9 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1_old",
@@ -1683,7 +1795,9 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2_old",
@@ -1691,7 +1805,9 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3_old",
@@ -1699,14 +1815,18 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"xt_fake",
 				"nameRU":"XT (неофициальный)",
 				"nameEN":"XT (unofficial)",
 				"description":"TODO",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"tx_m2",
@@ -1876,14 +1996,18 @@
 				"name":"XT",
 				"descriptionRU":"Создатель XT-скина для Смоки провёл несколько лет в тропических лесах Южной Америки, изучая жизнь анаконд. Вернувшись домой, он решил воспроизвести образ этой огромной змеи в танковой пушке — так появился этот скин.",
 				"descriptionEN":"Creator of XT-skin for Smoky spent several years among the tropical forests of South America, learning anacondas. After returning home, he wanted to recreate the image of the giant snake in a tank turret — and that's how it's made.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"lc",
 				"name":"Legacy",
 				"descriptionRU":"Здравствуй, товарищ! Олдскул снова становится горячим трендом! Простой, без лишней вычурности, этот Legacy скин для Смоки вернёт теплоту и атмосферность прежних лет.",
 				"descriptionEN":"Hello, comrade! Old school is back in fashion. Simple and with no excessive pretentiousness, this Legacy skin for Smoky brings back the warmth and cosiness of the old times.",
-				"icon":"lc"
+				"icon":"lc",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"gt",
@@ -1908,28 +2032,36 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m0_old",
@@ -1937,7 +2069,9 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1_old",
@@ -1945,7 +2079,9 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2_old",
@@ -1953,7 +2089,9 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3_old",
@@ -1961,7 +2099,9 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"xt_old",
@@ -1969,48 +2109,62 @@
 				"nameEN":"XT (old)",
 				"descriptionRU":"Усовершенствованная версия классической «Смоки» превосходит по мощи все её рядовые модификации, включая M3. Экспериментальная партия пушек была похищена с завода и появилась на чёрном рынке в обход всех легальных каналов. Однако спецагенты уже вышли на след похителей и скоро доберутся до покупателей, чтобы конфисковать Смоки XT. Торопитесь!\n\nПользоваться пушкой можно до 24 февраля 2011 года. В этот день в 08:00 по московскому времени орудие будет изъято.",
 				"descriptionEN":"Special version of classic Smoky gun exceeds in power all its ordinary modifications, including M3. Experimental series of this guns was stolen from the factory and leaked to black market. But special agents already tailed the thieves and soon agents will come to buyers to confiscate illegally bought item. You have 7 days only!\n\nYou can use Smoky XT till February, 22. On that day in 05:00 (UTC +3) the gun will be confiscated.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"release_1.100_1",
 				"nameRU":"Релиз 1.100 (1)",
 				"nameEN":"Release 1.100 (1)",
 				"description":"TODO",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"release_1.100_2",
 				"nameRU":"Релиз 1.100 (2)",
 				"nameEN":"Release 1.100 (2)",
 				"description":"TODO",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"pumpkin_old",
 				"nameRU":"Тыква (старый)",
 				"nameEN":"Pumpkin (old)",
 				"description":"TODO",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"snowman_old",
 				"nameRU":"Снеговик (старый)",
 				"nameEN":"Snowman (old)",
 				"description":"TODO",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"xt_fake",
 				"nameRU":"XT (неофициальный)",
 				"nameEN":"XT (unofficial)",
 				"description":"TODO",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"2.0_m2",
 				"name":"M2 (Tanki Online 2.0)",
 				"description":"TODO",
-				"icon":"2.0"
+				"icon":"2.0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"tx_xt",
@@ -2155,7 +2309,9 @@
 				"name":"XT",
 				"descriptionRU":"Создатели этого скина были вдохновлены подводным миром, полным опасностей, и его загадочными обитателями. Пронзительный взгляд морского демона словно держит врагов на прицеле, а хищная мурена готова вцепиться своими острыми зубами в любую мишень.",
 				"descriptionEN":"The designers of this skin were inspired by the marine underworld, full of dangers and mysterious inhabitants. The intimidating stare of a goliath as it muscles its way through thick schools of fish, and the rapacious moray eel as it prepares to sink its sharp teeth into its prey.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"ut",
@@ -2172,35 +2328,45 @@
 				"name":"XT HD",
 				"descriptionRU":"Серия XT скинов представляет собой коллекцию эксклюзивных обликов для различных танков, каждый из которых обладает уникальными внешним видом. Более детально и масштабно прорисованная модель пушки придаёт ей мощный и эффектный вид. Учтены все, даже самые мелкие детали! Обладатель этого редкого скина всегда находится в центре внимания.",
 				"descriptionEN":"The XT series of skins is a collection of exclusive skins for various tanks, each with its own unique appearance. The model of the turret is more detailed and large-scale, which gives it a powerful and spectacular look. Even the smallest details are taken into account! The owners of these rare skins are always in the spotlight.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"13632266",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"demo",
@@ -2208,7 +2374,9 @@
 				"nameEN":"M3 (test)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			}
 		],
 		"devices":
@@ -2369,14 +2537,18 @@
 				"name":"XT",
 				"descriptionRU":"Уникальная модель Вулкана, отличающаяся от стандартной версии пушки необычным внешним видом. Башня покрыта золотой змеиной кожей и инкрустирована рубинами, напоминающими глаза змеи.",
 				"descriptionEN":"A unique version of Vulcan, different from its standard counterpart thanks to its truly special looks. The turret is covered with golden armor plating resembling snakeskin. These aggressive looks are finished with two extremely rare rubies that look like the eyes of an ancient beast.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"lc",
 				"name":"Legacy",
 				"descriptionRU":"Пушка из линейки Legacy — это гармоничное сочетание простоты и классики, воплощённое в стильной ретро-оболочке. Идеальный выбор для ценителей старинного вооружения и ностальгирующих по эпохам былых битв. Надёжная стальная конструкция, лаконичный дизайн и скрытая мощь делают его маст-хэвом для тех, кто предпочитает проверенные временем технологии и брутальный внешний вид.",
 				"descriptionEN":"A Legacy turret is a harmonious blend of simplicity and classicism, embodied in a stylish retro shell. An ideal choice for fans of ancient equipment and those who feel nostalgia for the epochs of past battles. A reliable steel structure, a laconic design, and hidden power make it a must-have for those who prefer time-tested technology and a brutal appearance.",
-				"icon":"lc"
+				"icon":"lc",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"pr",
@@ -2412,21 +2584,27 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3",
@@ -2443,7 +2621,9 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1_old",
@@ -2451,7 +2631,9 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2_old",
@@ -2459,7 +2641,9 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3_old",
@@ -2467,7 +2651,9 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"tx_m0",
@@ -2604,7 +2790,9 @@
 				"name":"Legacy",
 				"descriptionRU":"Legacy-скин для Грома поможет вам окунуться в атмосферу «старых Танков». А если вы старожил игры — сможете вспомнить ваши ощущения от первых боёв.",
 				"descriptionEN":"Legacy-skin for Thunder will help you return to the old atmosphere of Tanki, and if you're a veteran player -- remember your best times going into the first battle.",
-				"icon":"lc"
+				"icon":"lc",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"pr",
@@ -2658,28 +2846,36 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m0_old",
@@ -2687,7 +2883,9 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1_old",
@@ -2695,7 +2893,9 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2_old",
@@ -2703,7 +2903,9 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3_old",
@@ -2711,7 +2913,9 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"pr_fake",
@@ -2727,7 +2931,9 @@
 				"id":"2.0_m3",
 				"name":"M3 (Tanki Online 2.0)",
 				"description":"TODO",
-				"icon":"2.0"
+				"icon":"2.0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"tx_m2",
@@ -2909,7 +3115,9 @@
                 "name":"RT",
                 "descriptionRU":"Существует легенда, что эти скины привёз на планету один из танкистов, чей космический корабль потерпел крушение. Ему удалось спастись, добравшись по обломкам корабля до спасательной капсулы. Во время полёта он хватал все артефакты, попадавшиеся на его пути, среди которых оказались эти скины. Они получили название «RetroFuture». Глаз не оторвать, правда?",
                 "descriptionEN":"There is a legend that was brought to the planet by a tanker whose spaceship crashed. He managed to survive by climbing over the spaceship's remains to the escape pod. During his space journey, he was collecting all the artifacts on his way, and these skins were one of them. They were named «RetroFuture». They're very good, aren't they?",
-                "icon":"rt"
+                "icon":"rt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
             }
 		],
 		"devices":
@@ -3014,35 +3222,45 @@
 				"name":"XT M0",
 				"descriptionRU":"Уникальная Рельса XT примечательна боковым рисунком, стилизованным под голову орла с характерными хищными очертаниями клюва.",
 				"descriptionEN":"The unique Railgun XT is notable because of its side pattern styled after an eagle's head, with a very distinctive predatory beak.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"xt_m1",
 				"name":"XT M1",
 				"descriptionRU":"Уникальная Рельса XT примечательна боковым рисунком, стилизованным под голову орла с характерными хищными очертаниями клюва.",
 				"descriptionEN":"The unique Railgun XT is notable because of its side pattern styled after an eagle's head, with a very distinctive predatory beak.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"xt_m2",
 				"name":"XT M2",
 				"descriptionRU":"Уникальная Рельса XT примечательна боковым рисунком, стилизованным под голову орла с характерными хищными очертаниями клюва.",
 				"descriptionEN":"The unique Railgun XT is notable because of its side pattern styled after an eagle's head, with a very distinctive predatory beak.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"xt_m3",
 				"name":"XT M3",
 				"descriptionRU":"Уникальная Рельса XT примечательна боковым рисунком, стилизованным под голову орла с характерными хищными очертаниями клюва.",
 				"descriptionEN":"The unique Railgun XT is notable because of its side pattern styled after an eagle's head, with a very distinctive predatory beak.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"lc",
 				"name":"Legacy",
 				"descriptionRU":"Любимая пушка многих танкистов в новой оболочке, точнее в старой. Legacy-скин для Рельсы напомнит вам, как выглядела эта легендарная пушка в далёком прошлом.",
 				"descriptionEN":"One of the most beloved turrets in the game gets a cool retro look with its very own Legacy skin. A throwback to what this deadly turret looked like before the rebalance.",
-				"icon":"lc"
+				"icon":"lc",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"pr",
@@ -3077,28 +3295,36 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m0_old",
@@ -3106,7 +3332,9 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1_old",
@@ -3114,7 +3342,9 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2_old",
@@ -3122,7 +3352,9 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3_old",
@@ -3130,14 +3362,18 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"pr_fake",
 				"nameRU":"Prime (неофициальный)",
 				"nameEN":"Prime (unofficial)",
 				"description":"TODO",
-				"icon":"pr"
+				"icon":"pr",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"rl",
@@ -3347,42 +3583,54 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
-				"icon":"standard"
+				"icon":"standard",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"xt",
 				"name":"XT",	
 				"descriptionRU":"Обладатель Магнума XT выделяется на поле боя благодаря устрашающему виду этой разрушительной пушки. Опытные артиллеристы утверждают, что этот эксклюзивный скин помогает попадать прямо в яблочко даже на самых больших боевых аренах.",
 				"descriptionEN":"The owner of Magnum XT is easily recognized on the battlefield thanks to the menacing look of the turret. Experienced artillery users claim that this exclusive skin helps hit targets even on the largest battlefields.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"sp",
 				"name":"SP",	
 				"descriptionRU":"Скины в стиле стимпанка сделают ваш танк поистине уникальным. \n\nУчёные со всего мира долгие годы собирали артефакты и искали недостающие элементы в антикварных лавках. Деталей удалось собрать немного, поэтому эти скины были выпущены в ограниченном количестве. Став обладателем таких скинов, вы соберёте на себе тысячи восхищённых взглядов. \n\nБронзовые пластины из редчайшего сплава придают вашему танку могучий и устрашающий вид. \n\nСочетание старины и хай-тека не только привлекательно выглядит, но и делает танк несокрушимым в бою.",
 				"descriptionEN":"Steampunk-styled skins will help you make your tank look unique. Scientists from the whole world have been collecting artefacts for many years and have been trying to find missing parts in antique shops. They have managed to collect only few details, so these skins were released in limited quantities. By becoming an owner of these skins, you will definitely get dozens of eyes full of admiration and envy on your tank. \n\nBronze plates made of the rarest alloy will make your tank look powerful and fearsome. \n\nThe combination of antiquity and high technology not only attracts with its individual style, but also makes its owner indestructible on the battlefield.",
-				"icon":"sp"
+				"icon":"sp",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			}
 		],
 		"devices":
@@ -3529,7 +3777,9 @@
 				"name":"XT",
 				"descriptionRU":"Говорят, что внешность — это не главное. Но когда наступает время битвы, запугивание становится хорошей тактикой. Гаусс XT вселяет в соперников ужас и предупреждает их о жёстких ударах, которые обязательно последуют.",
 				"descriptionEN":"Looks aren't everything. But when it's time for battle, intimidation is always a good tactic. Gauss XT tells your enemies that you mean business, and prepares them for the hard-hitting shots that will surely follow.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"pr",
@@ -3583,28 +3833,36 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			}	
 		],
 		"devices":
@@ -3723,7 +3981,9 @@
 				"name":"XT",
 				"descriptionRU":"Золотой лев с серебристой гривой, воплощённый в облике Шафта XT, станет вашим преданным боевым товарищем и поможет защитить ваш прайд.",
 				"descriptionEN":"Golden lion with a silver mane, shaped into the form of Shaft XT, will become your trusted battle friend and will help protect the pride of fellow lions from the enemies.",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"lc",
@@ -3758,28 +4018,36 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1",
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m0_old",
@@ -3787,7 +4055,9 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1_old",
@@ -3795,7 +4065,9 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2_old",
@@ -3803,7 +4075,9 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3_old",
@@ -3811,7 +4085,9 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m0_very_old",
@@ -3819,7 +4095,9 @@
 				"nameEN":"M0 (very old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1_very_old",
@@ -3827,7 +4105,9 @@
 				"nameEN":"M1 (very old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2_very_old",
@@ -3835,7 +4115,9 @@
 				"nameEN":"M2 (very old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3_very_old",
@@ -3843,14 +4125,18 @@
 				"nameEN":"M3 (very old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"xt_fake",
 				"nameRU":"XT (неофициальный)",
 				"nameEN":"XT (unofficial)",
 				"description":"TODO",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"255",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"tx_m2",
@@ -4011,21 +4297,27 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
-				"icon":"standard"
+				"icon":"standard",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"xt_fake",
 				"nameRU":"XT (неофициальный)",
 				"nameEN":"XT (unofficial)",
 				"description":"TODO",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"xt_fake_ilya_star",
 				"nameRU":"XT (неофициальный by IlyaStar)",
 				"nameEN":"XT (unofficial by IlyaStar)",
 				"description":"TODO",
-				"icon":"xt"
+				"icon":"xt",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			}
 		],
 		"devices":
@@ -4241,7 +4533,9 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
-				"icon":"standard"
+				"icon":"standard",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"desert",
@@ -4250,7 +4544,9 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
-				"icon":"standard"
+				"icon":"standard",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"green",
@@ -4259,7 +4555,9 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
-				"icon":"standard"
+				"icon":"standard",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"damaged",
@@ -4268,7 +4566,9 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
-				"icon":"standard"
+				"icon":"standard",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"alternativa",
