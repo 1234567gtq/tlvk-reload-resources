@@ -61,7 +61,9 @@
 		"nameRU":"Меxаник",
 		"nameEN":"Mechanic",
 		"descriptionRU":"Усиливает действие припаса «Ремкомплект».\n\nРасходует больше припасов «Ремкомплект» при его активации. Лучше ремонтирует собственный танк. Ускоряет перезарядку припаса «Ремкомплект». Ремонтирует союзные танки рядом. Даёт дополнительные очки репутации за ремонт союзных танков. Увеличивает эффективность припасов «Повышенный урон» и «Повышенная защита» при улучшении.\n\nКаждый, кто считает своей обязанностью поддерживать других в бою, заслуживает большого уважения.",
-		"descriptionEN":"Boosts the «Repair Kit» supply's effect.\n\nThis drone consumes additional units of the «Repair Kit» supply. It improves the repairing ability of your tank. It decreases cooldown time of the «Repair Kit» supply. It also lets you repair teammates nearby and gives you extra points for that. Upgrading this drone boosts the effect of «Boosted Damage» and «Boosted Armor» supplies.\n\nEveryone who considers it their duty to support others in battle deserves great respect."
+		"descriptionEN":"Boosts the «Repair Kit» supply's effect.\n\nThis drone consumes additional units of the «Repair Kit» supply. It improves the repairing ability of your tank. It decreases cooldown time of the «Repair Kit» supply. It also lets you repair teammates nearby and gives you extra points for that. Upgrading this drone boosts the effect of «Boosted Damage» and «Boosted Armor» supplies.\n\nEveryone who considers it their duty to support others in battle deserves great respect.",
+		"emissionColor":"16711680",
+		"emissionColorThreshold":"0.1"
 	},
 	{
 		"id":"defender",
@@ -118,7 +120,9 @@
 		"nameRU":"Штурмовик",
 		"nameEN":"Assault",
 		"descriptionRU":"Штурмовой дрон. При уничтожении вражеского танка сокращает время перезарядки припасов «Повышенная защита», «Повышенный урон» и «Ускорение». Дополнительно использует припас «Повышенный урон» в момент активации дрона. Ускоряет перезарядку припаса «Повышенный урон» при использовании припасов.\n\nУлучшение дрона повышает силу припасов «Повышенная защита» и «Повышенный урон» и сокращает время перезарядки припасов при активации дрона.",
-		"descriptionEN":"Assault drone. Increases the active effect of «Speed Boost» when this supply is activated or a respective bonus box is picked up. Activating «Speed Boost» causes additional units of this supply to be consumed. Decreases reload time for «Speed Boost» when any of supplies is activated or a bonus box is picked up. Additional «Speed Boost» supply power provided by the drone and the bonus to the effects from «Boosted Armor» and «Boosted Damage» are based on its upgrade level."
+		"descriptionEN":"Assault drone. Increases the active effect of «Speed Boost» when this supply is activated or a respective bonus box is picked up. Activating «Speed Boost» causes additional units of this supply to be consumed. Decreases reload time for «Speed Boost» when any of supplies is activated or a bonus box is picked up. Additional «Speed Boost» supply power provided by the drone and the bonus to the effects from «Boosted Armor» and «Boosted Damage» are based on its upgrade level.",
+		"emissionColor":"16711680",
+		"emissionColorThreshold":"0.1"
 	},
 	{
 		"id":"blaster",
@@ -163,7 +167,9 @@
 		"nameRU":"Инженер",
 		"nameEN":"Engineer",
 		"descriptionRU":"Дрон поддержки. Ремонтирует себя и союзников неподалёку при подборе любой коробки самостоятельно или союзником. При подборе ящика с бонусом игрок получает дополнительные очки, если неподалёку есть хоть один союзник.\n\nУлучшение дрона повышает силу припасов «Повышенная защита» и «Повышенный урон» и размер восстанавливаемого здоровья.",
-		"descriptionEN":"Support drone. It shares the effects of supply drops with its owner and nearby allies. When picking up a supply drop, the player receives additional points if there is at least one ally nearby.\n\nUpgrading the drone increases the strength of «Boosted Armor» and «Boosted Damage» supplies and the amount of recoverable health."
+		"descriptionEN":"Support drone. It shares the effects of supply drops with its owner and nearby allies. When picking up a supply drop, the player receives additional points if there is at least one ally nearby.\n\nUpgrading the drone increases the strength of «Boosted Armor» and «Boosted Damage» supplies and the amount of recoverable health.",
+		"emissionColor":"16711680",
+		"emissionColorThreshold":"0.1"
 	},
 	{
 		"id":"supplier",
