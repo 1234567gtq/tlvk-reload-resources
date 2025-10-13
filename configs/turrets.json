@@ -73,7 +73,7 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"m0",
-				"emissionColor":"0",
+				"emissionColor":"16711680",
 				"emissionColorThreshold":"0.1"
 			},
 			{
@@ -81,21 +81,27 @@
 				"name":"M1",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2",
 				"name":"M2",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3",
 				"name":"M3",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m0_old",
@@ -103,7 +109,9 @@
 				"nameEN":"M0 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1_old",
@@ -111,7 +119,9 @@
 				"nameEN":"M1 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m1"
+				"icon":"m1",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m2_old",
@@ -119,7 +129,9 @@
 				"nameEN":"M2 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m2"
+				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m3_old",
@@ -127,7 +139,9 @@
 				"nameEN":"M3 (old)",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m3"
+				"icon":"m3",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"ut_old",
@@ -142,7 +156,9 @@
 				"id":"2.0_m1",
 				"name":"M1 (Tanki Online 2.0)",
 				"description":"TODO",
-				"icon":"2.0"
+				"icon":"2.0",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"tx_dreadnought",
