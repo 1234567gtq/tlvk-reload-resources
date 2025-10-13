@@ -74,7 +74,7 @@
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"m0",
 				"emissionColor":"0",
-				"emissionColorThreshold":"0"
+				"emissionColorThreshold":"0.1"
 			},
 			{
 				"id":"m1",
