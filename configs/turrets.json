@@ -72,7 +72,9 @@
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
-				"icon":"m0"
+				"icon":"m0",
+				"emissionColor":"0",
+				"emissionColorThreshold":"0"
 			},
 			{
 				"id":"m1",
