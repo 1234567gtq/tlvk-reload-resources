@@ -1,11 +1,12 @@
 <images>
+<image name="bg1.png" new-name="bg1.png"/>
 <image name="bl.png" new-name="bl.png"/>
 <image name="candybox.png" new-name="candybox.jpg"/>
 <image name="flr1.png" new-name="flr1.jpg"/>
 <image name="gar1.png" new-name="gar1.jpg"/>
 <image name="pl1.png" new-name="pl1.jpg"/>
 <image name="pl2.png" new-name="pl2.jpg"/>
-<image name="pumpkin.png" new-name="pumpkin.jpg"/>
+<image name="pumpkin.png" new-name=".jpg"/>
 <image name="race1.png" new-name="race1.jpg"/>
 <image name="sky1.png" new-name="sky1.jpg"/>
 </images>
