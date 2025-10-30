@@ -5532,6 +5532,12 @@
 	"description":"TODO"
 },
 {
+	"id":"tlvkr_halloween",
+	"nameRU":"TLVK: RELOAD (Хэллоуин)",
+	"nameEN":"TLVK: RELOAD (Halloween)",
+	"description":"<a href=\"https://tlvkreload.gq/\" target=\"_blank\"><u>https://tlvkreload.gq/</u></a>."
+},
+{
 	"id":"tlvkr",
 	"name":"TLVK: RELOAD",
 	"description":"<a href=\"https://tlvkreload.gq/\" target=\"_blank\"><u>https://tlvkreload.gq/</u></a>."
