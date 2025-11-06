@@ -662,6 +662,16 @@
 				"emissionColorThreshold":"0.4"
 			},
 			{
+				"id":"dc",
+				"name":"Demonic",
+				"descriptionRU":"Позволь демонической силе пробудиться в глубинах твоей пушки: её тёмная оболочка излучает ауру зла, украшенная костяными узорами и кровавыми прожилками. Она словно дышит тьмой, превращаясь в проклятый артефакт, жаждущий разрушения. Каждый выстрел — воплощённая ярость преисподней, пробивающая броню и разрывающая волю врага. Этот скин не только пугает внешним видом, но и подчёркивает твою безжалостность на поле боя, пусть противники дрожат, увидев его.",
+				"descriptionEN":"Let the demonic power awaken in the depths of your turret: its dark shell radiates an aura of evil, adorned with bone patterns and bloody veins. It seems to breathe darkness, transforming into a cursed artifact that craves destruction. Every shot is the embodiment of infernal fury, piercing armor and shattering the enemy’s will. This skin not only terrifies with its appearance but also emphasizes your ruthlessness on the battlefield. Let your enemies tremble upon seeing it.",
+				"icon":"dc",
+				"emissionColor":"15884800",
+				"emissionColorSecond":"16685824",
+				"emissionColorThreshold":"0.4"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
