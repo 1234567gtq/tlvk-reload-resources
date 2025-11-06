@@ -720,7 +720,7 @@
 { "id":"turret_isida_hd", "version":"2", "type":"models" },
 { "id":"turret_isida_xt", "version":"1", "type":"models" },
 { "id":"turret_isida_gt", "version":"2", "type":"models" },
-{ "id":"turret_isida_dc", "version":"1", "type":"models_a3d" },
+{ "id":"turret_isida_dc", "version":"1", "type":"models" },
 { "id":"turret_isida_lc", "version":"1", "type":"models" },
 { "id":"turret_isida_m0", "version":"1", "type":"models" },
 { "id":"turret_isida_m1", "version":"1", "type":"models" },
