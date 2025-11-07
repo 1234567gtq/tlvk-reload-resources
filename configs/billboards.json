@@ -1,8 +1,8 @@
 [
    {	
-		"id":"halloween_2025",
-		"nameRU":"Хэллоуин 2025",
-		"nameEN":"Halloween 2025"
+		"id":"day_of_the_dead_2025",
+		"nameRU":"День духов 2025",
+		"nameEN":"Day of the Dead 2025"
 	},
 	{
 		"id":"standard",
@@ -178,6 +178,11 @@
 		"id":"halloween_2024",
 		"nameRU":"Хэллоуин 2024",
 		"nameEN":"Halloween 2024"
+	},
+	{	
+		"id":"halloween_2025",
+		"nameRU":"Хэллоуин 2025",
+		"nameEN":"Halloween 2025"
 	},
 	{	
 		"id":"ice_age_2023",
