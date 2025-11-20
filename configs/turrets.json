@@ -3587,15 +3587,15 @@
 		"skins":
 		[
 			{
-				"id":"m3",
+				"id":"hd",
 				"nameRU":"Стандартные настройки",
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
 				"icon":"standard",
-				"emissionColor":"16711680",
-				"emissionColorThreshold":"0.1"
+				"emissionColor":"65279",
+				"emissionColorThreshold":"0.6"
 			},
 			{
 				"id":"xt",
@@ -3639,6 +3639,15 @@
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects",
 				"icon":"m2",
+				"emissionColor":"16711680",
+				"emissionColorThreshold":"0.1"
+			},
+			{
+				"id":"m3",
+				"name":"M3",
+				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
+				"descriptionEN":"Standard factory settings without any special effects",
+				"icon":"m3",
 				"emissionColor":"16711680",
 				"emissionColorThreshold":"0.1"
 			}
