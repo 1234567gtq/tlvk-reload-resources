@@ -3739,6 +3739,7 @@
 { "id":"billboard_autumn_festival_2025", "version":"1", "type":"textures" },
 { "id":"billboard_black_friday_2023", "version":"1", "type":"textures" },
 { "id":"billboard_black_friday_2024", "version":"1", "type":"textures" },
+{ "id":"billboard_black_friday_2025", "version":"1", "type":"textures" },
 { "id":"billboard_carnival_2021", "version":"1", "type":"textures" },
 { "id":"billboard_chinise_new_year_2022", "version":"1", "type":"textures" },
 { "id":"billboard_lunar_new_year_2024", "version":"1", "type":"textures" },
