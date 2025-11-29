@@ -2168,6 +2168,8 @@
 { "id":"paint_tanki_sport_2024_2_undervalued", "version":"1", "type":"textures" },
 { "id":"paint_tanki_sport_2025_champion_1_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_tanki_sport_2025_champion_1", "version":"1", "type":"textures" },
+{ "id":"paint_tanki_sport_2025_champion_2_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_tanki_sport_2025_champion_2", "version":"1", "type":"textures" },
 
 { "id":"paint_adversity_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_adversity", "version":"1", "type":"multiframe_textures" },
