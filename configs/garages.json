@@ -1,5 +1,10 @@
 [
 	{
+		"id":"new_new_year_2026",
+		"nameRU":"Новый Год 2026",
+		"nameEN":"New Year 2026"
+	},
+	{
 		"id":"new_standard",
 		"nameRU":"Стандартный",
 		"nameEN":"Standard"
