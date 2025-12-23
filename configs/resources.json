@@ -560,6 +560,7 @@
 { "id":"hull_hunter_ut", "version":"2", "type":"models" },
 { "id":"hull_hunter_gt", "version":"2", "type":"models" },
 { "id":"hull_hunter_dc", "version":"1", "type":"models" },
+{ "id":"hull_hunter_sp", "version":"1", "type":"models_a3d" },
 { "id":"hull_hunter_m0", "version":"1", "type":"models" },
 { "id":"hull_hunter_m1", "version":"1", "type":"models" },
 { "id":"hull_hunter_m2", "version":"1", "type":"models" },
