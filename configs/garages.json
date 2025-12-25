@@ -15,6 +15,11 @@
 		"nameEN":"Standard (old)"
 	},
 	{
+		"id":"standard_tc",
+		"nameRU":"Стандартный (ТК)",
+		"nameEN":"Standard (TC)"
+	},
+	{
 		"id":"1.100",
 		"nameRU":"Релиз 1.100",
 		"nameEN":"Release 1.100"
