@@ -905,6 +905,7 @@
 { "id":"turret_railgun_tx_victory_day", "version":"2", "type":"models" },
 { "id":"turret_magnum_preview", "version":"2", "type":"images", "isLazy":true },
 { "id":"turret_magnum_hd", "version":"1", "type":"models_a3d" },
+{ "id":"turret_magnum_ic", "version":"1", "type":"models_a3d" },
 { "id":"turret_magnum_m3", "version":"1", "type":"models" },
 { "id":"turret_magnum_xt", "version":"1", "type":"models" },
 { "id":"turret_magnum_sp", "version":"2", "type":"models" },

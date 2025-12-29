@@ -3625,6 +3625,15 @@
 				"emissionColorThreshold":"0.1"
 			},
 			{
+				"id":"ic",
+				"name":"IC",	
+				"descriptionRU":"Покрытые толстым слоем антарктического льда скины этой серии внушают леденящий страх и ужас. Они превращают сердца врагов в ледяную глыбу, лишая их возможности мыслить и чувствовать, делая их танки безжизненными роботами. Пусть соперники увидят всю морозную мощь этих ледяных зверей!",
+				"descriptionEN":"An IC series turret embodies the harsh power of ice. Covered in a thick layer of Antarctic ice, it resembles a dangerous crystalline beast, its form seemingly carved from permafrost. Every shot resonates with merciless cold, leaving an icy trail in its wake and turning the battlefield into a frozen wasteland. This turret is made for those ready to face the frost head-on and answer their enemies with cold fury.",
+				"icon":"ic",
+				"emissionColor":"51455",
+				"emissionColorThreshold":"0.6"
+			},
+			{
 				"id":"m0",
 				"name":"M0",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
