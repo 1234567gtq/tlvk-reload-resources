@@ -2543,6 +2543,8 @@
 { "id":"paint_best_helper_2023", "version":"1", "type":"textures" },
 { "id":"paint_best_helper_2024_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_best_helper_2024", "version":"1", "type":"textures" },
+{ "id":"paint_best_helper_2025_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_best_helper_2025", "version":"1", "type":"textures" },
 { "id":"paint_engineer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_engineer", "version":"1", "type":"textures" },
 { "id":"paint_flame_2.0_preview", "version":"1", "type":"images", "isLazy":true },
