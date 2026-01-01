@@ -2797,6 +2797,9 @@
 { "id":"container_skin_old_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"container_skin_old_closed", "version":"1", "type":"images", "isLazy":true },
 { "id":"container_skin_old_opened", "version":"1", "type":"images", "isLazy":true },
+{ "id":"container_skin_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"container_skin_closed", "version":"1", "type":"images", "isLazy":true },
+{ "id":"container_skin_opened", "version":"1", "type":"images", "isLazy":true },
 
 { "id":"parachute_standard_outer", "version":"1", "type":"textures" },
 { "id":"parachute_standard_inner", "version":"1", "type":"textures" },

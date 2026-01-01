@@ -3,36 +3,49 @@
 		"id":"container_standard",
 		"nameRU":"Контейнер",
 		"nameEN":"Container",
-		"description":"TODO"
+		"descriptionRU":"Открывайте контейнеры и получайте игровые товары. Каждый контейнер содержит один случайный предмет. Список возможного содержимого контейнеров: \n • Кристаллы \n • Припасы \n • Золотые ящики \n • Дни премиум аккаунта \n • Обычные краски \n • Уникальные краски",
+		"descriptionEN":"Open containers and get game items. Each container has one random item. List of possible items inside containers: \n • Crystals \n • Supplies \n • Gold Boxes \n • Days of Premium \n • Regular paints \n • Unique paints"
 	},
 	{
 		"id":"container_weekly",
 		"nameRU":"Недельный контейнер",
 		"nameEN":"Weekly container",
-		"description":"TODO"
+		"descriptionRU":"Это особые контейнеры, которые выдаются в награду за выполнение еженедельных заданий. Чем выше ваше звание, тем больше приз. Из этих контейнеров можно получить следующие предметы: \n • Кристаллы \n • Ремкомплекты \n • Двойной урон \n • Двойная защита \n • Ускорения \n • Мины \n • Батареи",
+		"descriptionEN":"These are special containers given as reward for completing weekly missions. The higher is your rank, the bigger will be the prize. From these containers you can get the following Items: \n • Crystals \n • Repait Kit \n • Double Damage \n • Double Armor \n • Speed Boost \n • Mines \n • Batteries"
 	},
 	{
 		"id":"container_ultra",
 		"nameRU":"Ультраконтейнер",
 		"nameEN":"Ultra container",
-		"description":"TODO"
+		"descriptionRU":"Открывайте ультраконтейнеры во время специальных событий и получайте игровые предметы. В отличие от обычных контейнеров, ультраконтейнеры содержат уникальные награды, которые могут меняться в зависимости от ивента.",
+		"descriptionEN":"Open Ultra Containers during special events and receive awesome in-game items! Unlike normal containers, these contain unique rewards that may vary depending on the current event."
 	},
 	{
 		"id":"container_coinbox",
 		"nameRU":"Коинбокс",
 		"nameEN":"Coinbox",
-		"description":"TODO"
+		"descriptionRU":"Открывайте коинбоксы и получайте игровые товары. Каждый коинбокс содержит случайные предметы. Список возможного содержимого: \n • Танкоины \n • Кристаллы \n • Припасы",
+		"descriptionEN":"Open this Cainbox and get one of these in-game items. Items lst: \n • Tankoins \n • Crystals \n • Supplies"
 	},
 	{
 		"id":"container_pitstop",
 		"nameRU":"Пит-стоп ящик",
 		"nameEN":"Pitstop box",
-		"description":"TODO"
+		"descriptionRU":"Открывайте пит-стоп ящики и получайте случайные товары с большой скидкой. Каждый пит-стоп ящик содержит один случайный предмет.Список возможного содержимого: \n • Кристаллы \n • Припасы \n • Батарейки \n • Золотые ящики",
+		"descriptionEN":"Open Pitstop boxes and receive random items at a significant discount. Each Pitstop box contains one random item. List of possible contents: \n • Crystals \n • Supplies \n • Batteries \n • Gold boxes"
+	},
+	{
+		"id":"container_skin",
+		"nameRU":"Скин-контейнер",
+		"nameEN":"Skin container",
+		"descriptionRU":"Открывайте контейнеры и получайте скины. Каждый контейнер содержит один скин из линеек XT, Legacy или Prime, выбранный случайным образом из списка возможных призов. Приз определяется в момент открытия.",
+		"descriptionEN":"Open this Container ant get a cool skin! Each one may drop a random XT, Legacy or Prine skin from the list of available prizes. A great way to finally complete your collection!"
 	},
 	{
 		"id":"container_skin_old",
 		"nameRU":"Старый Скин-контейнер",
 		"nameEN":"Old Skin container",
-		"description":"TODO"
+		"descriptionRU":"Открывайте контейнеры и получайте скины. Каждый контейнер содержит один скин из линеек XT, Legacy или Prime, выбранный случайным образом из списка возможных призов. Приз определяется в момент открытия.",
+		"descriptionEN":"Open this Container ant get a cool skin! Each one may drop a random XT, Legacy or Prine skin from the list of available prizes. A great way to finally complete your collection!"
 	}
 ]
