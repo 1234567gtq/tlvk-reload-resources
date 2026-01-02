@@ -47,5 +47,33 @@
 		"nameEN":"Old Skin container",
 		"descriptionRU":"Открывайте контейнеры и получайте скины. Каждый контейнер содержит один скин из линеек XT, Legacy или Prime, выбранный случайным образом из списка возможных призов. Приз определяется в момент открытия.",
 		"descriptionEN":"Open this Container ant get a cool skin! Each one may drop a random XT, Legacy or Prine skin from the list of available prizes. A great way to finally complete your collection!"
+	},
+	{
+		"id":"container_standard_new",
+		"nameRU":"Обычный контейнер",
+		"nameEN":"Common container",
+		"descriptionRU":"Стандартный грузовой контейнер с полезными ресурсами внутри: от припасов и кристаллов до нового вооружения. Каждый контейнер содержит одну случайную награду.",
+		"descriptionEN":"A standard cargo container with a lot of useful resources inside, from supplies and crystals to new equipment. Each container contains one random reward."
+	},
+	{
+		"id":"container_rare",
+		"nameRU":"Редкий контейнер",
+		"nameEN":"Rare container",
+		"descriptionRU":"Специальный грузовой контейнер с набором припасов, необходимых для поддержания танка в состоянии боеготовности. Каждый контейнер содержит одинаковый набор наград.",
+		"descriptionEN":"A special cargo container with a set of supplies required to keep a tank at its full capacity. Each container contains the same set of rewards."
+	},
+	{
+		"id":"container_epic",
+		"nameRU":"Эпический контейнер",
+		"nameEN":"Epic container",
+		"descriptionRU":"Особый грузовой контейнер, в котором, помимо наград из обычного контейнера, можно найти временные награды: от редкого вооружения до уникальных скинов. Каждый контейнер содержит одну случайную награду.",
+		"descriptionEN":"A special cargo container that includes the set of rewards of a Common Container and contains rewards that you can obtain only during specific times, from rare equipment to unique skins. Each container contains one random reward."
+	},
+	{
+		"id":"container_legendary",
+		"nameRU":"Легендарный контейнер",
+		"nameEN":"Legendary container",
+		"descriptionRU":"Особый грузовой контейнер, в котором, помимо наград из обычного контейнера, можно найти временные награды: от редкого вооружения до уникальных скинов. Каждый контейнер содержит одну случайную награду.",
+		"descriptionEN":"The most valuable cargo container that always has a new tank skin. If you already have all the skins, you will receive Rubies as compensation. Each container contains one random reward."
 	}
 ]
