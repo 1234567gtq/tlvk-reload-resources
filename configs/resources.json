@@ -2757,6 +2757,8 @@
 { "id":"paint_tlvkr", "version":"1", "type":"textures" },
 { "id":"paint_tlvkr_halloween_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_tlvkr_halloween", "version":"1", "type":"textures" },
+{ "id":"paint_tlvkr_new_year_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_tlvkr_new_year", "version":"1", "type":"textures" },
 { "id":"paint_vint_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_vint", "version":"1", "type":"textures" },
 { "id":"paint_windows_11_preview", "version":"1", "type":"images", "isLazy":true },

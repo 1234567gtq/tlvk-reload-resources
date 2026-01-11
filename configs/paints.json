@@ -5607,6 +5607,12 @@
 	"description":"<a href=\"https://tlvkreload.gq/\" target=\"_blank\"><u>https://tlvkreload.gq/</u></a>."
 },
 {
+	"id":"tlvkr_new_year",
+	"nameRU":"TLVK: RELOAD (Новый Год)",
+	"nameEN":"TLVK: RELOAD (New Year)",
+	"description":"<a href=\"https://tlvkreload.gq/\" target=\"_blank\"><u>https://tlvkreload.gq/</u></a>."
+},
+{
 	"id":"tlvkr",
 	"name":"TLVK: RELOAD",
 	"description":"<a href=\"https://tlvkreload.gq/\" target=\"_blank\"><u>https://tlvkreload.gq/</u></a>."
