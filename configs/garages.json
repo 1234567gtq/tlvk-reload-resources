@@ -45,6 +45,11 @@
 		"nameEN":"New Year 2024"
 	},
 	{
+		"id":"new_new_year_2025",
+		"nameRU":"Новый Год 2025",
+		"nameEN":"New Year 2025"
+	},
+	{
 		"id":"new_halloween",
 		"nameRU":"Хэллоуин",
 		"nameEN":"Halloween"
