@@ -3015,6 +3015,7 @@
 { "id":"garage_old", "version":"2", "type":"models_a3d", "isLazy":true },
 { "id":"garage_new_birthday_to_2023", "version":"1", "type":"models", "isLazy":true },
 { "id":"garage_new_birthday_to_2024", "version":"1", "type":"models", "isLazy":true },
+{ "id":"garage_new_birthday_to_2025", "version":"1", "type":"models", "isLazy":true },
 { "id":"garage_new_new_year_2024", "version":"1", "type":"models", "isLazy":true },
 { "id":"garage_new_new_year_2025", "version":"1", "type":"models", "isLazy":true },
 { "id":"garage_new_new_year_2026", "version":"1", "type":"models", "isLazy":true },

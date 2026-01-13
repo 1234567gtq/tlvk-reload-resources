@@ -40,6 +40,11 @@
 		"nameEN":"TO Birthday - 15 years"
 	},
 	{
+		"id":"new_birthday_to_2025",
+		"nameRU":"День Рождения ТО - 16 лет",
+		"nameEN":"TO Birthday - 16 years"
+	},
+	{
 		"id":"new_new_year_2024",
 		"nameRU":"Новый Год 2024",
 		"nameEN":"New Year 2024"
