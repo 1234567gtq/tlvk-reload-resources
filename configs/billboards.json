@@ -20,6 +20,11 @@
 		"nameEN":"Standard (old)"
 	},
 	{
+		"id":"standard_old_logo",
+		"nameRU":"Стандартный (старый, с танком)",
+		"nameEN":"Standard (old, with tank)"
+	},
+	{
 		"id":"reloaded",
 		"nameRU":"Стандартный (ремастер)",
 		"nameEN":"Standard (remaster)"

@@ -3791,6 +3791,7 @@
 { "id":"billboard_standard", "version":"1", "type":"textures" },
 { "id":"billboard_standard_without_logo", "version":"1", "type":"textures" },
 { "id":"billboard_standard_old", "version":"1", "type":"textures" },
+{ "id":"billboard_standard_old_logo", "version":"1", "type":"textures" },
 { "id":"billboard_reloaded", "version":"1", "type":"textures" },
 { "id":"billboard_standard_summer_2012", "version":"1", "type":"textures" },
 { "id":"billboard_standard_winter_2012", "version":"1", "type":"textures" },
