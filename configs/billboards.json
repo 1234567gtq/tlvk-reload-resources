@@ -1,8 +1,8 @@
 [
    {	
-		"id":"new_year_2026",
-		"nameRU":"Новый Год 2026",
-		"nameEN":"New Year 2026"
+		"id":"winter_festival_2026",
+		"nameRU":"Зимний фестиваль 2026",
+		"nameEN":"Winter Festival 2026"
 	},
 	{
 		"id":"standard",
@@ -248,6 +248,11 @@
 		"id":"new_year_2025",
 		"nameRU":"Новый Год 2025",
 		"nameEN":"New Year 2025"
+	},
+	{	
+		"id":"new_year_2026",
+		"nameRU":"Новый Год 2026",
+		"nameEN":"New Year 2026"
 	},
 	{	
 		"id":"spring_fever_2024",
