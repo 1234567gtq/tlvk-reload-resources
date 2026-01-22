@@ -5601,6 +5601,13 @@
 	"description":"TODO"
 },
 {
+	"id":"winter_comfort",
+	"nameRU":"Зимний уют",
+	"nameEN":"Winter comfort",
+	"descriptionRU":"Самый тёплый, мягкий и по-настоящему ламповый свитер, созданный для холодных зимних вечеров.",
+	"descriptionEN":"The warmest, softest and most modern sweater, created for cold winter evenings."
+},
+{
 	"id":"tlvkr_halloween",
 	"nameRU":"TLVK: RELOAD (Хэллоуин)",
 	"nameEN":"TLVK: RELOAD (Halloween)",

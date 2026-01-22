@@ -2751,6 +2751,8 @@
 { "id":"paint_neo-cubes", "version":"1", "type":"textures" },
 { "id":"paint_organizer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_organizer", "version":"1", "type":"textures" },
+{ "id":"paint_winter_comfort_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_winter_comfort", "version":"1", "type":"textures" },
 { "id":"paint_specular_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_specular", "version":"1", "type":"textures" },
 { "id":"paint_spots_preview", "version":"1", "type":"images", "isLazy":true },
