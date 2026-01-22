@@ -677,7 +677,7 @@
 { "id":"hull_tanks_heavy_damaged", "version":"1", "type":"models" },
 { "id":"hull_tanks_heavy_alternativa", "version":"1", "type":"models" },
 { "id":"hull_rem_tanker_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"hull_rem_tanker_hd", "version":"1", "type":"models" },
+{ "id":"hull_tanks_test", "version":"1", "type":"models" },
 { "id":"hull_rem_tanker_hd_closed", "version":"1", "type":"models" },
 { "id":"hull_rem_tanker_hd_full_closed", "version":"1", "type":"models" },
 
