@@ -3334,17 +3334,6 @@
 				"icon":"standard",
 				"emissionColor":"8847360",
 				"emissionColorThreshold":"0.3"
-			},
-			{
-				"id":"test",
-				"nameRU":"Тяжёлый (Alternativa)",
-				"nameEN":"Heavy (Alternativa)",
-				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
-				"descriptionEN":"Standard factory settings without any special effects",
-				"isStandard":true,
-				"icon":"standard",
-				"emissionColor":"8847360",
-				"emissionColorThreshold":"0.3"
 			}
 		],
 		"devices":
