@@ -225,6 +225,21 @@
 		"mass":"2300"
 	},
 	{
+		"id":"tanker",
+		"nameRU":"Танкер",
+		"nameEN":"Tanker",
+		"health":4000,
+		"maxSpeed":"600",
+		"maxTurnSpeed":"1.396",
+		"acceleration":"1200",
+		"reverseAcceleration":"1200",
+		"sideAcceleration":"2500",
+		"turnAcceleration":"1.57",
+		"reverseTurnAcceleration":"6.283",
+		"damping":"2000",
+		"mass":"4000"
+	},
+	{
 		"id":"tanks",
 		"nameRU":"Корпус из «Tanks»",
 		"nameEN":"Hull from «Tanks»",
