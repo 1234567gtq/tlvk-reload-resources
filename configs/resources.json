@@ -949,7 +949,7 @@
 { "id":"turret_shaft_xt_fake", "version":"1", "type":"models" },
 { "id":"turret_shaft_tx_m2", "version":"2", "type":"models" },
 { "id":"turret_terminator_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"turret_terminator_m3", "version":"1", "type":"models" },
+{ "id":"turret_terminator_m3", "version":"2", "type":"models" },
 { "id":"turret_terminator_xt_fake", "version":"1", "type":"models" },
 { "id":"turret_terminator_xt_fake_ilya_star", "version":"1", "type":"models" },
 { "id":"turret_bonk_preview", "version":"1", "type":"images", "isLazy":true },
