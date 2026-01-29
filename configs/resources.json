@@ -650,7 +650,7 @@
 { "id":"hull_mammoth_tx_m2", "version":"2", "type":"models" },
 { "id":"hull_mammoth_tx_sp", "version":"2", "type":"models" },
 { "id":"hull_juggernaut_preview", "version":"1", "type":"images", "isLazy":true },
-{ "id":"hull_juggernaut_m3", "version":"2", "type":"models" },
+{ "id":"hull_juggernaut_m3", "version":"3", "type":"models" },
 { "id":"hull_juggernaut_xt_fake", "version":"2", "type":"models" },
 { "id":"hull_juggernaut_xt_fake_ilya_star", "version":"2", "type":"models" },
 { "id":"hull_sonic_preview", "version":"1", "type":"images", "isLazy":true },
