@@ -3811,6 +3811,7 @@
 { "id":"billboard_chinise_new_year_2022", "version":"1", "type":"textures" },
 { "id":"billboard_lunar_new_year_2024", "version":"1", "type":"textures" },
 { "id":"billboard_chinese_new_year_2025", "version":"1", "type":"textures" },
+{ "id":"billboard_chinese_new_year_2026", "version":"1", "type":"textures" },
 { "id":"billboard_circus_day_2022", "version":"1", "type":"textures" },
 { "id":"billboard_cosmonautics_day", "version":"1", "type":"textures" },
 { "id":"billboard_cosmonautics_day_2023", "version":"1", "type":"textures" },

@@ -1,8 +1,8 @@
 [
    {	
-		"id":"winter_festival_2026",
-		"nameRU":"Зимний фестиваль 2026",
-		"nameEN":"Winter Festival 2026"
+		"id":"chinese_new_year_2026",
+		"nameRU":"Китайский Новый Год 2026",
+		"nameEN":"Chinese New Year 2026"
 	},
 	{
 		"id":"standard",
@@ -438,6 +438,11 @@
 		"id":"winter_festival_2024",
 		"nameRU":"Зимний фестиваль 2024",
 		"nameEN":"Winter Festival 2024"
+	},
+	 {	
+		"id":"winter_festival_2026",
+		"nameRU":"Зимний фестиваль 2026",
+		"nameEN":"Winter Festival 2026"
 	},
 	{
 		"id":"8_march_2021",
