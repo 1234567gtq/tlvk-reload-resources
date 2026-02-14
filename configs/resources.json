@@ -3902,6 +3902,7 @@
 { "id":"billboard_araumi", "version":"1", "type":"textures" },
 { "id":"billboard_tlvk_reload", "version":"1", "type":"textures" },
 { "id":"billboard_tlvk_reload_4_years", "version":"1", "type":"textures" },
+{ "id":"billboard_tlvk_reload_6_years", "version":"1", "type":"textures" },
 { "id":"billboard_vint", "version":"1", "type":"textures" },
 { "id":"billboard_tx_antaeus", "version":"1", "type":"textures" },
 { "id":"billboard_tx_frontier", "version":"1", "type":"textures" },
