@@ -525,6 +525,7 @@
 { "id":"hull_hopper_hd", "version":"2", "type":"models" },
 { "id":"hull_hopper_xt", "version":"2", "type":"models" },
 { "id":"hull_hopper_rt", "version":"1", "type":"models" },
+{ "id":"hull_hopper_dk", "version":"1", "type":"models_a3d" },
 { "id":"hull_viking_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"hull_viking_hd", "version":"2", "type":"models" },
 { "id":"hull_viking_hd_without_side_armor", "version":"2", "type":"models" },
