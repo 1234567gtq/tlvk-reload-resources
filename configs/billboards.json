@@ -1,8 +1,8 @@
 [
    {	
-		"id":"chinese_new_year_2026",
-		"nameRU":"Китайский Новый Год 2026",
-		"nameEN":"Chinese New Year 2026"
+		"id":"global_warming_2026",
+		"nameRU":"Глобальное потепление 2026",
+		"nameEN":"Global warming 2026"
 	},
 	{
 		"id":"standard",
@@ -88,6 +88,11 @@
 		"id":"chinese_new_year_2025",
 		"nameRU":"Китайский Новый Год 2025",
 		"nameEN":"Chinese New Year 2025"
+	},
+	{	
+		"id":"chinese_new_year_2026",
+		"nameRU":"Китайский Новый Год 2026",
+		"nameEN":"Chinese New Year 2026"
 	},
 	{	
 		"id":"circus_day_2022",
