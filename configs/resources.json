@@ -2721,6 +2721,9 @@
 { "id":"paint_womens_day_2016", "version":"1", "type":"textures" },
 { "id":"paint_ufo_day_2018_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_ufo_day_2018", "version":"1", "type":"textures" },
+{ "id":"paint_miner_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_miner", "version":"1", "type":"textures" },
+
 
 { "id":"paint_apple_company_preview", "version":"2", "type":"images", "isLazy":true },
 { "id":"paint_apple_company", "version":"1", "type":"textures" },

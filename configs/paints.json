@@ -5494,6 +5494,13 @@
 	"descriptionEN":"A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically."
 },
 {
+	"id":"miner",
+	"nameRU":"Минёр",
+	"nameEN":"Miner",
+	"descriptionRU":"В каждой клетке может таиться опасность! Эта краска не прощает случайных кликов — она для тех, кто видит поле насквозь. Строго, дорого и смертельно опасно. Для избранных игроков, которые предпочитает рисковать со вкусом.",
+	"descriptionEN":"Danger may lurk in every cell! This paint doesn't forgive accidental clicks — it's for those who see right through the field. Strict, expensive, and deadly dangerous. For elite players who prefer to take risks with style."
+},
+{
 	"id":"apple_company",
 	"nameRU":"Компания «Apple»",
 	"nameEN":"«Apple» company",
