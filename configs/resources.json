@@ -3902,6 +3902,7 @@
 { "id":"billboard_standard_new_logo", "version":"1", "type":"textures" },
 { "id":"billboard_thunder", "version":"2", "type":"textures" },
 { "id":"billboard_vasya_was_here", "version":"1", "type":"textures" },
+{ "id":"billboard_beer_hazel", "version":"1", "type":"textures" },
 { "id":"billboard_viking", "version":"2", "type":"textures" },
 { "id":"billboard_viking_thunder", "version":"1", "type":"textures" },
 { "id":"billboard_woodhouse_cafe", "version":"1", "type":"textures" },

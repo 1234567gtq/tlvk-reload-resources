@@ -512,6 +512,11 @@
 		"nameEN":"Vasya was here"
 	},
 	{
+		"id":"beer_hazel",
+		"nameRU":"Пивной Орех",
+		"nameEN":"Beer Hazel"
+	},
+	{
 		"id":"viking",
 		"nameRU":"Викинг",
 		"nameEN":"Viking"
