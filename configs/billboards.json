@@ -1,8 +1,8 @@
 [
-   {	
-		"id":"global_warming_2026",
-		"nameRU":"Глобальное потепление 2026",
-		"nameEN":"Global warming 2026"
+   	{	
+		"id":"fool_days_2026",
+		"nameRU":"1 апреля 2026",
+		"nameEN":"Fool Days 2026"
 	},
 	{
 		"id":"standard",
@@ -268,6 +268,11 @@
 		"id":"spring_festival_2025",
 		"nameRU":"Весенний фестиваль 2025",
 		"nameEN":"Spring Festival 2025"
+	},
+	{	
+		"id":"global_warming_2026",
+		"nameRU":"Глобальное потепление 2026",
+		"nameEN":"Global warming 2026"
 	},
 	{	
 		"id":"star_week",
