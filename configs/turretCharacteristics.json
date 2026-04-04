@@ -79,6 +79,11 @@
 		"maxSpeed":"1.571",
 		"acceleration":"1.571"
 	},
+	{	
+		"id":"tsunami",
+		"maxSpeed":"1.571",
+		"acceleration":"1.571"
+	},
 	{
 		"id":"terminator",
 		"maxSpeed":"1.745",
