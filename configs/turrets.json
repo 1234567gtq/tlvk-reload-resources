@@ -4343,8 +4343,8 @@
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
 				"icon":"standard",
-				"emissionColor":"16711680",
-				"emissionColorThreshold":"0.1"
+				"emissionColor":"643071",
+				"emissionColorThreshold":"0.6"
 			}
 		],
 		"devices":
