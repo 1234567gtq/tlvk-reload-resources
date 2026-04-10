@@ -1,8 +1,8 @@
 [
    	{	
-		"id":"fool_days_2026",
-		"nameRU":"1 апреля 2026",
-		"nameEN":"Fool Days 2026"
+		"id":"cosmonautics_day_2026",
+		"nameRU":"День космонавтики 2026",
+		"nameEN":"Cosmonautics Day 2026"
 	},
 	{
 		"id":"standard",
@@ -168,6 +168,11 @@
 		"id":"1_april_2024",
 		"nameRU":"День смеха 2024",
 		"nameEN":"Fools' Day 2024"
+	},
+		{	
+		"id":"fool_days_2026",
+		"nameRU":"1 апреля 2026",
+		"nameEN":"Fool Days 2026"
 	},
 	{	
 		"id":"halloween_2018",

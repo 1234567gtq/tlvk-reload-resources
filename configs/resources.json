@@ -3825,6 +3825,7 @@
 { "id":"billboard_cosmonautics_day", "version":"1", "type":"textures" },
 { "id":"billboard_cosmonautics_day_2023", "version":"1", "type":"textures" },
 { "id":"billboard_cosmonautics_day_2024", "version":"1", "type":"textures" },
+{ "id":"billboard_cosmonautics_day_2026", "version":"1", "type":"textures" },
 { "id":"billboard_day_of_the_dead_2021", "version":"1", "type":"textures" },
 { "id":"billboard_day_of_the_dead_2023", "version":"1", "type":"textures" },
 { "id":"billboard_day_of_the_dead_2024", "version":"1", "type":"textures" },
