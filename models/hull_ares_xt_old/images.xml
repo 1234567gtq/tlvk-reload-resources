@@ -1,0 +1,4 @@
+<images>
+	<image name="lightmap" new-name="hull.jpg"/>
+	<image name="details" new-name="hull.png"/>
+</images>

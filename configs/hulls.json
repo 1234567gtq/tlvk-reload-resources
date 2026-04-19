@@ -2014,6 +2014,15 @@
 				"descriptionRU":"Легендарный парящий корпус в особом облике! При создании элитного XT-скина для Ареса были применены новейшие технологии, неизвестный сплав с засекреченным химическим составом и очень много чистейшего золота — всё ради эксклюзивности и элегантности. Как правило, обладатели элитного Ареса XT — очень занятые танкисты, которые не любят, когда их тревожат. Так что если посчастливится встретить их в бою — фотографируйте издали и не забудьте отключить вспышку.",
 				"descriptionEN":"A legendary hovering hull in a very special appearance! In the creation of this elite XT skin for Ares, the latest technology, an unknown alloy with classified chemical composition, and a lot of pure gold were used in order to make this skin even more exclusive and elegant. As a general rule, owners of this elite Ares XT skin are busy tankers who don't like being disturbed. If you see one of them in a battle, take a picture from a distance and don't use flash!",
 				"icon":"xt",
+				"emissionColor":"16729344",
+				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"xt_old",
+				"name":"XT (Old)",
+				"descriptionRU":"Легендарный парящий корпус в особом облике! При создании элитного XT-скина для Ареса были применены новейшие технологии, неизвестный сплав с засекреченным химическим составом и очень много чистейшего золота — всё ради эксклюзивности и элегантности. Как правило, обладатели элитного Ареса XT — очень занятые танкисты, которые не любят, когда их тревожат. Так что если посчастливится встретить их в бою — фотографируйте издали и не забудьте отключить вспышку.",
+				"descriptionEN":"A legendary hovering hull in a very special appearance! In the creation of this elite XT skin for Ares, the latest technology, an unknown alloy with classified chemical composition, and a lot of pure gold were used in order to make this skin even more exclusive and elegant. As a general rule, owners of this elite Ares XT skin are busy tankers who don't like being disturbed. If you see one of them in a battle, take a picture from a distance and don't use flash!",
+				"icon":"xt",
 				"emissionColor":"255",
 				"emissionColorThreshold":"0.4"
 			},
