@@ -1,8 +1,8 @@
 [
-   	{	
-		"id":"cosmonautics_day_2026",
-		"nameRU":"День космонавтики 2026",
-		"nameEN":"Cosmonautics Day 2026"
+   {	
+		"id":"may_holidays_2026",
+		"nameRU":"Майские праздники 2026",
+		"nameEN":"May Holidays 2026"
 	},
 	{
 		"id":"standard",
@@ -113,6 +113,11 @@
 		"id":"cosmonautics_day_2024",
 		"nameRU":"День космонавтики 2024",
 		"nameEN":"Cosmonautics Day 2024"
+	},
+	{	
+		"id":"cosmonautics_day_2026",
+		"nameRU":"День космонавтики 2026",
+		"nameEN":"Cosmonautics Day 2026"
 	},
 	{	
 		"id":"day_of_the_dead_2021",
