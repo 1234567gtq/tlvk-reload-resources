@@ -1608,6 +1608,8 @@
 { "id":"paint_galacticus", "version":"1", "type":"textures" },
 { "id":"paint_space-time_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_space-time", "version":"1", "type":"textures" },
+{ "id":"paint_armor_blocks_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_armor_blocks", "version":"1", "type":"textures" },
 { "id":"paint_gamepad_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_gamepad", "version":"1", "type":"textures" },
 { "id":"paint_gamer_preview", "version":"1", "type":"images", "isLazy":true },

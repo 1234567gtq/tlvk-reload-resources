@@ -2025,6 +2025,13 @@
 	"descriptionEN":"A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages."
 },
 {
+	"id":"armor_blocks",
+	"nameRU":"Бронеблоки",
+	"nameEN":"Armor Blocks",
+	"descriptionRU":"Эта краска создана для тех, кто любит зрелищную игру, точный расчёт и удовольствие от красивой победы. Стильная, яркая и эффектная. Для танкистов, которые превращают бой в победную комбинацию.",
+	"descriptionEN":"This paint is made for those who love a spectacular game, precise calculation, and the pleasure of a beautiful victory. Stylish, bright, and striking. For tankers who turn every battle into a winning combination."
+},
+{
 	"id":"gamepad",
 	"nameRU":"Геймпад",
 	"nameEN":"Gamepad",
