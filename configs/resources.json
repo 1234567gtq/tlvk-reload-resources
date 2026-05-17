@@ -582,6 +582,7 @@
 { "id":"hull_paladin_hd", "version":"2", "type":"models" },
 { "id":"hull_paladin_xt", "version":"2", "type":"models" },
 { "id":"hull_paladin_rt", "version":"2", "type":"models" },
+{ "id":"hull_paladin_dk", "version":"1", "type":"models_a3d" },
 { "id":"hull_dictator_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"hull_dictator_hd", "version":"2", "type":"models" },
 { "id":"hull_dictator_hd_without_side_armor", "version":"2", "type":"models" },
