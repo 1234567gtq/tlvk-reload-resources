@@ -1,0 +1,4 @@
+<images>
+<image name="lightmap" new-name="turret.jpg"/>
+<image name="details" new-name="turret.png"/>
+</images>

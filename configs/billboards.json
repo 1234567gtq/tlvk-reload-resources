@@ -1,8 +1,8 @@
 [
-   {	
-		"id":"may_holidays_2026",
-		"nameRU":"Майские праздники 2026",
-		"nameEN":"May Holidays 2026"
+   {
+		"id":"17_years",
+		"nameRU":"День рождения ТО – 17 лет",
+		"nameEN":"TO Birthday – 17 years"
 	},
 	{
 		"id":"standard",
@@ -233,6 +233,11 @@
 		"id":"may_holidays_2024",
 		"nameRU":"Майские праздники 2024",
 		"nameEN":"May Holidays 2024"
+	},
+	{	
+		"id":"may_holidays_2026",
+		"nameRU":"Майские праздники 2026",
+		"nameEN":"May Holidays 2026"
 	},
 	{	
 		"id":"new_year_2016",
