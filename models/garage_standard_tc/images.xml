@@ -1,8 +1,8 @@
 <images>
-<image name="Details.png" new-name="Details.png"/>
-<image name="Floor.png" new-name="Floor.png"/>
-<image name="Outdoors.png" new-name="Outdoors.png"/>
-<image name="Platform.png" new-name="Platform.png"/>
+<image name="Details.png" new-name="Details.jpg"/>
+<image name="Floor.png" new-name="Floor.jpg"/>
+<image name="Outdoors.png" new-name="Outdoors.jpg"/>
+<image name="Platform.png" new-name="Platform.jpg"/>
 <image name="Tsp_objects.png" new-name="Tsp_objects.png"/>
-<image name="Walls.png" new-name="Walls.png"/>
+<image name="Walls.png" new-name="Walls.jpg"/>
 </images>
