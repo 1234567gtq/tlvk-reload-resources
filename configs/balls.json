@@ -18,5 +18,10 @@
 		"id":"easter",
 		"nameRU":"Пасха",
 		"nameEN":"Easter"
+	},
+	{
+		"id":"hazel",
+		"nameRU":"Орех",
+		"nameEN":"Hazel"
 	}
 ]

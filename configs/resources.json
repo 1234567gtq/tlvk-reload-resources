@@ -447,6 +447,7 @@
 { "id":"ball_old_blue", "version":"1", "type":"models" },
 { "id":"ball_old_green", "version":"1", "type":"models" },
 { "id":"ball_easter", "version":"1", "type":"models" },
+{ "id":"ball_hazel", "version":"1", "type":"models" },
 
 { "id":"sound_ball_take", "version":"1", "type":"sounds" },
 { "id":"sound_ball_drop", "version":"1", "type":"sounds" },
