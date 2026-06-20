@@ -242,6 +242,8 @@
 	"INCREASE":"Increase to max speed (%)",
 	"COLOR":"Color (decimal)",
 	
+	"TURN_MAX_SPEED":"Max turn speed (cm/s)",
+	"TURN_ACCELERATION":"Turn acceleration (cm/s²)",
 	"MIN_BARREL_ANGLE":"Minimal barrel degree (rad)",
 	"MAX_BARREL_ANGLE":"Maximum barrel degree (rad)",
 	
