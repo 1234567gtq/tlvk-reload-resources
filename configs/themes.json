@@ -236,5 +236,22 @@
 		"dustAlpha":0.9,
 		"dustResource":"hull_dust_winter",
 		"ssaoColor":2045258
+	},
+	{
+		"id":"pitch_darkness",
+		"nameRU":"Кромешная тьма",
+		"nameEN":"Pitch Darkness",
+		"ambientSoundResource":"sound_ambient_summer_day",
+		"gravity":1000,
+		"fogColor":0,
+		"fogAlpha":0,
+		"lightColor":0,
+		"shadowColor":0,
+		"angleX":0,
+		"angleZ":0,
+		"dustSize":180,
+		"dustAlpha":0.75,
+		"dustResource":"hull_dust_summer",
+		"ssaoColor":0
 	}
 ]
