@@ -1,8 +1,8 @@
 [
    {
-		"id":"17_years",
-		"nameRU":"День рождения ТО – 17 лет",
-		"nameEN":"TO Birthday – 17 years"
+		"id":"ufo_day_2026",
+		"nameRU":"День НЛО 2026",
+        "nameEN":"UFO Day 2026"
 	},
 	{
 		"id":"standard",
@@ -393,6 +393,11 @@
 		"id":"15_years",
 		"nameRU":"День рождения ТО – 15 лет",
 		"nameEN":"TO Birthday – 15 years"
+	},
+	{
+		"id":"17_years",
+		"nameRU":"День рождения ТО – 17 лет",
+		"nameEN":"TO Birthday – 17 years"
 	},
 	{
 		"id":"ufo_day_2021",
