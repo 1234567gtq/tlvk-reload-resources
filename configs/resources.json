@@ -319,6 +319,7 @@
 { "id":"bonus_gold_container_hd", "version":"1", "type":"models" },
 { "id":"bonus_gold_megagold_hd", "version":"1", "type":"models" },
 { "id":"bonus_gold_ruby_megagold_hd", "version":"1", "type":"models" },
+{ "id":"bonus_gold_ufo_day_2026", "version":"1", "type":"models_a3d" },
 { "id":"bonus_repair_kit_release_284", "version":"1", "type":"models" },
 { "id":"bonus_boosted_armor_release_284", "version":"1", "type":"models" },
 { "id":"bonus_boosted_damage_release_284", "version":"1", "type":"models" },

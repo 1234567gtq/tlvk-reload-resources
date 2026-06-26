@@ -60,6 +60,12 @@
 		"nameEN":"Ruby Megagold (standard)"
 	},
 	{
+		"type":"gold",
+		"id":"gold_ufo_day_2026",
+		"nameRU":"Золотой ящик (День НЛО 2026)",
+		"nameEN":"Gold Box (UFO Day 2026)"
+	},
+	{
 		"type":"repair_kit",
 		"id":"release_284",
 		"nameRU":"Ремкомплект (релиз 284)",
