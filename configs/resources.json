@@ -958,6 +958,7 @@
 { "id":"turret_tsunami_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"turret_tsunami_hd", "version":"1", "type":"models_a3d" },
 { "id":"turret_tsunami_xt", "version":"1", "type":"models_a3d" },
+{ "id":"turret_tsunami_dk", "version":"1", "type":"models_a3d" },
 { "id":"turret_terminator_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"turret_terminator_m3", "version":"2", "type":"models" },
 { "id":"turret_terminator_xt_fake", "version":"1", "type":"models" },
