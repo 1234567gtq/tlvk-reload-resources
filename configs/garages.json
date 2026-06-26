@@ -1,9 +1,5 @@
 [
-	{
-		"id":"new_birthday_to_2026",
-		"nameRU":"День Рождения ТО - 17 лет",
-		"nameEN":"TO Birthday - 17 years"
-	},
+
 	{
 		"id":"new_standard",
 		"nameRU":"Стандартный",
@@ -43,6 +39,11 @@
 		"id":"new_birthday_to_2025",
 		"nameRU":"День Рождения ТО - 16 лет",
 		"nameEN":"TO Birthday - 16 years"
+	},
+	{
+		"id":"new_birthday_to_2026",
+		"nameRU":"День Рождения ТО - 17 лет",
+		"nameEN":"TO Birthday - 17 years"
 	},
 	{
 		"id":"new_new_year_2024",
