@@ -2032,6 +2032,13 @@
 	"descriptionEN":"This paint is made for those who love a spectacular game, precise calculation, and the pleasure of a beautiful victory. Stylish, bright, and striking. For tankers who turn every battle into a winning combination."
 },
 {
+	"id":"office",
+	"nameRU":"Офис",
+	"nameEN":"Office",
+	"descriptionRU":"Дресс-код соблюдён, боевой настрой — тоже. Пора показать, кто здесь лучший сотрудник!",
+	"descriptionEN":"Dress code: checked. Combat readiness: checked. Time to show who the best employee around here really is!"
+},
+{
 	"id":"gamepad",
 	"nameRU":"Геймпад",
 	"nameEN":"Gamepad",
