@@ -1,0 +1,849 @@
+{
+  "flamethrower": [
+    {
+      "id": "standard"
+    },
+    {
+      "id": "high_pressure_pump",
+      "range": "mul:1.5",
+      "coneAngle": "mul:0.25"
+    },
+    {
+      "id": "compact_fuel_tanks",
+      "temperatureLimit": "mul:2.0",
+      "heatingSpeed": "mul:2.0",
+      "chargeRate": "mul:0.5",
+      "dischargeDamageRate": "mul:1.5"
+    },
+    {
+      "id": "incendiary_mix",
+      "heatingSpeed": "set:0.0"
+    },
+    {
+      "id": "paralyzing_mix",
+      "heatingSpeed": "mul:0.3"
+    },
+    {
+      "id": "critical_mix",
+      "criticalHitChance": "mul:5.0"
+    }
+  ],
+  "freeze": [
+    {
+      "id": "standard"
+    },
+    {
+      "id": "high_pressure_pump",
+      "range": "mul:1.5",
+      "coneAngle": "mul:0.25"
+    },
+    {
+      "id": "corrosive_mix",
+      "heatingSpeed": "set:0.0"
+    },
+    {
+      "id": "shock_freeze",
+      "heatingSpeed": "mul:2.0",
+      "criticalHitChance": "set:0.0"
+    },
+    {
+      "id": "paralyzing_mix",
+      "heatingSpeed": "mul:0.3"
+    },
+    {
+      "id": "critical_mix_freeze",
+      "criticalHitChance": "mul:7.0",
+      "heatingSpeed": "mul:0.5"
+    }
+  ],
+  "isida": [
+    {
+      "id": "standard"
+    },
+    {
+      "id": "broadband_radiators",
+      "coneAngle": "mul:3.0",
+      "range": "mul:0.75"
+    },
+    {
+      "id": "vampire_nanobots",
+      "criticalHitChance": "set:0.0"
+    },
+    {
+      "id": "stunning_nanobots"
+    },
+    {
+      "id": "sustainable_nanobots",
+      "range": "mul:2.0",
+      "coneAngle": "mul:0.4",
+      "dischargeDamageRate": "mul:1.5"
+    }
+  ],
+  "tesla": [
+    {
+      "id": "standard"
+    },
+    {
+      "id": "minus_field",
+      "maxRicochetAngle": "set:0.0",
+      "maxRicochetCount": "set:10.0"
+    },
+    {
+      "id": "acceleration_protocol",
+      "shellRange": "mul:2.0",
+      "shellSpeed": "mul:2.0"
+    },
+    {
+      "id": "dilatory_protocol",
+      "shellSpeed": "set:100.0",
+      "shellRange": "mul:0.5",
+      "reloadTime": "mul:2.5"
+    },
+    {
+      "id": "electroturret",
+      "shellSpeed": "set:7500.0",
+      "shellRange": "set:100000.0",
+      "globeLightningPreparingTime": "mul:2.0"
+    },
+    {
+      "id": "exothermic_lightning",
+      "maxRicochetAngle": "set:0.0",
+      "maxRicochetCount": "set:10.0"
+    },
+    {
+      "id": "endothermic_lightning",
+      "maxRicochetAngle": "set:0.0",
+      "maxRicochetCount": "set:10.0"
+    },
+    {
+      "id": "shocking_lightning",
+      "maxRicochetAngle": "set:0.0",
+      "maxRicochetCount": "set:10.0"
+    }
+  ],
+  "hammer": [
+    {
+      "id": "standard"
+    },
+    {
+      "id": "slugger",
+      "rangeOfMinDamage": "mul:1.25",
+      "coneVerticalAngle": "mul:0.5",
+      "coneHorizontalAngle": "mul:0.25"
+    },
+    {
+      "id": "high_capacity_ammo_clip",
+      "magazineSize": "set:5.0",
+      "magazineReloadTime": "mul:1.2"
+    },
+    {
+      "id": "duplet",
+      "reloadTime": "mul:0.2",
+      "magazineReloadTime": "mul:1.25",
+      "magazineSize": "set:2.0"
+    },
+    {
+      "id": "blunderbuss",
+      "criticalHitChance": "set:50.0",
+      "magazineSize": "set:1.0",
+      "rangeOfMinDamage": "mul:0.7",
+      "rangeOfMaxDamage": "mul:0.7",
+      "coneHorizontalAngle": "mul:2.0"
+    },
+    {
+      "id": "revolver",
+      "magazineSize": "set:6.0",
+      "reloadTime": "mul:0.95",
+      "magazineReloadTime": "mul:1.25",
+      "criticalHitChance": "set:33.0"
+    },
+    {
+      "id": "dragons_breath"
+    },
+    {
+      "id": "wyverns_breath"
+    },
+    {
+      "id": "stunning_pellets"
+    },
+    {
+      "id": "assault_magazine",
+      "reloadTime": "mul:0.25",
+      "magazineReloadTime": "mul:0.75",
+      "recoilForce": "mul:0.2",
+      "pelletForce": "mul:0.2",
+      "criticalHitChance": "mul:0.5",
+      "pelletCount": "set:10.0"
+    },
+    {
+      "id": "large_caliber_pellets",
+      "reloadTime": "mul:1.8",
+      "magazineReloadTime": "mul:1.7"
+    },
+    {
+      "id": "heavy_slugger",
+      "coneHorizontalAngle": "mul:0.25",
+      "coneVerticalAngle": "mul:0.5",
+      "rangeOfMinDamage": "mul:2.0",
+      "rangeOfMaxDamage": "mul:2.0",
+      "maxSpeed": "mul:0.65",
+      "acceleration": "mul:0.65"
+    },
+    {
+      "id": "hunter_duplet",
+      "coneHorizontalAngle": "mul:0.5",
+      "reloadTime": "mul:0.2",
+      "rangeOfMinDamage": "mul:2.0",
+      "magazineReloadTime": "mul:1.25",
+      "magazineSize": "set:2.0"
+    }
+  ],
+  "twins": [
+    {
+      "id": "standard"
+    },
+    {
+      "id": "stabilized_plasma",
+      "impactForce": "mul:1.2",
+      "shellSpeed": "mul:1.2"
+    },
+    {
+      "id": "plasma_accelerators",
+      "shellSpeed": "mul:2.0",
+      "range": "mul:2.0",
+      "reloadTime": "mul:1.2"
+    },
+    {
+      "id": "heavy_plasmagun",
+      "shellSpeed": "mul:0.55"
+    },
+    {
+      "id": "plasma_turbo_accelerators",
+      "shellSpeed": "mul:3.0",
+      "range": "mul:2.0",
+      "reloadTime": "mul:0.5",
+      "recoilForce": "mul:0.2",
+      "impactForce": "mul:0.3"
+    },
+    {
+      "id": "vaporizer"
+    },
+    {
+      "id": "cryotron"
+    },
+    {
+      "id": "tectonic_plasma"
+    },
+    {
+      "id": "plasmatron",
+      "shellSpeed": "mul:2.0",
+      "reloadTime": "mul:4.0"
+    }
+  ],
+  "ricochet": [
+    {
+      "id": "standard"
+    },
+    {
+      "id": "destabilized_plasma",
+      "maxRicochetCount": "set:1.0"
+    },
+    {
+      "id": "minus_field_stabilization",
+      "shellSpeed": "mul:2.0",
+      "range": "mul:2.0",
+      "reloadTime": "mul:1.1"
+    },
+    {
+      "id": "plasma_torch",
+      "reloadTime": "mul:0.5",
+      "energyPerShot": "mul:0.7",
+      "recoilForce": "mul:0.5",
+      "shellSpeed": "mul:0.5",
+      "maxRicochetCount": "set:1.0"
+    },
+    {
+      "id": "helios",
+      "reloadTime": "mul:0.2",
+      "range": "mul:2.0",
+      "shellSpeed": "mul:1.5",
+      "recoilForce": "mul:0.2",
+      "energyPerShot": "mul:0.85",
+      "energyRechargeRate": "mul:0.55",
+      "impactForce": "mul:0.2",
+      "maxRicochetCount": "set:1.0"
+    },
+    {
+      "id": "sizzling_field"
+    },
+    {
+      "id": "cryo_field"
+    },
+    {
+      "id": "tectonic_field"
+    }
+  ],
+  "smoky": [
+    {
+      "id": "standard"
+    },
+    {
+      "id": "assault_rounds",
+      "impactForce": "mul:1.35",
+      "shellSpeed": "mul:1.5",
+      "criticalHitChance": "set:0.0"
+    },
+    {
+      "id": "high_precision_aiming_system",
+      "reloadTime": "mul:2.0",
+      "shellSpeed": "mul:0.7"
+    },
+    {
+      "id": "supercumulative_rounds",
+      "criticalHitChance": "mul:0.4"
+    },
+    {
+      "id": "autocannon",
+      "reloadTime": "mul:0.5",
+      "recoilForce": "mul:0.75",
+      "criticalHitChance": "mul:0.85",
+      "impactForce": "mul:0.33"
+    },
+    {
+      "id": "rubberized_rounds_smoky",
+      "maxRicochetCount": "set:3.0",
+      "maxRicochetAngle": "set:0.087",
+      "shellSpeed": "mul:2.0"
+    },
+    {
+      "id": "explosive_rounds",
+      "maxRicochetCount": "set:0.0"
+    },
+    {
+      "id": "sorted_ammunition",
+      "reloadTime": "mul:0.9",
+      "criticalHitChance": "set:25.0"
+    },
+    {
+      "id": "incendiary_rounds_smoky"
+    },
+    {
+      "id": "cryo_rounds_smoky"
+    },
+    {
+      "id": "paralyzing_rounds"
+    },
+    {
+      "id": "hyperspeed_rounds",
+      "shellSpeed": "mul:2.0",
+      "weakDamage": "set:300.0",
+      "rangeOfMaxDamage": "mul:0.5",
+      "criticalHitChance": "set:0.0"
+    }
+  ],
+  "striker": [
+    {
+      "id": "standard"
+    },
+    {
+      "id": "remote_rocket_explosives",
+      "rocketMinSpeed": "set:2000.0",
+      "rocketBoostPhaseDuration": "set:1500.0"
+    },
+    {
+      "id": "missile_launcher_hunter",
+      "salvoAimingTime": "mul:0.25",
+      "salvoReloadTime": "mul:0.6",
+      "salvoSize": "set:1.0",
+      "salvoAimingGracePeriod": "mul:0.7"
+    },
+    {
+      "id": "missile_launcher_cyclone",
+      "salvoSize": "set:8.0",
+      "timeBetweenShotsOfSalvo": "mul:0.6",
+      "salvoAimingGracePeriod": "mul:1.5",
+      "salvoAimingTime": "mul:1.2"
+    },
+    {
+      "id": "missile_launcher_uranium",
+      "reloadTime": "mul:1.2",
+      "criticalHitChance": "set:0.0",
+      "rocketMaxSpeed": "set:12500.0",
+      "timeBetweenShotsOfSalvo": "mul:2.0"
+    },
+    {
+      "id": "incendiary_missiles"
+    },
+    {
+      "id": "cryo_missiles"
+    },
+    {
+      "id": "stunning_missiles"
+    },
+    {
+      "id": "missile_launcher_tandem",
+      "salvoAimingTime": "mul:0.25",
+      "rocketAngularVelocity": "mul:1.25",
+      "criticalHitChance": "mul:1.25",
+      "timeBetweenShotsOfSalvo": "set:0.0",
+      "salvoSize": "set:2.0"
+    },
+    {
+      "id": "missile_launcher_hydra",
+      "salvoSize": "set:20.0",
+      "timeBetweenShotsOfSalvo": "mul:0.8",
+      "salvoAimingTime": "mul:0.5",
+      "reloadTime": "mul:0.6",
+      "salvoReloadTime": "mul:2.0",
+      "rocketAngularVelocity": "set:0.052"
+    },
+    {
+      "id": "missile_launcher_faust",
+      "reloadTime": "mul:0.5",
+      "salvoAimingTime": "mul:0.5",
+      "timeBetweenShotsOfSalvo": "mul:0.5",
+      "range": "set:4000.0",
+      "salvoReloadTime": "mul:2.0"
+    },
+    {
+      "id": "vacuum_missiles",
+      "weakDamage": "set:250.0",
+      "rocketMinSpeed": "set:2000.0",
+      "rocketBoostPhaseDuration": "set:1500.0"
+    },
+    {
+      "id": "missile_launcher_meteor",
+      "rocketImpactForce": "mul:10.5",
+      "rocketMinSpeed": "set:9000.0",
+      "rocketMaxSpeed": "set:35000.0",
+      "timeBetweenShotsOfSalvo": "set:50.0"
+    }
+  ],
+  "vulcan": [
+    {
+      "id": "standard"
+    },
+    {
+      "id": "shooting_speed_regulator",
+      "criticalHitChance": "mul:1.5",
+      "spinUpTime": "mul:0.1",
+      "spinDownTime": "mul:0.1",
+      "reloadTime": "mul:1.5"
+    },
+    {
+      "id": "reinforced_aiming_transmission_vulcan",
+      "maxSpeed": "mul:1.5",
+      "acceleration": "mul:1.5",
+      "upwardAutoAim": "mul:0.2"
+    },
+    {
+      "id": "incendiary_band",
+      "temperatureHittingTime": "mul:0.25",
+      "shellSpeed": "mul:0.8",
+      "reloadTime": "mul:1.15"
+    },
+    {
+      "id": "rubberized_rounds_vulcan",
+      "maxRicochetCount": "set:5.0",
+      "maxRicochetAngle": "set:0.175",
+      "shellSpeed": "mul:0.9"
+    },
+    {
+      "id": "shredder",
+      "reloadTime": "mul:0.7",
+      "shellSpeed": "mul:1.5",
+      "spinUpTime": "mul:2.0",
+      "spinDownTime": "mul:2.0",
+      "weaponTurnDecelerationCoeff": "set:0.0"
+    },
+    {
+      "id": "explosive_band",
+      "maxRicochetAngle": "set:0.087"
+    },
+    {
+      "id": "large_caliber_vulcan",
+      "spinUpTime": "mul:0.8",
+      "spinDownTime": "mul:0.8",
+      "impactForce": "mul:4.0",
+      "reloadTime": "mul:2.0",
+      "recoilForce": "mul:2.0"
+    },
+    {
+      "id": "freezing_band"
+    },
+    {
+      "id": "stunning_band"
+    }
+  ],
+  "thunder": [
+    {
+      "id": "standard"
+    },
+    {
+      "id": "small_caliber_charging_machine",
+      "reloadTime": "mul:0.8"
+    },
+    {
+      "id": "subcaliber_rounds",
+      "reloadTime": "mul:0.9",
+      "shellSpeed": "mul:2.0",
+      "impactForce": "mul:1.25"
+    },
+    {
+      "id": "sledgehammer_rounds",
+      "rangeOfMaxDamage": "mul:0.4",
+      "rangeOfMinDamage": "mul:0.4",
+      "criticalHitChance": "set:0.0",
+      "shellSpeed": "mul:0.5"
+    },
+    {
+      "id": "strict_ammunition_load",
+      "reloadTime": "mul:0.8",
+      "criticalHitChance": "set:33.3"
+    },
+    {
+      "id": "salamander_shells"
+    },
+    {
+      "id": "wyvern_shells"
+    },
+    {
+      "id": "peacekeeper_shells"
+    },
+    {
+      "id": "hyperspeed_shells",
+      "shellSpeed": "mul:2.0",
+      "weakDamage": "set:300.0",
+      "rangeOfMaxDamage": "mul:0.5",
+      "criticalHitChance": "set:0.0"
+    },
+    {
+      "id": "adaptive_reload",
+      "reloadTime": "mul:1.15"
+    },
+    {
+      "id": "anvil_shells",
+      "rangeOfMaxDamage": "mul:0.4",
+      "rangeOfMinDamage": "mul:0.4"
+    }
+  ],
+  "scorpion": [
+    {
+      "id": "standard"
+    },
+    {
+      "id": "missile_launcher_wolfpack",
+      "rocketMaxSpeed": "set:7500.0",
+      "rocketMinSpeed": "set:2500.0",
+      "salvoSize": "set:6.0"
+    },
+    {
+      "id": "incendiary_shells"
+    },
+    {
+      "id": "cryo_shells"
+    },
+    {
+      "id": "stun_shells"
+    },
+    {
+      "id": "missile_launcher_tornado",
+      "salvoSize": "set:20.0",
+      "salvoReloadTime": "mul:0.5",
+      "salvoAimingGracePeriod": "mul:1.25",
+      "salvoAimingTime": "mul:2.0",
+      "timeBetweenShotsOfSalvo": "mul:1.3"
+    },
+    {
+      "id": "missile_launcher_swarm",
+      "salvoSize": "set:20.0",
+      "rocketAngularVelocity": "mul:5.0",
+      "salvoReloadTime": "mul:0.75",
+      "salvoAimingTime": "mul:0.5",
+      "timeBetweenShotsOfSalvo": "mul:0.7",
+      "rocketMinSpeed": "mul:0.34"
+    },
+    {
+      "id": "missile_launcher_spear",
+      "salvoReloadTime": "mul:0.5",
+      "salvoAimingTime": "mul:0.5",
+      "rocketMinSpeed": "mul:4.0",
+      "rocketMaxSpeed": "mul:2.0",
+      "rocketAngularVelocity": "mul:10.0",
+      "rocketBoostPhaseDuration": "mul:0.5",
+      "salvoSize": "set:4.0",
+      "timeBetweenShotsOfSalvo": "mul:1.3"
+    },
+    {
+      "id": "uranium_shells",
+      "maxRicochetCount": "set:3.0",
+      "maxRicochetAngle": "set:0.087",
+      "criticalHitChance": "set:33.0"
+    }
+  ],
+  "railgun": [
+    {
+      "id": "standard"
+    },
+    {
+      "id": "round_stabilization",
+      "weakeningCoeff": "set:100.0"
+    },
+    {
+      "id": "reinforced_aiming_transmission_railgun",
+      "maxSpeed": "mul:1.5",
+      "acceleration": "mul:1.5",
+      "downwardAutoAim": "mul:1.5",
+      "upwardAutoAim": "mul:1.5"
+    },
+    {
+      "id": "electromagnetic_accelerator_scout",
+      "chargingTime": "mul:0.85",
+      "reloadTime": "mul:0.85"
+    },
+    {
+      "id": "large_caliber_rounds",
+      "chargingTime": "mul:1.25",
+      "reloadTime": "mul:1.25"
+    },
+    {
+      "id": "round_destabilization",
+      "criticalHitChance": "set:50.0"
+    },
+    {
+      "id": "incendiary_rounds_railgun"
+    },
+    {
+      "id": "cryo_rounds_railgun"
+    },
+    {
+      "id": "stun_rounds"
+    },
+    {
+      "id": "hyperspace_rounds",
+      "weakeningCoeff": "mul:3.0",
+      "chargingTime": "mul:0.9",
+      "impactForce": "set:0.0",
+      "criticalHitChance": "set:0.0"
+    }
+  ],
+  "magnum": [
+    {
+      "id": "standard"
+    },
+    {
+      "id": "reinforced_gun_carriage",
+      "shellGravityCoeff": "mul:0.5"
+    },
+    {
+      "id": "automated_gunpowder_loading_mechanism",
+      "chargingTime": "mul:0.85"
+    },
+    {
+      "id": "harpoon",
+      "initialTurretAngle": "set:0.018",
+      "shellGravityCoeff": "set:0.017",
+      "speedsCount": "set:10.0",
+      "chargingTime": "mul:0.25",
+      "minShellSpeed": "mul:2.0",
+      "maxShellSpeed": "mul:1.5",
+      "impactForce": "mul:1.5",
+      "reloadTime": "mul:1.4",
+      "recoilForce": "mul:1.5"
+    },
+    {
+      "id": "mortar"
+    },
+    {
+      "id": "bombard",
+      "minBarrelAngle": "set:0.785",
+      "reloadTime": "mul:0.5",
+      "minShellSpeed": "mul:0.5",
+      "maxShellSpeed": "mul:0.5"
+    },
+    {
+      "id": "destroyer",
+      "initialTurretAngle": "set:0.105",
+      "recoilForce": "mul:1.33",
+      "impactForce": "mul:1.33",
+      "chargingTime": "mul:0.3",
+      "shellGravityCoeff": "mul:0.5",
+      "maxSpeed": "mul:0.5",
+      "acceleration": "mul:0.5",
+      "minShellSpeed": "mul:0.7",
+      "maxShellSpeed": "mul:0.5",
+      "reloadTime": "mul:1.8"
+    },
+    {
+      "id": "incendiary_core"
+    },
+    {
+      "id": "freezing_core"
+    },
+    {
+      "id": "stunning_core"
+    }
+  ],
+  "gauss": [
+    {
+      "id": "standard"
+    },
+    {
+      "id": "faster_horizontal_tracking",
+      "maxSpeed": "mul:2.0",
+      "acceleration": "mul:2.0",
+      "downwardAutoAim": "mul:1.5",
+      "upwardAutoAim": "mul:1.5"
+    },
+    {
+      "id": "hacked_aiming_processor",
+      "aimingGracePeriod": "set:10000.0"
+    },
+    {
+      "id": "large_caliber_gauss",
+      "reloadTime": "mul:1.54"
+    },
+    {
+      "id": "incendiary_salvo"
+    },
+    {
+      "id": "freezing_salvo"
+    },
+    {
+      "id": "stunning_salvo"
+    },
+    {
+      "id": "hyperspeed_shells",
+      "shellSpeed": "mul:2.0",
+      "weakDamage": "set:300.0",
+      "rangeOfMaxDamage": "mul:0.5",
+      "criticalHitChance": "set:0.0"
+    },
+    {
+      "id": "solenoid_cooling",
+      "powerShotReloadDurationMs": "mul:0.5",
+      "aimingTime": "mul:0.5"
+    }
+  ],
+  "shaft": [
+    {
+      "id": "standard"
+    },
+    {
+      "id": "short-band_emitter",
+      "reloadTime": "mul:1.34"
+    },
+    {
+      "id": "heavy_capacitors",
+      "chargeRate": "mul:1.25",
+      "dischargeRate": "mul:0.8",
+      "maxEnergy": "mul:2.0",
+      "minAimedShotEnergy": "mul:2.0"
+    },
+    {
+      "id": "light_capacitors",
+      "chargeRate": "mul:0.5",
+      "dischargeRate": "mul:1.2",
+      "maxEnergy": "mul:0.5",
+      "minAimedShotEnergy": "mul:0.5",
+      "horizontalTargetingSpeed": "mul:2.0"
+    },
+    {
+      "id": "incendiary_sight"
+    },
+    {
+      "id": "freezing_sight"
+    },
+    {
+      "id": "stunning_sight"
+    },
+    {
+      "id": "rapid-fire_mode",
+      "reloadTime": "mul:0.17",
+      "chargeRate": "mul:1.66",
+      "fastShotEnergy": "set:369.0",
+      "minAimedShotEnergy": "set:1000.0"
+    }
+  ],
+  "tsunami": [
+    {
+      "id": "standard"
+    }
+  ],
+  "terminator": [
+    {
+      "id": "standard"
+    }
+  ],
+  "bonk": [
+    {
+      "id": "standard"
+    },
+    {
+      "id": "standard_with_ability_rotate_turret"
+    }
+  ],
+  "snowman": [
+    {
+      "id": "standard"
+    }
+  ],
+  "tomato_gun": [
+    {
+      "id": "standard"
+    }
+  ],
+  "tanks": [
+    {
+      "id": "standard"
+    }
+  ],
+  "hulls": [
+    {
+      "id": "standard"
+    },
+    {
+      "id": "heat_resistance",
+      "heatMultiplier": "set:0.3"
+    },
+    {
+      "id": "cold_resistance",
+      "coldMultiplier": "set:0.3"
+    },
+    {
+      "id": "lightweight_construction",
+      "mass": "mul:0.7",
+      "acceleration": "mul:1.15"
+    },
+    {
+      "id": "heavyweight_construction",
+      "mass": "mul:1.3",
+      "acceleration": "mul:0.85"
+    },
+    {
+      "id": "heat_immunity",
+      "heatMultiplier": "set:0.0"
+    },
+    {
+      "id": "cold_immunity",
+      "coldMultiplier": "set:0.0"
+    },
+    {
+      "id": "stun_immunity"
+    },
+    {
+      "id": "extreme_lightweight_construction",
+      "mass": "set:1000.0"
+    },
+    {
+      "id": "phoenix",
+      "heatMultiplier": "set:0.3",
+      "coldMultiplier": "set:0.3"
+    },
+    {
+      "id": "special_protection",
+      "heatMultiplier": "set:0.0",
+      "coldMultiplier": "set:0.0"
+    }
+  ]
+}
