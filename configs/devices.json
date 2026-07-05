@@ -196,6 +196,20 @@
       "rangeOfMinDamage": "mul:2.0",
       "magazineReloadTime": "mul:1.25",
       "magazineSize": "set:2.0"
+    },
+    {
+      "id": "needle_gun",
+      "magazineSize": "set:12.0",
+      "reloadTime": "mul:0.2",
+      "rangeOfMinDamage": "mul:4.0",
+      "rangeOfMaxDamage": "mul:4.0",
+      "coneVerticalAngle": "set:0.0",
+      "coneHorizontalAngle": "set:0.0",
+      "recoilForce": "mul:0.1",
+      "criticalHitChance": "mul:0.5",
+      "pelletCount": "set:5.0",
+      "magazineReloadTime": "mul:3.0",
+      "pelletForce": "mul:0.1"
     }
   ],
   "twins": [

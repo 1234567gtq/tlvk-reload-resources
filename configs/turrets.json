@@ -1289,6 +1289,13 @@
 				"nameEN":"Hunter duplet",
 				"descriptionRU":"Два быстрых выстрела в обойме, максимальная дальность поражения увеличена. Горизонтальный разброс уменьшен, а перезарядка кассеты увеличена.\nСпециальная версия дуплета. У вас всё также два точных выстрела в обойме, за которыми следует продолжительная перезарядка. Однако благодаря тому, что длинный ствол не обрезан, дальность поражения увеличена по сравнению со стандартной модификацией. С такой двустволкой можно и на охоту. Увидел врага? Смело спускай курок.",
 				"descriptionEN":"Two quick shots in the clip and increased range of fire. Horizontal pellet spread is decreased but clip reload takes a bit more time. A special version of Duplet. You still have two accurate shots followed by a prolonged reload. However, thanks to the fact that the barrel hasn't had to be shortened, range of fire is increased compared to the standard modification. With such a double-barreled gun you can go hunting. See an enemy? Boldly pull the trigger."
+			},
+			{
+				"id":"needle_gun",
+				"nameRU":"Игломёт",
+				"nameEN":"Needle gun",
+				"descriptionRU":"Трансформирует пушку из дробовика в дальнобойный игломёт с ограниченным боезапасом и долгой перезарядкой. Радикальная замена боезапаса пушки и способа применения Молота. Шрапнельный снаряд заменён на бронебойную подкалиберную иглу. Такие иглы имеют значительно большую дальность и точность, а их компактность позволяет увеличить число снарядов в кассете и ускорить перезарядку. К сожалению, как и в стандартной версии, перезарядить пушку возможно только полностью расстреляв кассету. Из-за ограниченного боезапаса и долгой перезарядки рекомендуется стрелять короткими очередями, чтобы не оставлять слишком много игл в уже уничтоженных противниках.",
+				"descriptionEN":"Transforms the turret from shotgun into a long-range needle gun with limited ammunition and slower clip reload. A radical change to the turret’s ammunition and Hammer’s way of usage. Shrapnel shot is replaced with an armor-piercing subcaliber needle. Such needles have significantly higher range and accuracy, and their compactness allows an increase in the number of shots per clip and faster shot reload. Unfortunately, just like with the standard version of the turret, the clip can only be reloaded after fully emptying it. Due to the limited ammunition and long clip reload, it is recommended to fire in short bursts to avoid leaving too many needles in already destroyed enemy tanks."
 			}
 		],
 		"shotSkins":

@@ -3519,6 +3519,7 @@
 { "id":"device_large_caliber_pellets_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_heavy_slugger_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_hunter_duplet_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_needle_gun_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_stabilized_plasma_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_plasma_accelerators_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_heavy_plasmagun_icon", "version":"1", "type":"images", "isLazy":true },
