@@ -1,0 +1,3222 @@
+{
+  "particleSystems": [
+    {
+      "name": "Ps_TsunamiShotPetals",
+      "transform3dData": {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "initialData": {
+        "lifetime": {
+          "mode": "Constant",
+          "value": 0.1
+        },
+        "speed": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "isSize3d": false,
+        "size": {
+          "mode": "Constant",
+          "value": 5.0
+        },
+        "isRotation3d": false,
+        "rotation": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "color": {
+          "mode": "Color",
+          "color": -1761607681
+        },
+        "simulationSpace": "Local"
+      },
+      "shapeData": {
+        "shape": "Point",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "radius": 0.0,
+        "angle": 0.0,
+        "length": 0.0,
+        "radiusThickness": 0.0,
+        "arc": 0.0
+      },
+      "rendererData": {
+        "textureName": "Sparks_Flash",
+        "blendMode": "ADD",
+        "renderMode": "Billboard",
+        "alignment": "View",
+        "sortingFudge": 0.0,
+        "lengthScale": 2.0,
+        "speedScale": 0.0,
+        "softParticles": true,
+        "invFade": 33.3333321,
+        "pivot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "particleMaterial": "Default",
+        "materialParams": {
+          "shader": "TankiOnline/Particles/Additive",
+          "textureParameters": [
+            {
+              "name": "_BaseMap",
+              "textureName": "Sparks_Flash"
+            }
+          ],
+          "scalarParameters": [
+            {
+              "name": "_UseSoftParticles",
+              "value": 1.0
+            },
+            {
+              "name": "_InvFade",
+              "value": 3.0
+            }
+          ],
+          "vector2Parameters": [
+
+          ],
+          "vector3Parameters": [
+
+          ],
+          "vector4Parameters": [
+            {
+              "name": "_BaseMap_scaleOffset",
+              "value": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": 0.0
+              }
+            }
+          ]
+        },
+        "meshName": [
+
+        ]
+      },
+      "emissionData": {
+        "durationSec": 1.0,
+        "isLooping": false,
+        "prewarm": false,
+        "startDelay": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "rateOverTime": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "rateOverDistance": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "maxParticles": 2,
+        "bursts": [
+          {
+            "time": 0.0,
+            "count": {
+              "mode": "Constant",
+              "value": 1.0
+            },
+            "cycles": 1,
+            "cycleInterval": 0.01,
+            "probability": 1.0
+          }
+        ],
+        "emitterVelocity": 0
+      },
+      "modules": [
+        {
+          "type": "VelocityOverLifetimeModule",
+          "linearX": {
+            "mode": "Constant",
+            "value": 10.0
+          },
+          "linearY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "linearZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "radial": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "speedModifier": {
+            "mode": "Constant",
+            "value": 1.0
+          }
+        },
+        {
+          "type": "ColorOverLifetimeModule",
+          "colorHolder": {
+            "mode": "Gradient",
+            "colorKeys": [
+              {
+                "color": -1,
+                "time": 0.0
+              },
+              {
+                "color": -1,
+                "time": 1.0
+              }
+            ],
+            "alphaKeys": [
+              {
+                "alpha": 1.0,
+                "time": 0.7411765
+              },
+              {
+                "alpha": 0.0,
+                "time": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "type": "SizeOverLifetimeModule",
+          "separateAxes": false,
+          "size": {
+            "mode": "Curve",
+            "points": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 1.0,
+                "outTangent": 1.0
+              },
+              {
+                "time": 1.0,
+                "value": 1.0,
+                "inTangent": 1.0,
+                "outTangent": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "type": "SpeedModule"
+        }
+      ]
+    },
+    {
+      "name": "Ps_Flash",
+      "transform3dData": {
+        "position": {
+          "x": 0.0,
+          "y": -45.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": -0.785398066,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "initialData": {
+        "lifetime": {
+          "mode": "Constant",
+          "value": 0.3
+        },
+        "speed": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "isSize3d": true,
+        "sizeX": {
+          "mode": "TwoConstants",
+          "value1": 0.5,
+          "value2": 1.0
+        },
+        "sizeY": {
+          "mode": "TwoConstants",
+          "value1": 1.0,
+          "value2": 1.0
+        },
+        "sizeZ": {
+          "mode": "TwoConstants",
+          "value1": 0.8,
+          "value2": 0.8
+        },
+        "isRotation3d": false,
+        "rotation": {
+          "mode": "TwoConstants",
+          "value1": 5.23598766,
+          "value2": -5.23598766
+        },
+        "color": {
+          "mode": "Color",
+          "color": -1761621816
+        },
+        "simulationSpace": "Local"
+      },
+      "shapeData": {
+        "shape": "Point",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "radius": 0.0,
+        "angle": 0.0,
+        "length": 0.0,
+        "radiusThickness": 0.0,
+        "arc": 0.0
+      },
+      "rendererData": {
+        "textureName": "MuzzleFlash",
+        "blendMode": "ADD",
+        "renderMode": "Billboard",
+        "alignment": "View",
+        "sortingFudge": 0.0,
+        "lengthScale": 2.0,
+        "speedScale": 0.0,
+        "softParticles": false,
+        "invFade": 33.3333321,
+        "pivot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "particleMaterial": "Default",
+        "materialParams": {
+          "shader": "TankiOnline/Particles/Additive",
+          "textureParameters": [
+            {
+              "name": "_BaseMap",
+              "textureName": "MuzzleFlash"
+            }
+          ],
+          "scalarParameters": [
+            {
+              "name": "_UseSoftParticles",
+              "value": 0.0
+            },
+            {
+              "name": "_InvFade",
+              "value": 3.0
+            }
+          ],
+          "vector2Parameters": [
+
+          ],
+          "vector3Parameters": [
+
+          ],
+          "vector4Parameters": [
+            {
+              "name": "_BaseMap_scaleOffset",
+              "value": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": 0.0
+              }
+            }
+          ]
+        },
+        "meshName": [
+
+        ]
+      },
+      "emissionData": {
+        "durationSec": 1.0,
+        "isLooping": false,
+        "prewarm": false,
+        "startDelay": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "rateOverTime": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "rateOverDistance": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "maxParticles": 11,
+        "bursts": [
+          {
+            "time": 0.0,
+            "count": {
+              "mode": "TwoConstants",
+              "value1": 7.0,
+              "value2": 10.0
+            },
+            "cycles": 1,
+            "cycleInterval": 0.01,
+            "probability": 1.0
+          }
+        ],
+        "emitterVelocity": 0
+      },
+      "modules": [
+        {
+          "type": "VelocityOverLifetimeModule",
+          "linearX": {
+            "mode": "TwoConstants",
+            "value1": 25.0,
+            "value2": 200.0
+          },
+          "linearY": {
+            "mode": "TwoConstants",
+            "value1": 0.0,
+            "value2": 0.0
+          },
+          "linearZ": {
+            "mode": "TwoConstants",
+            "value1": 0.0,
+            "value2": 0.0
+          },
+          "orbitalX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "radial": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "speedModifier": {
+            "mode": "Constant",
+            "value": 1.0
+          }
+        },
+        {
+          "type": "ColorOverLifetimeModule",
+          "colorHolder": {
+            "mode": "Gradient",
+            "colorKeys": [
+              {
+                "color": -1,
+                "time": 0.0
+              },
+              {
+                "color": -1,
+                "time": 1.0
+              }
+            ],
+            "alphaKeys": [
+              {
+                "alpha": 0.0,
+                "time": 0.0
+              },
+              {
+                "alpha": 1.0,
+                "time": 0.09117266
+              },
+              {
+                "alpha": 1.0,
+                "time": 0.4529488
+              },
+              {
+                "alpha": 0.0,
+                "time": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "type": "SizeOverLifetimeModule",
+          "separateAxes": false,
+          "size": {
+            "mode": "TwoCurves",
+            "pointsMin": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0
+              },
+              {
+                "time": 1.0,
+                "value": 0.606557846,
+                "inTangent": 0.0,
+                "outTangent": 0.0
+              }
+            ],
+            "pointsMax": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inTangent": -0.6338854,
+                "outTangent": -0.6338854
+              },
+              {
+                "time": 0.488235,
+                "value": 0.690515,
+                "inTangent": -0.874127746,
+                "outTangent": -0.874127746
+              },
+              {
+                "time": 1.0,
+                "value": 0.12021935,
+                "inTangent": -1.11437011,
+                "outTangent": -1.11437011
+              }
+            ]
+          }
+        },
+        {
+          "type": "RotationOverLifetimeModule",
+          "separateAxes": false,
+          "rotation": {
+            "mode": "TwoConstants",
+            "value1": 5.23598766,
+            "value2": -5.23598766
+          }
+        },
+        {
+          "type": "SpriteSheetAnimationModule",
+          "tilesX": 8,
+          "tilesY": 8,
+          "animationType": "WholeSheet",
+          "frameOverTime": {
+            "mode": "Curve",
+            "points": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 1.0
+              },
+              {
+                "time": 1.0,
+                "value": 0.9999,
+                "inTangent": 1.0,
+                "outTangent": 0.0
+              }
+            ]
+          },
+          "startFrame": {
+            "mode": "Constant",
+            "value": 0.0
+          }
+        },
+        {
+          "type": "SpeedModule"
+        }
+      ]
+    },
+    {
+      "name": "Ps_Flash",
+      "transform3dData": {
+        "position": {
+          "x": 0.0,
+          "y": -45.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": -0.785398066,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "initialData": {
+        "lifetime": {
+          "mode": "Constant",
+          "value": 0.3
+        },
+        "speed": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "isSize3d": true,
+        "sizeX": {
+          "mode": "TwoConstants",
+          "value1": 0.5,
+          "value2": 1.0
+        },
+        "sizeY": {
+          "mode": "TwoConstants",
+          "value1": 1.0,
+          "value2": 1.0
+        },
+        "sizeZ": {
+          "mode": "TwoConstants",
+          "value1": 0.8,
+          "value2": 0.8
+        },
+        "isRotation3d": false,
+        "rotation": {
+          "mode": "TwoConstants",
+          "value1": 5.23598766,
+          "value2": -5.23598766
+        },
+        "color": {
+          "mode": "Color",
+          "color": -1761621816
+        },
+        "simulationSpace": "Local"
+      },
+      "shapeData": {
+        "shape": "Point",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "radius": 0.0,
+        "angle": 0.0,
+        "length": 0.0,
+        "radiusThickness": 0.0,
+        "arc": 0.0
+      },
+      "rendererData": {
+        "textureName": "MuzzleFlash",
+        "blendMode": "ADD",
+        "renderMode": "Billboard",
+        "alignment": "View",
+        "sortingFudge": 0.0,
+        "lengthScale": 2.0,
+        "speedScale": 0.0,
+        "softParticles": false,
+        "invFade": 33.3333321,
+        "pivot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "particleMaterial": "Default",
+        "materialParams": {
+          "shader": "TankiOnline/Particles/Additive",
+          "textureParameters": [
+            {
+              "name": "_BaseMap",
+              "textureName": "MuzzleFlash"
+            }
+          ],
+          "scalarParameters": [
+            {
+              "name": "_UseSoftParticles",
+              "value": 0.0
+            },
+            {
+              "name": "_InvFade",
+              "value": 3.0
+            }
+          ],
+          "vector2Parameters": [
+
+          ],
+          "vector3Parameters": [
+
+          ],
+          "vector4Parameters": [
+            {
+              "name": "_BaseMap_scaleOffset",
+              "value": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": 0.0
+              }
+            }
+          ]
+        },
+        "meshName": [
+
+        ]
+      },
+      "emissionData": {
+        "durationSec": 1.0,
+        "isLooping": false,
+        "prewarm": false,
+        "startDelay": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "rateOverTime": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "rateOverDistance": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "maxParticles": 11,
+        "bursts": [
+          {
+            "time": 0.0,
+            "count": {
+              "mode": "TwoConstants",
+              "value1": 7.0,
+              "value2": 10.0
+            },
+            "cycles": 1,
+            "cycleInterval": 0.01,
+            "probability": 1.0
+          }
+        ],
+        "emitterVelocity": 0
+      },
+      "modules": [
+        {
+          "type": "VelocityOverLifetimeModule",
+          "linearX": {
+            "mode": "TwoConstants",
+            "value1": -25.0,
+            "value2": -200.0
+          },
+          "linearY": {
+            "mode": "TwoConstants",
+            "value1": 0.0,
+            "value2": 0.0
+          },
+          "linearZ": {
+            "mode": "TwoConstants",
+            "value1": 0.0,
+            "value2": 0.0
+          },
+          "orbitalX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "radial": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "speedModifier": {
+            "mode": "Constant",
+            "value": 1.0
+          }
+        },
+        {
+          "type": "ColorOverLifetimeModule",
+          "colorHolder": {
+            "mode": "Gradient",
+            "colorKeys": [
+              {
+                "color": -1,
+                "time": 0.0
+              },
+              {
+                "color": -1,
+                "time": 1.0
+              }
+            ],
+            "alphaKeys": [
+              {
+                "alpha": 0.0,
+                "time": 0.0
+              },
+              {
+                "alpha": 1.0,
+                "time": 0.09117266
+              },
+              {
+                "alpha": 1.0,
+                "time": 0.4529488
+              },
+              {
+                "alpha": 0.0,
+                "time": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "type": "SizeOverLifetimeModule",
+          "separateAxes": false,
+          "size": {
+            "mode": "TwoCurves",
+            "pointsMin": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0
+              },
+              {
+                "time": 1.0,
+                "value": 0.606557846,
+                "inTangent": 0.0,
+                "outTangent": 0.0
+              }
+            ],
+            "pointsMax": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inTangent": -0.6338854,
+                "outTangent": -0.6338854
+              },
+              {
+                "time": 0.488235,
+                "value": 0.690515,
+                "inTangent": -0.874127746,
+                "outTangent": -0.874127746
+              },
+              {
+                "time": 1.0,
+                "value": 0.12021935,
+                "inTangent": -1.11437011,
+                "outTangent": -1.11437011
+              }
+            ]
+          }
+        },
+        {
+          "type": "RotationOverLifetimeModule",
+          "separateAxes": false,
+          "rotation": {
+            "mode": "TwoConstants",
+            "value1": 5.23598766,
+            "value2": -5.23598766
+          }
+        },
+        {
+          "type": "SpriteSheetAnimationModule",
+          "tilesX": 8,
+          "tilesY": 8,
+          "animationType": "WholeSheet",
+          "frameOverTime": {
+            "mode": "Curve",
+            "points": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 1.0
+              },
+              {
+                "time": 1.0,
+                "value": 0.9999,
+                "inTangent": 1.0,
+                "outTangent": 0.0
+              }
+            ]
+          },
+          "startFrame": {
+            "mode": "Constant",
+            "value": 0.0
+          }
+        },
+        {
+          "type": "SpeedModule"
+        }
+      ]
+    },
+    {
+      "name": "Ps_Flash",
+      "transform3dData": {
+        "position": {
+          "x": 0.0,
+          "y": -45.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": -0.785398066,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "initialData": {
+        "lifetime": {
+          "mode": "Constant",
+          "value": 0.3
+        },
+        "speed": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "isSize3d": true,
+        "sizeX": {
+          "mode": "TwoConstants",
+          "value1": 0.5,
+          "value2": 1.0
+        },
+        "sizeY": {
+          "mode": "TwoConstants",
+          "value1": 1.0,
+          "value2": 1.0
+        },
+        "sizeZ": {
+          "mode": "TwoConstants",
+          "value1": 0.8,
+          "value2": 0.8
+        },
+        "isRotation3d": false,
+        "rotation": {
+          "mode": "TwoConstants",
+          "value1": 5.23598766,
+          "value2": -5.23598766
+        },
+        "color": {
+          "mode": "Color",
+          "color": -1761621816
+        },
+        "simulationSpace": "Local"
+      },
+      "shapeData": {
+        "shape": "Point",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "radius": 0.0,
+        "angle": 0.0,
+        "length": 0.0,
+        "radiusThickness": 0.0,
+        "arc": 0.0
+      },
+      "rendererData": {
+        "textureName": "MuzzleFlash",
+        "blendMode": "ADD",
+        "renderMode": "Billboard",
+        "alignment": "View",
+        "sortingFudge": 0.0,
+        "lengthScale": 2.0,
+        "speedScale": 0.0,
+        "softParticles": false,
+        "invFade": 33.3333321,
+        "pivot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "particleMaterial": "Default",
+        "materialParams": {
+          "shader": "TankiOnline/Particles/Additive",
+          "textureParameters": [
+            {
+              "name": "_BaseMap",
+              "textureName": "MuzzleFlash"
+            }
+          ],
+          "scalarParameters": [
+            {
+              "name": "_UseSoftParticles",
+              "value": 0.0
+            },
+            {
+              "name": "_InvFade",
+              "value": 3.0
+            }
+          ],
+          "vector2Parameters": [
+
+          ],
+          "vector3Parameters": [
+
+          ],
+          "vector4Parameters": [
+            {
+              "name": "_BaseMap_scaleOffset",
+              "value": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": 0.0
+              }
+            }
+          ]
+        },
+        "meshName": [
+
+        ]
+      },
+      "emissionData": {
+        "durationSec": 1.0,
+        "isLooping": false,
+        "prewarm": false,
+        "startDelay": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "rateOverTime": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "rateOverDistance": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "maxParticles": 11,
+        "bursts": [
+          {
+            "time": 0.0,
+            "count": {
+              "mode": "TwoConstants",
+              "value1": 7.0,
+              "value2": 10.0
+            },
+            "cycles": 1,
+            "cycleInterval": 0.01,
+            "probability": 1.0
+          }
+        ],
+        "emitterVelocity": 0
+      },
+      "modules": [
+        {
+          "type": "VelocityOverLifetimeModule",
+          "linearX": {
+            "mode": "TwoConstants",
+            "value1": 0.0,
+            "value2": 0.0
+          },
+          "linearY": {
+            "mode": "TwoConstants",
+            "value1": 0.0,
+            "value2": 0.0
+          },
+          "linearZ": {
+            "mode": "TwoConstants",
+            "value1": 25.0,
+            "value2": 200.0
+          },
+          "orbitalX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "radial": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "speedModifier": {
+            "mode": "Constant",
+            "value": 1.0
+          }
+        },
+        {
+          "type": "ColorOverLifetimeModule",
+          "colorHolder": {
+            "mode": "Gradient",
+            "colorKeys": [
+              {
+                "color": -1,
+                "time": 0.0
+              },
+              {
+                "color": -1,
+                "time": 1.0
+              }
+            ],
+            "alphaKeys": [
+              {
+                "alpha": 0.0,
+                "time": 0.0
+              },
+              {
+                "alpha": 1.0,
+                "time": 0.09117266
+              },
+              {
+                "alpha": 1.0,
+                "time": 0.4529488
+              },
+              {
+                "alpha": 0.0,
+                "time": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "type": "SizeOverLifetimeModule",
+          "separateAxes": false,
+          "size": {
+            "mode": "TwoCurves",
+            "pointsMin": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0
+              },
+              {
+                "time": 1.0,
+                "value": 0.606557846,
+                "inTangent": 0.0,
+                "outTangent": 0.0
+              }
+            ],
+            "pointsMax": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inTangent": -0.6338854,
+                "outTangent": -0.6338854
+              },
+              {
+                "time": 0.488235,
+                "value": 0.690515,
+                "inTangent": -0.874127746,
+                "outTangent": -0.874127746
+              },
+              {
+                "time": 1.0,
+                "value": 0.12021935,
+                "inTangent": -1.11437011,
+                "outTangent": -1.11437011
+              }
+            ]
+          }
+        },
+        {
+          "type": "RotationOverLifetimeModule",
+          "separateAxes": false,
+          "rotation": {
+            "mode": "TwoConstants",
+            "value1": 5.23598766,
+            "value2": -5.23598766
+          }
+        },
+        {
+          "type": "SpriteSheetAnimationModule",
+          "tilesX": 8,
+          "tilesY": 8,
+          "animationType": "WholeSheet",
+          "frameOverTime": {
+            "mode": "Curve",
+            "points": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 1.0
+              },
+              {
+                "time": 1.0,
+                "value": 0.9999,
+                "inTangent": 1.0,
+                "outTangent": 0.0
+              }
+            ]
+          },
+          "startFrame": {
+            "mode": "Constant",
+            "value": 0.0
+          }
+        },
+        {
+          "type": "SpeedModule"
+        }
+      ]
+    },
+    {
+      "name": "Ps_Flash",
+      "transform3dData": {
+        "position": {
+          "x": 0.0,
+          "y": -45.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": -0.785398066,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "initialData": {
+        "lifetime": {
+          "mode": "Constant",
+          "value": 0.3
+        },
+        "speed": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "isSize3d": true,
+        "sizeX": {
+          "mode": "TwoConstants",
+          "value1": 0.5,
+          "value2": 1.0
+        },
+        "sizeY": {
+          "mode": "TwoConstants",
+          "value1": 1.0,
+          "value2": 1.0
+        },
+        "sizeZ": {
+          "mode": "TwoConstants",
+          "value1": 0.8,
+          "value2": 0.8
+        },
+        "isRotation3d": false,
+        "rotation": {
+          "mode": "TwoConstants",
+          "value1": 5.23598766,
+          "value2": -5.23598766
+        },
+        "color": {
+          "mode": "Color",
+          "color": -1761621816
+        },
+        "simulationSpace": "Local"
+      },
+      "shapeData": {
+        "shape": "Point",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "radius": 0.0,
+        "angle": 0.0,
+        "length": 0.0,
+        "radiusThickness": 0.0,
+        "arc": 0.0
+      },
+      "rendererData": {
+        "textureName": "MuzzleFlash",
+        "blendMode": "ADD",
+        "renderMode": "Billboard",
+        "alignment": "View",
+        "sortingFudge": 0.0,
+        "lengthScale": 2.0,
+        "speedScale": 0.0,
+        "softParticles": false,
+        "invFade": 33.3333321,
+        "pivot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "particleMaterial": "Default",
+        "materialParams": {
+          "shader": "TankiOnline/Particles/Additive",
+          "textureParameters": [
+            {
+              "name": "_BaseMap",
+              "textureName": "MuzzleFlash"
+            }
+          ],
+          "scalarParameters": [
+            {
+              "name": "_UseSoftParticles",
+              "value": 0.0
+            },
+            {
+              "name": "_InvFade",
+              "value": 3.0
+            }
+          ],
+          "vector2Parameters": [
+
+          ],
+          "vector3Parameters": [
+
+          ],
+          "vector4Parameters": [
+            {
+              "name": "_BaseMap_scaleOffset",
+              "value": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": 0.0
+              }
+            }
+          ]
+        },
+        "meshName": [
+
+        ]
+      },
+      "emissionData": {
+        "durationSec": 1.0,
+        "isLooping": false,
+        "prewarm": false,
+        "startDelay": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "rateOverTime": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "rateOverDistance": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "maxParticles": 11,
+        "bursts": [
+          {
+            "time": 0.0,
+            "count": {
+              "mode": "TwoConstants",
+              "value1": 7.0,
+              "value2": 10.0
+            },
+            "cycles": 1,
+            "cycleInterval": 0.01,
+            "probability": 1.0
+          }
+        ],
+        "emitterVelocity": 0
+      },
+      "modules": [
+        {
+          "type": "VelocityOverLifetimeModule",
+          "linearX": {
+            "mode": "TwoConstants",
+            "value1": 0.0,
+            "value2": 0.0
+          },
+          "linearY": {
+            "mode": "TwoConstants",
+            "value1": 0.0,
+            "value2": 0.0
+          },
+          "linearZ": {
+            "mode": "TwoConstants",
+            "value1": -25.0,
+            "value2": -200.0
+          },
+          "orbitalX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "radial": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "speedModifier": {
+            "mode": "Constant",
+            "value": 1.0
+          }
+        },
+        {
+          "type": "ColorOverLifetimeModule",
+          "colorHolder": {
+            "mode": "Gradient",
+            "colorKeys": [
+              {
+                "color": -1,
+                "time": 0.0
+              },
+              {
+                "color": -1,
+                "time": 1.0
+              }
+            ],
+            "alphaKeys": [
+              {
+                "alpha": 0.0,
+                "time": 0.0
+              },
+              {
+                "alpha": 1.0,
+                "time": 0.09117266
+              },
+              {
+                "alpha": 1.0,
+                "time": 0.4529488
+              },
+              {
+                "alpha": 0.0,
+                "time": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "type": "SizeOverLifetimeModule",
+          "separateAxes": false,
+          "size": {
+            "mode": "TwoCurves",
+            "pointsMin": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0
+              },
+              {
+                "time": 1.0,
+                "value": 0.606557846,
+                "inTangent": 0.0,
+                "outTangent": 0.0
+              }
+            ],
+            "pointsMax": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inTangent": -0.6338854,
+                "outTangent": -0.6338854
+              },
+              {
+                "time": 0.488235,
+                "value": 0.690515,
+                "inTangent": -0.874127746,
+                "outTangent": -0.874127746
+              },
+              {
+                "time": 1.0,
+                "value": 0.12021935,
+                "inTangent": -1.11437011,
+                "outTangent": -1.11437011
+              }
+            ]
+          }
+        },
+        {
+          "type": "RotationOverLifetimeModule",
+          "separateAxes": false,
+          "rotation": {
+            "mode": "TwoConstants",
+            "value1": 5.23598766,
+            "value2": -5.23598766
+          }
+        },
+        {
+          "type": "SpriteSheetAnimationModule",
+          "tilesX": 8,
+          "tilesY": 8,
+          "animationType": "WholeSheet",
+          "frameOverTime": {
+            "mode": "Curve",
+            "points": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 1.0
+              },
+              {
+                "time": 1.0,
+                "value": 0.9999,
+                "inTangent": 1.0,
+                "outTangent": 0.0
+              }
+            ]
+          },
+          "startFrame": {
+            "mode": "Constant",
+            "value": 0.0
+          }
+        },
+        {
+          "type": "SpeedModule"
+        }
+      ]
+    },
+    {
+      "name": "Ps_Flash",
+      "transform3dData": {
+        "position": {
+          "x": 0.0,
+          "y": -15.000001,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": -0.785398066,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "initialData": {
+        "lifetime": {
+          "mode": "Constant",
+          "value": 0.3
+        },
+        "speed": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "isSize3d": true,
+        "sizeX": {
+          "mode": "TwoConstants",
+          "value1": 0.8,
+          "value2": 1.5
+        },
+        "sizeY": {
+          "mode": "TwoConstants",
+          "value1": 1.0,
+          "value2": 1.0
+        },
+        "sizeZ": {
+          "mode": "TwoConstants",
+          "value1": 1.2,
+          "value2": 1.2
+        },
+        "isRotation3d": false,
+        "rotation": {
+          "mode": "TwoConstants",
+          "value1": 5.23598766,
+          "value2": -5.23598766
+        },
+        "color": {
+          "mode": "Color",
+          "color": -1761621816
+        },
+        "simulationSpace": "Local"
+      },
+      "shapeData": {
+        "shape": "Point",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "radius": 0.0,
+        "angle": 0.0,
+        "length": 0.0,
+        "radiusThickness": 0.0,
+        "arc": 0.0
+      },
+      "rendererData": {
+        "textureName": "MuzzleFlash",
+        "blendMode": "ADD",
+        "renderMode": "Billboard",
+        "alignment": "View",
+        "sortingFudge": 0.0,
+        "lengthScale": 2.0,
+        "speedScale": 0.0,
+        "softParticles": false,
+        "invFade": 33.3333321,
+        "pivot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "particleMaterial": "Default",
+        "materialParams": {
+          "shader": "TankiOnline/Particles/Additive",
+          "textureParameters": [
+            {
+              "name": "_BaseMap",
+              "textureName": "MuzzleFlash"
+            }
+          ],
+          "scalarParameters": [
+            {
+              "name": "_UseSoftParticles",
+              "value": 0.0
+            },
+            {
+              "name": "_InvFade",
+              "value": 3.0
+            }
+          ],
+          "vector2Parameters": [
+
+          ],
+          "vector3Parameters": [
+
+          ],
+          "vector4Parameters": [
+            {
+              "name": "_BaseMap_scaleOffset",
+              "value": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": 0.0
+              }
+            }
+          ]
+        },
+        "meshName": [
+
+        ]
+      },
+      "emissionData": {
+        "durationSec": 1.0,
+        "isLooping": false,
+        "prewarm": false,
+        "startDelay": {
+          "mode": "Constant",
+          "value": 0.05
+        },
+        "rateOverTime": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "rateOverDistance": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "maxParticles": 11,
+        "bursts": [
+          {
+            "time": 0.0,
+            "count": {
+              "mode": "TwoConstants",
+              "value1": 7.0,
+              "value2": 10.0
+            },
+            "cycles": 1,
+            "cycleInterval": 0.01,
+            "probability": 1.0
+          }
+        ],
+        "emitterVelocity": 0
+      },
+      "modules": [
+        {
+          "type": "VelocityOverLifetimeModule",
+          "linearX": {
+            "mode": "TwoConstants",
+            "value1": 50.0,
+            "value2": 400.0
+          },
+          "linearY": {
+            "mode": "TwoConstants",
+            "value1": 0.0,
+            "value2": 0.0
+          },
+          "linearZ": {
+            "mode": "TwoConstants",
+            "value1": 0.0,
+            "value2": 0.0
+          },
+          "orbitalX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "radial": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "speedModifier": {
+            "mode": "Constant",
+            "value": 1.0
+          }
+        },
+        {
+          "type": "ColorOverLifetimeModule",
+          "colorHolder": {
+            "mode": "Gradient",
+            "colorKeys": [
+              {
+                "color": -1,
+                "time": 0.0
+              },
+              {
+                "color": -1,
+                "time": 1.0
+              }
+            ],
+            "alphaKeys": [
+              {
+                "alpha": 0.0,
+                "time": 0.0
+              },
+              {
+                "alpha": 1.0,
+                "time": 0.09117266
+              },
+              {
+                "alpha": 1.0,
+                "time": 0.4529488
+              },
+              {
+                "alpha": 0.0,
+                "time": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "type": "SizeOverLifetimeModule",
+          "separateAxes": false,
+          "size": {
+            "mode": "TwoCurves",
+            "pointsMin": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0
+              },
+              {
+                "time": 1.0,
+                "value": 0.606557846,
+                "inTangent": 0.0,
+                "outTangent": 0.0
+              }
+            ],
+            "pointsMax": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inTangent": -0.6338854,
+                "outTangent": -0.6338854
+              },
+              {
+                "time": 0.488235,
+                "value": 0.690515,
+                "inTangent": -0.874127746,
+                "outTangent": -0.874127746
+              },
+              {
+                "time": 1.0,
+                "value": 0.12021935,
+                "inTangent": -1.11437011,
+                "outTangent": -1.11437011
+              }
+            ]
+          }
+        },
+        {
+          "type": "RotationOverLifetimeModule",
+          "separateAxes": false,
+          "rotation": {
+            "mode": "TwoConstants",
+            "value1": 5.23598766,
+            "value2": -5.23598766
+          }
+        },
+        {
+          "type": "SpriteSheetAnimationModule",
+          "tilesX": 8,
+          "tilesY": 8,
+          "animationType": "WholeSheet",
+          "frameOverTime": {
+            "mode": "Curve",
+            "points": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 1.0
+              },
+              {
+                "time": 1.0,
+                "value": 0.9999,
+                "inTangent": 1.0,
+                "outTangent": 0.0
+              }
+            ]
+          },
+          "startFrame": {
+            "mode": "Constant",
+            "value": 0.0
+          }
+        },
+        {
+          "type": "SpeedModule"
+        }
+      ]
+    },
+    {
+      "name": "Ps_Flash",
+      "transform3dData": {
+        "position": {
+          "x": 0.0,
+          "y": -15.000001,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": -0.785398066,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "initialData": {
+        "lifetime": {
+          "mode": "Constant",
+          "value": 0.3
+        },
+        "speed": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "isSize3d": true,
+        "sizeX": {
+          "mode": "TwoConstants",
+          "value1": 0.8,
+          "value2": 1.5
+        },
+        "sizeY": {
+          "mode": "TwoConstants",
+          "value1": 1.0,
+          "value2": 1.0
+        },
+        "sizeZ": {
+          "mode": "TwoConstants",
+          "value1": 1.2,
+          "value2": 1.2
+        },
+        "isRotation3d": false,
+        "rotation": {
+          "mode": "TwoConstants",
+          "value1": 5.23598766,
+          "value2": -5.23598766
+        },
+        "color": {
+          "mode": "Color",
+          "color": -1761621816
+        },
+        "simulationSpace": "Local"
+      },
+      "shapeData": {
+        "shape": "Point",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "radius": 0.0,
+        "angle": 0.0,
+        "length": 0.0,
+        "radiusThickness": 0.0,
+        "arc": 0.0
+      },
+      "rendererData": {
+        "textureName": "MuzzleFlash",
+        "blendMode": "ADD",
+        "renderMode": "Billboard",
+        "alignment": "View",
+        "sortingFudge": 0.0,
+        "lengthScale": 2.0,
+        "speedScale": 0.0,
+        "softParticles": false,
+        "invFade": 33.3333321,
+        "pivot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "particleMaterial": "Default",
+        "materialParams": {
+          "shader": "TankiOnline/Particles/Additive",
+          "textureParameters": [
+            {
+              "name": "_BaseMap",
+              "textureName": "MuzzleFlash"
+            }
+          ],
+          "scalarParameters": [
+            {
+              "name": "_UseSoftParticles",
+              "value": 0.0
+            },
+            {
+              "name": "_InvFade",
+              "value": 3.0
+            }
+          ],
+          "vector2Parameters": [
+
+          ],
+          "vector3Parameters": [
+
+          ],
+          "vector4Parameters": [
+            {
+              "name": "_BaseMap_scaleOffset",
+              "value": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": 0.0
+              }
+            }
+          ]
+        },
+        "meshName": [
+
+        ]
+      },
+      "emissionData": {
+        "durationSec": 1.0,
+        "isLooping": false,
+        "prewarm": false,
+        "startDelay": {
+          "mode": "Constant",
+          "value": 0.05
+        },
+        "rateOverTime": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "rateOverDistance": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "maxParticles": 11,
+        "bursts": [
+          {
+            "time": 0.0,
+            "count": {
+              "mode": "TwoConstants",
+              "value1": 7.0,
+              "value2": 10.0
+            },
+            "cycles": 1,
+            "cycleInterval": 0.01,
+            "probability": 1.0
+          }
+        ],
+        "emitterVelocity": 0
+      },
+      "modules": [
+        {
+          "type": "VelocityOverLifetimeModule",
+          "linearX": {
+            "mode": "TwoConstants",
+            "value1": -50.0,
+            "value2": -400.0
+          },
+          "linearY": {
+            "mode": "TwoConstants",
+            "value1": 0.0,
+            "value2": 0.0
+          },
+          "linearZ": {
+            "mode": "TwoConstants",
+            "value1": 0.0,
+            "value2": 0.0
+          },
+          "orbitalX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "radial": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "speedModifier": {
+            "mode": "Constant",
+            "value": 1.0
+          }
+        },
+        {
+          "type": "ColorOverLifetimeModule",
+          "colorHolder": {
+            "mode": "Gradient",
+            "colorKeys": [
+              {
+                "color": -1,
+                "time": 0.0
+              },
+              {
+                "color": -1,
+                "time": 1.0
+              }
+            ],
+            "alphaKeys": [
+              {
+                "alpha": 0.0,
+                "time": 0.0
+              },
+              {
+                "alpha": 1.0,
+                "time": 0.09117266
+              },
+              {
+                "alpha": 1.0,
+                "time": 0.4529488
+              },
+              {
+                "alpha": 0.0,
+                "time": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "type": "SizeOverLifetimeModule",
+          "separateAxes": false,
+          "size": {
+            "mode": "TwoCurves",
+            "pointsMin": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0
+              },
+              {
+                "time": 1.0,
+                "value": 0.606557846,
+                "inTangent": 0.0,
+                "outTangent": 0.0
+              }
+            ],
+            "pointsMax": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inTangent": -0.6338854,
+                "outTangent": -0.6338854
+              },
+              {
+                "time": 0.488235,
+                "value": 0.690515,
+                "inTangent": -0.874127746,
+                "outTangent": -0.874127746
+              },
+              {
+                "time": 1.0,
+                "value": 0.12021935,
+                "inTangent": -1.11437011,
+                "outTangent": -1.11437011
+              }
+            ]
+          }
+        },
+        {
+          "type": "RotationOverLifetimeModule",
+          "separateAxes": false,
+          "rotation": {
+            "mode": "TwoConstants",
+            "value1": 5.23598766,
+            "value2": -5.23598766
+          }
+        },
+        {
+          "type": "SpriteSheetAnimationModule",
+          "tilesX": 8,
+          "tilesY": 8,
+          "animationType": "WholeSheet",
+          "frameOverTime": {
+            "mode": "Curve",
+            "points": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 1.0
+              },
+              {
+                "time": 1.0,
+                "value": 0.9999,
+                "inTangent": 1.0,
+                "outTangent": 0.0
+              }
+            ]
+          },
+          "startFrame": {
+            "mode": "Constant",
+            "value": 0.0
+          }
+        },
+        {
+          "type": "SpeedModule"
+        }
+      ]
+    },
+    {
+      "name": "Ps_Flash",
+      "transform3dData": {
+        "position": {
+          "x": 0.0,
+          "y": -15.000001,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": -0.785398066,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "initialData": {
+        "lifetime": {
+          "mode": "Constant",
+          "value": 0.3
+        },
+        "speed": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "isSize3d": true,
+        "sizeX": {
+          "mode": "TwoConstants",
+          "value1": 0.8,
+          "value2": 1.5
+        },
+        "sizeY": {
+          "mode": "TwoConstants",
+          "value1": 1.0,
+          "value2": 1.0
+        },
+        "sizeZ": {
+          "mode": "TwoConstants",
+          "value1": 1.2,
+          "value2": 1.2
+        },
+        "isRotation3d": false,
+        "rotation": {
+          "mode": "TwoConstants",
+          "value1": 5.23598766,
+          "value2": -5.23598766
+        },
+        "color": {
+          "mode": "Color",
+          "color": -1761621816
+        },
+        "simulationSpace": "Local"
+      },
+      "shapeData": {
+        "shape": "Point",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "radius": 0.0,
+        "angle": 0.0,
+        "length": 0.0,
+        "radiusThickness": 0.0,
+        "arc": 0.0
+      },
+      "rendererData": {
+        "textureName": "MuzzleFlash",
+        "blendMode": "ADD",
+        "renderMode": "Billboard",
+        "alignment": "View",
+        "sortingFudge": 0.0,
+        "lengthScale": 2.0,
+        "speedScale": 0.0,
+        "softParticles": false,
+        "invFade": 33.3333321,
+        "pivot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "particleMaterial": "Default",
+        "materialParams": {
+          "shader": "TankiOnline/Particles/Additive",
+          "textureParameters": [
+            {
+              "name": "_BaseMap",
+              "textureName": "MuzzleFlash"
+            }
+          ],
+          "scalarParameters": [
+            {
+              "name": "_UseSoftParticles",
+              "value": 0.0
+            },
+            {
+              "name": "_InvFade",
+              "value": 3.0
+            }
+          ],
+          "vector2Parameters": [
+
+          ],
+          "vector3Parameters": [
+
+          ],
+          "vector4Parameters": [
+            {
+              "name": "_BaseMap_scaleOffset",
+              "value": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": 0.0
+              }
+            }
+          ]
+        },
+        "meshName": [
+
+        ]
+      },
+      "emissionData": {
+        "durationSec": 1.0,
+        "isLooping": false,
+        "prewarm": false,
+        "startDelay": {
+          "mode": "Constant",
+          "value": 0.05
+        },
+        "rateOverTime": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "rateOverDistance": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "maxParticles": 11,
+        "bursts": [
+          {
+            "time": 0.0,
+            "count": {
+              "mode": "TwoConstants",
+              "value1": 7.0,
+              "value2": 10.0
+            },
+            "cycles": 1,
+            "cycleInterval": 0.01,
+            "probability": 1.0
+          }
+        ],
+        "emitterVelocity": 0
+      },
+      "modules": [
+        {
+          "type": "VelocityOverLifetimeModule",
+          "linearX": {
+            "mode": "TwoConstants",
+            "value1": 0.0,
+            "value2": 0.0
+          },
+          "linearY": {
+            "mode": "TwoConstants",
+            "value1": 0.0,
+            "value2": 0.0
+          },
+          "linearZ": {
+            "mode": "TwoConstants",
+            "value1": 50.0,
+            "value2": 400.0
+          },
+          "orbitalX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "radial": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "speedModifier": {
+            "mode": "Constant",
+            "value": 1.0
+          }
+        },
+        {
+          "type": "ColorOverLifetimeModule",
+          "colorHolder": {
+            "mode": "Gradient",
+            "colorKeys": [
+              {
+                "color": -1,
+                "time": 0.0
+              },
+              {
+                "color": -1,
+                "time": 1.0
+              }
+            ],
+            "alphaKeys": [
+              {
+                "alpha": 0.0,
+                "time": 0.0
+              },
+              {
+                "alpha": 1.0,
+                "time": 0.09117266
+              },
+              {
+                "alpha": 1.0,
+                "time": 0.4529488
+              },
+              {
+                "alpha": 0.0,
+                "time": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "type": "SizeOverLifetimeModule",
+          "separateAxes": false,
+          "size": {
+            "mode": "TwoCurves",
+            "pointsMin": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0
+              },
+              {
+                "time": 1.0,
+                "value": 0.606557846,
+                "inTangent": 0.0,
+                "outTangent": 0.0
+              }
+            ],
+            "pointsMax": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inTangent": -0.6338854,
+                "outTangent": -0.6338854
+              },
+              {
+                "time": 0.488235,
+                "value": 0.690515,
+                "inTangent": -0.874127746,
+                "outTangent": -0.874127746
+              },
+              {
+                "time": 1.0,
+                "value": 0.12021935,
+                "inTangent": -1.11437011,
+                "outTangent": -1.11437011
+              }
+            ]
+          }
+        },
+        {
+          "type": "RotationOverLifetimeModule",
+          "separateAxes": false,
+          "rotation": {
+            "mode": "TwoConstants",
+            "value1": 5.23598766,
+            "value2": -5.23598766
+          }
+        },
+        {
+          "type": "SpriteSheetAnimationModule",
+          "tilesX": 8,
+          "tilesY": 8,
+          "animationType": "WholeSheet",
+          "frameOverTime": {
+            "mode": "Curve",
+            "points": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 1.0
+              },
+              {
+                "time": 1.0,
+                "value": 0.9999,
+                "inTangent": 1.0,
+                "outTangent": 0.0
+              }
+            ]
+          },
+          "startFrame": {
+            "mode": "Constant",
+            "value": 0.0
+          }
+        },
+        {
+          "type": "SpeedModule"
+        }
+      ]
+    },
+    {
+      "name": "Ps_Flash",
+      "transform3dData": {
+        "position": {
+          "x": 0.0,
+          "y": -15.000001,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": -0.785398066,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "initialData": {
+        "lifetime": {
+          "mode": "Constant",
+          "value": 0.3
+        },
+        "speed": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "isSize3d": true,
+        "sizeX": {
+          "mode": "TwoConstants",
+          "value1": 0.8,
+          "value2": 1.5
+        },
+        "sizeY": {
+          "mode": "TwoConstants",
+          "value1": 1.0,
+          "value2": 1.0
+        },
+        "sizeZ": {
+          "mode": "TwoConstants",
+          "value1": 1.2,
+          "value2": 1.2
+        },
+        "isRotation3d": false,
+        "rotation": {
+          "mode": "TwoConstants",
+          "value1": 5.23598766,
+          "value2": -5.23598766
+        },
+        "color": {
+          "mode": "Color",
+          "color": -1761621816
+        },
+        "simulationSpace": "Local"
+      },
+      "shapeData": {
+        "shape": "Point",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "radius": 0.0,
+        "angle": 0.0,
+        "length": 0.0,
+        "radiusThickness": 0.0,
+        "arc": 0.0
+      },
+      "rendererData": {
+        "textureName": "MuzzleFlash",
+        "blendMode": "ADD",
+        "renderMode": "Billboard",
+        "alignment": "View",
+        "sortingFudge": 0.0,
+        "lengthScale": 2.0,
+        "speedScale": 0.0,
+        "softParticles": false,
+        "invFade": 33.3333321,
+        "pivot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "particleMaterial": "Default",
+        "materialParams": {
+          "shader": "TankiOnline/Particles/Additive",
+          "textureParameters": [
+            {
+              "name": "_BaseMap",
+              "textureName": "MuzzleFlash"
+            }
+          ],
+          "scalarParameters": [
+            {
+              "name": "_UseSoftParticles",
+              "value": 0.0
+            },
+            {
+              "name": "_InvFade",
+              "value": 3.0
+            }
+          ],
+          "vector2Parameters": [
+
+          ],
+          "vector3Parameters": [
+
+          ],
+          "vector4Parameters": [
+            {
+              "name": "_BaseMap_scaleOffset",
+              "value": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": 0.0
+              }
+            }
+          ]
+        },
+        "meshName": [
+
+        ]
+      },
+      "emissionData": {
+        "durationSec": 1.0,
+        "isLooping": false,
+        "prewarm": false,
+        "startDelay": {
+          "mode": "Constant",
+          "value": 0.05
+        },
+        "rateOverTime": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "rateOverDistance": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "maxParticles": 11,
+        "bursts": [
+          {
+            "time": 0.0,
+            "count": {
+              "mode": "TwoConstants",
+              "value1": 7.0,
+              "value2": 10.0
+            },
+            "cycles": 1,
+            "cycleInterval": 0.01,
+            "probability": 1.0
+          }
+        ],
+        "emitterVelocity": 0
+      },
+      "modules": [
+        {
+          "type": "VelocityOverLifetimeModule",
+          "linearX": {
+            "mode": "TwoConstants",
+            "value1": 0.0,
+            "value2": 0.0
+          },
+          "linearY": {
+            "mode": "TwoConstants",
+            "value1": 0.0,
+            "value2": 0.0
+          },
+          "linearZ": {
+            "mode": "TwoConstants",
+            "value1": -50.0,
+            "value2": -400.0
+          },
+          "orbitalX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "radial": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "speedModifier": {
+            "mode": "Constant",
+            "value": 1.0
+          }
+        },
+        {
+          "type": "ColorOverLifetimeModule",
+          "colorHolder": {
+            "mode": "Gradient",
+            "colorKeys": [
+              {
+                "color": -1,
+                "time": 0.0
+              },
+              {
+                "color": -1,
+                "time": 1.0
+              }
+            ],
+            "alphaKeys": [
+              {
+                "alpha": 0.0,
+                "time": 0.0
+              },
+              {
+                "alpha": 1.0,
+                "time": 0.09117266
+              },
+              {
+                "alpha": 1.0,
+                "time": 0.4529488
+              },
+              {
+                "alpha": 0.0,
+                "time": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "type": "SizeOverLifetimeModule",
+          "separateAxes": false,
+          "size": {
+            "mode": "TwoCurves",
+            "pointsMin": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inTangent": 0.0,
+                "outTangent": 0.0
+              },
+              {
+                "time": 1.0,
+                "value": 0.606557846,
+                "inTangent": 0.0,
+                "outTangent": 0.0
+              }
+            ],
+            "pointsMax": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inTangent": -0.6338854,
+                "outTangent": -0.6338854
+              },
+              {
+                "time": 0.488235,
+                "value": 0.690515,
+                "inTangent": -0.874127746,
+                "outTangent": -0.874127746
+              },
+              {
+                "time": 1.0,
+                "value": 0.12021935,
+                "inTangent": -1.11437011,
+                "outTangent": -1.11437011
+              }
+            ]
+          }
+        },
+        {
+          "type": "RotationOverLifetimeModule",
+          "separateAxes": false,
+          "rotation": {
+            "mode": "TwoConstants",
+            "value1": 5.23598766,
+            "value2": -5.23598766
+          }
+        },
+        {
+          "type": "SpriteSheetAnimationModule",
+          "tilesX": 8,
+          "tilesY": 8,
+          "animationType": "WholeSheet",
+          "frameOverTime": {
+            "mode": "Curve",
+            "points": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 1.0
+              },
+              {
+                "time": 1.0,
+                "value": 0.9999,
+                "inTangent": 1.0,
+                "outTangent": 0.0
+              }
+            ]
+          },
+          "startFrame": {
+            "mode": "Constant",
+            "value": 0.0
+          }
+        },
+        {
+          "type": "SpeedModule"
+        }
+      ]
+    },
+    {
+      "name": "Ps_MuzzleFlash",
+      "transform3dData": {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "initialData": {
+        "lifetime": {
+          "mode": "Constant",
+          "value": 0.2
+        },
+        "speed": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "isSize3d": false,
+        "size": {
+          "mode": "TwoConstants",
+          "value1": 0.85,
+          "value2": 1.35
+        },
+        "isRotation3d": false,
+        "rotation": {
+          "mode": "TwoConstants",
+          "value1": 6.283185,
+          "value2": -6.283185
+        },
+        "color": {
+          "mode": "Color",
+          "color": -1761621816
+        },
+        "simulationSpace": "Local"
+      },
+      "shapeData": {
+        "shape": "Point",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "radius": 0.0,
+        "angle": 0.0,
+        "length": 0.0,
+        "radiusThickness": 0.0,
+        "arc": 0.0
+      },
+      "rendererData": {
+        "textureName": "MuzzleFlash",
+        "blendMode": "ADD",
+        "renderMode": "Billboard",
+        "alignment": "View",
+        "sortingFudge": 0.0,
+        "lengthScale": 2.0,
+        "speedScale": 0.0,
+        "softParticles": false,
+        "invFade": 33.3333321,
+        "pivot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "particleMaterial": "Default",
+        "materialParams": {
+          "shader": "TankiOnline/Particles/Additive",
+          "textureParameters": [
+            {
+              "name": "_BaseMap",
+              "textureName": "MuzzleFlash"
+            }
+          ],
+          "scalarParameters": [
+            {
+              "name": "_UseSoftParticles",
+              "value": 0.0
+            },
+            {
+              "name": "_InvFade",
+              "value": 3.0
+            }
+          ],
+          "vector2Parameters": [
+
+          ],
+          "vector3Parameters": [
+
+          ],
+          "vector4Parameters": [
+            {
+              "name": "_BaseMap_scaleOffset",
+              "value": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": 0.0
+              }
+            }
+          ]
+        },
+        "meshName": [
+
+        ]
+      },
+      "emissionData": {
+        "durationSec": 0.2,
+        "isLooping": false,
+        "prewarm": false,
+        "startDelay": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "rateOverTime": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "rateOverDistance": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "maxParticles": 6,
+        "bursts": [
+          {
+            "time": 0.0,
+            "count": {
+              "mode": "Constant",
+              "value": 5.0
+            },
+            "cycles": 1,
+            "cycleInterval": 0.01,
+            "probability": 1.0
+          }
+        ],
+        "emitterVelocity": 0
+      },
+      "modules": [
+        {
+          "type": "VelocityOverLifetimeModule",
+          "linearX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "linearY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "linearZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetX": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetY": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "orbitalOffsetZ": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "radial": {
+            "mode": "Constant",
+            "value": 0.0
+          },
+          "speedModifier": {
+            "mode": "Constant",
+            "value": 1.0
+          }
+        },
+        {
+          "type": "ColorOverLifetimeModule",
+          "colorHolder": {
+            "mode": "Gradient",
+            "colorKeys": [
+              {
+                "color": -1,
+                "time": 0.0
+              },
+              {
+                "color": -1,
+                "time": 1.0
+              }
+            ],
+            "alphaKeys": [
+              {
+                "alpha": 1.0,
+                "time": 0.7264668
+              },
+              {
+                "alpha": 0.0,
+                "time": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "type": "SizeOverLifetimeModule",
+          "separateAxes": false,
+          "size": {
+            "mode": "Curve",
+            "points": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 1.0,
+                "outTangent": 1.0
+              },
+              {
+                "time": 1.0,
+                "value": 1.0,
+                "inTangent": 1.0,
+                "outTangent": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "type": "RotationOverLifetimeModule",
+          "separateAxes": false,
+          "rotation": {
+            "mode": "TwoConstants",
+            "value1": 5.23598766,
+            "value2": -5.23598766
+          }
+        },
+        {
+          "type": "SpriteSheetAnimationModule",
+          "tilesX": 8,
+          "tilesY": 8,
+          "animationType": "WholeSheet",
+          "frameOverTime": {
+            "mode": "Curve",
+            "points": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inTangent": 0.0,
+                "outTangent": 1.0
+              },
+              {
+                "time": 1.0,
+                "value": 0.9999,
+                "inTangent": 1.0,
+                "outTangent": 0.0
+              }
+            ]
+          },
+          "startFrame": {
+            "mode": "Constant",
+            "value": 0.0
+          }
+        },
+        {
+          "type": "SpeedModule"
+        }
+      ]
+    }
+  ]
+}

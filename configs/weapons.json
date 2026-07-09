@@ -1,1019 +1,999 @@
 {
-	"flamethrower":
-	[
+	"flamethrower": [
 		{
-			"id":"standard",
-			"muzzle":"shot_skin_flamethrower_standard_muzzle",
-			"particle":"shot_skin_flamethrower_standard_particle",
-			"startLight":"flamethrower_standard_start",
-			"loopLight":"flamethrower_standard_loop"
+			"id": "standard",
+			"muzzle": "shot_skin_flamethrower_standard_muzzle",
+			"particle": "shot_skin_flamethrower_standard_particle",
+			"startLight": "flamethrower_standard_start",
+			"loopLight": "flamethrower_standard_loop"
 		},
 		{
-			"id":"crimson",
-			"muzzle":"shot_skin_flamethrower_crimson_muzzle",
-			"particle":"shot_skin_flamethrower_crimson_particle",
-			"startLight":"flamethrower_crimson_start",
-			"loopLight":"flamethrower_crimson_loop"
+			"id": "crimson",
+			"muzzle": "shot_skin_flamethrower_crimson_muzzle",
+			"particle": "shot_skin_flamethrower_crimson_particle",
+			"startLight": "flamethrower_crimson_start",
+			"loopLight": "flamethrower_crimson_loop"
 		},
 		{
-			"id":"magma",
-			"muzzle":"shot_skin_flamethrower_magma_muzzle",
-			"particle":"shot_skin_flamethrower_magma_particle",
-			"startLight":"flamethrower_magma_start",
-			"loopLight":"flamethrower_magma_loop"
+			"id": "magma",
+			"muzzle": "shot_skin_flamethrower_magma_muzzle",
+			"particle": "shot_skin_flamethrower_magma_particle",
+			"startLight": "flamethrower_magma_start",
+			"loopLight": "flamethrower_magma_loop"
 		},
 		{
-			"id":"black",
-			"muzzle":"shot_skin_flamethrower_black_muzzle",
-			"particle":"shot_skin_flamethrower_black_particle",
-			"startLight":"flamethrower_black_start",
-			"loopLight":"flamethrower_black_loop"
+			"id": "black",
+			"muzzle": "shot_skin_flamethrower_black_muzzle",
+			"particle": "shot_skin_flamethrower_black_particle",
+			"startLight": "flamethrower_black_start",
+			"loopLight": "flamethrower_black_loop"
 		},
 		{
-			"id":"pink",
-			"muzzle":"shot_skin_flamethrower_pink_muzzle",
-			"particle":"shot_skin_flamethrower_pink_particle",
-			"startLight":"flamethrower_pink_start",
-			"loopLight":"flamethrower_pink_loop"
+			"id": "pink",
+			"muzzle": "shot_skin_flamethrower_pink_muzzle",
+			"particle": "shot_skin_flamethrower_pink_particle",
+			"startLight": "flamethrower_pink_start",
+			"loopLight": "flamethrower_pink_loop"
 		},
 		{
-			"id":"m0_legacy",
-			"particle":"shot_skin_flamethrower_m0_legacy_particle",
-			"startLight":"flamethrower_standard_start",
-			"loopLight":"flamethrower_standard_loop"
+			"id": "m0_legacy",
+			"particle": "shot_skin_flamethrower_m0_legacy_particle",
+			"startLight": "flamethrower_standard_start",
+			"loopLight": "flamethrower_standard_loop"
 		},
 		{
-			"id":"m1_legacy",
-			"particle":"shot_skin_flamethrower_m1_legacy_particle",
-			"startLight":"flamethrower_standard_start",
-			"loopLight":"flamethrower_standard_loop"
+			"id": "m1_legacy",
+			"particle": "shot_skin_flamethrower_m1_legacy_particle",
+			"startLight": "flamethrower_standard_start",
+			"loopLight": "flamethrower_standard_loop"
 		},
 		{
-			"id":"m2_legacy",
-			"particle":"shot_skin_flamethrower_m2_legacy_particle",
-			"startLight":"flamethrower_pink_start",
-			"loopLight":"flamethrower_pink_loop"
+			"id": "m2_legacy",
+			"particle": "shot_skin_flamethrower_m2_legacy_particle",
+			"startLight": "flamethrower_pink_start",
+			"loopLight": "flamethrower_pink_loop"
 		},
 		{
-			"id":"m3_legacy",
-			"particle":"shot_skin_flamethrower_m3_legacy_particle",
-			"startLight":"freeze_standard_start",
-			"loopLight":"freeze_standard_loop"
+			"id": "m3_legacy",
+			"particle": "shot_skin_flamethrower_m3_legacy_particle",
+			"startLight": "freeze_standard_start",
+			"loopLight": "freeze_standard_loop"
 		},
 		{
-			"id":"new_year_2010",
-			"particle":"shot_skin_flamethrower_new_year_2010_particle",
-			"startLight":"flamethrower_rainbow_fake_start",
-			"loopLight":"flamethrower_rainbow_fake_loop"
+			"id": "new_year_2010",
+			"particle": "shot_skin_flamethrower_new_year_2010_particle",
+			"startLight": "flamethrower_rainbow_fake_start",
+			"loopLight": "flamethrower_rainbow_fake_loop"
 		},
 		{
-			"id":"rainbow_fake",
-			"muzzle":"shot_skin_flamethrower_rainbow_fake_muzzle",
-			"particle":"shot_skin_flamethrower_rainbow_fake_particle",
-			"startLight":"flamethrower_rainbow_fake_start",
-			"loopLight":"flamethrower_rainbow_fake_loop"
+			"id": "rainbow_fake",
+			"muzzle": "shot_skin_flamethrower_rainbow_fake_muzzle",
+			"particle": "shot_skin_flamethrower_rainbow_fake_particle",
+			"startLight": "flamethrower_rainbow_fake_start",
+			"loopLight": "flamethrower_rainbow_fake_loop"
 		}
 	],
-	"freeze":
-	[
+	"freeze": [
 		{
-			"id":"standard",
-			"particle":"shot_skin_freeze_standard_particle",
-			"muzzle":"shot_skin_freeze_standard_muzzle",
-			"startLight":"freeze_standard_start",
-			"loopLight":"freeze_standard_loop"
+			"id": "standard",
+			"particle": "shot_skin_freeze_standard_particle",
+			"muzzle": "shot_skin_freeze_standard_muzzle",
+			"startLight": "freeze_standard_start",
+			"loopLight": "freeze_standard_loop"
 		},
 		{
-			"id":"darkmoon",
-			"particle":"shot_skin_freeze_darkmoon_particle",
-			"muzzle":"shot_skin_freeze_darkmoon_muzzle",
-			"startLight":"freeze_darkmoon_start",
-			"loopLight":"freeze_darkmoon_loop"
+			"id": "darkmoon",
+			"particle": "shot_skin_freeze_darkmoon_particle",
+			"muzzle": "shot_skin_freeze_darkmoon_muzzle",
+			"startLight": "freeze_darkmoon_start",
+			"loopLight": "freeze_darkmoon_loop"
 		},
 		{
-			"id":"toxic",
-			"particle":"shot_skin_freeze_toxic_particle",
-			"muzzle":"shot_skin_freeze_toxic_muzzle",
-			"startLight":"freeze_toxic_start",
-			"loopLight":"freeze_toxic_loop"
+			"id": "toxic",
+			"particle": "shot_skin_freeze_toxic_particle",
+			"muzzle": "shot_skin_freeze_toxic_muzzle",
+			"startLight": "freeze_toxic_start",
+			"loopLight": "freeze_toxic_loop"
 		},
 		{
-			"id":"cold",
-			"particle":"shot_skin_freeze_cold_particle",
-			"muzzle":"shot_skin_freeze_cold_muzzle",
-			"startLight":"freeze_cold_start",
-			"loopLight":"freeze_cold_loop"
+			"id": "cold",
+			"particle": "shot_skin_freeze_cold_particle",
+			"muzzle": "shot_skin_freeze_cold_muzzle",
+			"startLight": "freeze_cold_start",
+			"loopLight": "freeze_cold_loop"
 		},
 		{
-			"id":"snow",
-			"particle":"shot_skin_freeze_snow_particle",
-			"muzzle":"shot_skin_freeze_snow_muzzle",
-			"startLight":"freeze_snow_start",
-			"loopLight":"freeze_snow_loop"
+			"id": "snow",
+			"particle": "shot_skin_freeze_snow_particle",
+			"muzzle": "shot_skin_freeze_snow_muzzle",
+			"startLight": "freeze_snow_start",
+			"loopLight": "freeze_snow_loop"
 		},
 		{
-			"id":"m0_legacy",
-			"particle":"shot_skin_freeze_m0_legacy_particle",
-			"startLight":"freeze_standard_start",
-			"loopLight":"freeze_standard_loop"
+			"id": "m0_legacy",
+			"particle": "shot_skin_freeze_m0_legacy_particle",
+			"startLight": "freeze_standard_start",
+			"loopLight": "freeze_standard_loop"
 		},
 		{
-			"id":"m3_legacy",
-			"particle":"shot_skin_freeze_m3_legacy_particle",
-			"startLight":"freeze_snow_start",
-			"loopLight":"freeze_snow_loop"
+			"id": "m3_legacy",
+			"particle": "shot_skin_freeze_m3_legacy_particle",
+			"startLight": "freeze_snow_start",
+			"loopLight": "freeze_snow_loop"
 		}
 	],
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	"snowman":
-	[
+	"snowman": [
 		{
-			"id":"standard",
-			"smoke":"shot_skin_magnum_blue_smoke",
-			"trail":"shot_skin_magnum_blue_trail",
-			"explosion":"shot_skin_magnum_blue_explosion",
-			"shotLight":"magnum_standard_shot",
-			"hitLight":"magnum_standard_hit"
+			"id": "standard",
+			"smoke": "shot_skin_magnum_blue_smoke",
+			"trail": "shot_skin_magnum_blue_trail",
+			"explosion": "shot_skin_magnum_blue_explosion",
+			"shotLight": "magnum_standard_shot",
+			"hitLight": "magnum_standard_hit"
 		}
 	],
-	"tomato_gun":
-	[
+	"tomato_gun": [
 		{
-			"id":"standard",
-			"smoke":"shot_skin_magnum_crimson_smoke",
-			"trail":"shot_skin_magnum_crimson_trail",
-			"explosion":"shot_skin_tomato_gun_standard_explosion",
-			"shotLight":"magnum_standard_shot",
-			"hitLight":"magnum_standard_hit"
+			"id": "standard",
+			"smoke": "shot_skin_magnum_crimson_smoke",
+			"trail": "shot_skin_magnum_crimson_trail",
+			"explosion": "shot_skin_tomato_gun_standard_explosion",
+			"shotLight": "magnum_standard_shot",
+			"hitLight": "magnum_standard_hit"
 		}
 	],
-	"magnum":
-	[
+	"magnum": [
 		{
-			"id":"standard",
-			"smoke":"shot_skin_magnum_standard_smoke",
-			"trail":"shot_skin_magnum_standard_trail",
-			"explosion":"shot_skin_magnum_standard_explosion",
-			"shotLight":"magnum_standard_shot",
-			"hitLight":"magnum_standard_hit"
+			"id": "standard",
+			"smoke": "shot_skin_magnum_standard_smoke",
+			"trail": "shot_skin_magnum_standard_trail",
+			"explosion": "shot_skin_magnum_standard_explosion",
+			"shotLight": "magnum_standard_shot",
+			"hitLight": "magnum_standard_hit"
 		},
 		{
-			"id":"crimson",
-			"smoke":"shot_skin_magnum_crimson_smoke",
-			"trail":"shot_skin_magnum_crimson_trail",
-			"explosion":"shot_skin_magnum_crimson_explosion",
-			"shotLight":"magnum_standard_shot",
-			"hitLight":"magnum_standard_hit"
+			"id": "crimson",
+			"smoke": "shot_skin_magnum_crimson_smoke",
+			"trail": "shot_skin_magnum_crimson_trail",
+			"explosion": "shot_skin_magnum_crimson_explosion",
+			"shotLight": "magnum_standard_shot",
+			"hitLight": "magnum_standard_hit"
 		},
 		{
-			"id":"blue",
-			"smoke":"shot_skin_magnum_blue_smoke",
-			"trail":"shot_skin_magnum_blue_trail",
-			"explosion":"shot_skin_magnum_blue_explosion",
-			"shotLight":"magnum_standard_shot",
-			"hitLight":"magnum_standard_hit"
+			"id": "blue",
+			"smoke": "shot_skin_magnum_blue_smoke",
+			"trail": "shot_skin_magnum_blue_trail",
+			"explosion": "shot_skin_magnum_blue_explosion",
+			"shotLight": "magnum_standard_shot",
+			"hitLight": "magnum_standard_hit"
 		},
 		{
-			"id":"eclipse",
-			"smoke":"shot_skin_magnum_eclipse_smoke",
-			"trail":"shot_skin_magnum_eclipse_trail",
-			"explosion":"shot_skin_magnum_eclipse_explosion",
-			"shotLight":"magnum_standard_shot",
-			"hitLight":"magnum_standard_hit"
+			"id": "eclipse",
+			"smoke": "shot_skin_magnum_eclipse_smoke",
+			"trail": "shot_skin_magnum_eclipse_trail",
+			"explosion": "shot_skin_magnum_eclipse_explosion",
+			"shotLight": "magnum_standard_shot",
+			"hitLight": "magnum_standard_hit"
 		},
 		{
-			"id":"toxic",
-			"smoke":"shot_skin_magnum_toxic_smoke",
-			"trail":"shot_skin_magnum_toxic_trail",
-			"explosion":"shot_skin_magnum_toxic_explosion",
-			"shotLight":"magnum_standard_shot",
-			"hitLight":"magnum_standard_hit"
+			"id": "toxic",
+			"smoke": "shot_skin_magnum_toxic_smoke",
+			"trail": "shot_skin_magnum_toxic_trail",
+			"explosion": "shot_skin_magnum_toxic_explosion",
+			"shotLight": "magnum_standard_shot",
+			"hitLight": "magnum_standard_hit"
 		},
 		{
-			"id":"violet",
-			"smoke":"shot_skin_magnum_violet_smoke",
-			"trail":"shot_skin_magnum_violet_trail",
-			"explosion":"shot_skin_magnum_violet_explosion",
-			"shotLight":"magnum_standard_shot",
-			"hitLight":"magnum_standard_hit"
+			"id": "violet",
+			"smoke": "shot_skin_magnum_violet_smoke",
+			"trail": "shot_skin_magnum_violet_trail",
+			"explosion": "shot_skin_magnum_violet_explosion",
+			"shotLight": "magnum_standard_shot",
+			"hitLight": "magnum_standard_hit"
 		}
 	],
-	"railgun":
-	[
+	"railgun": [
 		{
-			"id":"standard",
-			"part1":"shot_skin_railgun_standard_part_1",
-			"part2":"shot_skin_railgun_standard_part_2",
-			"part3":"shot_skin_railgun_standard_part_3",
-			"trail":"shot_skin_railgun_standard_trail",
-			"smoke":"shot_skin_railgun_standard_smoke",
-			"chargeLight":"railgun_standard_charge",
-			"shotLight":"railgun_standard_shot",
-			"hitLight":"railgun_standard_hit",
-			"railLight":"railgun_standard_rail"
+			"id": "standard",
+			"part1": "shot_skin_railgun_standard_part_1",
+			"part2": "shot_skin_railgun_standard_part_2",
+			"part3": "shot_skin_railgun_standard_part_3",
+			"trail": "shot_skin_railgun_standard_trail",
+			"smoke": "shot_skin_railgun_standard_smoke",
+			"chargeLight": "railgun_standard_charge",
+			"shotLight": "railgun_standard_shot",
+			"hitLight": "railgun_standard_hit",
+			"railLight": "railgun_standard_rail"
 		},
 		{
-			"id":"gold",
-			"part1":"shot_skin_railgun_gold_part_1",
-			"part2":"shot_skin_railgun_standard_part_2",
-			"part3":"shot_skin_railgun_standard_part_3",
-			"trail":"shot_skin_railgun_gold_trail",
-			"smoke":"shot_skin_railgun_gold_smoke",
-			"chargeLight":"railgun_gold_charge",
-			"shotLight":"railgun_gold_shot",
-			"hitLight":"railgun_gold_hit",
-			"railLight":"railgun_gold_rail"
+			"id": "gold",
+			"part1": "shot_skin_railgun_gold_part_1",
+			"part2": "shot_skin_railgun_standard_part_2",
+			"part3": "shot_skin_railgun_standard_part_3",
+			"trail": "shot_skin_railgun_gold_trail",
+			"smoke": "shot_skin_railgun_gold_smoke",
+			"chargeLight": "railgun_gold_charge",
+			"shotLight": "railgun_gold_shot",
+			"hitLight": "railgun_gold_hit",
+			"railLight": "railgun_gold_rail"
 		},
 		{
-			"id":"blue",
-			"part1":"shot_skin_railgun_blue_part_1",
-			"part2":"shot_skin_railgun_standard_part_2",
-			"part3":"shot_skin_railgun_standard_part_3",
-			"trail":"shot_skin_railgun_blue_trail",
-			"smoke":"shot_skin_railgun_blue_smoke",
-			"chargeLight":"railgun_blue_charge",
-			"shotLight":"railgun_blue_shot",
-			"hitLight":"railgun_blue_hit",
-			"railLight":"railgun_blue_rail"
+			"id": "blue",
+			"part1": "shot_skin_railgun_blue_part_1",
+			"part2": "shot_skin_railgun_standard_part_2",
+			"part3": "shot_skin_railgun_standard_part_3",
+			"trail": "shot_skin_railgun_blue_trail",
+			"smoke": "shot_skin_railgun_blue_smoke",
+			"chargeLight": "railgun_blue_charge",
+			"shotLight": "railgun_blue_shot",
+			"hitLight": "railgun_blue_hit",
+			"railLight": "railgun_blue_rail"
 		},
 		{
-			"id":"green",
-			"part1":"shot_skin_railgun_green_part_1",
-			"part2":"shot_skin_railgun_standard_part_2",
-			"part3":"shot_skin_railgun_standard_part_3",
-			"trail":"shot_skin_railgun_green_trail",
-			"smoke":"shot_skin_railgun_green_smoke",
-			"chargeLight":"railgun_green_charge",
-			"shotLight":"railgun_green_shot",
-			"hitLight":"railgun_green_hit",
-			"railLight":"railgun_green_rail"
+			"id": "green",
+			"part1": "shot_skin_railgun_green_part_1",
+			"part2": "shot_skin_railgun_standard_part_2",
+			"part3": "shot_skin_railgun_standard_part_3",
+			"trail": "shot_skin_railgun_green_trail",
+			"smoke": "shot_skin_railgun_green_smoke",
+			"chargeLight": "railgun_green_charge",
+			"shotLight": "railgun_green_shot",
+			"hitLight": "railgun_green_hit",
+			"railLight": "railgun_green_rail"
 		},
 		{
-			"id":"blood",
-			"part1":"shot_skin_railgun_blood_part_1",
-			"part2":"shot_skin_railgun_standard_part_2",
-			"part3":"shot_skin_railgun_standard_part_3",
-			"trail":"shot_skin_railgun_blood_trail",
-			"smoke":"shot_skin_railgun_blood_smoke",
-			"chargeLight":"railgun_blood_charge",
-			"shotLight":"railgun_blood_shot",
-			"hitLight":"railgun_blood_hit",
-			"railLight":"railgun_blood_rail"
+			"id": "blood",
+			"part1": "shot_skin_railgun_blood_part_1",
+			"part2": "shot_skin_railgun_standard_part_2",
+			"part3": "shot_skin_railgun_standard_part_3",
+			"trail": "shot_skin_railgun_blood_trail",
+			"smoke": "shot_skin_railgun_blood_smoke",
+			"chargeLight": "railgun_blood_charge",
+			"shotLight": "railgun_blood_shot",
+			"hitLight": "railgun_blood_hit",
+			"railLight": "railgun_blood_rail"
 		},
 		{
-			"id":"snow",
-			"part1":"shot_skin_railgun_snow_part_1",
-			"part2":"shot_skin_railgun_standard_part_2",
-			"part3":"shot_skin_railgun_standard_part_3",
-			"trail":"shot_skin_railgun_snow_trail",
-			"smoke":"shot_skin_railgun_snow_smoke",
-			"chargeLight":"railgun_snow_charge",
-			"shotLight":"railgun_snow_shot",
-			"hitLight":"railgun_snow_hit",
-			"railLight":"railgun_snow_rail"
+			"id": "snow",
+			"part1": "shot_skin_railgun_snow_part_1",
+			"part2": "shot_skin_railgun_standard_part_2",
+			"part3": "shot_skin_railgun_standard_part_3",
+			"trail": "shot_skin_railgun_snow_trail",
+			"smoke": "shot_skin_railgun_snow_smoke",
+			"chargeLight": "railgun_snow_charge",
+			"shotLight": "railgun_snow_shot",
+			"hitLight": "railgun_snow_hit",
+			"railLight": "railgun_snow_rail"
 		},
 		{
-			"id":"violet",
-			"part1":"shot_skin_railgun_violet_part_1",
-			"part2":"shot_skin_railgun_standard_part_2",
-			"part3":"shot_skin_railgun_standard_part_3",
-			"trail":"shot_skin_railgun_violet_trail",
-			"smoke":"shot_skin_railgun_violet_smoke",
-			"chargeLight":"railgun_violet_charge",
-			"shotLight":"railgun_violet_shot",
-			"hitLight":"railgun_violet_hit",
-			"railLight":"railgun_violet_rail"
+			"id": "violet",
+			"part1": "shot_skin_railgun_violet_part_1",
+			"part2": "shot_skin_railgun_standard_part_2",
+			"part3": "shot_skin_railgun_standard_part_3",
+			"trail": "shot_skin_railgun_violet_trail",
+			"smoke": "shot_skin_railgun_violet_smoke",
+			"chargeLight": "railgun_violet_charge",
+			"shotLight": "railgun_violet_shot",
+			"hitLight": "railgun_violet_hit",
+			"railLight": "railgun_violet_rail"
 		},
 		{
-			"id":"darkness",
-			"part1":"shot_skin_railgun_darkness_part_1",
-			"part2":"shot_skin_railgun_standard_part_2",
-			"part3":"shot_skin_railgun_standard_part_3",
-			"trail":"shot_skin_railgun_darkness_trail",
-			"smoke":"shot_skin_railgun_darkness_smoke",
-			"chargeLight":"railgun_darkness_charge",
-			"shotLight":"railgun_darkness_shot",
-			"hitLight":"railgun_darkness_hit",
-			"railLight":"railgun_darkness_rail"
+			"id": "darkness",
+			"part1": "shot_skin_railgun_darkness_part_1",
+			"part2": "shot_skin_railgun_standard_part_2",
+			"part3": "shot_skin_railgun_standard_part_3",
+			"trail": "shot_skin_railgun_darkness_trail",
+			"smoke": "shot_skin_railgun_darkness_smoke",
+			"chargeLight": "railgun_darkness_charge",
+			"shotLight": "railgun_darkness_shot",
+			"hitLight": "railgun_darkness_hit",
+			"railLight": "railgun_darkness_rail"
 		}
 	],
-	"striker":
-	[
+	"striker": [
 		{
-			"id":"standard",
-			"explosion":"shot_skin_striker_standard_explosion",
-			"smoke":"shot_skin_striker_standard_smoke",
-			"rocketLight":"striker_standard_rocket",
-			"explosionLight":"striker_standard_explosion"
+			"id": "standard",
+			"explosion": "shot_skin_striker_standard_explosion",
+			"smoke": "shot_skin_striker_standard_smoke",
+			"rocketLight": "striker_standard_rocket",
+			"explosionLight": "striker_standard_explosion"
 		},
 		{
-			"id":"toxic",
-			"explosion":"shot_skin_striker_toxic_explosion",
-			"smoke":"shot_skin_striker_toxic_smoke",
-			"rocketLight":"striker_standard_rocket",
-			"explosionLight":"striker_toxic_explosion"
+			"id": "toxic",
+			"explosion": "shot_skin_striker_toxic_explosion",
+			"smoke": "shot_skin_striker_toxic_smoke",
+			"rocketLight": "striker_standard_rocket",
+			"explosionLight": "striker_toxic_explosion"
 		},
 		{
-			"id":"crimson",
-			"explosion":"shot_skin_striker_crimson_explosion",
-			"smoke":"shot_skin_striker_crimson_smoke",
-			"rocketLight":"striker_standard_rocket",
-			"explosionLight":"striker_crimson_explosion"
+			"id": "crimson",
+			"explosion": "shot_skin_striker_crimson_explosion",
+			"smoke": "shot_skin_striker_crimson_smoke",
+			"rocketLight": "striker_standard_rocket",
+			"explosionLight": "striker_crimson_explosion"
 		},
 		{
-			"id":"blue",
-			"explosion":"shot_skin_striker_blue_explosion",
-			"smoke":"shot_skin_striker_blue_smoke",
-			"rocketLight":"striker_standard_rocket",
-			"explosionLight":"striker_blue_explosion"
+			"id": "blue",
+			"explosion": "shot_skin_striker_blue_explosion",
+			"smoke": "shot_skin_striker_blue_smoke",
+			"rocketLight": "striker_standard_rocket",
+			"explosionLight": "striker_blue_explosion"
 		},
 		{
-			"id":"violet",
-			"explosion":"shot_skin_striker_violet_explosion",
-			"smoke":"shot_skin_striker_violet_smoke",
-			"rocketLight":"striker_standard_rocket",
-			"explosionLight":"striker_violet_explosion"
+			"id": "violet",
+			"explosion": "shot_skin_striker_violet_explosion",
+			"smoke": "shot_skin_striker_violet_smoke",
+			"rocketLight": "striker_standard_rocket",
+			"explosionLight": "striker_violet_explosion"
 		}
 	],
-	"twins":
-	[
+	"twins": [
 		{
-			"id":"standard",
-			"explosion":"shot_skin_twins_standard_explosion",
-			"shot":"shot_skin_twins_standard_shot",
-			"muzzle":"shot_skin_twins_standard_muzzle",
-			"shotLight":"twins_default_shot",
-			"shellLight":"twins_default_shell",
-			"hitLight":"twins_default_hit"
+			"id": "standard",
+			"explosion": "shot_skin_twins_standard_explosion",
+			"shot": "shot_skin_twins_standard_shot",
+			"muzzle": "shot_skin_twins_standard_muzzle",
+			"shotLight": "twins_default_shot",
+			"shellLight": "twins_default_shell",
+			"hitLight": "twins_default_hit"
 		},
 		{
-			"id":"sky",
-			"explosion":"shot_skin_twins_sky_explosion",
-			"shot":"shot_skin_twins_sky_shot",
-			"muzzle":"shot_skin_twins_sky_muzzle",
-			"shotLight":"twins_sky_shot",
-			"shellLight":"twins_sky_shell",
-			"hitLight":"twins_sky_hit"
+			"id": "sky",
+			"explosion": "shot_skin_twins_sky_explosion",
+			"shot": "shot_skin_twins_sky_shot",
+			"muzzle": "shot_skin_twins_sky_muzzle",
+			"shotLight": "twins_sky_shot",
+			"shellLight": "twins_sky_shell",
+			"hitLight": "twins_sky_hit"
 		},
 		{
-			"id":"gold",
-			"explosion":"shot_skin_twins_gold_explosion",
-			"shot":"shot_skin_twins_gold_shot",
-			"muzzle":"shot_skin_twins_gold_muzzle",
-			"shotLight":"twins_gold_shot",
-			"shellLight":"twins_gold_shell",
-			"hitLight":"twins_gold_hit"
+			"id": "gold",
+			"explosion": "shot_skin_twins_gold_explosion",
+			"shot": "shot_skin_twins_gold_shot",
+			"muzzle": "shot_skin_twins_gold_muzzle",
+			"shotLight": "twins_gold_shot",
+			"shellLight": "twins_gold_shell",
+			"hitLight": "twins_gold_hit"
 		},
 		{
-			"id":"darkmoon",
-			"explosion":"shot_skin_twins_darkmoon_explosion",
-			"shot":"shot_skin_twins_darkmoon_shot",
-			"muzzle":"shot_skin_twins_darkmoon_muzzle",
-			"shotLight":"twins_darkmoon_shot",
-			"shellLight":"twins_darkmoon_shell",
-			"hitLight":"twins_darkmoon_hit"
+			"id": "darkmoon",
+			"explosion": "shot_skin_twins_darkmoon_explosion",
+			"shot": "shot_skin_twins_darkmoon_shot",
+			"muzzle": "shot_skin_twins_darkmoon_muzzle",
+			"shotLight": "twins_darkmoon_shot",
+			"shellLight": "twins_darkmoon_shell",
+			"hitLight": "twins_darkmoon_hit"
 		},
 		{
-			"id":"violet",
-			"explosion":"shot_skin_twins_violet_explosion",
-			"shot":"shot_skin_twins_violet_shot",
-			"muzzle":"shot_skin_twins_violet_muzzle",
-			"shotLight":"twins_violet_shot",
-			"shellLight":"twins_violet_shell",
-			"hitLight":"twins_violet_hit"
+			"id": "violet",
+			"explosion": "shot_skin_twins_violet_explosion",
+			"shot": "shot_skin_twins_violet_shot",
+			"muzzle": "shot_skin_twins_violet_muzzle",
+			"shotLight": "twins_violet_shot",
+			"shellLight": "twins_violet_shell",
+			"hitLight": "twins_violet_hit"
 		},
 		{
-			"id":"coral",
-			"explosion":"shot_skin_twins_coral_explosion",
-			"shot":"shot_skin_twins_coral_shot",
-			"muzzle":"shot_skin_twins_coral_muzzle",
-			"shotLight":"twins_coral_shot",
-			"shellLight":"twins_coral_shell",
-			"hitLight":"twins_coral_hit"
+			"id": "coral",
+			"explosion": "shot_skin_twins_coral_explosion",
+			"shot": "shot_skin_twins_coral_shot",
+			"muzzle": "shot_skin_twins_coral_muzzle",
+			"shotLight": "twins_coral_shot",
+			"shellLight": "twins_coral_shell",
+			"hitLight": "twins_coral_hit"
 		},
 		{
-			"id":"electric",
-			"explosion":"shot_skin_twins_electric_explosion",
-			"shot":"shot_skin_twins_electric_shot",
-			"muzzle":"shot_skin_twins_electric_muzzle",
-			"shotLight":"twins_electric_shot",
-			"shellLight":"twins_electric_shell",
-			"hitLight":"twins_electric_hit"
+			"id": "electric",
+			"explosion": "shot_skin_twins_electric_explosion",
+			"shot": "shot_skin_twins_electric_shot",
+			"muzzle": "shot_skin_twins_electric_muzzle",
+			"shotLight": "twins_electric_shot",
+			"shellLight": "twins_electric_shell",
+			"hitLight": "twins_electric_hit"
 		},
 		{
-			"id":"blaster",
-			"effectsFlash":"shot_skin_twins_blaster_effects_flash",
-			"effectsBeam":"shot_skin_twins_blaster_effects_beam",
-			"effectsEnd":"shot_skin_ricochet_blaster_effects_end",
-			"shotLight":"twins_blaster_shot",
-			"shellLight":"twins_blaster_shell",
-			"hitLight":"twins_blaster_hit"
+			"id": "blaster",
+			"effectsFlash": "shot_skin_twins_blaster_effects_flash",
+			"effectsBeam": "shot_skin_twins_blaster_effects_beam",
+			"effectsEnd": "shot_skin_ricochet_blaster_effects_end",
+			"shotLight": "twins_blaster_shot",
+			"shellLight": "twins_blaster_shell",
+			"hitLight": "twins_blaster_hit"
 		},
 		{
-			"id":"m0_legacy",
-			"isLegacy":true,
-			"explosion":"shot_skin_twins_m0_legacy_explosion",
-			"shot":"shot_skin_twins_m0_legacy_shot",
-			"muzzle":"shot_skin_twins_m0_legacy_muzzle",
-			"shotLight":"twins_sky_shot",
-			"shellLight":"twins_sky_shell",
-			"hitLight":"twins_sky_hit"
+			"id": "m0_legacy",
+			"isLegacy": true,
+			"explosion": "shot_skin_twins_m0_legacy_explosion",
+			"shot": "shot_skin_twins_m0_legacy_shot",
+			"muzzle": "shot_skin_twins_m0_legacy_muzzle",
+			"shotLight": "twins_sky_shot",
+			"shellLight": "twins_sky_shell",
+			"hitLight": "twins_sky_hit"
 		},
 		{
-			"id":"m1_legacy",
-			"isLegacy":true,
-			"explosion":"shot_skin_twins_m1_legacy_explosion",
-			"shot":"shot_skin_twins_m1_legacy_shot",
-			"muzzle":"shot_skin_twins_m1_legacy_muzzle",
-			"shotLight":"twins_sky_shot",
-			"shellLight":"twins_sky_shell",
-			"hitLight":"twins_sky_hit"
+			"id": "m1_legacy",
+			"isLegacy": true,
+			"explosion": "shot_skin_twins_m1_legacy_explosion",
+			"shot": "shot_skin_twins_m1_legacy_shot",
+			"muzzle": "shot_skin_twins_m1_legacy_muzzle",
+			"shotLight": "twins_sky_shot",
+			"shellLight": "twins_sky_shell",
+			"hitLight": "twins_sky_hit"
 		},
 		{
-			"id":"m2_legacy",
-			"isLegacy":true,
-			"explosion":"shot_skin_twins_m2_legacy_explosion",
-			"shot":"shot_skin_twins_m2_legacy_shot",
-			"muzzle":"shot_skin_twins_m2_legacy_muzzle",
-			"shotLight":"twins_default_shot",
-			"shellLight":"twins_default_shell",
-			"hitLight":"twins_default_hit"
+			"id": "m2_legacy",
+			"isLegacy": true,
+			"explosion": "shot_skin_twins_m2_legacy_explosion",
+			"shot": "shot_skin_twins_m2_legacy_shot",
+			"muzzle": "shot_skin_twins_m2_legacy_muzzle",
+			"shotLight": "twins_default_shot",
+			"shellLight": "twins_default_shell",
+			"hitLight": "twins_default_hit"
 		},
 		{
-			"id":"m3_legacy",
-			"isLegacy":true,
-			"explosion":"shot_skin_twins_m3_legacy_explosion",
-			"shot":"shot_skin_twins_m3_legacy_shot",
-			"muzzle":"shot_skin_twins_m3_legacy_muzzle",
-			"shotLight":"twins_default_shot",
-			"shellLight":"twins_default_shell",
-			"hitLight":"twins_default_hit"
+			"id": "m3_legacy",
+			"isLegacy": true,
+			"explosion": "shot_skin_twins_m3_legacy_explosion",
+			"shot": "shot_skin_twins_m3_legacy_shot",
+			"muzzle": "shot_skin_twins_m3_legacy_muzzle",
+			"shotLight": "twins_default_shot",
+			"shellLight": "twins_default_shell",
+			"hitLight": "twins_default_hit"
 		}
 	],
-	"isida":
-	[
+	"isida": [
 		{
-			"id":"standard",
-			"idleBall":"shot_skin_isida_heal_ball",
-			"damageBall":"shot_skin_isida_standard_ball",
-			"damageRay":"shot_skin_isida_standard_ray",
-			"enemyStartLight":"isida_default_enemy_start",
-			"enemyLoopLight":"isida_default_enemy_loop",
-			"enemyBeamLight":"isida_default_enemy_beam",
-			"startLight":"isida_default_start",
-			"loopLight":"isida_default_loop"
+			"id": "standard",
+			"idleBall": "shot_skin_isida_heal_ball",
+			"damageBall": "shot_skin_isida_standard_ball",
+			"damageRay": "shot_skin_isida_standard_ray",
+			"enemyStartLight": "isida_default_enemy_start",
+			"enemyLoopLight": "isida_default_enemy_loop",
+			"enemyBeamLight": "isida_default_enemy_beam",
+			"startLight": "isida_default_start",
+			"loopLight": "isida_default_loop"
 		},
 		{
-			"id":"heal",
-			"idleBall":"shot_skin_isida_heal_ball",
-			"damageBall":"shot_skin_isida_heal_ball",
-			"damageRay":"shot_skin_isida_heal_ray",
-			"enemyStartLight":"isida_heal_enemy_start",
-			"enemyLoopLight":"isida_heal_enemy_loop",
-			"enemyBeamLight":"isida_heal_enemy_beam",
-			"startLight":"isida_default_start",
-			"loopLight":"isida_default_loop"
+			"id": "heal",
+			"idleBall": "shot_skin_isida_heal_ball",
+			"damageBall": "shot_skin_isida_heal_ball",
+			"damageRay": "shot_skin_isida_heal_ray",
+			"enemyStartLight": "isida_heal_enemy_start",
+			"enemyLoopLight": "isida_heal_enemy_loop",
+			"enemyBeamLight": "isida_heal_enemy_beam",
+			"startLight": "isida_default_start",
+			"loopLight": "isida_default_loop"
 		},
 		{
-			"id":"sun",
-			"idleBall":"shot_skin_isida_heal_ball",
-			"damageBall":"shot_skin_isida_sun_ball",
-			"damageRay":"shot_skin_isida_sun_ray",
-			"enemyStartLight":"isida_sun_enemy_start",
-			"enemyLoopLight":"isida_sun_enemy_loop",
-			"enemyBeamLight":"isida_sun_enemy_beam",
-			"startLight":"isida_default_start",
-			"loopLight":"isida_default_loop"
+			"id": "sun",
+			"idleBall": "shot_skin_isida_heal_ball",
+			"damageBall": "shot_skin_isida_sun_ball",
+			"damageRay": "shot_skin_isida_sun_ray",
+			"enemyStartLight": "isida_sun_enemy_start",
+			"enemyLoopLight": "isida_sun_enemy_loop",
+			"enemyBeamLight": "isida_sun_enemy_beam",
+			"startLight": "isida_default_start",
+			"loopLight": "isida_default_loop"
 		},
 		{
-			"id":"fire",
-			"idleBall":"shot_skin_isida_heal_ball",
-			"damageBall":"shot_skin_isida_fire_ball",
-			"damageRay":"shot_skin_isida_fire_ray",
-			"enemyStartLight":"isida_fire_enemy_start",
-			"enemyLoopLight":"isida_fire_enemy_loop",
-			"enemyBeamLight":"isida_fire_enemy_beam",
-			"startLight":"isida_default_start",
-			"loopLight":"isida_default_loop"
+			"id": "fire",
+			"idleBall": "shot_skin_isida_heal_ball",
+			"damageBall": "shot_skin_isida_fire_ball",
+			"damageRay": "shot_skin_isida_fire_ray",
+			"enemyStartLight": "isida_fire_enemy_start",
+			"enemyLoopLight": "isida_fire_enemy_loop",
+			"enemyBeamLight": "isida_fire_enemy_beam",
+			"startLight": "isida_default_start",
+			"loopLight": "isida_default_loop"
 		},
 		{
-			"id":"m0_legacy",
-			"idleBall":"shot_skin_isida_m3_legacy_idle",
-			"damageBall":"shot_skin_isida_m0_legacy_ball",
-			"damageRay":"shot_skin_isida_m0_legacy_ray",
-			"enemyStartLight":"isida_fire_enemy_start",
-			"enemyLoopLight":"isida_fire_enemy_loop",
-			"enemyBeamLight":"isida_fire_enemy_beam",
-			"startLight":"isida_default_start",
-			"loopLight":"isida_default_loop"
+			"id": "m0_legacy",
+			"idleBall": "shot_skin_isida_m3_legacy_idle",
+			"damageBall": "shot_skin_isida_m0_legacy_ball",
+			"damageRay": "shot_skin_isida_m0_legacy_ray",
+			"enemyStartLight": "isida_fire_enemy_start",
+			"enemyLoopLight": "isida_fire_enemy_loop",
+			"enemyBeamLight": "isida_fire_enemy_beam",
+			"startLight": "isida_default_start",
+			"loopLight": "isida_default_loop"
 		},
 		{
-			"id":"m1_legacy",
-			"idleBall":"shot_skin_isida_m3_legacy_idle",
-			"damageBall":"shot_skin_isida_m1_legacy_ball",
-			"damageRay":"shot_skin_isida_m1_legacy_ray",
-			"enemyStartLight":"isida_fire_enemy_start",
-			"enemyLoopLight":"isida_fire_enemy_loop",
-			"enemyBeamLight":"isida_fire_enemy_beam",
-			"startLight":"isida_default_start",
-			"loopLight":"isida_default_loop"
+			"id": "m1_legacy",
+			"idleBall": "shot_skin_isida_m3_legacy_idle",
+			"damageBall": "shot_skin_isida_m1_legacy_ball",
+			"damageRay": "shot_skin_isida_m1_legacy_ray",
+			"enemyStartLight": "isida_fire_enemy_start",
+			"enemyLoopLight": "isida_fire_enemy_loop",
+			"enemyBeamLight": "isida_fire_enemy_beam",
+			"startLight": "isida_default_start",
+			"loopLight": "isida_default_loop"
 		},
 		{
-			"id":"m2_legacy",
-			"idleBall":"shot_skin_isida_m3_legacy_idle",
-			"damageBall":"shot_skin_isida_m2_legacy_ball",
-			"damageRay":"shot_skin_isida_m2_legacy_ray",
-			"enemyStartLight":"isida_fire_enemy_start",
-			"enemyLoopLight":"isida_fire_enemy_loop",
-			"enemyBeamLight":"isida_fire_enemy_beam",
-			"startLight":"isida_default_start",
-			"loopLight":"isida_default_loop"
+			"id": "m2_legacy",
+			"idleBall": "shot_skin_isida_m3_legacy_idle",
+			"damageBall": "shot_skin_isida_m2_legacy_ball",
+			"damageRay": "shot_skin_isida_m2_legacy_ray",
+			"enemyStartLight": "isida_fire_enemy_start",
+			"enemyLoopLight": "isida_fire_enemy_loop",
+			"enemyBeamLight": "isida_fire_enemy_beam",
+			"startLight": "isida_default_start",
+			"loopLight": "isida_default_loop"
 		},
 		{
-			"id":"m3_legacy",
-			"idleBall":"shot_skin_isida_m3_legacy_idle",
-			"damageBall":"shot_skin_isida_m3_legacy_ball",
-			"damageRay":"shot_skin_isida_m3_legacy_ray",
-			"enemyStartLight":"isida_fire_enemy_start",
-			"enemyLoopLight":"isida_fire_enemy_loop",
-			"enemyBeamLight":"isida_fire_enemy_beam",
-			"startLight":"isida_default_start",
-			"loopLight":"isida_default_loop"
+			"id": "m3_legacy",
+			"idleBall": "shot_skin_isida_m3_legacy_idle",
+			"damageBall": "shot_skin_isida_m3_legacy_ball",
+			"damageRay": "shot_skin_isida_m3_legacy_ray",
+			"enemyStartLight": "isida_fire_enemy_start",
+			"enemyLoopLight": "isida_fire_enemy_loop",
+			"enemyBeamLight": "isida_fire_enemy_beam",
+			"startLight": "isida_default_start",
+			"loopLight": "isida_default_loop"
 		}
 	],
-	"hammer":
-	[
+	"hammer": [
 		{
-			"id":"standard",
-			"pelletTrail":"shot_skin_hammer_standard_pellet_trail",
-			"shotAcross":"shot_skin_hammer_standard_shot_across",
-			"shotAlong":"shot_skin_hammer_standard_shot_along",
-			"sparkle":"shot_skin_hammer_standard_sparkle",
-			"shotLight":"hammer_default_shot",
-			"sparkleLight":"hammer_default_sparkle"
+			"id": "standard",
+			"pelletTrail": "shot_skin_hammer_standard_pellet_trail",
+			"shotAcross": "shot_skin_hammer_standard_shot_across",
+			"shotAlong": "shot_skin_hammer_standard_shot_along",
+			"sparkle": "shot_skin_hammer_standard_sparkle",
+			"shotLight": "hammer_default_shot",
+			"sparkleLight": "hammer_default_sparkle"
 		},
 		{
-			"id":"aqua",
-			"pelletTrail":"shot_skin_hammer_aqua_pellet_trail",
-			"shotAcross":"shot_skin_hammer_aqua_shot_across",
-			"shotAlong":"shot_skin_hammer_aqua_shot_along",
-			"sparkle":"shot_skin_hammer_aqua_sparkle",
-			"shotLight":"hammer_aqua_shot",
-			"sparkleLight":"hammer_aqua_sparkle"
+			"id": "aqua",
+			"pelletTrail": "shot_skin_hammer_aqua_pellet_trail",
+			"shotAcross": "shot_skin_hammer_aqua_shot_across",
+			"shotAlong": "shot_skin_hammer_aqua_shot_along",
+			"sparkle": "shot_skin_hammer_aqua_sparkle",
+			"shotLight": "hammer_aqua_shot",
+			"sparkleLight": "hammer_aqua_sparkle"
 		},
 		{
-			"id":"magma",
-			"pelletTrail":"shot_skin_hammer_magma_pellet_trail",
-			"shotAcross":"shot_skin_hammer_magma_shot_across",
-			"shotAlong":"shot_skin_hammer_magma_shot_along",
-			"sparkle":"shot_skin_hammer_magma_sparkle",
-			"shotLight":"hammer_magma_shot",
-			"sparkleLight":"hammer_magma_sparkle"
+			"id": "magma",
+			"pelletTrail": "shot_skin_hammer_magma_pellet_trail",
+			"shotAcross": "shot_skin_hammer_magma_shot_across",
+			"shotAlong": "shot_skin_hammer_magma_shot_along",
+			"sparkle": "shot_skin_hammer_magma_sparkle",
+			"shotLight": "hammer_magma_shot",
+			"sparkleLight": "hammer_magma_sparkle"
 		},
 		{
-			"id":"void",
-			"pelletTrail":"shot_skin_hammer_void_pellet_trail",
-			"shotAcross":"shot_skin_hammer_void_shot_across",
-			"shotAlong":"shot_skin_hammer_void_shot_along",
-			"sparkle":"shot_skin_hammer_void_sparkle",
-			"shotLight":"hammer_void_shot",
-			"sparkleLight":"hammer_void_sparkle"
+			"id": "void",
+			"pelletTrail": "shot_skin_hammer_void_pellet_trail",
+			"shotAcross": "shot_skin_hammer_void_shot_across",
+			"shotAlong": "shot_skin_hammer_void_shot_along",
+			"sparkle": "shot_skin_hammer_void_sparkle",
+			"shotLight": "hammer_void_shot",
+			"sparkleLight": "hammer_void_sparkle"
 		},
 		{
-			"id":"toxic",
-			"pelletTrail":"shot_skin_hammer_toxic_pellet_trail",
-			"shotAcross":"shot_skin_hammer_toxic_shot_across",
-			"shotAlong":"shot_skin_hammer_toxic_shot_along",
-			"sparkle":"shot_skin_hammer_toxic_sparkle",
-			"shotLight":"hammer_toxic_shot",
-			"sparkleLight":"hammer_toxic_sparkle"
+			"id": "toxic",
+			"pelletTrail": "shot_skin_hammer_toxic_pellet_trail",
+			"shotAcross": "shot_skin_hammer_toxic_shot_across",
+			"shotAlong": "shot_skin_hammer_toxic_shot_along",
+			"sparkle": "shot_skin_hammer_toxic_sparkle",
+			"shotLight": "hammer_toxic_shot",
+			"sparkleLight": "hammer_toxic_sparkle"
 		},
 		{
-			"id":"eclipse",
-			"pelletTrail":"shot_skin_hammer_eclipse_pellet_trail",
-			"shotAcross":"shot_skin_hammer_eclipse_shot_across",
-			"shotAlong":"shot_skin_hammer_eclipse_shot_along",
-			"sparkle":"shot_skin_hammer_eclipse_sparkle",
-			"shotLight":"hammer_eclipse_shot",
-			"sparkleLight":"hammer_eclipse_sparkle"
+			"id": "eclipse",
+			"pelletTrail": "shot_skin_hammer_eclipse_pellet_trail",
+			"shotAcross": "shot_skin_hammer_eclipse_shot_across",
+			"shotAlong": "shot_skin_hammer_eclipse_shot_along",
+			"sparkle": "shot_skin_hammer_eclipse_sparkle",
+			"shotLight": "hammer_eclipse_shot",
+			"sparkleLight": "hammer_eclipse_sparkle"
 		},
 		{
-			"id":"blue",
-			"pelletTrail":"shot_skin_hammer_blue_pellet_trail",
-			"shotAcross":"shot_skin_hammer_blue_shot_across",
-			"shotAlong":"shot_skin_hammer_blue_shot_along",
-			"sparkle":"shot_skin_hammer_blue_sparkle",
-			"shotLight":"hammer_blue_shot",
-			"sparkleLight":"hammer_blue_sparkle"
+			"id": "blue",
+			"pelletTrail": "shot_skin_hammer_blue_pellet_trail",
+			"shotAcross": "shot_skin_hammer_blue_shot_across",
+			"shotAlong": "shot_skin_hammer_blue_shot_along",
+			"sparkle": "shot_skin_hammer_blue_sparkle",
+			"shotLight": "hammer_blue_shot",
+			"sparkleLight": "hammer_blue_sparkle"
 		},
 		{
-			"id":"blood",
-			"pelletTrail":"shot_skin_hammer_blood_pellet_trail",
-			"shotAcross":"shot_skin_hammer_blood_shot_across",
-			"shotAlong":"shot_skin_hammer_blood_shot_along",
-			"sparkle":"shot_skin_hammer_blood_sparkle",
-			"shotLight":"hammer_blood_shot",
-			"sparkleLight":"hammer_blood_sparkle"
+			"id": "blood",
+			"pelletTrail": "shot_skin_hammer_blood_pellet_trail",
+			"shotAcross": "shot_skin_hammer_blood_shot_across",
+			"shotAlong": "shot_skin_hammer_blood_shot_along",
+			"sparkle": "shot_skin_hammer_blood_sparkle",
+			"shotLight": "hammer_blood_shot",
+			"sparkleLight": "hammer_blood_sparkle"
 		}
 	],
-	"thunder":
-	[
+	"thunder": [
 		{
-			"id":"standard",
-			"flame":"shot_skin_thunder_standard_flame",
-			"fire":"shot_skin_thunder_standard_fire",
-			"smoke":"shot_skin_thunder_standard_smoke",
-			"explosion":"shot_skin_thunder_standard_explosion",
-			"tracer":"shot_skin_thunder_standard_tracer",
-			"shotLight":"thunder_default_shot",
-			"hitLight":"thunder_default_hit",
-			"shellLight":"thunder_default_shell"
+			"id": "standard",
+			"flame": "shot_skin_thunder_standard_flame",
+			"fire": "shot_skin_thunder_standard_fire",
+			"smoke": "shot_skin_thunder_standard_smoke",
+			"explosion": "shot_skin_thunder_standard_explosion",
+			"tracer": "shot_skin_thunder_standard_tracer",
+			"shotLight": "thunder_default_shot",
+			"hitLight": "thunder_default_hit",
+			"shellLight": "thunder_default_shell"
 		},
 		{
-			"id":"blood_fake",
-			"flame":"shot_skin_thunder_blood_fake_flame",
-			"fire":"shot_skin_thunder_blood_fake_fire",
-			"smoke":"shot_skin_thunder_standard_smoke",
-			"explosion":"shot_skin_thunder_blood_fake_explosion",
-			"tracer":"shot_skin_thunder_blood_fake_tracer",
-			"shotLight":"thunder_blood_fake_shot",
-			"hitLight":"thunder_blood_fake_hit",
-			"shellLight":"thunder_blood_fake_shell"
+			"id": "blood_fake",
+			"flame": "shot_skin_thunder_blood_fake_flame",
+			"fire": "shot_skin_thunder_blood_fake_fire",
+			"smoke": "shot_skin_thunder_standard_smoke",
+			"explosion": "shot_skin_thunder_blood_fake_explosion",
+			"tracer": "shot_skin_thunder_blood_fake_tracer",
+			"shotLight": "thunder_blood_fake_shot",
+			"hitLight": "thunder_blood_fake_hit",
+			"shellLight": "thunder_blood_fake_shell"
 		}
 	],
-	"smoky":
-	[
+	"tsunami": [
 		{
-			"id":"standard",
-			"flame":"shot_skin_smoky_standard_flame",
-			"fire":"shot_skin_smoky_standard_fire",
-			"staticSmoke":"shot_skin_smoky_standard_soot",
-			"animatedSmoke":"shot_skin_smoky_standard_smoke",
-			"explosion":"shot_skin_smoky_standard_explosion",
-			"tracer":"shot_skin_thunder_standard_tracer",
-			"shotLight":"smoky_standard_shot",
-			"hitLight":"smoky_standard_hit",
-			"shellLight":"smoky_standard_shell"
+			"id": "standard",
+			"shotSound": "sound_tsunami_shot",
+			"hitSound": "sound_tsunami_hit",
+			"shellFlightSound": "sound_tsunami_shell_flight",
+			"effectsHitSparks": "shot_skin_tsunami_standard_effects_hit_sparks",
+			"effectsShotFlash": "shot_skin_tsunami_standard_effects_shot_flash",
+			"effectsHit": "shot_skin_tsunami_standard_effects_hit",
+			"effectsShotSmoke": "shot_skin_tsunami_standard_effects_shot_smoke",
+			"effectsDamage": "shot_skin_tsunami_standard_effects_damage",
+			"shotLight": "thunder_default_shot",
+			"hitLight": "thunder_default_hit",
+			"shellLight": "thunder_default_shell"
 		}
 	],
-	"terminator":
-	[
+	"smoky": [
 		{
-			"id":"standard",
-			"part1":"shot_skin_railgun_standard_part_1",
-			"part2":"shot_skin_railgun_standard_part_2",
-			"part3":"shot_skin_railgun_standard_part_3",
-			"trail":"shot_skin_railgun_standard_trail",
-			"railgunSmoke":"shot_skin_railgun_standard_smoke",
-			"explosion":"shot_skin_striker_standard_explosion",
-			"strikerSmoke":"shot_skin_striker_standard_smoke",
-			"chargeLight":"railgun_standard_charge",
-			"shotLight":"railgun_standard_shot",
-			"hitLight":"railgun_standard_hit",
-			"railLight":"railgun_standard_rail"
+			"id": "standard",
+			"flame": "shot_skin_smoky_standard_flame",
+			"fire": "shot_skin_smoky_standard_fire",
+			"staticSmoke": "shot_skin_smoky_standard_soot",
+			"animatedSmoke": "shot_skin_smoky_standard_smoke",
+			"explosion": "shot_skin_smoky_standard_explosion",
+			"tracer": "shot_skin_thunder_standard_tracer",
+			"shotLight": "smoky_standard_shot",
+			"hitLight": "smoky_standard_hit",
+			"shellLight": "smoky_standard_shell"
 		}
 	],
-	"bonk":
-	[
+	"terminator": [
 		{
-			"id":"standard",
-			"flame":"shot_skin_thunder_standard_fire",
-			"smoke":"shot_skin_striker_standard_smoke",
-			"explosion":"shot_skin_magnum_standard_explosion"
+			"id": "standard",
+			"part1": "shot_skin_railgun_standard_part_1",
+			"part2": "shot_skin_railgun_standard_part_2",
+			"part3": "shot_skin_railgun_standard_part_3",
+			"trail": "shot_skin_railgun_standard_trail",
+			"railgunSmoke": "shot_skin_railgun_standard_smoke",
+			"explosion": "shot_skin_striker_standard_explosion",
+			"strikerSmoke": "shot_skin_striker_standard_smoke",
+			"chargeLight": "railgun_standard_charge",
+			"shotLight": "railgun_standard_shot",
+			"hitLight": "railgun_standard_hit",
+			"railLight": "railgun_standard_rail"
 		}
 	],
-	"ricochet":
-	[
+	"bonk": [
 		{
-			"id":"standard",
-			"muzzle":"shot_skin_ricochet_standard_muzzle",
-			"shot":"shot_skin_ricochet_standard_shot",
-			"explosion":"shot_skin_ricochet_standard_explosion",
-			"trail":"shot_skin_ricochet_standard_trail",
-			"shotLight":"ricochet_standard_shot",
-			"shellLight":"ricochet_standard_shell",
-			"ricochetLight":"ricochet_standard_ricochet",
-			"hitLight":"ricochet_standard_hit"
-		},
-		{
-			"id":"gold",
-			"muzzle":"shot_skin_ricochet_gold_muzzle",
-			"shot":"shot_skin_ricochet_gold_shot",
-			"explosion":"shot_skin_ricochet_gold_explosion",
-			"trail":"shot_skin_ricochet_gold_trail",
-			"shotLight":"ricochet_gold_shot",
-			"shellLight":"ricochet_gold_shell",
-			"ricochetLight":"ricochet_gold_ricochet",
-			"hitLight":"ricochet_gold_hit"
-		},
-		{
-			"id":"smoke",
-			"muzzle":"shot_skin_ricochet_smoke_muzzle",
-			"shot":"shot_skin_ricochet_smoke_shot",
-			"explosion":"shot_skin_ricochet_smoke_explosion",
-			"trail":"shot_skin_ricochet_smoke_trail",
-			"shotLight":"ricochet_smoke_shot",
-			"shellLight":"ricochet_smoke_shell",
-			"ricochetLight":"ricochet_smoke_ricochet",
-			"hitLight":"ricochet_smoke_hit"
-		},
-		{
-			"id":"crimson",
-			"muzzle":"shot_skin_ricochet_crimson_muzzle",
-			"shot":"shot_skin_ricochet_crimson_shot",
-			"explosion":"shot_skin_ricochet_crimson_explosion",
-			"trail":"shot_skin_ricochet_crimson_trail",
-			"shotLight":"ricochet_crimson_shot",
-			"shellLight":"ricochet_crimson_shell",
-			"ricochetLight":"ricochet_crimson_ricochet",
-			"hitLight":"ricochet_crimson_hit"
-		},
-		{
-			"id":"magma",
-			"muzzle":"shot_skin_ricochet_magma_muzzle",
-			"shot":"shot_skin_ricochet_magma_shot",
-			"explosion":"shot_skin_ricochet_magma_explosion",
-			"trail":"shot_skin_ricochet_magma_trail",
-			"shotLight":"ricochet_magma_shot",
-			"shellLight":"ricochet_magma_shell",
-			"ricochetLight":"ricochet_magma_ricochet",
-			"hitLight":"ricochet_magma_hit"
-		},
-		{
-			"id":"toxic",
-			"muzzle":"shot_skin_ricochet_toxic_muzzle",
-			"shot":"shot_skin_ricochet_toxic_shot",
-			"explosion":"shot_skin_ricochet_toxic_explosion",
-			"trail":"shot_skin_ricochet_toxic_trail",
-			"shotLight":"ricochet_toxic_shot",
-			"shellLight":"ricochet_toxic_shell",
-			"ricochetLight":"ricochet_toxic_ricochet",
-			"hitLight":"ricochet_toxic_hit"
-		},
-		{
-			"id":"violet",
-			"muzzle":"shot_skin_ricochet_violet_muzzle",
-			"shot":"shot_skin_ricochet_violet_shot",
-			"explosion":"shot_skin_ricochet_violet_explosion",
-			"trail":"shot_skin_ricochet_violet_trail",
-			"shotLight":"ricochet_violet_shot",
-			"shellLight":"ricochet_violet_shell",
-			"ricochetLight":"ricochet_violet_ricochet",
-			"hitLight":"ricochet_violet_hit"
-		},
-		{
-			"id":"aqua",
-			"muzzle":"shot_skin_ricochet_aqua_muzzle",
-			"shot":"shot_skin_ricochet_aqua_shot",
-			"explosion":"shot_skin_ricochet_aqua_explosion",
-			"trail":"shot_skin_ricochet_aqua_trail",
-			"shotLight":"ricochet_aqua_shot",
-			"shellLight":"ricochet_aqua_shell",
-			"ricochetLight":"ricochet_aqua_ricochet",
-			"hitLight":"ricochet_aqua_hit"
-		},
-		{
-			"id":"electric",
-			"muzzle":"shot_skin_ricochet_electric_muzzle",
-			"shot":"shot_skin_ricochet_electric_shot",
-			"explosion":"shot_skin_ricochet_electric_explosion",
-			"trail":"shot_skin_ricochet_electric_trail",
-			"shotLight":"ricochet_electric_shot",
-			"shellLight":"ricochet_electric_shell",
-			"ricochetLight":"ricochet_electric_ricochet",
-			"hitLight":"ricochet_electric_hit"
-		},
-		{
-			"id":"blaster",
-			"effectsFlash":"shot_skin_ricochet_blaster_effects_flash",
-			"effectsBeam":"shot_skin_ricochet_blaster_effects_beam",
-			"effectsSparks":"shot_skin_ricochet_blaster_effects_end",
-			"effectsEnd":"shot_skin_ricochet_blaster_effects_end",
-			"shotLight":"ricochet_blaster_shot",
-			"shellLight":"ricochet_blaster_shell",
-			"ricochetLight":"ricochet_blaster_shell",
-			"hitLight":"ricochet_blaster_hit"
+			"id": "standard",
+			"flame": "shot_skin_thunder_standard_fire",
+			"smoke": "shot_skin_striker_standard_smoke",
+			"explosion": "shot_skin_magnum_standard_explosion"
 		}
 	],
-	"gauss":
-	[
+	"ricochet": [
 		{
-			"id":"standard",
-			"electro":"shot_skin_gauss_standard_electro",
-			"explosionElectro":"shot_skin_gauss_standard_explosion_electro",
-			"explosion":"shot_skin_gauss_standard_explosion",
-			"fire":"shot_skin_thunder_standard_fire",
-			"flame":"shot_skin_thunder_standard_flame",
-			"lightning":"shot_skin_gauss_standard_lightning",
-			"tracer":"shot_skin_thunder_standard_tracer",
-			"trail":"shot_skin_gauss_standard_trail",
-			"smoke":"shot_skin_gauss_standard_smoke",
-			"shotLight":"gauss_standard_shot",
-			"hitLight":"gauss_standard_hit",
-			"shellLight":"gauss_standard_shell",
-			"powerShotLight":"gauss_standard_power_shot",
-			"powerHitLight":"gauss_standard_power_hit",
-			"lightningLight":"gauss_standard_lightning"
+			"id": "standard",
+			"muzzle": "shot_skin_ricochet_standard_muzzle",
+			"shot": "shot_skin_ricochet_standard_shot",
+			"explosion": "shot_skin_ricochet_standard_explosion",
+			"trail": "shot_skin_ricochet_standard_trail",
+			"shotLight": "ricochet_standard_shot",
+			"shellLight": "ricochet_standard_shell",
+			"ricochetLight": "ricochet_standard_ricochet",
+			"hitLight": "ricochet_standard_hit"
 		},
 		{
-			"id":"violent",
-			"electro":"shot_skin_gauss_violent_electro",
-			"explosionElectro":"shot_skin_gauss_violent_explosion_electro",
-			"explosion":"shot_skin_gauss_violent_explosion",
-			"fire":"shot_skin_gauss_violent_fire",
-			"flame":"shot_skin_gauss_violent_flame",
-			"lightning":"shot_skin_gauss_violent_lightning",
-			"tracer":"shot_skin_gauss_violent_tracer",
-			"trail":"shot_skin_gauss_violent_trail",
-			"smoke":"shot_skin_gauss_standard_smoke",
-			"shotLight":"gauss_violent_shot",
-			"hitLight":"gauss_violent_hit",
-			"shellLight":"gauss_violent_shell",
-			"powerShotLight":"gauss_violent_power_shot",
-			"powerHitLight":"gauss_violent_power_hit",
-			"lightningLight":"gauss_violent_lightning"
+			"id": "gold",
+			"muzzle": "shot_skin_ricochet_gold_muzzle",
+			"shot": "shot_skin_ricochet_gold_shot",
+			"explosion": "shot_skin_ricochet_gold_explosion",
+			"trail": "shot_skin_ricochet_gold_trail",
+			"shotLight": "ricochet_gold_shot",
+			"shellLight": "ricochet_gold_shell",
+			"ricochetLight": "ricochet_gold_ricochet",
+			"hitLight": "ricochet_gold_hit"
 		},
 		{
-			"id":"green_fake",
-			"electro":"shot_skin_gauss_green_fake_electro",
-			"explosionElectro":"shot_skin_gauss_green_fake_explosion_electro",
-			"explosion":"shot_skin_gauss_green_fake_explosion",
-			"fire":"shot_skin_gauss_green_fake_fire",
-			"flame":"shot_skin_gauss_green_fake_flame",
-			"lightning":"shot_skin_gauss_green_fake_lightning",
-			"tracer":"shot_skin_gauss_green_fake_tracer",
-			"trail":"shot_skin_gauss_green_fake_trail",
-			"smoke":"shot_skin_gauss_standard_smoke",
-			"shotLight":"gauss_green_fake_shot",
-			"hitLight":"gauss_green_fake_hit",
-			"shellLight":"gauss_green_fake_shell",
-			"powerShotLight":"gauss_green_fake_power_shot",
-			"powerHitLight":"gauss_green_fake_power_hit",
-			"lightningLight":"gauss_green_fake_lightning"
+			"id": "smoke",
+			"muzzle": "shot_skin_ricochet_smoke_muzzle",
+			"shot": "shot_skin_ricochet_smoke_shot",
+			"explosion": "shot_skin_ricochet_smoke_explosion",
+			"trail": "shot_skin_ricochet_smoke_trail",
+			"shotLight": "ricochet_smoke_shot",
+			"shellLight": "ricochet_smoke_shell",
+			"ricochetLight": "ricochet_smoke_ricochet",
+			"hitLight": "ricochet_smoke_hit"
+		},
+		{
+			"id": "crimson",
+			"muzzle": "shot_skin_ricochet_crimson_muzzle",
+			"shot": "shot_skin_ricochet_crimson_shot",
+			"explosion": "shot_skin_ricochet_crimson_explosion",
+			"trail": "shot_skin_ricochet_crimson_trail",
+			"shotLight": "ricochet_crimson_shot",
+			"shellLight": "ricochet_crimson_shell",
+			"ricochetLight": "ricochet_crimson_ricochet",
+			"hitLight": "ricochet_crimson_hit"
+		},
+		{
+			"id": "magma",
+			"muzzle": "shot_skin_ricochet_magma_muzzle",
+			"shot": "shot_skin_ricochet_magma_shot",
+			"explosion": "shot_skin_ricochet_magma_explosion",
+			"trail": "shot_skin_ricochet_magma_trail",
+			"shotLight": "ricochet_magma_shot",
+			"shellLight": "ricochet_magma_shell",
+			"ricochetLight": "ricochet_magma_ricochet",
+			"hitLight": "ricochet_magma_hit"
+		},
+		{
+			"id": "toxic",
+			"muzzle": "shot_skin_ricochet_toxic_muzzle",
+			"shot": "shot_skin_ricochet_toxic_shot",
+			"explosion": "shot_skin_ricochet_toxic_explosion",
+			"trail": "shot_skin_ricochet_toxic_trail",
+			"shotLight": "ricochet_toxic_shot",
+			"shellLight": "ricochet_toxic_shell",
+			"ricochetLight": "ricochet_toxic_ricochet",
+			"hitLight": "ricochet_toxic_hit"
+		},
+		{
+			"id": "violet",
+			"muzzle": "shot_skin_ricochet_violet_muzzle",
+			"shot": "shot_skin_ricochet_violet_shot",
+			"explosion": "shot_skin_ricochet_violet_explosion",
+			"trail": "shot_skin_ricochet_violet_trail",
+			"shotLight": "ricochet_violet_shot",
+			"shellLight": "ricochet_violet_shell",
+			"ricochetLight": "ricochet_violet_ricochet",
+			"hitLight": "ricochet_violet_hit"
+		},
+		{
+			"id": "aqua",
+			"muzzle": "shot_skin_ricochet_aqua_muzzle",
+			"shot": "shot_skin_ricochet_aqua_shot",
+			"explosion": "shot_skin_ricochet_aqua_explosion",
+			"trail": "shot_skin_ricochet_aqua_trail",
+			"shotLight": "ricochet_aqua_shot",
+			"shellLight": "ricochet_aqua_shell",
+			"ricochetLight": "ricochet_aqua_ricochet",
+			"hitLight": "ricochet_aqua_hit"
+		},
+		{
+			"id": "electric",
+			"muzzle": "shot_skin_ricochet_electric_muzzle",
+			"shot": "shot_skin_ricochet_electric_shot",
+			"explosion": "shot_skin_ricochet_electric_explosion",
+			"trail": "shot_skin_ricochet_electric_trail",
+			"shotLight": "ricochet_electric_shot",
+			"shellLight": "ricochet_electric_shell",
+			"ricochetLight": "ricochet_electric_ricochet",
+			"hitLight": "ricochet_electric_hit"
+		},
+		{
+			"id": "blaster",
+			"effectsFlash": "shot_skin_ricochet_blaster_effects_flash",
+			"effectsBeam": "shot_skin_ricochet_blaster_effects_beam",
+			"effectsSparks": "shot_skin_ricochet_blaster_effects_end",
+			"effectsEnd": "shot_skin_ricochet_blaster_effects_end",
+			"shotLight": "ricochet_blaster_shot",
+			"shellLight": "ricochet_blaster_shell",
+			"ricochetLight": "ricochet_blaster_shell",
+			"hitLight": "ricochet_blaster_hit"
 		}
 	],
-	"vulcan":
-	[
+	"gauss": [
 		{
-			"id":"standard",
-			"fireAlong":"shot_skin_vulcan_standard_fire_along",
-			"fireAcross":"shot_skin_vulcan_standard_fire_across",
-			"smoke":"shot_skin_vulcan_standard_smoke",
-			"tracer":"shot_skin_vulcan_standard_tracer",
-			"dust":"shot_skin_vulcan_standard_dust",
-			"sparkles":"shot_skin_vulcan_standard_sparkles",
-			"tankSparkles":"shot_skin_vulcan_standard_tank_sparkles",
-			"fireLight":"vulcan_standard_fire",
-			"traceLight":"vulcan_standard_trace"
+			"id": "standard",
+			"electro": "shot_skin_gauss_standard_electro",
+			"explosionElectro": "shot_skin_gauss_standard_explosion_electro",
+			"explosion": "shot_skin_gauss_standard_explosion",
+			"fire": "shot_skin_thunder_standard_fire",
+			"flame": "shot_skin_thunder_standard_flame",
+			"lightning": "shot_skin_gauss_standard_lightning",
+			"tracer": "shot_skin_thunder_standard_tracer",
+			"trail": "shot_skin_gauss_standard_trail",
+			"smoke": "shot_skin_gauss_standard_smoke",
+			"shotLight": "gauss_standard_shot",
+			"hitLight": "gauss_standard_hit",
+			"shellLight": "gauss_standard_shell",
+			"powerShotLight": "gauss_standard_power_shot",
+			"powerHitLight": "gauss_standard_power_hit",
+			"lightningLight": "gauss_standard_lightning"
 		},
 		{
-			"id":"red",
-			"fireAlong":"shot_skin_vulcan_red_fire_along",
-			"fireAcross":"shot_skin_vulcan_red_fire_across",
-			"smoke":"shot_skin_vulcan_standard_smoke",
-			"tracer":"shot_skin_vulcan_red_tracer",
-			"dust":"shot_skin_vulcan_standard_dust",
-			"sparkles":"shot_skin_vulcan_red_sparkles",
-			"tankSparkles":"shot_skin_vulcan_red_tank_sparkles",
-			"fireLight":"vulcan_red_fire",
-			"traceLight":"vulcan_red_trace"
+			"id": "violent",
+			"electro": "shot_skin_gauss_violent_electro",
+			"explosionElectro": "shot_skin_gauss_violent_explosion_electro",
+			"explosion": "shot_skin_gauss_violent_explosion",
+			"fire": "shot_skin_gauss_violent_fire",
+			"flame": "shot_skin_gauss_violent_flame",
+			"lightning": "shot_skin_gauss_violent_lightning",
+			"tracer": "shot_skin_gauss_violent_tracer",
+			"trail": "shot_skin_gauss_violent_trail",
+			"smoke": "shot_skin_gauss_standard_smoke",
+			"shotLight": "gauss_violent_shot",
+			"hitLight": "gauss_violent_hit",
+			"shellLight": "gauss_violent_shell",
+			"powerShotLight": "gauss_violent_power_shot",
+			"powerHitLight": "gauss_violent_power_hit",
+			"lightningLight": "gauss_violent_lightning"
+		},
+		{
+			"id": "green_fake",
+			"electro": "shot_skin_gauss_green_fake_electro",
+			"explosionElectro": "shot_skin_gauss_green_fake_explosion_electro",
+			"explosion": "shot_skin_gauss_green_fake_explosion",
+			"fire": "shot_skin_gauss_green_fake_fire",
+			"flame": "shot_skin_gauss_green_fake_flame",
+			"lightning": "shot_skin_gauss_green_fake_lightning",
+			"tracer": "shot_skin_gauss_green_fake_tracer",
+			"trail": "shot_skin_gauss_green_fake_trail",
+			"smoke": "shot_skin_gauss_standard_smoke",
+			"shotLight": "gauss_green_fake_shot",
+			"hitLight": "gauss_green_fake_hit",
+			"shellLight": "gauss_green_fake_shell",
+			"powerShotLight": "gauss_green_fake_power_shot",
+			"powerHitLight": "gauss_green_fake_power_hit",
+			"lightningLight": "gauss_green_fake_lightning"
 		}
 	],
-	"shaft":
-	[
+	"vulcan": [
 		{
-			"id":"standard",
-			"muzzle":"shot_skin_shaft_standard_muzzle",
-			"trail":"shot_skin_shaft_standard_trail",
-			"explosion":"shot_skin_shaft_standard_explosion",
-			"shotLight":"shaft_standard_shot",
-			"hitLight":"shaft_standard_hit"
+			"id": "standard",
+			"fireAlong": "shot_skin_vulcan_standard_fire_along",
+			"fireAcross": "shot_skin_vulcan_standard_fire_across",
+			"smoke": "shot_skin_vulcan_standard_smoke",
+			"tracer": "shot_skin_vulcan_standard_tracer",
+			"dust": "shot_skin_vulcan_standard_dust",
+			"sparkles": "shot_skin_vulcan_standard_sparkles",
+			"tankSparkles": "shot_skin_vulcan_standard_tank_sparkles",
+			"fireLight": "vulcan_standard_fire",
+			"traceLight": "vulcan_standard_trace"
 		},
 		{
-			"id":"eclipse",
-			"muzzle":"shot_skin_shaft_eclipse_muzzle",
-			"trail":"shot_skin_shaft_eclipse_trail",
-			"explosion":"shot_skin_shaft_eclipse_explosion",
-			"shotLight":"shaft_eclipse_shot",
-			"hitLight":"shaft_eclipse_hit"
-		},
-		{
-			"id":"noon",
-			"muzzle":"shot_skin_shaft_noon_muzzle",
-			"trail":"shot_skin_shaft_noon_trail",
-			"explosion":"shot_skin_shaft_noon_explosion",
-			"shotLight":"shaft_noon_shot",
-			"hitLight":"shaft_noon_hit"
-		},
-		{
-			"id":"green",
-			"muzzle":"shot_skin_shaft_green_muzzle",
-			"trail":"shot_skin_shaft_green_trail",
-			"explosion":"shot_skin_shaft_green_explosion",
-			"shotLight":"shaft_green_shot",
-			"hitLight":"shaft_green_hit"
-		},
-		{
-			"id":"aqua",
-			"muzzle":"shot_skin_shaft_aqua_muzzle",
-			"trail":"shot_skin_shaft_aqua_trail",
-			"explosion":"shot_skin_shaft_aqua_explosion",
-			"shotLight":"shaft_aqua_shot",
-			"hitLight":"shaft_aqua_hit"
-		},
-		{
-			"id":"blue",
-			"muzzle":"shot_skin_shaft_blue_muzzle",
-			"trail":"shot_skin_shaft_blue_trail",
-			"explosion":"shot_skin_shaft_blue_explosion",
-			"shotLight":"shaft_blue_shot",
-			"hitLight":"shaft_blue_hit"
-		},
-		{
-			"id":"blood",
-			"muzzle":"shot_skin_shaft_blood_muzzle",
-			"trail":"shot_skin_shaft_blood_trail",
-			"explosion":"shot_skin_shaft_blood_explosion",
-			"shotLight":"shaft_blood_shot",
-			"hitLight":"shaft_blood_hit"
-		},
-		{
-			"id":"violet",
-			"muzzle":"shot_skin_shaft_violet_muzzle",
-			"trail":"shot_skin_shaft_violet_trail",
-			"explosion":"shot_skin_shaft_violet_explosion",
-			"shotLight":"shaft_violet_shot",
-			"hitLight":"shaft_violet_hit"
-		},
-		{
-			"id":"void",
-			"muzzle":"shot_skin_shaft_void_muzzle",
-			"trail":"shot_skin_shaft_void_trail",
-			"explosion":"shot_skin_shaft_void_explosion",
-			"shotLight":"shaft_void_shot",
-			"hitLight":"shaft_void_hit"
-		},
-		{
-			"id":"magma",
-			"muzzle":"shot_skin_shaft_magma_muzzle",
-			"trail":"shot_skin_shaft_magma_trail",
-			"explosion":"shot_skin_shaft_magma_explosion",
-			"shotLight":"shaft_magma_shot",
-			"hitLight":"shaft_magma_hit"
+			"id": "red",
+			"fireAlong": "shot_skin_vulcan_red_fire_along",
+			"fireAcross": "shot_skin_vulcan_red_fire_across",
+			"smoke": "shot_skin_vulcan_standard_smoke",
+			"tracer": "shot_skin_vulcan_red_tracer",
+			"dust": "shot_skin_vulcan_standard_dust",
+			"sparkles": "shot_skin_vulcan_red_sparkles",
+			"tankSparkles": "shot_skin_vulcan_red_tank_sparkles",
+			"fireLight": "vulcan_red_fire",
+			"traceLight": "vulcan_red_trace"
 		}
 	],
-	"scorpion":
-	[
+	"shaft": [
 		{
-			"id":"standard",
-			"flame":"shot_skin_thunder_standard_fire",
-			"stream":"shot_skin_smoky_standard_fire",
-			"smoke":"shot_skin_magnum_standard_smoke",
-			"tracer":"shot_skin_thunder_standard_tracer",
-			"explosion":"shot_skin_thunder_standard_explosion",
-			"rocketFlame":"shot_skin_striker_standard_flame",
-			"rocketSmoke":"shot_skin_striker_standard_smoke",
-			"rocketExplosion":"shot_skin_striker_standard_explosion",
-			"shotLight":"magnum_standard_shot",
-			"hitLight":"scorpion_standard_hit",
-			"shellLight":"smoky_standard_shell",
-			"rocketLight":"striker_standard_rocket",
-			"explosionLight":"striker_standard_explosion"
+			"id": "standard",
+			"muzzle": "shot_skin_shaft_standard_muzzle",
+			"trail": "shot_skin_shaft_standard_trail",
+			"explosion": "shot_skin_shaft_standard_explosion",
+			"shotLight": "shaft_standard_shot",
+			"hitLight": "shaft_standard_hit"
+		},
+		{
+			"id": "eclipse",
+			"muzzle": "shot_skin_shaft_eclipse_muzzle",
+			"trail": "shot_skin_shaft_eclipse_trail",
+			"explosion": "shot_skin_shaft_eclipse_explosion",
+			"shotLight": "shaft_eclipse_shot",
+			"hitLight": "shaft_eclipse_hit"
+		},
+		{
+			"id": "noon",
+			"muzzle": "shot_skin_shaft_noon_muzzle",
+			"trail": "shot_skin_shaft_noon_trail",
+			"explosion": "shot_skin_shaft_noon_explosion",
+			"shotLight": "shaft_noon_shot",
+			"hitLight": "shaft_noon_hit"
+		},
+		{
+			"id": "green",
+			"muzzle": "shot_skin_shaft_green_muzzle",
+			"trail": "shot_skin_shaft_green_trail",
+			"explosion": "shot_skin_shaft_green_explosion",
+			"shotLight": "shaft_green_shot",
+			"hitLight": "shaft_green_hit"
+		},
+		{
+			"id": "aqua",
+			"muzzle": "shot_skin_shaft_aqua_muzzle",
+			"trail": "shot_skin_shaft_aqua_trail",
+			"explosion": "shot_skin_shaft_aqua_explosion",
+			"shotLight": "shaft_aqua_shot",
+			"hitLight": "shaft_aqua_hit"
+		},
+		{
+			"id": "blue",
+			"muzzle": "shot_skin_shaft_blue_muzzle",
+			"trail": "shot_skin_shaft_blue_trail",
+			"explosion": "shot_skin_shaft_blue_explosion",
+			"shotLight": "shaft_blue_shot",
+			"hitLight": "shaft_blue_hit"
+		},
+		{
+			"id": "blood",
+			"muzzle": "shot_skin_shaft_blood_muzzle",
+			"trail": "shot_skin_shaft_blood_trail",
+			"explosion": "shot_skin_shaft_blood_explosion",
+			"shotLight": "shaft_blood_shot",
+			"hitLight": "shaft_blood_hit"
+		},
+		{
+			"id": "violet",
+			"muzzle": "shot_skin_shaft_violet_muzzle",
+			"trail": "shot_skin_shaft_violet_trail",
+			"explosion": "shot_skin_shaft_violet_explosion",
+			"shotLight": "shaft_violet_shot",
+			"hitLight": "shaft_violet_hit"
+		},
+		{
+			"id": "void",
+			"muzzle": "shot_skin_shaft_void_muzzle",
+			"trail": "shot_skin_shaft_void_trail",
+			"explosion": "shot_skin_shaft_void_explosion",
+			"shotLight": "shaft_void_shot",
+			"hitLight": "shaft_void_hit"
+		},
+		{
+			"id": "magma",
+			"muzzle": "shot_skin_shaft_magma_muzzle",
+			"trail": "shot_skin_shaft_magma_trail",
+			"explosion": "shot_skin_shaft_magma_explosion",
+			"shotLight": "shaft_magma_shot",
+			"hitLight": "shaft_magma_hit"
 		}
 	],
-	"tesla":
-	[
+	"scorpion": [
 		{
-			"id":"standard",
-			"lightning":"ultimate_skin_hunter_standard_lightning",
-			"globeLightning":"shot_skin_twins_electric_shot",
-			"muzzleLightningLight":"tesla_standard_muzzle_lightning",
-			"lightningLight":"tesla_standard_lightning",
-			"ballPrepareLight":"tesla_standard_ball_prepare",
-			"ballLoopLight":"tesla_standard_ball_loop"
-		}	
+			"id": "standard",
+			"flame": "shot_skin_thunder_standard_fire",
+			"stream": "shot_skin_smoky_standard_fire",
+			"smoke": "shot_skin_magnum_standard_smoke",
+			"tracer": "shot_skin_thunder_standard_tracer",
+			"explosion": "shot_skin_thunder_standard_explosion",
+			"rocketFlame": "shot_skin_striker_standard_flame",
+			"rocketSmoke": "shot_skin_striker_standard_smoke",
+			"rocketExplosion": "shot_skin_striker_standard_explosion",
+			"shotLight": "magnum_standard_shot",
+			"hitLight": "scorpion_standard_hit",
+			"shellLight": "smoky_standard_shell",
+			"rocketLight": "striker_standard_rocket",
+			"explosionLight": "striker_standard_explosion"
+		}
 	],
-	"tanks":
-	[
+	"tesla": [
 		{
-			"id":"standard",
-			"muzzle":"shot_skin_tanks_standard_muzzle",
-			"explosion":"shot_skin_tanks_standard_explosion",
-			"smoke":"shot_skin_tanks_standard_smoke"
-		}	
+			"id": "standard",
+			"lightning": "ultimate_skin_hunter_standard_lightning",
+			"globeLightning": "shot_skin_twins_electric_shot",
+			"muzzleLightningLight": "tesla_standard_muzzle_lightning",
+			"lightningLight": "tesla_standard_lightning",
+			"ballPrepareLight": "tesla_standard_ball_prepare",
+			"ballLoopLight": "tesla_standard_ball_loop"
+		}
+	],
+	"tanks": [
+		{
+			"id": "standard",
+			"muzzle": "shot_skin_tanks_standard_muzzle",
+			"explosion": "shot_skin_tanks_standard_explosion",
+			"smoke": "shot_skin_tanks_standard_smoke"
+		}
 	]
 }

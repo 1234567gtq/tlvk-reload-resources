@@ -667,8 +667,7 @@
 				"descriptionRU":"Позволь демонической силе пробудиться в глубинах твоей пушки: её тёмная оболочка излучает ауру зла, украшенная костяными узорами и кровавыми прожилками. Она словно дышит тьмой, превращаясь в проклятый артефакт, жаждущий разрушения. Каждый выстрел — воплощённая ярость преисподней, пробивающая броню и разрывающая волю врага. Этот скин не только пугает внешним видом, но и подчёркивает твою безжалостность на поле боя, пусть противники дрожат, увидев его.",
 				"descriptionEN":"Let the demonic power awaken in the depths of your turret: its dark shell radiates an aura of evil, adorned with bone patterns and bloody veins. It seems to breathe darkness, transforming into a cursed artifact that craves destruction. Every shot is the embodiment of infernal fury, piercing armor and shattering the enemy’s will. This skin not only terrifies with its appearance but also emphasizes your ruthlessness on the battlefield. Let your enemies tremble upon seeing it.",
 				"icon":"dc",
-				"emissionColor":"15884800",
-				"emissionColorSecond":"16685824",
+				"emissionColor":"16074291",
 				"emissionColorThreshold":"0.4"
 			},
 			{
@@ -2318,8 +2317,9 @@
 				"descriptionEN":"Standard factory settings without any special effects",
 				"isStandard":true,
 				"icon":"standard",
-				"emissionColor":"64255",
-				"emissionColorThreshold":"0.6"
+				"emissionColor":"3400185",
+				"emissionColorSecond":"2480729",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"xt",
@@ -2364,8 +2364,9 @@
 				"descriptionRU":"Специальная линейка GT скинов для пушек - это не только отличное дополнение для любого колёсного корпуса, но и проявление особой смелости. Не каждый танкист готов пожертвовать скрытностью и осторожностью на поле боя, ради того, чтобы продемонстрировать всю уникальность и особенность своего танка.",
 				"descriptionEN":"This special series of GT skins for turrets is not just a good addition to any wheeled hull but also a manifestation of extraordinary courage. Not every tanker is ready to sacrifice stealth and caution on the battlefield to flaunt the uniqueness and the peculiarity of his tank in their entirety.\n\nThe latest developments in field tank construction and a special alloy of white metals \"unshackled the hands\" of designers of this product, allowing them for the first time in history to create not only powerful but also beautiful weapons that would otherwise just be gathering dust in a tanker's garage.",
 				"icon":"gt",
-				"emissionColor":"64255",
-				"emissionColorThreshold":"0.6"
+				"emissionColor":"3400185",
+				"emissionColorSecond":"2480729",
+				"emissionColorThreshold":"0.4"
 			},
 			{
 				"id":"m0",
@@ -4408,6 +4409,20 @@
 				"nameEN":"Standard settings",
 				"descriptionRU":"Стандартные заводские настройки без специальных эффектов",
 				"descriptionEN":"Standard factory settings without any special effects"
+			},
+			{
+				"id":"manual_fire_mode",
+				"nameRU":"Ручной режим стрельбы",
+				"nameEN":"Manual fire mode",
+				"descriptionRU":"Отключение автоматического выстрела из второго ствола. В этом режиме блок управления стрельбой работает так же, как в любой другой пушке. Удобно, если не хочется менять привычки.",
+				"descriptionEN":"Automatic shot from the second barrel is turned off. The firing control unit in this mode works just like any other turret. Comfortable if you don't want to change your habits."
+			},
+			{
+				"id":"duplet_fire_mode",
+				"nameRU":"Режим стрельбы «Дуплет»",
+				"nameEN":"Duplet",
+				"descriptionRU":"Оба ствола стреляют одновременно. Снятие ограничений на одновременную работу механизмов обеих пушек. Работает без проблем в 98,46% случаев, до наступления среднеожидаемого времени гибели танка.",
+				"descriptionEN":"Both barrels fire at the same time. Removes the restriction of the simultaneous work of loading mechanisms of both cannons. Works with no problems in 98.46% of the cases before the average expected time of an enemy tank’s death."
 			}
 		],
 		"shotSkins":

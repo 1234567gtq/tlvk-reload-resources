@@ -154,8 +154,10 @@
 	"SHOW_MAP":"Show map",
 	"TURNING_WHEELS":"Turning wheels for GT-hulls wheels",
 	"STANCE_WHEELS":"Stance style for GT-hulls wheels",
+	"ACTIVE_GT_SUSPENSION":"Active suspension for GT-hulls",
 	"CAMERA_COLLISION":"Camera collision",
 	"TURN_ON_RADIO":"Turn on the radio",
+	"TOYOTA_YARIS_DANCE":"Toyota Yaris meme",
 	
 	"HEADER_USER_TITLE":"USER TITLE",
 	"NICKNAME":"Nickname:",
@@ -297,6 +299,22 @@
 	"DAMAGE_ROCKET_HP":"Rocket damage (hp)",
 	
 	"DAMAGE_AIM_HP":"Aim shot damage (hp)",
+	"TSUNAMI_DAMAGE_HP":"Damage (hp)",
+	"TSUNAMI_BONUS_DAMAGE_HP":"Bonus damage (hp)",
+	"TSUNAMI_CRITICAL_HIT_CHANCE":"Critical damage chance (%)",
+	"TSUNAMI_RELOAD_TIME":"Reload time (ms)",
+	"TSUNAMI_TIME_BETWEEN_SHOTS":"Pause between shots (ms)",
+	"TSUNAMI_RANGE_OF_MAX_DAMAGE":"Range of max damage (cm)",
+	"TSUNAMI_RANGE_OF_MIN_DAMAGE":"Range of weak damage (cm)",
+	"TSUNAMI_WEAK_DAMAGE_PERCENT":"Weak damage percent (%)",
+	"TSUNAMI_MAX_RICOCHET_COUNT":"Max ricochet count",
+	"TSUNAMI_MAX_RICOCHET_ANGLE":"Minimum ricochet angle (rad)",
+	"TSUNAMI_RECOIL_FORCE":"Recoil force (cond. units)",
+	"TSUNAMI_IMPACT_FORCE":"Impact force (cond. units)",
+	"TSUNAMI_SHELL_SPEED":"Shell speed (cm/s)",
+	"TSUNAMI_SHELL_RADIUS":"Shell radius (cm)",
+	"TSUNAMI_UPWARD_AUTO_AIM":"Upward auto-aim (rad)",
+	"TSUNAMI_DOWNWARD_AUTO_AIM":"Downward auto-aim (rad)",
 	
 	
 	
