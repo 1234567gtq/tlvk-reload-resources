@@ -307,7 +307,6 @@
 	"DAMAGE_AIM_HP":"Урон прицельного выстрела (hp)",
 	"TSUNAMI_DAMAGE_HP":"Урон (hp)",
 	"TSUNAMI_BONUS_DAMAGE_HP":"Дополнительный урон (hp)",
-	"TSUNAMI_CRITICAL_HIT_CHANCE":"Шанс критического урона (%)",
 	"TSUNAMI_RELOAD_TIME":"Время перезарядки (мс)",
 	"TSUNAMI_TIME_BETWEEN_SHOTS":"Пауза между выстрелами (мс)",
 	"TSUNAMI_RANGE_OF_MAX_DAMAGE":"Дальность полного поражения (см)",
@@ -321,6 +320,8 @@
 	"TSUNAMI_SHELL_RADIUS":"Радиус снаряда (см)",
 	"TSUNAMI_UPWARD_AUTO_AIM":"Автоприцел угол вверх (рад)",
 	"TSUNAMI_DOWNWARD_AUTO_AIM":"Автоприцел угол вниз (рад)",
+	"TSUNAMI_CRITICAL_HIT_CHANCE":"Шанс критического урона (%)",
+	"CRITICAL_DAMAGE":"Множитель критического урона (x)",
 	
 	
 	

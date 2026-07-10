@@ -301,7 +301,6 @@
 	"DAMAGE_AIM_HP":"Aim shot damage (hp)",
 	"TSUNAMI_DAMAGE_HP":"Damage (hp)",
 	"TSUNAMI_BONUS_DAMAGE_HP":"Bonus damage (hp)",
-	"TSUNAMI_CRITICAL_HIT_CHANCE":"Critical damage chance (%)",
 	"TSUNAMI_RELOAD_TIME":"Reload time (ms)",
 	"TSUNAMI_TIME_BETWEEN_SHOTS":"Pause between shots (ms)",
 	"TSUNAMI_RANGE_OF_MAX_DAMAGE":"Range of max damage (cm)",
@@ -315,6 +314,8 @@
 	"TSUNAMI_SHELL_RADIUS":"Shell radius (cm)",
 	"TSUNAMI_UPWARD_AUTO_AIM":"Upward auto-aim (rad)",
 	"TSUNAMI_DOWNWARD_AUTO_AIM":"Downward auto-aim (rad)",
+	"TSUNAMI_CRITICAL_HIT_CHANCE":"Critical damage chance (%)",
+	"CRITICAL_DAMAGE":"Critical damage multiplier (x)",
 	
 	
 	
