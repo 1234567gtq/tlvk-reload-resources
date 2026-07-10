@@ -492,6 +492,7 @@
 	"GAME_ACTION_USE_METEOR":"Сбросить метеорит",
 	"GAME_ACTION_METEORS_WINDOW":"Настройки метеорита",
 	"GAME_ACTION_BALLS_WINDOW":"Настройки регби мяча",
+	"GAME_ACTION_THROW_BALL":"Бросить мяч",
 	"GAME_ACTION_USER_TITLE_WINDOW":"Настройки интерфейса пользователя",
 	
 	"GAME_ACTION_TOGGLE_CAMERA_CONTROLLER":"Переключить режим камеры (спектатор/следящая)",

@@ -472,6 +472,7 @@
 	"GAME_ACTION_USE_METEOR":"Drop meteorite",
 	"GAME_ACTION_METEORS_WINDOW":"Meteor settings",
 	"GAME_ACTION_BALLS_WINDOW":"Rugby ball settings",
+	"GAME_ACTION_THROW_BALL":"Throw ball",
 	"GAME_ACTION_USER_TITLE_WINDOW":"User title settings",
 	
 	"GAME_ACTION_TOGGLE_CAMERA_CONTROLLER":"Switch camera mode (spectator/follow)",
