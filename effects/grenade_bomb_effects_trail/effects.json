@@ -1,0 +1,243 @@
+{
+  "particleSystems": [
+    {
+      "name": "Ps_Trail",
+      "transform3dData": {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "initialData": {
+        "lifetime": {
+          "mode": "Constant",
+          "value": 1.0
+        },
+        "speed": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "isSize3d": false,
+        "size": {
+          "mode": "Constant",
+          "value": 1.0
+        },
+        "isRotation3d": false,
+        "rotation": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "color": {
+          "mode": "Color",
+          "color": -1
+        },
+        "simulationSpace": "World"
+      },
+      "shapeData": {
+        "shape": "Point",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "radius": 0.0,
+        "angle": 0.0,
+        "length": 0.0,
+        "radiusThickness": 0.0,
+        "arc": 0.0
+      },
+      "rendererData": {
+        "textureName": "T_Particle",
+        "blendMode": "NORMAL",
+        "renderMode": "None",
+        "alignment": "View",
+        "lengthScale": 2.0,
+        "speedScale": 0.0,
+        "softParticles": true,
+        "invFade": 33.3333321,
+        "pivot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "particleMaterial": "AlphaBlended NoMultiply",
+        "materialParams": {
+          "shader": "TankiOnline/Particles/AlphaBlended NoMultiply",
+          "textureParameters": [
+            {
+              "name": "_BaseMap",
+              "textureName": "T_Particle"
+            }
+          ],
+          "scalarParameters": [
+            {
+              "name": "_UseSoftParticles",
+              "value": 1.0
+            },
+            {
+              "name": "_InvFade",
+              "value": 3.0
+            }
+          ],
+          "vector2Parameters": [],
+          "vector3Parameters": [],
+          "vector4Parameters": [
+            {
+              "name": "_BaseMap_scaleOffset",
+              "value": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": 0.0
+              }
+            }
+          ]
+        },
+        "trailMaterial": "AlphaBlended NoMultiply",
+        "trailMaterialParams": {
+          "shader": "TankiOnline/Particles/AlphaBlended NoMultiply",
+          "textureParameters": [
+            {
+              "name": "_BaseMap",
+              "textureName": "T_Trail"
+            }
+          ],
+          "scalarParameters": [
+            {
+              "name": "_UseSoftParticles",
+              "value": 1.0
+            },
+            {
+              "name": "_InvFade",
+              "value": 5.0
+            }
+          ],
+          "vector2Parameters": [],
+          "vector3Parameters": [],
+          "vector4Parameters": [
+            {
+              "name": "_BaseMap_scaleOffset",
+              "value": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": 0.0
+              }
+            }
+          ]
+        },
+        "meshName": []
+      },
+      "emissionData": {
+        "durationSec": 1.0,
+        "isLooping": true,
+        "prewarm": false,
+        "startDelay": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "rateOverTime": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "maxParticles": 1,
+        "emitterVelocity": 0
+      },
+      "modules": [
+        {
+          "type": "TrailsModule",
+          "mode": "Ribbon",
+          "maxSegments": 30,
+          "ratio": 1.0,
+          "ribbonCount": 1,
+          "lifetime": {
+            "mode": "Constant",
+            "value": 1.0
+          },
+          "minVertexDistance": 20.0,
+          "worldSpace": false,
+          "dieWithParticles": true,
+          "textureMode": "Stretch",
+          "sizeAffectsWidth": false,
+          "sizeAffectsLifetime": false,
+          "inheritParticleColor": true,
+          "colorOverLifetime": {
+            "mode": "Gradient",
+            "colorKeys": [
+              {
+                "color": -6693377,
+                "time": 0.0
+              },
+              {
+                "color": -6693377,
+                "time": 1.0
+              }
+            ],
+            "alphaKeys": [
+              {
+                "alpha": 1.0,
+                "time": 0.0
+              },
+              {
+                "alpha": 1.0,
+                "time": 1.0
+              }
+            ]
+          },
+          "widthOverTrail": {
+            "mode": "Constant",
+            "value": 20.0
+          },
+          "colorOverTrail": {
+            "mode": "Gradient",
+            "colorKeys": [
+              {
+                "color": -1,
+                "time": 0.0
+              },
+              {
+                "color": -1,
+                "time": 1.0
+              }
+            ],
+            "alphaKeys": [
+              {
+                "alpha": 0.0,
+                "time": 0.0
+              },
+              {
+                "alpha": 1.0,
+                "time": 0.2
+              },
+              {
+                "alpha": 1.0,
+                "time": 1.0
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

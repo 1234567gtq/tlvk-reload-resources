@@ -1,0 +1,221 @@
+{
+  "particleSystems": [
+    {
+      "name": "Ps_Tail1",
+      "transform3dData": {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "initialData": {
+        "lifetime": {
+          "mode": "Constant",
+          "value": 1.0
+        },
+        "speed": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "isSize3d": false,
+        "size": {
+          "mode": "TwoConstants",
+          "value1": 0.5,
+          "value2": 1.0
+        },
+        "isRotation3d": false,
+        "rotation": {
+          "mode": "TwoConstants",
+          "value1": 3.49065852,
+          "value2": -5.23598766
+        },
+        "color": {
+          "mode": "Color",
+          "color": 1356461823
+        },
+        "simulationSpace": "World"
+      },
+      "shapeData": {
+        "shape": "Point",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        },
+        "radius": 0.0,
+        "angle": 0.0,
+        "length": 0.0,
+        "radiusThickness": 0.0,
+        "arc": 0.0
+      },
+      "rendererData": {
+        "textureName": "pro_flares 1",
+        "blendMode": "ADD",
+        "renderMode": "Billboard",
+        "alignment": "View",
+        "lengthScale": 2.0,
+        "speedScale": 0.0,
+        "softParticles": false,
+        "invFade": 33.3333321,
+        "pivot": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "particleMaterial": "Default",
+        "materialParams": {
+          "shader": "TankiOnline/Particles/Additive",
+          "textureParameters": [
+            {
+              "name": "_BaseMap",
+              "textureName": "pro_flares 1"
+            }
+          ],
+          "scalarParameters": [
+            {
+              "name": "_UseSoftParticles",
+              "value": 0.0
+            },
+            {
+              "name": "_InvFade",
+              "value": 3.0
+            }
+          ],
+          "vector2Parameters": [],
+          "vector3Parameters": [],
+          "vector4Parameters": [
+            {
+              "name": "_BaseMap_scaleOffset",
+              "value": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 0.0,
+                "w": 0.0
+              }
+            }
+          ]
+        },
+        "meshName": []
+      },
+      "emissionData": {
+        "durationSec": 1.0,
+        "isLooping": true,
+        "prewarm": false,
+        "startDelay": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "rateOverTime": {
+          "mode": "Constant",
+          "value": 0.0
+        },
+        "rateOverDistance": {
+          "mode": "Constant",
+          "value": 0.149999991
+        },
+        "maxParticles": 1000,
+        "emitterVelocity": 0
+      },
+      "modules": [
+        {
+          "type": "ColorOverLifetimeModule",
+          "colorHolder": {
+            "mode": "Gradient",
+            "colorKeys": [
+              {
+                "color": -1,
+                "time": 0.0
+              },
+              {
+                "color": -1,
+                "time": 1.0
+              }
+            ],
+            "alphaKeys": [
+              {
+                "alpha": 1.0,
+                "time": 0.0
+              },
+              {
+                "alpha": 1.0,
+                "time": 0.60589
+              },
+              {
+                "alpha": 0.0,
+                "time": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "type": "SizeOverLifetimeModule",
+          "separateAxes": false,
+          "size": {
+            "mode": "Curve",
+            "points": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inTangent": -1.0,
+                "outTangent": -1.0
+              },
+              {
+                "time": 1.0,
+                "value": 0.0,
+                "inTangent": -1.0,
+                "outTangent": -1.0
+              }
+            ]
+          }
+        },
+        {
+          "type": "SpriteSheetAnimationModule",
+          "tilesX": 2,
+          "tilesY": 2,
+          "frameOverTime": {
+            "mode": "Curve",
+            "points": [
+              {
+                "time": 0.0,
+                "value": 0.740846932,
+                "inTangent": -0.0621643066,
+                "outTangent": -0.0621643066
+              },
+              {
+                "time": 1.0,
+                "value": 0.6786888,
+                "inTangent": -0.0621643066,
+                "outTangent": -0.0621643066
+              }
+            ]
+          },
+          "startFrame": {
+            "mode": "Constant",
+            "value": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

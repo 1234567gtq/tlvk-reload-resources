@@ -16,9 +16,6 @@
 { "id":"shot_skin_tsunami_standard_effects_hit", "version":"1", "type":"effects" },
 { "id":"shot_skin_tsunami_standard_effects_shot_smoke", "version":"1", "type":"effects" },
 { "id":"shot_skin_tsunami_standard_effects_damage", "version":"1", "type":"effects" },
-
-
-
 { "id":"sound_tesla_idle_1", "version":"1", "type":"sounds" },
 { "id":"sound_tesla_idle_2", "version":"1", "type":"sounds" },
 { "id":"sound_tesla_idle_3", "version":"1", "type":"sounds" },
@@ -110,7 +107,6 @@
 { "id":"shot_skin_shaft_magma_muzzle", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_shaft_magma_trail", "version":"1", "type":"textures" },
 { "id":"shot_skin_shaft_magma_explosion", "version":"1", "type":"multiframe_textures" },
-
 { "id":"sound_ambient_summer_day", "version":"2", "type":"sounds" },
 { "id":"sound_ambient_summer_day_mm", "version":"1", "type":"sounds" },
 { "id":"sound_ambient_summer_evening_mm", "version":"1", "type":"sounds" },
@@ -119,7 +115,6 @@
 { "id":"sound_ambient_space", "version":"1", "type":"sounds" },
 { "id":"sound_ambient_new_year", "version":"1", "type":"sounds" },
 { "id":"sound_ambient_halloween", "version":"1", "type":"sounds" },
-
 { "id":"sound_engine_idle_light", "version":"1", "type":"sounds" },
 { "id":"sound_engine_accelerate_light", "version":"1", "type":"sounds" },
 { "id":"sound_engine_motion_light", "version":"1", "type":"sounds" },
@@ -144,7 +139,6 @@
 { "id":"sound_engine_idle_old", "version":"1", "type":"sounds" },
 { "id":"sound_engine_accelerate_old", "version":"1", "type":"sounds" },
 { "id":"sound_engine_motion_old", "version":"1", "type":"sounds" },
-
 { "id":"sound_turret_rotate", "version":"1", "type":"sounds" },
 { "id":"sound_tank_destroyed", "version":"1", "type":"sounds" },
 { "id":"sound_rank_up", "version":"1", "type":"sounds" },
@@ -209,15 +203,12 @@
 { "id":"sound_crusader_activation", "version":"1", "type":"sounds" },
 { "id":"sound_crusader_shot", "version":"1", "type":"sounds" },
 { "id":"sound_crusader_hit", "version":"1", "type":"sounds" },
-
 { "id":"sound_ares_activation", "version":"1", "type":"sounds" },
 { "id":"sound_ares_shot", "version":"1", "type":"sounds" },
 { "id":"sound_ares_shell_flight", "version":"1", "type":"sounds" },
 { "id":"sound_ares_heal", "version":"1", "type":"sounds" },
 { "id":"sound_ares_damage", "version":"1", "type":"sounds" },
 { "id":"sound_ares_hit", "version":"1", "type":"sounds" },
-
-
 { "id":"sound_scorpion_shot", "version":"1", "type":"sounds" },
 { "id":"sound_scorpion_hit", "version":"1", "type":"sounds" },
 { "id":"sound_scorpion_ready", "version":"1", "type":"sounds" },
@@ -231,12 +222,9 @@
 { "id":"sound_scorpion_hit_1", "version":"1", "type":"sounds" },
 { "id":"sound_scorpion_hit_2", "version":"1", "type":"sounds" },
 { "id":"sound_scorpion_hit_3", "version":"1", "type":"sounds" },
-
-
 { "id":"sound_hunter_activation", "version":"1", "type":"sounds" },
 { "id":"sound_hunter_hit", "version":"1", "type":"sounds" },
 { "id":"sound_hunter_stun", "version":"1", "type":"sounds" },
-
 { "id":"sound_paladin_activation", "version":"1", "type":"sounds" },
 { "id":"sound_paladin_loop", "version":"1", "type":"sounds" },
 { "id":"sound_paladin_deactivation", "version":"1", "type":"sounds" },
@@ -246,8 +234,6 @@
 { "id":"ultimate_skin_paladin_standard_shine", "version":"1", "type":"textures" },
 { "id":"ultimate_skin_paladin_standard_red_ray", "version":"1", "type":"textures" },
 { "id":"ultimate_skin_paladin_standard_red_ray_tip", "version":"1", "type":"textures" },
-
-
 { "id":"sound_mammoth_activation", "version":"1", "type":"sounds" },
 { "id":"sound_mammoth_loop", "version":"1", "type":"sounds" },
 { "id":"sound_mammoth_deactivation", "version":"1", "type":"sounds" },
@@ -255,18 +241,15 @@
 { "id":"sound_mammoth_spark_2", "version":"1", "type":"sounds" },
 { "id":"sound_mammoth_spark_3", "version":"1", "type":"sounds" },
 { "id":"sound_mammoth_spark_4", "version":"1", "type":"sounds" },
-
 { "id":"sound_juggernaut_activation", "version":"1", "type":"sounds" },
 { "id":"sound_parachute_engine", "version":"1", "type":"sounds" },
 { "id":"sound_parachute_take_off", "version":"1", "type":"sounds" },
 { "id":"sound_bonus_pickup", "version":"1", "type":"sounds" },
 { "id":"sound_goldbox_pickup", "version":"1", "type":"sounds" },
-
 { "id":"sound_siren_standard", "version":"1", "type":"sounds" },
 { "id":"sound_siren_fools_day", "version":"1", "type":"sounds" },
 { "id":"sound_siren_halloween", "version":"1", "type":"sounds" },
 { "id":"sound_siren_new_year", "version":"1", "type":"sounds" },
-
 { "id":"sound_vulcan_chain_start", "version":"1", "type":"sounds" },
 { "id":"sound_vulcan_long_fail", "version":"1", "type":"sounds" },
 { "id":"sound_vulcan_shoot_end", "version":"1", "type":"sounds" },
@@ -302,10 +285,8 @@
 { "id":"shot_skin_vulcan_standard_smoke", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_vulcan_standard_tracer", "version":"1", "type":"textures" },
 { "id":"shot_skin_vulcan_red_tracer", "version":"1", "type":"textures" },
-
 { "id":"shot_skin_vulcan_red_fire_across", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_vulcan_red_fire_along", "version":"1", "type":"multiframe_textures" },
-
 { "id":"shot_skin_gauss_standard_shell", "version":"1", "type":"models" },
 { "id":"sound_gauss_antenna_down", "version":"1", "type":"sounds" },
 { "id":"sound_gauss_antenna_up", "version":"1", "type":"sounds" },
@@ -316,7 +297,6 @@
 { "id":"sound_gauss_power_shot_far_1", "version":"1", "type":"sounds" },
 { "id":"sound_gauss_power_shot_far_2", "version":"1", "type":"sounds" },
 { "id":"sound_gauss_power_shot_far_3", "version":"1", "type":"sounds" },
-
 { "id":"bonus_repair_kit_hd", "version":"1", "type":"models" },
 { "id":"bonus_boosted_armor_hd", "version":"1", "type":"models" },
 { "id":"bonus_boosted_damage_hd", "version":"1", "type":"models" },
@@ -445,23 +425,18 @@
 { "id":"bonus_gold_womens_day_2022", "version":"1", "type":"models" },
 { "id":"bonus_nuclear_energy_tx", "version":"1", "type":"models" },
 { "id":"bonus_gold_tx", "version":"1", "type":"models" },
-
 { "id":"meteorite_hd", "version":"1", "type":"models" },
 { "id":"meteorite_christmas", "version":"1", "type":"models" },
 { "id":"meteorite_rocket", "version":"1", "type":"models" },
 { "id":"meteorite_ufo", "version":"2", "type":"models" },
 { "id":"meteorite_tail_smoke", "version":"1", "type":"textures" },
-
 { "id":"ball_hd", "version":"1", "type":"models" },
 { "id":"ball_old_blue", "version":"1", "type":"models" },
 { "id":"ball_old_green", "version":"1", "type":"models" },
 { "id":"ball_easter", "version":"1", "type":"models" },
 { "id":"ball_hazel", "version":"1", "type":"models" },
-
 { "id":"sound_ball_take", "version":"1", "type":"sounds" },
 { "id":"sound_ball_drop", "version":"1", "type":"sounds" },
-
-
 { "id":"arrow_spawn_point", "version":"1", "type":"models" },
 { "id":"bush_1", "version":"3", "type":"models" },
 { "id":"bush_2", "version":"4", "type":"models" },
@@ -472,7 +447,6 @@
 { "id":"bush_1_autumn", "version":"1", "type":"models" },
 { "id":"bush_2_autumn", "version":"1", "type":"models" },
 { "id":"tree_1_autumn", "version":"1", "type":"models" },
-
 { "id":"hull_wasp_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"hull_wasp_hd", "version":"2", "type":"models" },
 { "id":"hull_wasp_hd_without_side_armor", "version":"2", "type":"models" },
@@ -632,7 +606,6 @@
 { "id":"hull_titan_pr", "version":"1", "type":"models" },
 { "id":"hull_titan_sp", "version":"2", "type":"models" },
 { "id":"hull_titan_gt", "version":"1", "type":"models_a3d" },
-
 { "id":"hull_titan_m0", "version":"1", "type":"models" },
 { "id":"hull_titan_m1", "version":"1", "type":"models" },
 { "id":"hull_titan_m2", "version":"1", "type":"models" },
@@ -694,7 +667,6 @@
 { "id":"hull_tanker_hd", "version":"1", "type":"models" },
 { "id":"hull_tanker_hd_closed", "version":"1", "type":"models" },
 { "id":"hull_tanker_hd_full_closed", "version":"1", "type":"models" },
-
 { "id":"turret_flamethrower_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"turret_flamethrower_hd", "version":"2", "type":"models" },
 { "id":"turret_flamethrower_xt", "version":"1", "type":"models" },
@@ -716,7 +688,7 @@
 { "id":"turret_freeze_preview", "version":"2", "type":"images", "isLazy":true },
 { "id":"turret_freeze_hd", "version":"2", "type":"models" },
 { "id":"turret_freeze_xt", "version":"1", "type":"models" },
-{ "id":"turret_freeze_lc", "version":"1", "type":"models"},
+{ "id":"turret_freeze_lc", "version":"1", "type":"models" },
 { "id":"turret_freeze_lc_old", "version":"1", "type":"models" },
 { "id":"turret_freeze_se", "version":"2", "type":"models" },
 { "id":"turret_freeze_ic", "version":"2", "type":"models" },
@@ -760,7 +732,6 @@
 { "id":"turret_tesla_rt", "version":"1", "type":"models" },
 { "id":"turret_tesla_dk", "version":"1", "type":"models_a3d" },
 { "id":"turret_tesla_gt", "version":"1", "type":"models_a3d" },
-
 { "id":"turret_hammer_preview", "version":"2", "type":"images", "isLazy":true },
 { "id":"turret_hammer_hd", "version":"2", "type":"models" },
 { "id":"turret_hammer_xt", "version":"1", "type":"models" },
@@ -782,7 +753,6 @@
 { "id":"turret_hammer_tx_m0", "version":"3", "type":"models" },
 { "id":"turret_hammer_tx_steel", "version":"1", "type":"models" },
 { "id":"turret_twins_preview", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"turret_twins_hd", "version":"2", "type":"models" },
 { "id":"turret_twins_xt", "version":"1", "type":"models" },
 { "id":"turret_twins_sp", "version":"2", "type":"models" },
@@ -990,7 +960,6 @@
 { "id":"turret_tanks_green", "version":"1", "type":"models" },
 { "id":"turret_tanks_damaged", "version":"1", "type":"models" },
 { "id":"turret_tanks_alternativa", "version":"1", "type":"models" },
-
 { "id":"drone_brutus_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"drone_brutus", "version":"1", "type":"models" },
 { "id":"drone_hyperion_preview", "version":"1", "type":"images", "isLazy":true },
@@ -1037,7 +1006,6 @@
 { "id":"drone_pumpkin", "version":"1", "type":"models" },
 { "id":"drone_tx_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"drone_tx", "version":"2", "type":"models" },
-
 { "id":"paint_green_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_green", "version":"1", "type":"textures" },
 { "id":"paint_black_preview", "version":"1", "type":"images", "isLazy":true },
@@ -1964,117 +1932,6 @@
 { "id":"paint_leprechaun_brotherhood", "version":"1", "type":"textures" },
 { "id":"paint_shamrock_squad_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_shamrock_squad", "version":"1", "type":"textures" },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 { "id":"paint_tanki_sport_2021_1_feechki_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_tanki_sport_2021_1_feechki", "version":"1", "type":"textures" },
 { "id":"paint_tanki_sport_2021_1_penguins_preview", "version":"1", "type":"images", "isLazy":true },
@@ -2237,7 +2094,6 @@
 { "id":"paint_tanki_sport_2026_champion_8", "version":"1", "type":"textures" },
 { "id":"paint_viscum_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_viscum", "version":"1", "type":"textures" },
-
 { "id":"paint_adversity_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_adversity", "version":"1", "type":"multiframe_textures" },
 { "id":"paint_alien_abduction_preview", "version":"1", "type":"images", "isLazy":true },
@@ -2702,10 +2558,8 @@
 { "id":"paint_may_day_2014", "version":"1", "type":"textures" },
 { "id":"paint_may_day_2016_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_may_day_2016", "version":"1", "type":"textures" },
-
 { "id":"paint_cn_national_day_2011_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_cn_national_day_2011", "version":"1", "type":"textures" },
-
 { "id":"paint_national_unity_day_2010_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_national_unity_day_2010", "version":"1", "type":"textures" },
 { "id":"paint_new_year_2011_preview", "version":"1", "type":"images", "isLazy":true },
@@ -2772,8 +2626,6 @@
 { "id":"paint_ufo_day_2018", "version":"1", "type":"textures" },
 { "id":"paint_miner_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_miner", "version":"1", "type":"textures" },
-
-
 { "id":"paint_apple_company_preview", "version":"2", "type":"images", "isLazy":true },
 { "id":"paint_apple_company", "version":"1", "type":"textures" },
 { "id":"paint_araumi_preview", "version":"2", "type":"images", "isLazy":true },
@@ -2837,7 +2689,6 @@
 { "id":"container_closed", "version":"1", "type":"images", "isLazy":true },
 { "id":"container_opened", "version":"1", "type":"images", "isLazy":true },
 { "id":"container_light", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"container_standard_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"container_standard_closed", "version":"1", "type":"images", "isLazy":true },
 { "id":"container_standard_opened", "version":"1", "type":"images", "isLazy":true },
@@ -2888,7 +2739,6 @@
 { "id":"container_legendary_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"container_legendary_closed", "version":"1", "type":"images", "isLazy":true },
 { "id":"container_legendary_opened", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"parachute_standard_outer", "version":"1", "type":"textures" },
 { "id":"parachute_standard_inner", "version":"1", "type":"textures" },
 { "id":"parachute_standard_old_outer", "version":"1", "type":"textures" },
@@ -2915,7 +2765,6 @@
 { "id":"parachute_tankers_day_2017_inner", "version":"1", "type":"textures" },
 { "id":"parachute_ufo_day_2018_outer", "version":"1", "type":"textures" },
 { "id":"parachute_ufo_day_2018_inner", "version":"1", "type":"textures" },
-
 { "id":"kit_random_tank_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"kit_buffalo_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"kit_krakatoa_preview", "version":"1", "type":"images", "isLazy":true },
@@ -3066,7 +2915,6 @@
 { "id":"kit_araumi_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"kit_tlvkr_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"kit_vint_preview", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"garage_new_standard", "version":"1", "type":"models", "isLazy":true },
 { "id":"garage_standard", "version":"1", "type":"models", "isLazy":true },
 { "id":"garage_standard_tc", "version":"2", "type":"models", "isLazy":true },
@@ -3081,9 +2929,7 @@
 { "id":"garage_new_new_year_2026", "version":"2", "type":"models", "isLazy":true },
 { "id":"garage_new_halloween", "version":"1", "type":"models", "isLazy":true },
 { "id":"garage_new_year", "version":"1", "type":"models", "isLazy":true },
-
 { "id":"hull_smoke", "version":"1", "type":"multiframe_textures" },
-
 { "id":"shot_skin_striker_standard_explosion", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_striker_standard_flame", "version":"1", "type":"textures" },
 { "id":"shot_skin_striker_standard_smoke", "version":"1", "type":"textures" },
@@ -3118,7 +2964,6 @@
 { "id":"shot_skin_twins_electric_explosion", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_twins_electric_shot", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_twins_electric_muzzle", "version":"1", "type":"textures" },
-
 { "id":"shot_skin_ricochet_standard_muzzle", "version":"1", "type":"textures" },
 { "id":"shot_skin_ricochet_standard_shot", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_ricochet_standard_explosion", "version":"1", "type":"multiframe_textures" },
@@ -3171,7 +3016,6 @@
 { "id":"shot_skin_isida_sun_ray", "version":"1", "type":"textures" },
 { "id":"shot_skin_isida_fire_ball", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_isida_fire_ray", "version":"1", "type":"textures" },
-
 { "id":"shot_skin_isida_m3_legacy_idle", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_isida_m0_legacy_ball", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_isida_m0_legacy_ray", "version":"1", "type":"textures" },
@@ -3181,7 +3025,6 @@
 { "id":"shot_skin_isida_m2_legacy_ray", "version":"1", "type":"textures" },
 { "id":"shot_skin_isida_m3_legacy_ball", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_isida_m3_legacy_ray", "version":"1", "type":"textures" },
-
 { "id":"shot_skin_twins_m0_legacy_muzzle", "version":"1", "type":"textures" },
 { "id":"shot_skin_twins_m0_legacy_shot", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_twins_m0_legacy_explosion", "version":"1", "type":"multiframe_textures" },
@@ -3194,12 +3037,6 @@
 { "id":"shot_skin_twins_m3_legacy_muzzle", "version":"1", "type":"textures" },
 { "id":"shot_skin_twins_m3_legacy_shot", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_twins_m3_legacy_explosion", "version":"1", "type":"multiframe_textures" },
-
-
-
-
-
-
 { "id":"shot_skin_hammer_standard_pellet_trail", "version":"1", "type":"textures" },
 { "id":"shot_skin_hammer_standard_sparkle", "version":"1", "type":"textures" },
 { "id":"shot_skin_hammer_standard_shot_across", "version":"1", "type":"multiframe_textures" },
@@ -3259,7 +3096,6 @@
 { "id":"shot_skin_railgun_darkness_part_1", "version":"1", "type":"textures" },
 { "id":"shot_skin_railgun_darkness_trail", "version":"1", "type":"textures" },
 { "id":"shot_skin_railgun_darkness_smoke", "version":"1", "type":"textures" },
-
 { "id":"shot_skin_thunder_standard_flame", "version":"1", "type":"textures" },
 { "id":"shot_skin_thunder_standard_fire", "version":"1", "type":"textures" },
 { "id":"shot_skin_thunder_standard_smoke", "version":"1", "type":"textures" },
@@ -3271,7 +3107,6 @@
 { "id":"shot_skin_thunder_blood_fake_fire", "version":"1", "type":"textures" },
 { "id":"shot_skin_thunder_blood_fake_tracer", "version":"1", "type":"textures" },
 { "id":"shot_skin_thunder_blood_fake_explosion", "version":"1", "type":"multiframe_textures" },
-
 { "id":"shot_skin_smoky_standard_soot", "version":"1", "type":"textures" },
 { "id":"shot_skin_smoky_standard_smoke", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_smoky_standard_critical_hit", "version":"1", "type":"multiframe_textures" },
@@ -3279,9 +3114,7 @@
 { "id":"shot_skin_smoky_standard_fire", "version":"1", "type":"textures" },
 { "id":"shot_skin_smoky_standard_flame", "version":"1", "type":"textures" },
 { "id":"shot_skin_smoky_standard_explosion", "version":"1", "type":"multiframe_textures" },
-
 { "id":"shot_skin_standard_icon", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"shot_skin_flamethrower_standard_muzzle", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_flamethrower_standard_particle", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_flamethrower_standard_sparks", "version":"1", "type":"textures" },
@@ -3318,15 +3151,12 @@
 { "id":"shot_skin_freeze_standard_sparks", "version":"1", "type":"textures" },
 { "id":"shot_skin_freeze_m0_legacy_particle", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_freeze_m3_legacy_particle", "version":"1", "type":"multiframe_textures" },
-
-
 { "id":"shot_skin_gauss_standard_explosion_electro", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_gauss_standard_explosion", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_gauss_standard_electro", "version":"1", "type":"textures" },
 { "id":"shot_skin_gauss_standard_smoke", "version":"1", "type":"textures" },
 { "id":"shot_skin_gauss_standard_trail", "version":"1", "type":"textures" },
 { "id":"shot_skin_gauss_standard_lightning", "version":"1", "type":"textures" },
-
 { "id":"shot_skin_gauss_violent_explosion_electro", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_gauss_violent_explosion", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_gauss_violent_fire", "version":"1", "type":"textures" },
@@ -3336,7 +3166,6 @@
 { "id":"shot_skin_gauss_violent_trail", "version":"1", "type":"textures" },
 { "id":"shot_skin_gauss_violent_tracer", "version":"1", "type":"textures" },
 { "id":"shot_skin_gauss_violent_lightning", "version":"1", "type":"textures" },
-
 { "id":"shot_skin_gauss_green_fake_explosion_electro", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_gauss_green_fake_explosion", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_gauss_green_fake_fire", "version":"1", "type":"textures" },
@@ -3346,7 +3175,6 @@
 { "id":"shot_skin_gauss_green_fake_trail", "version":"1", "type":"textures" },
 { "id":"shot_skin_gauss_green_fake_tracer", "version":"1", "type":"textures" },
 { "id":"shot_skin_gauss_green_fake_lightning", "version":"1", "type":"textures" },
-
 { "id":"shot_skin_magnum_standard_shell", "version":"1", "type":"models" },
 { "id":"shot_skin_magnum_standard_explosion", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_magnum_standard_trail", "version":"1", "type":"textures" },
@@ -3366,16 +3194,12 @@
 { "id":"shot_skin_magnum_blue_explosion", "version":"1", "type":"multiframe_textures" },
 { "id":"shot_skin_magnum_blue_trail", "version":"1", "type":"textures" },
 { "id":"shot_skin_magnum_blue_smoke", "version":"1", "type":"multiframe_textures" },
-
 { "id":"shot_skin_tomato_gun_standard_explosion", "version":"1", "type":"multiframe_textures" },
-
 { "id":"shot_skin_tanks_standard_muzzle", "version":"1", "type":"textures" },
 { "id":"shot_skin_tanks_standard_explosion", "version":"1", "type":"textures" },
 { "id":"shot_skin_tanks_standard_smoke", "version":"1", "type":"textures" },
-
 { "id":"hull_dust_summer", "version":"1", "type":"multiframe_textures" },
 { "id":"hull_dust_winter", "version":"2", "type":"multiframe_textures" },
-
 { "id":"ultimate_skin_wasp_standard_countdown", "version":"1", "type":"multiframe_textures" },
 { "id":"ultimate_skin_wasp_standard_far_countdown", "version":"1", "type":"multiframe_textures" },
 { "id":"ultimate_skin_wasp_standard_bomb", "version":"1", "type":"models" },
@@ -3384,25 +3208,20 @@
 { "id":"ultimate_skin_wasp_standard_light", "version":"1", "type":"textures" },
 { "id":"ultimate_skin_wasp_standard_smoke", "version":"1", "type":"textures" },
 { "id":"ultimate_skin_wasp_standard_crater", "version":"1", "type":"textures" },
-
 { "id":"ultimate_skin_hopper_standard_wave", "version":"1", "type":"textures" },
 { "id":"ultimate_skin_hornet_standard_ring", "version":"1", "type":"textures" },
 { "id":"ultimate_skin_hornet_standard_marker", "version":"1", "type":"textures" },
 { "id":"ultimate_skin_dictator_standard_wave", "version":"1", "type":"textures" },
 { "id":"ultimate_skin_dictator_standard_star", "version":"1", "type":"textures" },
 { "id":"ultimate_skin_dictator_standard_beam", "version":"1", "type":"textures" },
-
 { "id":"ultimate_skin_mammoth_standard_heart", "version":"1", "type":"textures" },
 { "id":"ultimate_skin_mammoth_standard_shine", "version":"1", "type":"textures" },
 { "id":"ultimate_skin_mammoth_standard_sparkles", "version":"1", "type":"textures" },
-
 { "id":"ultimate_skin_juggernaut_standard_spark", "version":"1", "type":"textures" },
-
 { "id":"tank_destroyed_flame", "version":"1", "type":"multiframe_textures" },
 { "id":"tank_destroyed_smoke", "version":"1", "type":"multiframe_textures" },
 { "id":"tank_destroyed_wave", "version":"1", "type":"multiframe_textures" },
 { "id":"tank_destroyed_turret_mark", "version":"1", "type":"textures" },
-
 { "id":"skin_standard_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"skin_xt_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"skin_lc_icon", "version":"1", "type":"images", "isLazy":true },
@@ -3423,7 +3242,6 @@
 { "id":"skin_m2_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"skin_m3_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"skin_2.0_icon", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"shot_skin_freeze_darkmoon_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"shot_skin_freeze_toxic_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"shot_skin_freeze_cold_icon", "version":"1", "type":"images", "isLazy":true },
@@ -3483,10 +3301,7 @@
 { "id":"shot_skin_shaft_violet_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"shot_skin_shaft_void_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"shot_skin_shaft_magma_icon", "version":"1", "type":"images", "isLazy":true },
-
-
 { "id":"device_standard_icon", "version":"2", "type":"images", "isLazy":true },
-
 { "id":"device_heat_resistance_icon", "version":"2", "type":"images", "isLazy":true },
 { "id":"device_cold_resistance_icon", "version":"2", "type":"images", "isLazy":true },
 { "id":"device_lightweight_construction_icon", "version":"2", "type":"images", "isLazy":true },
@@ -3498,7 +3313,6 @@
 { "id":"device_phoenix_icon", "version":"2", "type":"images", "isLazy":true },
 { "id":"device_special_protection_icon", "version":"2", "type":"images", "isLazy":true },
 { "id":"device_hull_excelsior_icon", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"device_high_pressure_pump_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_compact_fuel_tanks_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_incendiary_mix_icon", "version":"1", "type":"images", "isLazy":true },
@@ -3621,7 +3435,6 @@
 { "id":"device_freezing_sight_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_stunning_sight_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_rapid-fire_mode_icon", "version":"1", "type":"images", "isLazy":true },
-
 { "id":"device_missile_launcher_wolfpack_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_incendiary_shells_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_cryo_shells_icon", "version":"1", "type":"images", "isLazy":true },
@@ -3630,9 +3443,11 @@
 { "id":"device_missile_launcher_swarm_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_missile_launcher_spear_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"device_uranium_shells_icon", "version":"1", "type":"images", "isLazy":true },
-{ "id":"device_duplet_fire_mode_icon", "version":"2", "type":"images", "isLazy":true },
-{ "id":"device_manual_fire_mode_icon", "version":"4", "type":"images", "isLazy":true },
-
+{ "id":"device_duplet_fire_mode_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_triplet_fire_mode_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_tsunami_autocannon_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_megatsunami_icon", "version":"1", "type":"images", "isLazy":true },
+{ "id":"device_manual_fire_mode_icon", "version":"1", "type":"images", "isLazy":true },
 { "id":"skybox_hills_day_back", "version":"1", "type":"textures" },
 { "id":"skybox_hills_day_bottom", "version":"1", "type":"textures" },
 { "id":"skybox_hills_day_front", "version":"1", "type":"textures" },
@@ -3850,7 +3665,6 @@
 { "id":"skybox_tx_moon_night_right", "version":"1", "type":"textures" },
 { "id":"skybox_tx_moon_night_top", "version":"1", "type":"textures" },
 { "id":"skybox_garage_front_side", "version":"1", "type":"textures", "isLazy":true },
-
 { "id":"billboard_spring_festival_2025", "version":"1", "type":"textures" },
 { "id":"billboard_standard", "version":"1", "type":"textures" },
 { "id":"billboard_standard_without_logo", "version":"1", "type":"textures" },
@@ -3972,7 +3786,6 @@
 { "id":"billboard_vint", "version":"1", "type":"textures" },
 { "id":"billboard_tx_antaeus", "version":"1", "type":"textures" },
 { "id":"billboard_tx_frontier", "version":"1", "type":"textures" },
-
 { "id":"map_3th_library_summer_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_3th_library_summer", "version":"1", "type":"maps" },
 { "id":"map_abyss_old_summer_preview", "version":"1", "type":"images", "isLazy":true },
@@ -5012,7 +4825,6 @@
 { "id":"map_zone_summer", "version":"1", "type":"maps" },
 { "id":"map_zone_winter_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"map_zone_winter", "version":"1", "type":"maps" },
-
 { "id":"proplib_bridge_parts", "version":"1", "type":"proplibs" },
 { "id":"proplib_bridge_parts_winter", "version":"1", "type":"proplibs" },
 { "id":"proplib_broken_bottom", "version":"1", "type":"proplibs" },
@@ -5163,5 +4975,36 @@
 { "id":"proplib_yonje_winter", "version":"1", "type":"proplibs" },
 { "id":"proplib_zamin_old", "version":"1", "type":"proplibs" },
 { "id":"proplib_zamin_winter", "version":"1", "type":"proplibs" },
-{ "id":"proplib_tankistograd", "version":"1", "type":"proplibs" }
+{ "id":"proplib_tankistograd", "version":"1", "type":"proplibs" },
+{ "id":"grenade_bomb_preview", "version":"6", "type":"images", "isLazy":true },
+{ "id":"grenade_bomb", "version":"1", "type":"models_a3d" },
+{ "id":"grenade_bomb_effects_explosion", "version":"1", "type":"effects" },
+{ "id":"grenade_bomb_effects_trail", "version":"1", "type":"effects" },
+{ "id":"sound_grenade_bomb_throw", "version":"1", "type":"sounds" },
+{ "id":"sound_grenade_bomb_bounce", "version":"1", "type":"sounds" },
+{ "id":"sound_grenade_bomb_explosion", "version":"1", "type":"sounds" },
+{ "id":"grenade_salyut_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"grenade_salyut", "version":"1", "type":"models_a3d" },
+{ "id":"grenade_salyut_effects_explosion", "version":"1", "type":"effects" },
+{ "id":"grenade_salyut_effects_trail", "version":"1", "type":"effects" },
+{ "id":"sound_grenade_salyut_throw", "version":"1", "type":"sounds" },
+{ "id":"sound_grenade_salyut_bounce", "version":"1", "type":"sounds" },
+{ "id":"sound_grenade_salyut_explosion", "version":"1", "type":"sounds" },
+{ "id":"grenade_tsar_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"grenade_tsar", "version":"1", "type":"models_a3d" },
+{ "id":"grenade_tsar_effects_explosion", "version":"1", "type":"effects" },
+{ "id":"grenade_tsar_effects_trail", "version":"2", "type":"effects" },
+{ "id":"sound_grenade_tsar_throw", "version":"1", "type":"sounds" },
+{ "id":"sound_grenade_tsar_bounce", "version":"1", "type":"sounds" },
+{ "id":"sound_grenade_tsar_fuse", "version":"1", "type":"sounds" },
+{ "id":"sound_grenade_tsar_explosion", "version":"1", "type":"sounds" },
+{ "id":"grenade_bomb_decal", "version":"1", "type":"textures" },
+{ "id":"grenade_tsar_decal", "version":"1", "type":"textures" },
+{ "id":"grenade_mortar_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"grenade_mortar", "version":"1", "type":"models_a3d" },
+{ "id":"grenade_mortar_effects_explosion", "version":"1", "type":"effects" },
+{ "id":"grenade_mortar_effects_trail", "version":"1", "type":"effects" },
+{ "id":"sound_grenade_mortar_throw", "version":"1", "type":"sounds" },
+{ "id":"sound_grenade_mortar_explosion", "version":"1", "type":"sounds" },
+{ "id":"grenade_mortar_decal", "version":"1", "type":"textures" }
 ]

@@ -4423,6 +4423,27 @@
 				"nameEN":"Duplet",
 				"descriptionRU":"Оба ствола стреляют одновременно. Снятие ограничений на одновременную работу механизмов обеих пушек. Работает без проблем в 98,46% случаев, до наступления среднеожидаемого времени гибели танка.",
 				"descriptionEN":"Both barrels fire at the same time. Removes the restriction of the simultaneous work of loading mechanisms of both cannons. Works with no problems in 98.46% of the cases before the average expected time of an enemy tank’s death."
+			},
+			{
+				"id":"megatsunami",
+				"nameRU":"Мегацунами",
+				"nameEN":"Megatsunami",
+				"descriptionRU":"Увеличение урона и замедление скорости стрельбы пушек. Конверсия среднекалиберных стволов в крупнокалиберные. Для улучшения охлаждения стволов скорострельность пушки пришлось снизить.",
+				"descriptionEN":"Increases damage and reduces the cannons’ fire rate. Conversion of the medium caliber barrels into high caliber ones. To improve the barrel cooling, the turret’s fire rate had to be reduced."
+			},
+			{
+				"id":"triplet_fire_mode",
+				"nameRU":"Режим стрельбы «Триплет»",
+				"nameEN":"Triplet",
+				"descriptionRU":"Пушка делает три выстрела подряд вместо двух. Интеграция специального досылателя снарядов, который использует энергию отката обеих пушек. С ним первая пушка успевает перезарядиться, пока стреляет вторая.",
+				"descriptionEN":"Turret fires three shots in a row instead of two. Integration of a special rammer that uses the energy of both cannons' recoil. With its help, the first cannon has enough time to reload while the second one fires."
+			},
+			{
+				"id":"tsunami_autocannon",
+				"nameRU":"Автопушка",
+				"nameEN":"Autocannon",
+				"descriptionRU":"Пушка стреляет короткими очередями по пять выстрелов. Уменьшение калибра стволов освобождает место под магазины снарядов с возможностью быстрой перезарядки. Получается мощная автопушка, стреляющая с отсечками по пять выстрелов.",
+				"descriptionEN":"Turret fires in short bursts of five shots. Reduction of the barrels' caliber frees space for the shell magazines with the ability to reload quickly. The result is a powerful autocannon that fires in five-shot bursts."
 			}
 		],
 		"shotSkins":
