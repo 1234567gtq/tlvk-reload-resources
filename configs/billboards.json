@@ -1,9 +1,8 @@
 [
    {
-		"id":"ufo_day_2026",
-		"nameRU":"День НЛО 2026",
-        "nameEN":"UFO Day 2026"
-	},
+        "id":"summer_sport_games_2026",
+        "name":"Summer Sport Games 2026"
+    },
 	{
 		"id":"standard",
 		"nameRU":"Стандартный",
@@ -330,7 +329,7 @@
 		"id":"summer_sport_games_2024",
 		"name":"Summer Sport Games 2024"
 	},
-	 {
+	{
         "id":"summer_sport_games_2025",
         "name":"Summer Sport Games 2025"
     },
@@ -424,6 +423,11 @@
         "nameRU":"День НЛО 2025",
         "nameEN":"UFO Day 2025"
     },
+	{
+		"id":"ufo_day_2026",
+		"nameRU":"День НЛО 2026",
+        "nameEN":"UFO Day 2026"
+	},
 	{
 		"id":"ultra_weekend_2020-2021",
 		"nameRU":"Ультра уикенд 2020",
