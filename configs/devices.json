@@ -809,9 +809,13 @@
     },
     {
       "id": "triplet_fire_mode",
-      "magazineSize": "set:3.0"
+      "magazineSize": "set:3.0",
+      "timeBetweenShots": "mul:0.4",
+      "recoilForce": "mul:0.75",
+      "reloadTime": "mul:1.25",
+      "bonusDamage": "set:0.0"
     },
-     {
+    {
       "id": "tsunami_autocannon",
       "timeBetweenShots": "mul:0.5",
       "magazineSize": "set:5.0",
