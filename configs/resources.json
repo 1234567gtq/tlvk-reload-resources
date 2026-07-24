@@ -879,6 +879,7 @@
 { "id":"turret_railgun_pr", "version":"2", "type":"models" },
 { "id":"turret_railgun_ut", "version":"2", "type":"models" },
 { "id":"turret_railgun_gt", "version":"2", "type":"models" },
+{ "id":"turret_railgun_rt", "version":"1", "type":"models_a3d" },
 { "id":"turret_railgun_m0", "version":"3", "type":"models" },
 { "id":"turret_railgun_m1", "version":"3", "type":"models" },
 { "id":"turret_railgun_m2", "version":"3", "type":"models" },

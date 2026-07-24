@@ -26,6 +26,7 @@
     "maxRicochets": "10",
     "throwAngle": "31",
     "gravity": "2500",
+    "mountRotationZ": "0",
     "explosionScale": "1.35",
     "decalId": "grenade_bomb_decal",
     "decalRadius": "700"
