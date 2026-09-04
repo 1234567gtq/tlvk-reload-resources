@@ -1,9 +1,9 @@
 [
-   	{
-       "id":"summer_festival_2026",
-		"nameRU":"Летний фестиваль 2026",
-		"nameEN":"Summer Festival 2026"
-    },
+   {
+		"id":"tanker's_day_2026",
+		"nameRU":"День танкиста 2026",
+		"nameEN":"Tanker's Day 2026"
+	},
 	{
 		"id":"standard",
 		"nameRU":"Стандартный",
@@ -308,6 +308,11 @@
        "id":"summer_festival_2025",
 		"nameRU":"Летний фестиваль 2025",
 		"nameEN":"Summer Festival 2025"
+    },
+	{
+       "id":"summer_festival_2026",
+		"nameRU":"Летний фестиваль 2026",
+		"nameEN":"Summer Festival 2026"
     },
 	{	
 		"id":"summer_sale",
