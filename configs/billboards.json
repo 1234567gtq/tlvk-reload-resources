@@ -1,8 +1,8 @@
 [
-   {
-		"id":"autumn_festival_2026",
-		"nameRU":"Осенний фестиваль 2026",
-		"nameEN":"Autumn Festival 2026"
+   	{	
+		"id":"halloween_2026",
+		"nameRU":"Хэллоуин 2026",
+		"nameEN":"Halloween 2026"
 	},
 	{
 		"id":"standard",
@@ -53,6 +53,11 @@
 		"id":"autumn_festival_2025",
 		"nameRU":"Осенний фестиваль 2025",
 		"nameEN":"Autumn Festival 2025"
+	},
+	{
+		"id":"autumn_festival_2026",
+		"nameRU":"Осенний фестиваль 2026",
+		"nameEN":"Autumn Festival 2026"
 	},
 	{
 		"id":"black_friday_2023",
