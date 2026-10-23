@@ -1578,6 +1578,16 @@
 				"icon":"dk",
 				"emissionColor":"16729344",
 				"emissionColorThreshold":"0.4"
+			},
+			{
+				"id":"dc",
+				"name":"Demonic",
+				"descriptionRU":"Когда по улицам звучат живые кости — лучше укрыться в тени и молча ждать своей участи. Корпус будто сшит из останков: бронированные пластины с отпечатками костяшек, рельефные черепа и алые прожилки, словно свежим маслом залитые в трещины, делают тебя настоящим кошмаром на поле боя. Танк движется вперёд, разрушая всё на своём пути. Он кричит угрозой и притягивает внимание, противник либо исчезает в ужасе, либо сгорает от страха. Этот скин — живое олицетворение тьмы, которое запомнят надолго.",
+				"descriptionEN":"When living bones echo through the streets, it’s best to hide in the shadows and silently await your fate. This hull seems stitched together from remains: Armor plates with the imprints of knuckles, embossed skulls, and scarlet veins, as if fresh oil had poured into the cracks, make you a true nightmare on the battlefield. It screams of threat and draws attention; enemies either vanish in terror or burn with fear. This skin is a living embodiment of darkness that will be remembered for a long time.",
+				"icon":"dc",
+				"emissionColor":"15884800",
+				"emissionColorSecond":"16685824",
+				"emissionColorThreshold":"0.4"
 			}
 		],
 		"devices":
