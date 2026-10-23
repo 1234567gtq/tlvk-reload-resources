@@ -1603,6 +1603,8 @@
 { "id":"paint_office", "version":"1", "type":"textures" },
 { "id":"paint_miami_beach_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_miami_beach", "version":"1", "type":"textures" },
+{ "id":"paint_coffin_lid_preview", "version":"1", "type":"images", "isLazy":true },
+{ "id":"paint_coffin_lid", "version":"1", "type":"textures" },
 { "id":"paint_gamepad_preview", "version":"1", "type":"images", "isLazy":true },
 { "id":"paint_gamepad", "version":"1", "type":"textures" },
 { "id":"paint_gamer_preview", "version":"1", "type":"images", "isLazy":true },
